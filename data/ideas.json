@@ -1,20 +1,139 @@
 {
-  "generatedAt": "2026-06-03T15:55:30+08:00",
-  "sourceWindow": "X search: from:aleabitoreddit since:2026-05-18; latest refresh from:aleabitoreddit since:2026-06-03 15:55 Beijing",
+  "generatedAt": "2026-06-03T18:32:09+08:00",
+  "sourceWindow": "X search: from:aleabitoreddit since:2026-06-03; latest refresh 2026-06-03 18:32 Beijing, focused on US pre-market window",
   "summary": {
     "focus": 4,
-    "watch": 6,
+    "watch": 7,
     "speculative": 5,
     "archive": 1
   },
   "latestUpdates": [
     {
       "date": "2026-06-03",
+      "publishedAt": "2026-06-03T18:29:00+08:00",
+      "type": "NBIS / Neocloud 融资结构",
+      "impactZh": "Serenity 继续强化 NBIS 是她 Neocloud 主题中的最高信心赢家，并将其与 CRWV、IREN 做融资结构对比：她认为 CRWV 被债务利息拖累，IREN 被频繁 ATM 稀释，而 NBIS 的结构更合适，同时还有 Avride、ClickHouse 等资产组合价值。盘前重点看 NBIS 是否继续带动 Neocloud 情绪。",
+      "original": "Financing structure is much different, $CRWV is getting eaten alive by debt interest. $IREN has little equity appreciation from excessive ATMs. $NBIS is just right, and have sum of parts from its subsidiaries from Avride + ownership of Clickhouse.",
+      "related": [
+        "NBIS",
+        "CRWV",
+        "IREN",
+        "Avride",
+        "ClickHouse"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062119438552572283"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T18:17:00+08:00",
+      "type": "NBIS / Neocloud thesis 验证",
+      "impactZh": "Serenity 回顾自己去年对 Neocloud 板块和 NBIS 的高信心 thesis，称 NBIS 从约 84 美元到 260 美元，成为从 IREN 到 CRWV 整个 Neocloud 板块中表现最好的标的。该内容不是新买入声明，但说明她仍把 NBIS 当作 Neocloud 主线的代表。",
+      "original": "Fun to see my highest conviction Neocloud pick in $NBIS age well. I wrote a thesis last year on the Neocloud sector becoming a major theme. Nebius is #1 out of the entire sector from $IREN to $CRWV. $84 -> $260. Thesis validated by markets.",
+      "related": [
+        "NBIS",
+        "IREN",
+        "CRWV",
+        "Neocloud"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062116398210703462"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T16:17:00+08:00",
+      "type": "SIVE / 空头与潜在公告",
+      "impactZh": "她表示 SIVE 仍有空头可能加码，但如果后续公告继续出现，空头可能被迫回补；并点名如果出现类似 JBL 的 surprise announcement，尤其是 Innolight 这样的名字，会很有意思。这是新增潜在催化线索，但目前仍属推测。",
+      "original": "There's active short sellers probably doubling down on $SIVE. I'd expect them to get wrecked over time. Especially on more announcements. One more surprise $JBL type announcement with someone like Innolight would be interesting.",
+      "related": [
+        "SIVE",
+        "JBL",
+        "Innolight"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062086341291356317"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T16:12:00+08:00",
+      "type": "SIVE / ASIC merchant NVLink CPO 生态",
+      "impactZh": "Serenity 明确区分 NVDA 自有 CPO 项目与 ASIC/merchant NVLink CPO 生态伙伴。她认为 SIVE 看起来像是后者“供应给所有人”的激光器供应商，这使 SIVE thesis 从单一客户暴露升级为生态伙伴链条暴露。",
+      "original": "That's $NVDA directly. I'm talking about the ASIC/merchant NVLink CPO ecosystem partners. Where $SIVE looks like they're the supplier to everyone.",
+      "related": [
+        "SIVE",
+        "NVDA",
+        "CPO"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062084925445284078"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T16:07:00+08:00",
+      "type": "SIVE / Ayar / AMD / GFS 推演",
+      "impactZh": "她把 Ayar、NVDA、AMD、GFS 和 SIVE 串联起来：NVDA 与 AMD 都投资 Ayar，AMD 与 GFS 的 CPO 方向又通过 Ayar 与 SIVE 产生联想。这里是强推演，需核实 Ayar、AMD、GFS 与 SIVE 的原始供应链关系。",
+      "original": "NVDA was an investor in Ayar... $AMD also invested in Ayar, so $AMD going with $GFS for CPO also kinda put 1+1 together with $SIVE through Ayar.",
+      "related": [
+        "SIVE",
+        "Ayar",
+        "NVDA",
+        "AMD",
+        "GFS"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062083680093258006"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T16:00:00+08:00",
+      "type": "SIVE / 多源与一代供应",
+      "impactZh": "她承认 Celestial 和 Lightmatter 可能会 multi-source，但猜测第一代 NVDA CPO NVLink 生态里，很多可能由 SIVE sole source 或 primary source；同时提示 NVDA 自有项目可能与 LITE、COHR 有关。",
+      "original": "It is expected Celestial and Lightmatter try and multi source. But maybe for gen-1 my guess is a lot sole source / primary source with $SIVE for the $NVDA CPO NVlink ecosystem. Nvidia has their own program with $LITE and $COHR.",
+      "related": [
+        "SIVE",
+        "NVDA",
+        "LITE",
+        "COHR",
+        "Lightmatter"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062082082265076045"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T15:59:00+08:00",
+      "type": "SIVE / 估值与 NASDAQ listing",
+      "impactZh": "她称如果 SIVE 现在交易在 60-80 亿美元估值也不会惊讶，并认为其仍在瑞典交易所导致估值折价，未来 NASDAQ listing 可能缩小差距。这是非常强的重估表态，但上市计划与时间表需要独立核实。",
+      "original": "If $SIVE were trading at $6-8B valuations today, I wouldn't be surprised. That being said, its still on a Swedish exchange, but NASDAQ listing should close the gap.",
+      "related": [
+        "SIVE",
+        "NASDAQ listing"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062081644631372075"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T15:54:00+08:00",
+      "type": "SIVE / Ayar confirmed supplier claim",
+      "impactZh": "她进一步给出更明确的供应链判断：称 SIVE 是 Ayar 的 100% confirmed laser supplier，并称对 Marvell Celestial、Lightmatter 供应关系有高信心；同时把 NVDA、MRVL、Lightmatter、Ayar 与 GFS/Sivers reference laser 串在一起。该表述强度高，必须优先核实原始证据。",
+      "original": "$NVDA CPO ecosystem = $MRVL, Lightmatter, Ayar. $SIVE 100% confirmed laser supplier to Ayar. $SIVE high confidence laser supplier to Marvell Celestial, Lightmatter. Nvidia, Marvell, Lightmatter, Ayar all use $GFS, which Sivers is reference laser.",
+      "related": [
+        "SIVE",
+        "Ayar",
+        "MRVL",
+        "Lightmatter",
+        "GFS",
+        "NVDA"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062080378882658330"
+    },
+    {
+      "date": "2026-06-03",
       "publishedAt": "2026-06-03T15:50:21+08:00",
       "type": "SIVE / Ayar / NVLink Fusion",
       "impactZh": "Serenity 进一步把 SIVE 定义为 Nvidia NVLink Fusion CPO 生态中多个上市供应链伙伴的上游激光器来源，新增点是 Ayar 加入 NVLink Fusion 后，她将 Marvell Celestial、Lightmatter、Ayar 串成同一条 SIVE 激光器线索。这个判断很强，但仍需要用 Ayar/Nvidia/供应链原始资料验证。",
       "original": "After today’s new news with Ayar joining Nvidia NVLink fusion. $SIVE is now the laser source for likely: The entire Nvidia’s NVLink CPO listed supply chain ecosystem partners. From Marvell Celestial, Lightmatter, and now Ayar today.",
-      "related": ["SIVE", "NVDA", "Ayar", "MRVL", "Lightmatter"],
+      "related": [
+        "SIVE",
+        "NVDA",
+        "Ayar",
+        "MRVL",
+        "Lightmatter"
+      ],
       "url": "https://x.com/aleabitoreddit/status/2062079425475473595"
     },
     {
@@ -23,7 +142,10 @@
       "type": "SIVE 上游瓶颈",
       "impactZh": "她称当天出现“极具变革性”的新消息，并把某家光子公司称为 NVDA NVLink Fusion CPO 生态的有效上游激光器瓶颈；结合后续帖子，指向 SIVE。该消息把 SIVE 的 thesis 从 GFS 参考设计进一步推向 Nvidia 光基础设施供应链叙事。",
       "original": "New extremely transformative news got released today. Making a certain photonics company: The effective upstream laser chokepoint for $NVDA NVLink fusion CPO ecosystem. With their lasers now in Nvidia’s optical infrastructure supply chains.",
-      "related": ["SIVE", "NVDA"],
+      "related": [
+        "SIVE",
+        "NVDA"
+      ],
       "url": "https://x.com/aleabitoreddit/status/2062064540075123050"
     },
     {
@@ -32,7 +154,11 @@
       "type": "欧洲 Tech Sovereignty / Chips Act 2.0",
       "impactZh": "Serenity 提到欧洲 Tech Sovereignty Package 与 CHIPS Act 2.0，并称该政策预计优先支持 photonics，且 XFAB 与 SIVE 被 Industry Policy Blueprints 点名。这强化了欧洲硅光/光子链的政策催化。",
       "original": "Europe is releasing its Tech Sovereignty Package, today June 3rd. This includes, CHIPS ACT 2.0, which is expected to prioritize photonics. Both $XFAB and $SIVE are highlighted in the Industry Policy Blueprints.",
-      "related": ["XFAB", "SIVE", "EU Chips Act 2.0"],
+      "related": [
+        "XFAB",
+        "SIVE",
+        "EU Chips Act 2.0"
+      ],
       "url": "https://x.com/aleabitoreddit/status/2062045895500419101"
     },
     {
@@ -41,7 +167,14 @@
       "type": "台湾 CPO 组合",
       "impactZh": "Serenity 表示台湾 CPO 多头开始启动：Shunsin、FOCI、Xintec 当日约涨 10%，同时等待 Win Semi、MSSCorp、Nextronics 补涨。短线动量增强，但需要继续核实各自真实供应链角色。",
       "original": "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%, Foci +10%, Xintec +10%. Just waiting on Win Semi, Msscorp, and Nextronics to catch up.",
-      "related": ["Shunsin", "FOCI", "Xintec", "Win Semi", "MSSCorp", "Nextronics"],
+      "related": [
+        "Shunsin",
+        "FOCI",
+        "Xintec",
+        "Win Semi",
+        "MSSCorp",
+        "Nextronics"
+      ],
       "url": "https://x.com/aleabitoreddit/status/2061980916323598838"
     },
     {
@@ -50,7 +183,10 @@
       "type": "SIVE / NVDA 线索",
       "impactZh": "她强化 SIVE 与 NVDA NVLink Fusion 生态的激光器供应商叙事。这是 SIVE 当前最重要的新增催化之一，但仍需要用原始供应链资料确认。",
       "original": "It's really big news to have SIVE as the laser supplier to NVDA nvlink fusion ecosystem.",
-      "related": ["SIVE", "NVDA"],
+      "related": [
+        "SIVE",
+        "NVDA"
+      ],
       "url": "https://x.com/aleabitoreddit/status/2061976525575270583"
     },
     {
@@ -59,7 +195,10 @@
       "type": "AI ASIC 测试",
       "impactZh": "AEHR 从此前约 11 亿美元市值线索重估到约 35 亿美元后，Serenity 认为现在主要等待 AEHR、LPK 等测试设备玩家出现批量订单。",
       "original": "Good times with AEHR, it's now ~$3.5B MC... Just waiting on volume orders for these types of players like LPK, and others.",
-      "related": ["AEHR", "LPK"],
+      "related": [
+        "AEHR",
+        "LPK"
+      ],
       "url": "https://x.com/aleabitoreddit/status/2061958857132585076"
     },
     {
@@ -68,7 +207,10 @@
       "type": "AI ASIC 设计服务",
       "impactZh": "她提到 AlChip 的 TAM 扩张可能性，尤其是假如其像 Marvell 一样通过 M&A 扩大版图。当前更像早期线索，尚不是完整高信心 thesis。",
       "original": "I don't really mention AlChip much but there's a lot of tam expansion opportunities if they want to M&A like Marvell.",
-      "related": ["AlChip", "MRVL"],
+      "related": [
+        "AlChip",
+        "MRVL"
+      ],
       "url": "https://x.com/aleabitoreddit/status/2061956165307883521"
     },
     {
@@ -77,7 +219,9 @@
       "type": "MRVL 短线风险",
       "impactZh": "她承认 MRVL 因 Jensen 评论大涨后短期可能有点透支。MRVL 仍可作为 AI ASIC / CPO 大盘验证标的，但追高风险上升。",
       "original": "A few hundred billion dollar company ran 35% just because of a comment rather than fundamentals. So short term a bit overextended?",
-      "related": ["MRVL"],
+      "related": [
+        "MRVL"
+      ],
       "url": "https://x.com/aleabitoreddit/status/2061920638928044391"
     }
   ],
@@ -88,9 +232,14 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity frames SIVE as the upstream laser chokepoint for the NVDA NVLink Fusion CPO ecosystem, building on GFS silicon photonics reference-design validation and new Ayar/Marvell/Lightmatter linkage claims.",
-      "whyItMatters": "If SIVE is actually embedded across GFS reference designs and NVLink Fusion optical infrastructure partners, it could sit upstream of multiple CPO/pluggable programs rather than one isolated customer path.",
+      "thesis": "Serenity frames SIVE as the upstream laser chokepoint and likely laser supplier across the ASIC/merchant NVLink CPO ecosystem partners, now adding stronger Ayar confirmation claims and high-conviction Marvell Celestial / Lightmatter linkage claims on top of GFS reference-design validation.",
+      "whyItMatters": "If SIVE is not just in one customer path but is the reference or primary laser source across Ayar, Marvell Celestial, Lightmatter and GFS-linked NVLink CPO partners, the upside case shifts from single-design exposure to ecosystem-level leverage.",
       "catalysts": [
+        "Possible future surprise partner announcement such as Innolight, still speculative",
+        "Potential NASDAQ listing could narrow Swedish-exchange valuation discount",
+        "Potential short squeeze if more customer or partner announcements arrive",
+        "Serenity says SIVE has high-confidence supplier linkage to Marvell Celestial and Lightmatter",
+        "Serenity says SIVE is 100% confirmed laser supplier to Ayar",
         "Sivers + GlobalFoundries strategic collaboration",
         "Serenity links SIVE to Ayar joining Nvidia NVLink Fusion",
         "Serenity says SIVE is the laser supplier to the NVDA NVLink Fusion ecosystem",
@@ -102,10 +251,18 @@
       "risks": [
         "CPO volume ramp may lag qualification timelines",
         "Very high volatility after social-media attention",
-        "Needs independent verification of customer and revenue conversion"
+        "Needs independent verification of customer and revenue conversion",
+        "Supplier claims for Ayar, Marvell Celestial and Lightmatter need primary-source confirmation",
+        "Short squeeze framing increases crowding and volatility risk",
+        "NASDAQ listing comment needs independent verification"
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Watch for any JBL-like or Innolight-related announcement",
+        "Track short interest / borrow dynamics if available",
+        "Check whether SIVE has disclosed any NASDAQ listing plan or timeline",
+        "Verify whether Marvell Celestial and Lightmatter supplier links are direct, inferred or only GFS-reference-design related",
+        "Verify whether SIVE is explicitly named as Ayar laser supplier in filings, presentations or customer material",
         "Verify exact GFS reference design language from primary release",
         "Verify Ayar's NVLink Fusion announcement and whether SIVE is explicitly or indirectly connected",
         "Verify the primary-source basis for the claimed NVDA NVLink Fusion laser-supplier link",
@@ -113,8 +270,33 @@
         "Check whether SIVE revenue guidance reflects CPO/pluggables",
         "Track customer concentration and production timing"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-03 18:32",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "SIVE 100% confirmed laser supplier to Ayar. SIVE high confidence laser supplier to Marvell Celestial, Lightmatter.",
+          "url": "https://x.com/aleabitoreddit/status/2062080378882658330"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "Maybe for gen-1 my guess is a lot sole source / primary source with SIVE for the NVDA CPO NVlink ecosystem.",
+          "url": "https://x.com/aleabitoreddit/status/2062082082265076045"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "If SIVE were trading at $6-8B valuations today, I would not be surprised... NASDAQ listing should close the gap.",
+          "url": "https://x.com/aleabitoreddit/status/2062081644631372075"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "Where SIVE looks like they are the supplier to everyone in the ASIC/merchant NVLink CPO ecosystem partners.",
+          "url": "https://x.com/aleabitoreddit/status/2062084925445284078"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "There are active short sellers probably doubling down on SIVE... One more surprise JBL type announcement with someone like Innolight would be interesting.",
+          "url": "https://x.com/aleabitoreddit/status/2062086341291356317"
+        },
         {
           "date": "2026-06-03",
           "quote": "After today’s new news with Ayar joining Nvidia NVLink fusion. SIVE is now the laser source for likely the entire Nvidia’s NVLink CPO listed supply chain ecosystem partners.",
@@ -330,6 +512,46 @@
           "date": "2026-06-01",
           "quote": "MRVL Celestial is likely buying lasers directly with SIVE as the laser supplier, not through POET.",
           "url": "https://x.com/aleabitoreddit/status/2061456212303221196"
+        }
+      ]
+    },
+    {
+      "id": "nbis",
+      "ticker": "$NBIS",
+      "name": "Nebius Group",
+      "tier": "watch",
+      "theme": "Neocloud / AI infrastructure financing structure",
+      "thesis": "Serenity revisits NBIS as her highest-conviction Neocloud pick and says the thesis has been validated by the move from about $84 to $260, while arguing NBIS has a better financing structure and sum-of-parts profile than CRWV and IREN.",
+      "whyItMatters": "This brings Neocloud back into the pre-market watchlist: NBIS may be the cleaner AI-infrastructure equity expression in her framework, with potential value from Avride, ClickHouse ownership and lower structural drag than peers.",
+      "catalysts": [
+        "NBIS price strength around the $260 pre-market area",
+        "Serenity says NBIS is the best-performing Neocloud name from IREN to CRWV",
+        "Better financing structure versus CRWV debt burden and IREN ATM dilution in her view",
+        "Sum-of-parts upside from Avride and ClickHouse exposure"
+      ],
+      "risks": [
+        "Post-validation mention after a large move is not a fresh entry signal",
+        "Neocloud names can be highly sensitive to financing terms and AI capex sentiment",
+        "Subsidiary and ownership valuation needs independent verification"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Verify NBIS current debt, cash and financing structure",
+        "Compare CRWV interest burden and IREN ATM dilution with NBIS capital structure",
+        "Quantify Avride and ClickHouse ownership / valuation contribution",
+        "Track pre-market and open reaction in NBIS and related Neocloud names"
+      ],
+      "lastUpdated": "2026-06-03 18:32",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "NBIS is just right, and have sum of parts from its subsidiaries from Avride + ownership of Clickhouse.",
+          "url": "https://x.com/aleabitoreddit/status/2062119438552572283"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "Fun to see my highest conviction Neocloud pick in NBIS age well... $84 -> $260. Thesis validated by markets.",
+          "url": "https://x.com/aleabitoreddit/status/2062116398210703462"
         }
       ]
     },

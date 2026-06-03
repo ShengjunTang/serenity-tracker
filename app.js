@@ -8,9 +8,14 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 将 SIVE 升级为 NVDA NVLink Fusion CPO 生态的上游激光器瓶颈，依据包括 GFS 硅光参考设计验证，以及她新提到的 Ayar / Marvell / Lightmatter 关联。",
-    whyItMatters: "如果 SIVE 真的同时嵌入 GFS 参考设计和 NVLink Fusion 光基础设施伙伴链条，它可能不是单一客户线索，而是多个 CPO / 可插拔项目的上游供应环节。",
+    thesis: "Serenity 将 SIVE 进一步升级为 ASIC / merchant NVLink CPO 生态伙伴的上游激光器瓶颈，新增强表述包括 Ayar 供应关系、Marvell Celestial / Lightmatter 高信心关联，以及 GFS 参考设计验证。",
+    whyItMatters: "如果 SIVE 不是单一客户线索，而是同时嵌入 Ayar、Marvell Celestial、Lightmatter 和 GFS 相关 NVLink CPO 伙伴链条，它的投资逻辑会从单点设计验证变成生态级上游供应杠杆。",
     catalysts: [
+      "Serenity 称 SIVE 是 Ayar 的 100% confirmed laser supplier",
+      "Serenity 称 SIVE 与 Marvell Celestial / Lightmatter 有高信心供应关系",
+      "后续客户或合作伙伴公告可能引发空头回补",
+      "潜在 NASDAQ listing 可能缩小瑞典交易所估值折价",
+      "类似 JBL 或 Innolight 的潜在 surprise announcement 仍属推测",
       "Sivers 与 GlobalFoundries 战略合作",
       "Serenity 将 SIVE 与 Ayar 加入 Nvidia NVLink Fusion 关联起来",
       "Serenity 称 SIVE 是 NVDA NVLink Fusion 生态的激光器供应商",
@@ -19,8 +24,13 @@ const zhCopy = {
       "JBL 与 GFS 的公开验证",
       "欧洲 Tech Sovereignty Package / Chips Act 2.0 对 photonics 的政策优先级",
     ],
-    risks: ["CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
+    risks: ["Ayar、Marvell Celestial、Lightmatter 的供应关系需要原始来源确认", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
     nextChecks: [
+      "核实 SIVE 是否在文件、演示或客户材料中被明确列为 Ayar 激光器供应商",
+      "核实 Marvell Celestial / Lightmatter 关系是直接供应、推断关系，还是仅来自 GFS 参考设计",
+      "核实 SIVE 是否披露 NASDAQ listing 计划或时间表",
+      "跟踪可获得的 short interest / borrow 动态",
+      "关注是否出现 JBL 类似或 Innolight 相关公告",
       "核实 GFS 原始公告中的参考设计表述",
       "核实 Ayar 的 NVLink Fusion 公告，以及 SIVE 是否有明确或间接连接",
       "核实 SIVE 与 NVDA NVLink Fusion 激光器供应关系的原始来源",
@@ -60,6 +70,14 @@ const zhCopy = {
     catalysts: ["Jensen Huang 公开背书", "AI ASIC / Celestial 叙事", "潜在 SIVE 激光器供应商关系"],
     risks: ["35% 快速上涨后短期可能透支", "大盘股上行依赖执行与估值", "SIVE 供应关系仍需验证"],
     nextChecks: ["确认 Jensen 引述与活动语境", "验证 MRVL / Celestial 供应链", "区分 AI ASIC 增长与光学 / CPO 逻辑"],
+  },
+  nbis: {
+    theme: "Neocloud / AI 基础设施融资结构",
+    thesis: "Serenity 重新强调 NBIS 是她最高信心的 Neocloud 标的，并称从约 84 美元到 260 美元已验证 thesis；她认为 NBIS 相比 CRWV 和 IREN 有更好的融资结构和资产组合价值。",
+    whyItMatters: "这让 Neocloud 重新进入盘前观察名单：在她的框架里，NBIS 可能是更干净的 AI 基础设施股权表达，同时还有 Avride、ClickHouse 等 sum-of-parts 价值。",
+    catalysts: ["NBIS 盘前价格在约 260 美元附近保持强势", "Serenity 称 NBIS 是 IREN 到 CRWV 整个 Neocloud 板块中表现最好的名字", "她认为 NBIS 融资结构好于 CRWV 债务负担和 IREN ATM 稀释", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
+    risks: ["大涨后的回顾性验证不等于新的买入点", "Neocloud 标的对融资条件和 AI capex 情绪高度敏感", "子公司和持股价值需要独立核实"],
+    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "量化 Avride 和 ClickHouse 持股 / 估值贡献", "跟踪 NBIS 与相关 Neocloud 标的盘前和开盘反应"],
   },
   xintech: {
     theme: "TSM 测试子公司 / COUPE 供应商线索",
