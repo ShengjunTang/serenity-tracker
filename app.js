@@ -10,9 +10,19 @@ const zhCopy = {
     theme: "CPO / 硅光激光器瓶颈",
     thesis: "Serenity 将 SIVE 视为光子链中的激光器瓶颈，近期最强验证来自其激光器被纳入 GFS 硅光平台参考设计。",
     whyItMatters: "如果 SIVE 成为 GFS 参考设计的默认组成部分，它可能位于 AVGO、MRVL、NVDA、AMD 等公司 CPO / 可插拔光模块项目的上游。",
-    catalysts: ["Sivers 与 GlobalFoundries 战略合作", "未来 18 个月 CPO 与可插拔光收发器放量", "JBL 与 GFS 的公开验证"],
+    catalysts: [
+      "Sivers 与 GlobalFoundries 战略合作",
+      "Serenity 称 SIVE 是 NVDA NVLink Fusion 生态的激光器供应商",
+      "未来 18 个月 CPO 与可插拔光收发器放量",
+      "JBL 与 GFS 的公开验证",
+    ],
     risks: ["CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
-    nextChecks: ["核实 GFS 原始公告中的参考设计表述", "检查 SIVE 指引是否体现 CPO / 可插拔产品收入", "跟踪客户集中度与量产时间"],
+    nextChecks: [
+      "核实 GFS 原始公告中的参考设计表述",
+      "核实 SIVE 与 NVDA NVLink Fusion 激光器供应关系的原始来源",
+      "检查 SIVE 指引是否体现 CPO / 可插拔产品收入",
+      "跟踪客户集中度与量产时间",
+    ],
   },
   foci: {
     theme: "CPO FAU / 光学组件",

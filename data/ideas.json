@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T00:00:00+08:00",
-  "sourceWindow": "X search: from:aleabitoreddit since:2026-05-18 until:2026-06-03",
+  "generatedAt": "2026-06-03T09:20:45+08:00",
+  "sourceWindow": "X search: from:aleabitoreddit since:2026-05-18; latest refresh from:aleabitoreddit since:2026-06-03",
   "summary": {
     "focus": 4,
     "watch": 5,
@@ -18,6 +18,7 @@
       "whyItMatters": "If SIVE becomes embedded in GFS reference designs, the company may sit upstream of CPO/pluggable programs used by AVGO, MRVL, NVDA, AMD and others.",
       "catalysts": [
         "Sivers + GlobalFoundries strategic collaboration",
+        "Serenity says SIVE is the laser supplier to the NVDA NVLink Fusion ecosystem",
         "CPO and pluggable optical transceiver ramp over the next 18 months",
         "JBL and GFS public validation"
       ],
@@ -29,11 +30,17 @@
       "stance": "重点关注",
       "nextChecks": [
         "Verify exact GFS reference design language from primary release",
+        "Verify the primary-source basis for the claimed NVDA NVLink Fusion laser-supplier link",
         "Check whether SIVE revenue guidance reflects CPO/pluggables",
         "Track customer concentration and production timing"
       ],
       "lastUpdated": "2026-06-03",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "It's really big news to have SIVE as the laser supplier to NVDA nvlink fusion ecosystem.",
+          "url": "https://x.com/aleabitoreddit/status/2061976525575270583"
+        },
         {
           "date": "2026-06-02",
           "quote": "SIVE has announced its lasers will be integrated into reference designs built on GlobalFoundries Silicon Photonics Platform.",
