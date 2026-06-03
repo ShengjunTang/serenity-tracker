@@ -291,15 +291,15 @@ function renderTable() {
       const selected = idea.id === state.selectedId ? " selected" : "";
       return `
         <tr class="idea-row${selected}" data-id="${escapeHtml(idea.id)}">
-          <td>${tierPill(idea.tier)}</td>
-          <td>
+          <td data-label="分级">${tierPill(idea.tier)}</td>
+          <td data-label="标的">
             <span class="ticker">${escapeHtml(idea.ticker)}</span>
             <span class="company">${escapeHtml(idea.name)}</span>
           </td>
-          <td>${bilingualText(idea, "theme")}</td>
-          <td>${bilingualText(idea, "thesis")}</td>
-          <td><a class="evidence-link" href="${escapeHtml(idea.evidence?.[0]?.url ?? "#")}" target="_blank" rel="noreferrer">${idea.evidence?.length ?? 0} 条来源</a></td>
-          <td>${escapeHtml(idea.lastUpdated)}</td>
+          <td data-label="主题">${bilingualText(idea, "theme")}</td>
+          <td data-label="Thesis">${bilingualText(idea, "thesis")}</td>
+          <td data-label="来源"><a class="evidence-link" href="${escapeHtml(idea.evidence?.[0]?.url ?? "#")}" target="_blank" rel="noreferrer">${idea.evidence?.length ?? 0} 条来源</a></td>
+          <td data-label="更新">${escapeHtml(idea.lastUpdated)}</td>
         </tr>
       `;
     })
