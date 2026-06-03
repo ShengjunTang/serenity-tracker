@@ -148,6 +148,7 @@ const zhCopy = {
 
 const state = {
   ideas: [],
+  latestUpdates: [],
   selectedId: null,
   tier: "all",
   query: "",
@@ -158,6 +159,8 @@ const els = {
   sourceWindow: document.querySelector("#source-window"),
   heroTotal: document.querySelector("#hero-total"),
   heroFocus: document.querySelector("#hero-focus"),
+  latestCount: document.querySelector("#latest-count"),
+  latestList: document.querySelector("#latest-list"),
   resultCount: document.querySelector("#result-count"),
   body: document.querySelector("#ideas-body"),
   detail: document.querySelector("#detail-panel"),
@@ -289,6 +292,41 @@ function renderTable() {
   });
 }
 
+function renderLatestUpdates() {
+  const updates = [...state.latestUpdates].sort((a, b) => new Date(b.date) - new Date(a.date));
+  els.latestCount.textContent = `${updates.length} 条`;
+  if (!updates.length) {
+    els.latestList.innerHTML = `
+      <div class="empty-state">
+        <strong>暂无最新消息</strong>
+        <p>下一次数据更新后，这里会按时间展示 Serenity 的新增发言。</p>
+      </div>
+    `;
+    return;
+  }
+
+  els.latestList.innerHTML = updates
+    .map(
+      (item) => `
+        <article class="latest-card">
+          <div class="latest-meta">
+            <time class="latest-date">${escapeHtml(item.date)}</time>
+            <span class="latest-type">${escapeHtml(item.type)}</span>
+          </div>
+          <div>
+            <p class="latest-impact">${escapeHtml(item.impactZh)}</p>
+            <p class="latest-original">${escapeHtml(item.original)}</p>
+            <div class="latest-tags">
+              ${(item.related ?? []).map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}
+              <a class="latest-link" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">打开来源</a>
+            </div>
+          </div>
+        </article>
+      `,
+    )
+    .join("");
+}
+
 function renderList(title, items) {
   return `
     <section class="detail-section">
@@ -368,6 +406,7 @@ function renderDetail() {
 
 function render() {
   updateCounts();
+  renderLatestUpdates();
   renderTable();
   renderDetail();
 }
@@ -378,6 +417,7 @@ async function boot() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
     state.ideas = data.ideas ?? [];
+    state.latestUpdates = data.latestUpdates ?? [];
     state.selectedId = state.ideas[0]?.id ?? null;
     els.sourceWindow.textContent = `${data.sourceWindow} · 数据更新时间 ${data.generatedAt}`;
     render();
