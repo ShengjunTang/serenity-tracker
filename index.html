@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Serenity 投资线索跟踪</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">S</div>
+          <div>
+            <h1>Serenity Tracker</h1>
+            <p>AI/CPO supply-chain ideas</p>
+          </div>
+        </div>
+
+        <nav class="tier-nav" aria-label="分级筛选">
+          <button class="tier-button active" data-tier="all">
+            <span>全部线索</span>
+            <strong id="count-all">0</strong>
+          </button>
+          <button class="tier-button focus" data-tier="focus">
+            <span>重点关注</span>
+            <strong id="count-focus">0</strong>
+          </button>
+          <button class="tier-button watch" data-tier="watch">
+            <span>跟踪观察</span>
+            <strong id="count-watch">0</strong>
+          </button>
+          <button class="tier-button speculative" data-tier="speculative">
+            <span>观望</span>
+            <strong id="count-speculative">0</strong>
+          </button>
+          <button class="tier-button archive" data-tier="archive">
+            <span>暂不纳入</span>
+            <strong id="count-archive">0</strong>
+          </button>
+        </nav>
+
+        <div class="sidebar-note">
+          <span class="note-label">分级规则</span>
+          <p>重点关注代表 Serenity 重复强化且有供应链依据；观察代表值得跟但仍需确认；观望代表早期或证据薄；暂不纳入代表信息偏旧或缺少新 thesis。</p>
+        </div>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <div>
+            <h2>投资建议分级与来源依据</h2>
+            <p id="source-window">读取数据中...</p>
+          </div>
+          <div class="top-actions">
+            <label class="search-box">
+              <span>搜索</span>
+              <input id="search-input" type="search" placeholder="Ticker、主题、公司名" />
+            </label>
+            <button id="sort-button" class="ghost-button" type="button">按更新时间排序</button>
+          </div>
+        </header>
+
+        <section class="summary-grid" aria-label="分级摘要">
+          <article class="summary-card focus">
+            <span>Focus</span>
+            <strong id="summary-focus">0</strong>
+            <p>需要主动跟进</p>
+          </article>
+          <article class="summary-card watch">
+            <span>Watchlist</span>
+            <strong id="summary-watch">0</strong>
+            <p>保持追踪</p>
+          </article>
+          <article class="summary-card speculative">
+            <span>Speculative</span>
+            <strong id="summary-speculative">0</strong>
+            <p>先验证事实</p>
+          </article>
+          <article class="summary-card archive">
+            <span>Archive</span>
+            <strong id="summary-archive">0</strong>
+            <p>暂不行动</p>
+          </article>
+        </section>
+
+        <section class="workspace">
+          <div class="table-panel">
+            <div class="panel-head">
+              <h3>线索列表</h3>
+              <span id="result-count">0 条</span>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>分级</th>
+                    <th>标的</th>
+                    <th>主题</th>
+                    <th>核心逻辑</th>
+                    <th>证据</th>
+                    <th>更新</th>
+                  </tr>
+                </thead>
+                <tbody id="ideas-body"></tbody>
+              </table>
+            </div>
+          </div>
+
+          <aside class="detail-panel" id="detail-panel">
+            <div class="empty-state">
+              <strong>选择一条线索</strong>
+              <p>右侧会显示 thesis、催化、风险、下一步核实清单和 X 来源链接。</p>
+            </div>
+          </aside>
+        </section>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

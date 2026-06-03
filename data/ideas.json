@@ -1,0 +1,494 @@
+{
+  "generatedAt": "2026-06-03T00:00:00+08:00",
+  "sourceWindow": "X search: from:aleabitoreddit since:2026-05-18 until:2026-06-03",
+  "summary": {
+    "focus": 4,
+    "watch": 5,
+    "speculative": 3,
+    "archive": 1
+  },
+  "ideas": [
+    {
+      "id": "sive",
+      "ticker": "$SIVE",
+      "name": "Sivers Semiconductors",
+      "tier": "focus",
+      "theme": "CPO / silicon photonics laser chokepoint",
+      "thesis": "Serenity frames SIVE as a laser chokepoint for photonics, with GFS silicon photonics reference-design integration as the strongest recent validation.",
+      "whyItMatters": "If SIVE becomes embedded in GFS reference designs, the company may sit upstream of CPO/pluggable programs used by AVGO, MRVL, NVDA, AMD and others.",
+      "catalysts": [
+        "Sivers + GlobalFoundries strategic collaboration",
+        "CPO and pluggable optical transceiver ramp over the next 18 months",
+        "JBL and GFS public validation"
+      ],
+      "risks": [
+        "CPO volume ramp may lag qualification timelines",
+        "Very high volatility after social-media attention",
+        "Needs independent verification of customer and revenue conversion"
+      ],
+      "stance": "重点关注",
+      "nextChecks": [
+        "Verify exact GFS reference design language from primary release",
+        "Check whether SIVE revenue guidance reflects CPO/pluggables",
+        "Track customer concentration and production timing"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-02",
+          "quote": "SIVE has announced its lasers will be integrated into reference designs built on GlobalFoundries Silicon Photonics Platform.",
+          "url": "https://x.com/aleabitoreddit/status/2061718299139100931"
+        },
+        {
+          "date": "2026-06-02",
+          "quote": "Anyone who goes through GFS silicon photonics has SIVE embedded in the reference as default.",
+          "url": "https://x.com/aleabitoreddit/status/2061695297315876875"
+        },
+        {
+          "date": "2026-06-02",
+          "quote": "SIVE is a laser chokepoint for photonics and are publicly validated by GFS and JBL.",
+          "url": "https://x.com/aleabitoreddit/status/2061538735595069534"
+        }
+      ]
+    },
+    {
+      "id": "foci",
+      "ticker": "3363",
+      "name": "FOCI",
+      "tier": "focus",
+      "theme": "CPO FAU / optical components",
+      "thesis": "Serenity places FOCI in the TSM COUPE and CPO optical component chain, specifically FAU and optical components.",
+      "whyItMatters": "It is a Taiwan-listed small/mid-cap way to express the CPO optical component supply-chain theme.",
+      "catalysts": [
+        "TSM COUPE + AI optical market articles",
+        "CPO supply-chain ramp",
+        "FAU demand from optical interconnect buildout"
+      ],
+      "risks": [
+        "Needs confirmation of actual COUPE exposure",
+        "Potential retail-driven price action",
+        "Taiwan small-cap liquidity and valuation risk"
+      ],
+      "stance": "重点关注",
+      "nextChecks": [
+        "Verify FOCI customer exposure and FAU revenue contribution",
+        "Read UDN article and company disclosures",
+        "Track monthly revenue acceleration"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "Foci is FAU / optical components.",
+          "url": "https://x.com/aleabitoreddit/status/2061919067037188311"
+        },
+        {
+          "date": "2026-05-25",
+          "quote": "UDN article about TSM COUPE + AI optical markets... FOCI (3363), and MSScorps (6830) are expected to benefit.",
+          "url": "https://x.com/aleabitoreddit/status/2058756539448713504"
+        }
+      ]
+    },
+    {
+      "id": "msscorp",
+      "ticker": "6830",
+      "name": "MSSCorp",
+      "tier": "focus",
+      "theme": "CPO inspection / yields",
+      "thesis": "Serenity describes MSSCorp as the inspection and yield-control leg of the CPO supply chain and says she personally averaged down.",
+      "whyItMatters": "If CPO scales, inspection and yield bottlenecks can become critical despite not being the most visible part of the chain.",
+      "catalysts": [
+        "CPO ramp over the next 18 months",
+        "Patent / inspection moat narrative",
+        "TSM COUPE optical-market attention"
+      ],
+      "risks": [
+        "Patent moat claim needs verification",
+        "May be earlier than revenue ramp",
+        "Small-cap liquidity and social-media crowding"
+      ],
+      "stance": "重点关注",
+      "nextChecks": [
+        "Check patent portfolio and inspection product scope",
+        "Verify TSM/COUPE linkage",
+        "Track revenue and margin change as CPO samples scale"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "MSSCorp is inspection / yields.",
+          "url": "https://x.com/aleabitoreddit/status/2061919067037188311"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "I ended up personally cost averaging more MSScorps the other day.",
+          "url": "https://x.com/aleabitoreddit/status/2061917914761159052"
+        }
+      ]
+    },
+    {
+      "id": "xfab",
+      "ticker": "$XFAB",
+      "name": "X-FAB",
+      "tier": "focus",
+      "theme": "European silicon photonics foundry",
+      "thesis": "Serenity compares XFAB to early TSEM: sub-$2B valuation, NVDA/NOK validation, photonixFAB, and EU Chips Act 2 tailwind.",
+      "whyItMatters": "This is a low-valuation European photonics-foundry re-rating thesis rather than a pure CPO component trade.",
+      "catalysts": [
+        "EU Chips Act 2 demand/funding support",
+        "photonixFAB validation",
+        "NVDA and NOK activity around silicon photonics"
+      ],
+      "risks": [
+        "Pre-commercial foundry validation may not translate quickly into revenue",
+        "Automotive-cycle drag",
+        "Need to separate grants from guaranteed demand"
+      ],
+      "stance": "重点关注",
+      "nextChecks": [
+        "Verify NVDA/NOK validation details",
+        "Read photonixFAB project disclosures",
+        "Compare valuation to P/B and replacement-cost assumptions"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "XFAB lowkey reminds me of early TSEM... NVDA and NOK actively validating your pre-commercial silicon photonics foundry.",
+          "url": "https://x.com/aleabitoreddit/status/2061799291681956348"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "I expect XFAB getting a direct tailwind from EU Chips Act 2.",
+          "url": "https://x.com/aleabitoreddit/status/2061917515694084520"
+        },
+        {
+          "date": "2026-06-01",
+          "quote": "XFAB was already dragged down, since it is close to P/B value and lower than actual cost of asset replacement value.",
+          "url": "https://x.com/aleabitoreddit/status/2061353640812515790"
+        }
+      ]
+    },
+    {
+      "id": "mrvl",
+      "ticker": "$MRVL",
+      "name": "Marvell Technology",
+      "tier": "watch",
+      "theme": "AI ASIC / CPO large-cap validation",
+      "thesis": "Serenity holds MRVL and highlights Jensen Huang's 'next $1T company' remark, but also notes the short-term move was comment-driven rather than fundamental.",
+      "whyItMatters": "MRVL is both a liquid large-cap AI infrastructure expression and a possible validation path for SIVE via Celestial lasers.",
+      "catalysts": [
+        "Jensen Huang public endorsement",
+        "AI ASIC/Celestial narrative",
+        "Potential SIVE laser supplier connection"
+      ],
+      "risks": [
+        "Short-term overextension after 35% move",
+        "Large-cap upside depends on execution and valuation",
+        "SIVE supplier link requires verification"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Confirm Jensen quote and event context",
+        "Verify MRVL Celestial supplier chain",
+        "Separate AI ASIC growth from optical/CPO thesis"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-02",
+          "quote": "MRVL the next $1T company... I have positions in Marvell.",
+          "url": "https://x.com/aleabitoreddit/status/2061671824388403368"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "A few hundred billion dollar company ran 35% just because of a comment rather than fundamentals. So short term a bit overextended?",
+          "url": "https://x.com/aleabitoreddit/status/2061920638928044391"
+        },
+        {
+          "date": "2026-06-01",
+          "quote": "MRVL Celestial is likely buying lasers directly with SIVE as the laser supplier, not through POET.",
+          "url": "https://x.com/aleabitoreddit/status/2061456212303221196"
+        }
+      ]
+    },
+    {
+      "id": "xintech",
+      "ticker": "3374",
+      "name": "Xintech",
+      "tier": "watch",
+      "theme": "TSM testing subsidiary / COUPE supplier idea",
+      "thesis": "Serenity says Xintech is TSM's testing subsidiary and owns exposure, with the investment logic hinging on whether it is tied to COUPE.",
+      "whyItMatters": "A smaller TSM-adjacent testing subsidiary could provide targeted exposure if COUPE-related test demand is real.",
+      "catalysts": [
+        "Report confirming TSM/COUPE linkage",
+        "TSM advanced packaging / optical supply-chain buildout",
+        "Testing demand expansion"
+      ],
+      "risks": [
+        "COUPE linkage is not fully visible in the post",
+        "May be a narrow thesis with limited public disclosure",
+        "Needs independent revenue mapping"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Find the referenced report",
+        "Confirm Xintech ownership and revenue dependence on TSM",
+        "Map whether COUPE affects testing volume"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "Another is Xintech (3374) that I have exposure to. This is TSM's testing subsidiary.",
+          "url": "https://x.com/aleabitoreddit/status/2061916930039291914"
+        }
+      ]
+    },
+    {
+      "id": "aaoi",
+      "ticker": "$AAOI",
+      "name": "Applied Optoelectronics",
+      "tier": "watch",
+      "theme": "Optical supercycle / capacity ramp",
+      "thesis": "Serenity includes AAOI in her current top risk/reward list, citing H1 2027 revenue projections from capacity ramp.",
+      "whyItMatters": "AAOI is one of her high-conviction optical-cycle names, but the upside is tied to future ramp projections.",
+      "catalysts": [
+        "H1 2027 capacity/revenue ramp",
+        "Optical supercycle attention",
+        "Peer re-rating across optical names"
+      ],
+      "risks": [
+        "Large projected market-cap target is aggressive",
+        "Capacity ramp and customer timing need verification",
+        "High volatility in optical names"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Verify H1 2027 revenue projections",
+        "Check capacity additions and customer commitments",
+        "Compare with SIVE/Foci risk-reward"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-05-30",
+          "quote": "AAOI at $12B... usually the best risk/reward to me currently.",
+          "url": "https://x.com/aleabitoreddit/status/2060536520952754374"
+        },
+        {
+          "date": "2026-05-30",
+          "quote": "AAOI - $70B MC ... random prediction in a year.",
+          "url": "https://x.com/aleabitoreddit/status/2060539775954866386"
+        }
+      ]
+    },
+    {
+      "id": "shunsin",
+      "ticker": "6451",
+      "name": "Shunsin",
+      "tier": "watch",
+      "theme": "Taiwan optical / CPO adjacent exposure",
+      "thesis": "Serenity includes Shunsin in her current optical risk/reward list and says it has started picking up steam among her Taiwan longs.",
+      "whyItMatters": "It is part of her Taiwan CPO/optical cluster, but the exact role needs deeper mapping.",
+      "catalysts": [
+        "Taiwan optical supply-chain momentum",
+        "CPO-related attention",
+        "Potential re-rating with Foci/MSSCorp"
+      ],
+      "risks": [
+        "Less detailed role attribution in observed posts",
+        "Needs company-specific evidence",
+        "Small-cap liquidity risk"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Identify exact CPO/optical role",
+        "Check recent monthly revenue",
+        "Compare valuation with Foci/MSSCorp"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-05-30",
+          "quote": "Shunsin at $2B... usually the best risk/reward to me currently.",
+          "url": "https://x.com/aleabitoreddit/status/2060536520952754374"
+        },
+        {
+          "date": "2026-05-26",
+          "quote": "Glad to see Shunsin (6451) start picking up steam from my TW longs.",
+          "url": "https://x.com/aleabitoreddit/status/2059079948980363774"
+        }
+      ]
+    },
+    {
+      "id": "lite",
+      "ticker": "$LITE",
+      "name": "Lumentum",
+      "tier": "watch",
+      "theme": "Historical optical-cycle analog / CPO laser supplier",
+      "thesis": "Serenity uses LITE as the historical analog for the first optical wave and notes it is one of two public laser suppliers with SIVE in GFS-related CPO context.",
+      "whyItMatters": "LITE is both precedent and a larger-cap reference point for the smaller SIVE/Foci/MSSCorp theses.",
+      "catalysts": [
+        "Optical-cycle continuation",
+        "CPO laser supplier role",
+        "Hyperscaler AI capex expansion"
+      ],
+      "risks": [
+        "May already reflect more of the optical theme",
+        "Less asymmetric than smaller names",
+        "Need fresh fundamental evidence"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Verify GFS presentation supplier reference",
+        "Compare LITE valuation with SIVE",
+        "Track AI optical revenue contribution"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "LITE rode the first optical wave from $3B to $75B in 2 years time with EML and pluggables.",
+          "url": "https://x.com/aleabitoreddit/status/2061815015892791408"
+        },
+        {
+          "date": "2026-06-02",
+          "quote": "GFS (1 of 2 public laser suppliers with LITE for CPO per presentation).",
+          "url": "https://x.com/aleabitoreddit/status/2061538735595069534"
+        }
+      ]
+    },
+    {
+      "id": "advanced-opto",
+      "ticker": "3362",
+      "name": "Advanced Optoelectronic",
+      "tier": "speculative",
+      "theme": "Computex CPO exposure / PMLA and FAU",
+      "thesis": "Serenity flags Advanced Optoelectronic as a new CPO exposure idea at Computex Taiwan, tied to PMLA and FAU.",
+      "whyItMatters": "It may be an earlier-stage way to discover CPO component exposure before broader coverage.",
+      "catalysts": [
+        "Computex Taiwan exposure",
+        "PMLA and FAU interest",
+        "Comparison with HIMX/Foci"
+      ],
+      "risks": [
+        "She explicitly notes sampling/demo differs from production",
+        "Early idea, less evidence than SIVE/Foci/MSSCorp",
+        "Needs direct customer and volume confirmation"
+      ],
+      "stance": "观望",
+      "nextChecks": [
+        "Check whether exposure is demo, sample, or production",
+        "Verify Largan Precision relationship",
+        "Track revenue contribution from optical components"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-01",
+          "quote": "3362 Advanced Optoelectronic... PMLA (microlens array) and FAU. Kinda reminds me of HIMX / Foci.",
+          "url": "https://x.com/aleabitoreddit/status/2061239244379803958"
+        }
+      ]
+    },
+    {
+      "id": "win-semi",
+      "ticker": "3105",
+      "name": "Win Semi",
+      "tier": "speculative",
+      "theme": "Laser scaling bottleneck",
+      "thesis": "Serenity says Win Semi is rarely mentioned in photonics analyst reports but may become important for scaling lasers next year.",
+      "whyItMatters": "This is a possible second-order laser-manufacturing bottleneck, earlier and less proven than the SIVE/GFS thesis.",
+      "catalysts": [
+        "Laser scaling needs in 2027",
+        "Taiwan optical-chain attention",
+        "Potential analyst coverage catch-up"
+      ],
+      "risks": [
+        "Only lightly discussed in observed posts",
+        "Needs detailed role and revenue confirmation",
+        "May be too early"
+      ],
+      "stance": "观望",
+      "nextChecks": [
+        "Map Win Semi laser-related process role",
+        "Check whether customers overlap with SIVE/LITE ecosystem",
+        "Monitor analyst mentions and capex"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-05-26",
+          "quote": "Win Semi (3105) is almost never mentioned in photonics analyst reports. But they'll probably show up as an important bottleneck for scaling lasers next year.",
+          "url": "https://x.com/aleabitoreddit/status/2059079948980363774"
+        }
+      ]
+    },
+    {
+      "id": "iqe",
+      "ticker": "$IQE",
+      "name": "IQE",
+      "tier": "speculative",
+      "theme": "European photonics / prior long",
+      "thesis": "Serenity highlights IQE as a successful European photonics-related long from $12-13 to $54, but current posts are more retrospective than a fresh thesis.",
+      "whyItMatters": "Useful as evidence of her earlier photonics-supply-chain framework, but not currently as central as SIVE/XFAB/Foci.",
+      "catalysts": [
+        "European photonics supply-chain re-rating",
+        "Momentum from prior call",
+        "Possible sympathy with XFAB/SOI"
+      ],
+      "risks": [
+        "Retrospective mention rather than fresh setup",
+        "May have already moved substantially",
+        "Needs current fundamental reset"
+      ],
+      "stance": "观望",
+      "nextChecks": [
+        "Check current valuation after large move",
+        "Identify current photonics revenue exposure",
+        "Compare with fresher XFAB thesis"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-01",
+          "quote": "IQE... up to $54, from when I went long at $12-13, 4 months ago.",
+          "url": "https://x.com/aleabitoreddit/status/2061466217911853429"
+        }
+      ]
+    },
+    {
+      "id": "soi",
+      "ticker": "$SOI",
+      "name": "SOI",
+      "tier": "archive",
+      "theme": "Prior winner / European semiconductor context",
+      "thesis": "Serenity says she is up about 250% on SOI, but the observed posts do not give enough fresh thesis detail to make it a current actionable line.",
+      "whyItMatters": "Keep as context for her European semiconductor calls, but avoid treating it as a new recommendation without fresh evidence.",
+      "catalysts": [
+        "Prior market miss",
+        "European semiconductor momentum"
+      ],
+      "risks": [
+        "Insufficient fresh thesis",
+        "Already large move",
+        "May be stale relative to current CPO focus"
+      ],
+      "stance": "暂不纳入",
+      "nextChecks": [
+        "Only revisit if Serenity posts a fresh SOI thesis",
+        "Check whether SOI links to photonics or AI supply chain"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "I'm up like 250% on SOI... surprised markets missed that one.",
+          "url": "https://x.com/aleabitoreddit/status/2061806782226604188"
+        }
+      ]
+    }
+  ]
+}
