@@ -10,6 +10,7 @@
   "latestUpdates": [
     {
       "date": "2026-06-03",
+      "publishedAt": "2026-06-03T09:18:54+08:00",
       "type": "台湾 CPO 组合",
       "impactZh": "Serenity 表示台湾 CPO 多头开始启动：Shunsin、FOCI、Xintec 当日约涨 10%，同时等待 Win Semi、MSSCorp、Nextronics 补涨。短线动量增强，但需要继续核实各自真实供应链角色。",
       "original": "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%, Foci +10%, Xintec +10%. Just waiting on Win Semi, Msscorp, and Nextronics to catch up.",
@@ -18,6 +19,7 @@
     },
     {
       "date": "2026-06-03",
+      "publishedAt": "2026-06-03T09:01:28+08:00",
       "type": "SIVE / NVDA 线索",
       "impactZh": "她强化 SIVE 与 NVDA NVLink Fusion 生态的激光器供应商叙事。这是 SIVE 当前最重要的新增催化之一，但仍需要用原始供应链资料确认。",
       "original": "It's really big news to have SIVE as the laser supplier to NVDA nvlink fusion ecosystem.",
@@ -26,6 +28,7 @@
     },
     {
       "date": "2026-06-03",
+      "publishedAt": "2026-06-03T07:51:15+08:00",
       "type": "AI ASIC 测试",
       "impactZh": "AEHR 从此前约 11 亿美元市值线索重估到约 35 亿美元后，Serenity 认为现在主要等待 AEHR、LPK 等测试设备玩家出现批量订单。",
       "original": "Good times with AEHR, it's now ~$3.5B MC... Just waiting on volume orders for these types of players like LPK, and others.",
@@ -34,6 +37,7 @@
     },
     {
       "date": "2026-06-03",
+      "publishedAt": "2026-06-03T07:40:33+08:00",
       "type": "AI ASIC 设计服务",
       "impactZh": "她提到 AlChip 的 TAM 扩张可能性，尤其是假如其像 Marvell 一样通过 M&A 扩大版图。当前更像早期线索，尚不是完整高信心 thesis。",
       "original": "I don't really mention AlChip much but there's a lot of tam expansion opportunities if they want to M&A like Marvell.",
@@ -42,6 +46,7 @@
     },
     {
       "date": "2026-06-03",
+      "publishedAt": "2026-06-03T05:19:23+08:00",
       "type": "MRVL 短线风险",
       "impactZh": "她承认 MRVL 因 Jensen 评论大涨后短期可能有点透支。MRVL 仍可作为 AI ASIC / CPO 大盘验证标的，但追高风险上升。",
       "original": "A few hundred billion dollar company ran 35% just because of a comment rather than fundamentals. So short term a bit overextended?",

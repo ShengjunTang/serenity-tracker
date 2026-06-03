@@ -261,6 +261,23 @@ function filteredIdeas() {
     });
 }
 
+function formatDateTime(value) {
+  if (!value) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  return new Intl.DateTimeFormat("zh-CN", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  })
+    .format(date)
+    .replaceAll("/", "-");
+}
+
 function renderTable() {
   const rows = filteredIdeas();
   els.resultCount.textContent = `${rows.length} 条`;
@@ -293,7 +310,7 @@ function renderTable() {
 }
 
 function renderLatestUpdates() {
-  const updates = [...state.latestUpdates].sort((a, b) => new Date(b.date) - new Date(a.date));
+  const updates = [...state.latestUpdates].sort((a, b) => new Date(b.publishedAt ?? b.date) - new Date(a.publishedAt ?? a.date));
   els.latestCount.textContent = `${updates.length} 条`;
   if (!updates.length) {
     els.latestList.innerHTML = `
@@ -310,7 +327,8 @@ function renderLatestUpdates() {
       (item) => `
         <article class="latest-card">
           <div class="latest-meta">
-            <time class="latest-date">${escapeHtml(item.date)}</time>
+            <time class="latest-date" datetime="${escapeHtml(item.publishedAt ?? item.date)}">${escapeHtml(formatDateTime(item.publishedAt ?? item.date))}</time>
+            <span class="latest-zone">北京时间</span>
             <span class="latest-type">${escapeHtml(item.type)}</span>
           </div>
           <div>
