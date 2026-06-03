@@ -374,7 +374,7 @@ function render() {
 
 async function boot() {
   try {
-    const response = await fetch("./data/ideas.json", { cache: "no-store" });
+    const response = await fetch(`./data/ideas.json?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
     state.ideas = data.ideas ?? [];
