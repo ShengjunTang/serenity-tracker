@@ -291,15 +291,17 @@ function renderTable() {
       const selected = idea.id === state.selectedId ? " selected" : "";
       return `
         <tr class="idea-row${selected}" data-id="${escapeHtml(idea.id)}">
-          <td data-label="分级">${tierPill(idea.tier)}</td>
+          <td data-label="分级"><div class="cell-content">${tierPill(idea.tier)}</div></td>
           <td data-label="标的">
-            <span class="ticker">${escapeHtml(idea.ticker)}</span>
-            <span class="company">${escapeHtml(idea.name)}</span>
+            <div class="cell-content">
+              <span class="ticker">${escapeHtml(idea.ticker)}</span>
+              <span class="company">${escapeHtml(idea.name)}</span>
+            </div>
           </td>
-          <td data-label="主题">${bilingualText(idea, "theme")}</td>
-          <td data-label="Thesis">${bilingualText(idea, "thesis")}</td>
-          <td data-label="来源"><a class="evidence-link" href="${escapeHtml(idea.evidence?.[0]?.url ?? "#")}" target="_blank" rel="noreferrer">${idea.evidence?.length ?? 0} 条来源</a></td>
-          <td data-label="更新">${escapeHtml(idea.lastUpdated)}</td>
+          <td data-label="主题"><div class="cell-content">${bilingualText(idea, "theme")}</div></td>
+          <td data-label="Thesis"><div class="cell-content">${bilingualText(idea, "thesis")}</div></td>
+          <td data-label="来源"><div class="cell-content"><a class="evidence-link" href="${escapeHtml(idea.evidence?.[0]?.url ?? "#")}" target="_blank" rel="noreferrer">${idea.evidence?.length ?? 0} 条来源</a></div></td>
+          <td data-label="更新"><div class="cell-content">${escapeHtml(idea.lastUpdated)}</div></td>
         </tr>
       `;
     })
