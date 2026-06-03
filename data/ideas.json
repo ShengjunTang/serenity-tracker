@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T12:32:01+08:00",
-  "sourceWindow": "X search: from:aleabitoreddit since:2026-05-18; latest refresh from:aleabitoreddit since:2026-06-03",
+  "generatedAt": "2026-06-03T15:55:30+08:00",
+  "sourceWindow": "X search: from:aleabitoreddit since:2026-05-18; latest refresh from:aleabitoreddit since:2026-06-03 15:55 Beijing",
   "summary": {
     "focus": 4,
     "watch": 6,
@@ -8,6 +8,33 @@
     "archive": 1
   },
   "latestUpdates": [
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T15:50:21+08:00",
+      "type": "SIVE / Ayar / NVLink Fusion",
+      "impactZh": "Serenity 进一步把 SIVE 定义为 Nvidia NVLink Fusion CPO 生态中多个上市供应链伙伴的上游激光器来源，新增点是 Ayar 加入 NVLink Fusion 后，她将 Marvell Celestial、Lightmatter、Ayar 串成同一条 SIVE 激光器线索。这个判断很强，但仍需要用 Ayar/Nvidia/供应链原始资料验证。",
+      "original": "After today’s new news with Ayar joining Nvidia NVLink fusion. $SIVE is now the laser source for likely: The entire Nvidia’s NVLink CPO listed supply chain ecosystem partners. From Marvell Celestial, Lightmatter, and now Ayar today.",
+      "related": ["SIVE", "NVDA", "Ayar", "MRVL", "Lightmatter"],
+      "url": "https://x.com/aleabitoreddit/status/2062079425475473595"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T14:51:12+08:00",
+      "type": "SIVE 上游瓶颈",
+      "impactZh": "她称当天出现“极具变革性”的新消息，并把某家光子公司称为 NVDA NVLink Fusion CPO 生态的有效上游激光器瓶颈；结合后续帖子，指向 SIVE。该消息把 SIVE 的 thesis 从 GFS 参考设计进一步推向 Nvidia 光基础设施供应链叙事。",
+      "original": "New extremely transformative news got released today. Making a certain photonics company: The effective upstream laser chokepoint for $NVDA NVLink fusion CPO ecosystem. With their lasers now in Nvidia’s optical infrastructure supply chains.",
+      "related": ["SIVE", "NVDA"],
+      "url": "https://x.com/aleabitoreddit/status/2062064540075123050"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T13:37:07+08:00",
+      "type": "欧洲 Tech Sovereignty / Chips Act 2.0",
+      "impactZh": "Serenity 提到欧洲 Tech Sovereignty Package 与 CHIPS Act 2.0，并称该政策预计优先支持 photonics，且 XFAB 与 SIVE 被 Industry Policy Blueprints 点名。这强化了欧洲硅光/光子链的政策催化。",
+      "original": "Europe is releasing its Tech Sovereignty Package, today June 3rd. This includes, CHIPS ACT 2.0, which is expected to prioritize photonics. Both $XFAB and $SIVE are highlighted in the Industry Policy Blueprints.",
+      "related": ["XFAB", "SIVE", "EU Chips Act 2.0"],
+      "url": "https://x.com/aleabitoreddit/status/2062045895500419101"
+    },
     {
       "date": "2026-06-03",
       "publishedAt": "2026-06-03T09:18:54+08:00",
@@ -61,13 +88,16 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity frames SIVE as a laser chokepoint for photonics, with GFS silicon photonics reference-design integration as the strongest recent validation.",
-      "whyItMatters": "If SIVE becomes embedded in GFS reference designs, the company may sit upstream of CPO/pluggable programs used by AVGO, MRVL, NVDA, AMD and others.",
+      "thesis": "Serenity frames SIVE as the upstream laser chokepoint for the NVDA NVLink Fusion CPO ecosystem, building on GFS silicon photonics reference-design validation and new Ayar/Marvell/Lightmatter linkage claims.",
+      "whyItMatters": "If SIVE is actually embedded across GFS reference designs and NVLink Fusion optical infrastructure partners, it could sit upstream of multiple CPO/pluggable programs rather than one isolated customer path.",
       "catalysts": [
         "Sivers + GlobalFoundries strategic collaboration",
+        "Serenity links SIVE to Ayar joining Nvidia NVLink Fusion",
         "Serenity says SIVE is the laser supplier to the NVDA NVLink Fusion ecosystem",
+        "Potential linkage across Marvell Celestial, Lightmatter and Ayar",
         "CPO and pluggable optical transceiver ramp over the next 18 months",
-        "JBL and GFS public validation"
+        "JBL and GFS public validation",
+        "EU Tech Sovereignty Package / Chips Act 2.0 photonics priority"
       ],
       "risks": [
         "CPO volume ramp may lag qualification timelines",
@@ -77,12 +107,29 @@
       "stance": "重点关注",
       "nextChecks": [
         "Verify exact GFS reference design language from primary release",
+        "Verify Ayar's NVLink Fusion announcement and whether SIVE is explicitly or indirectly connected",
         "Verify the primary-source basis for the claimed NVDA NVLink Fusion laser-supplier link",
+        "Map Marvell Celestial, Lightmatter and Ayar laser-supplier dependencies",
         "Check whether SIVE revenue guidance reflects CPO/pluggables",
         "Track customer concentration and production timing"
       ],
       "lastUpdated": "2026-06-03",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "After today’s new news with Ayar joining Nvidia NVLink fusion. SIVE is now the laser source for likely the entire Nvidia’s NVLink CPO listed supply chain ecosystem partners.",
+          "url": "https://x.com/aleabitoreddit/status/2062079425475473595"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "The effective upstream laser chokepoint for NVDA NVLink fusion CPO ecosystem. With their lasers now in Nvidia’s optical infrastructure supply chains.",
+          "url": "https://x.com/aleabitoreddit/status/2062064540075123050"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "Both XFAB and SIVE are highlighted in the Industry Policy Blueprints.",
+          "url": "https://x.com/aleabitoreddit/status/2062045895500419101"
+        },
         {
           "date": "2026-06-03",
           "quote": "It's really big news to have SIVE as the laser supplier to NVDA nvlink fusion ecosystem.",
@@ -203,6 +250,7 @@
       "whyItMatters": "This is a low-valuation European photonics-foundry re-rating thesis rather than a pure CPO component trade.",
       "catalysts": [
         "EU Chips Act 2 demand/funding support",
+        "Serenity says XFAB and SIVE are highlighted in EU Industry Policy Blueprints",
         "photonixFAB validation",
         "NVDA and NOK activity around silicon photonics"
       ],
@@ -213,12 +261,18 @@
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Read the EU Industry Policy Blueprints and confirm exact XFAB/SIVE references",
         "Verify NVDA/NOK validation details",
         "Read photonixFAB project disclosures",
         "Compare valuation to P/B and replacement-cost assumptions"
       ],
       "lastUpdated": "2026-06-03",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "Europe is releasing its Tech Sovereignty Package... Both XFAB and SIVE are highlighted in the Industry Policy Blueprints.",
+          "url": "https://x.com/aleabitoreddit/status/2062045895500419101"
+        },
         {
           "date": "2026-06-03",
           "quote": "XFAB lowkey reminds me of early TSEM... NVDA and NOK actively validating your pre-commercial silicon photonics foundry.",

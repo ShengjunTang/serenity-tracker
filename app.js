@@ -8,18 +8,23 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 将 SIVE 视为光子链中的激光器瓶颈，近期最强验证来自其激光器被纳入 GFS 硅光平台参考设计。",
-    whyItMatters: "如果 SIVE 成为 GFS 参考设计的默认组成部分，它可能位于 AVGO、MRVL、NVDA、AMD 等公司 CPO / 可插拔光模块项目的上游。",
+    thesis: "Serenity 将 SIVE 升级为 NVDA NVLink Fusion CPO 生态的上游激光器瓶颈，依据包括 GFS 硅光参考设计验证，以及她新提到的 Ayar / Marvell / Lightmatter 关联。",
+    whyItMatters: "如果 SIVE 真的同时嵌入 GFS 参考设计和 NVLink Fusion 光基础设施伙伴链条，它可能不是单一客户线索，而是多个 CPO / 可插拔项目的上游供应环节。",
     catalysts: [
       "Sivers 与 GlobalFoundries 战略合作",
+      "Serenity 将 SIVE 与 Ayar 加入 Nvidia NVLink Fusion 关联起来",
       "Serenity 称 SIVE 是 NVDA NVLink Fusion 生态的激光器供应商",
+      "潜在串联 Marvell Celestial、Lightmatter 与 Ayar",
       "未来 18 个月 CPO 与可插拔光收发器放量",
       "JBL 与 GFS 的公开验证",
+      "欧洲 Tech Sovereignty Package / Chips Act 2.0 对 photonics 的政策优先级",
     ],
     risks: ["CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
     nextChecks: [
       "核实 GFS 原始公告中的参考设计表述",
+      "核实 Ayar 的 NVLink Fusion 公告，以及 SIVE 是否有明确或间接连接",
       "核实 SIVE 与 NVDA NVLink Fusion 激光器供应关系的原始来源",
+      "梳理 Marvell Celestial、Lightmatter、Ayar 的激光器供应依赖",
       "检查 SIVE 指引是否体现 CPO / 可插拔产品收入",
       "跟踪客户集中度与量产时间",
     ],
@@ -44,9 +49,9 @@ const zhCopy = {
     theme: "欧洲硅光代工平台",
     thesis: "Serenity 将 XFAB 类比早期 TSEM：低于 20 亿美元市值、NVDA / NOK 验证、photonixFAB，以及 EU Chips Act 2 顺风。",
     whyItMatters: "这是一个低估值欧洲光子代工平台重估逻辑，不是单纯的 CPO 组件交易。",
-    catalysts: ["EU Chips Act 2 对需求 / 资金的支持", "photonixFAB 验证", "NVDA 与 NOK 在硅光方向的活动"],
+    catalysts: ["EU Chips Act 2 对需求 / 资金的支持", "Serenity 称 XFAB 与 SIVE 被 EU Industry Policy Blueprints 点名", "photonixFAB 验证", "NVDA 与 NOK 在硅光方向的活动"],
     risks: ["商业化前验证未必快速转化为收入", "汽车周期仍可能拖累", "需要区分补贴与确定性需求"],
-    nextChecks: ["核实 NVDA / NOK 验证细节", "阅读 photonixFAB 项目披露", "比较 P/B 与资产重置成本假设"],
+    nextChecks: ["阅读 EU Industry Policy Blueprints 并确认 XFAB / SIVE 的原文位置", "核实 NVDA / NOK 验证细节", "阅读 photonixFAB 项目披露", "比较 P/B 与资产重置成本假设"],
   },
   mrvl: {
     theme: "AI ASIC / CPO 大盘股验证",
