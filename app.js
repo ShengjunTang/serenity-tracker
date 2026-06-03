@@ -301,6 +301,13 @@ function formatDateTime(value) {
     .replaceAll("/", "-");
 }
 
+function scrollDetailIntoViewOnMobile() {
+  if (!window.matchMedia("(max-width: 760px)").matches) return;
+  requestAnimationFrame(() => {
+    els.detail.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+}
+
 function renderTable() {
   const rows = filteredIdeas();
   els.resultCount.textContent = `${rows.length} 条`;
@@ -330,6 +337,7 @@ function renderTable() {
       state.selectedId = row.dataset.id;
       renderTable();
       renderDetail();
+      scrollDetailIntoViewOnMobile();
     });
   });
 }
