@@ -122,6 +122,8 @@ const state = {
 
 const els = {
   sourceWindow: document.querySelector("#source-window"),
+  heroTotal: document.querySelector("#hero-total"),
+  heroFocus: document.querySelector("#hero-focus"),
   resultCount: document.querySelector("#result-count"),
   body: document.querySelector("#ideas-body"),
   detail: document.querySelector("#detail-panel"),
@@ -182,10 +184,12 @@ function countByTier(ideas, tier) {
 
 function updateCounts() {
   document.querySelector("#count-all").textContent = state.ideas.length;
+  els.heroTotal.textContent = state.ideas.length;
   for (const tier of ["focus", "watch", "speculative", "archive"]) {
     const count = countByTier(state.ideas, tier);
     document.querySelector(`#count-${tier}`).textContent = count;
     document.querySelector(`#summary-${tier}`).textContent = count;
+    if (tier === "focus") els.heroFocus.textContent = count;
   }
 }
 
