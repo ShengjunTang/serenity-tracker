@@ -30,6 +30,20 @@ body {
   letter-spacing: 0;
 }
 
+body,
+button,
+input,
+td,
+p,
+h1,
+h2,
+h3,
+h4,
+li,
+a {
+  overflow-wrap: anywhere;
+}
+
 button,
 input {
   font: inherit;
@@ -690,6 +704,7 @@ tr.idea-row.selected {
   position: sticky;
   top: 24px;
   padding: 18px;
+  min-width: 0;
 }
 
 .detail-title {
@@ -704,6 +719,7 @@ tr.idea-row.selected {
 .detail-title h3 {
   margin: 0;
   font-size: 22px;
+  line-height: 1.16;
 }
 
 .detail-title p {
@@ -838,10 +854,18 @@ tr.idea-row.selected {
 
   .detail-panel {
     position: static;
+    width: 100%;
+    max-width: 100%;
   }
 }
 
 @media (max-width: 760px) {
+  html,
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
   .main {
     padding: 16px;
   }
@@ -870,6 +894,24 @@ tr.idea-row.selected {
   .summary-grid,
   .tier-nav {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .detail-panel {
+    padding: 16px;
+    overflow: hidden;
+  }
+
+  .detail-title {
+    display: grid;
+    gap: 10px;
+  }
+
+  .detail-title h3 {
+    font-size: 24px;
+  }
+
+  .detail-title .tier-pill {
+    justify-self: start;
   }
 
   .latest-card {
