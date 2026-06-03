@@ -197,6 +197,30 @@ input {
   cursor: pointer;
 }
 
+.disclaimer {
+  margin-bottom: 18px;
+  padding: 14px 16px;
+  border: 1px solid #d7e4df;
+  border-left: 4px solid var(--focus);
+  border-radius: 8px;
+  background: #fbfdfc;
+  box-shadow: var(--shadow);
+}
+
+.disclaimer strong {
+  display: block;
+  margin-bottom: 7px;
+  color: var(--text);
+  font-size: 13px;
+}
+
+.disclaimer p {
+  margin: 5px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.55;
+}
+
 .summary-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
