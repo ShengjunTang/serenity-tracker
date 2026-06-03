@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-03T09:20:45+08:00",
+  "generatedAt": "2026-06-03T12:32:01+08:00",
   "sourceWindow": "X search: from:aleabitoreddit since:2026-05-18; latest refresh from:aleabitoreddit since:2026-06-03",
   "summary": {
     "focus": 4,
-    "watch": 5,
-    "speculative": 3,
+    "watch": 6,
+    "speculative": 5,
     "archive": 1
   },
   "ideas": [
@@ -68,6 +68,7 @@
       "whyItMatters": "It is a Taiwan-listed small/mid-cap way to express the CPO optical component supply-chain theme.",
       "catalysts": [
         "TSM COUPE + AI optical market articles",
+        "Serenity says Taiwan CPO longs including FOCI were finally taking off, with FOCI up about 10%",
         "CPO supply-chain ramp",
         "FAU demand from optical interconnect buildout"
       ],
@@ -84,6 +85,11 @@
       ],
       "lastUpdated": "2026-06-03",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%, Foci +10%, Xintec +10%.",
+          "url": "https://x.com/aleabitoreddit/status/2061980916323598838"
+        },
         {
           "date": "2026-06-03",
           "quote": "Foci is FAU / optical components.",
@@ -106,6 +112,7 @@
       "whyItMatters": "If CPO scales, inspection and yield bottlenecks can become critical despite not being the most visible part of the chain.",
       "catalysts": [
         "CPO ramp over the next 18 months",
+        "Serenity says she is waiting for MSSCorp to catch up with other Taiwan CPO longs",
         "Patent / inspection moat narrative",
         "TSM COUPE optical-market attention"
       ],
@@ -122,6 +129,11 @@
       ],
       "lastUpdated": "2026-06-03",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "Just waiting on Win Semi, Msscorp, and Nextronics to catch up.",
+          "url": "https://x.com/aleabitoreddit/status/2061980916323598838"
+        },
         {
           "date": "2026-06-03",
           "quote": "MSSCorp is inspection / yields.",
@@ -230,6 +242,7 @@
       "whyItMatters": "A smaller TSM-adjacent testing subsidiary could provide targeted exposure if COUPE-related test demand is real.",
       "catalysts": [
         "Report confirming TSM/COUPE linkage",
+        "Serenity says Xintec was up about 10% alongside other Taiwan CPO longs",
         "TSM advanced packaging / optical supply-chain buildout",
         "Testing demand expansion"
       ],
@@ -246,6 +259,11 @@
       ],
       "lastUpdated": "2026-06-03",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%, Foci +10%, Xintec +10%.",
+          "url": "https://x.com/aleabitoreddit/status/2061980916323598838"
+        },
         {
           "date": "2026-06-03",
           "quote": "Another is Xintech (3374) that I have exposure to. This is TSM's testing subsidiary.",
@@ -301,6 +319,7 @@
       "whyItMatters": "It is part of her Taiwan CPO/optical cluster, but the exact role needs deeper mapping.",
       "catalysts": [
         "Taiwan optical supply-chain momentum",
+        "Serenity says Shunsin was up about 10% as Taiwan CPO longs started taking off",
         "CPO-related attention",
         "Potential re-rating with Foci/MSSCorp"
       ],
@@ -317,6 +336,11 @@
       ],
       "lastUpdated": "2026-06-03",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%, Foci +10%, Xintec +10%.",
+          "url": "https://x.com/aleabitoreddit/status/2061980916323598838"
+        },
         {
           "date": "2026-05-30",
           "quote": "Shunsin at $2B... usually the best risk/reward to me currently.",
@@ -368,6 +392,105 @@
       ]
     },
     {
+      "id": "aehr",
+      "ticker": "$AEHR",
+      "name": "Aehr Test Systems",
+      "tier": "watch",
+      "theme": "AI ASIC testing / volume-order optionality",
+      "thesis": "Serenity revisits AEHR after a large move to about $3.5B market cap and says the next step is waiting for volume orders for AEHR, LPK and similar players.",
+      "whyItMatters": "AEHR is a testing-equipment expression of the AI ASIC supply chain, but Serenity explicitly says there is not much new beyond waiting for order conversion.",
+      "catalysts": [
+        "Potential volume orders for AI ASIC-related testing players",
+        "Prior thesis re-rating from about $1.1B to $3.5B market cap",
+        "Peer attention around LPK and AI ASIC testing infrastructure"
+      ],
+      "risks": [
+        "Already materially re-rated from Serenity's earlier call",
+        "No fresh fundamental update in the latest post",
+        "Needs actual volume-order evidence before upgrading conviction"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Verify AEHR order backlog and AI ASIC customer exposure",
+        "Track whether volume orders arrive after sampling or pilot wins",
+        "Compare AEHR valuation with LPK and other testing-equipment peers"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "Good times with AEHR, it's now ~$3.5B MC... Just waiting on volume orders for these types of players like LPK, and others.",
+          "url": "https://x.com/aleabitoreddit/status/2061958857132585076"
+        }
+      ]
+    },
+    {
+      "id": "alchip",
+      "ticker": "AlChip",
+      "name": "Alchip Technologies",
+      "tier": "speculative",
+      "theme": "AI ASIC design services / M&A TAM expansion",
+      "thesis": "Serenity flags an ASIC research report and says AlChip could have significant TAM expansion opportunities if it pursues M&A like Marvell.",
+      "whyItMatters": "AlChip is a possible AI ASIC design-services angle, but the latest post is based on a research report and M&A optionality rather than a detailed new thesis.",
+      "catalysts": [
+        "AI ASIC design-services demand",
+        "Potential TAM expansion through M&A",
+        "Comparison with Marvell's strategy"
+      ],
+      "risks": [
+        "Subscriber-context post with limited visible detail",
+        "M&A expansion is optionality, not confirmed execution",
+        "Needs primary report review and valuation work"
+      ],
+      "stance": "观望",
+      "nextChecks": [
+        "Read the referenced ASIC research report",
+        "Map AlChip customer mix and AI ASIC exposure",
+        "Check whether management has credible M&A capacity or intent"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "I don't really mention AlChip much but there's a lot of tam expansion opportunities if they want to M&A like Marvell.",
+          "url": "https://x.com/aleabitoreddit/status/2061956165307883521"
+        }
+      ]
+    },
+    {
+      "id": "nextronics",
+      "ticker": "Nextronics",
+      "name": "Nextronics",
+      "tier": "speculative",
+      "theme": "Taiwan CPO catch-up candidate",
+      "thesis": "Serenity names Nextronics as one of the Taiwan CPO-related longs she is waiting to catch up after Shunsin, FOCI and Xintec moved.",
+      "whyItMatters": "This is a new name in her Taiwan CPO basket, but the observed post gives almost no role attribution yet.",
+      "catalysts": [
+        "Potential catch-up trade within Taiwan CPO longs",
+        "Sympathy with Shunsin, FOCI and Xintec momentum",
+        "Broader CPO supply-chain attention"
+      ],
+      "risks": [
+        "No detailed supply-chain role in the observed post",
+        "May be a momentum mention rather than a developed thesis",
+        "Needs ticker, business role, customers and liquidity verification"
+      ],
+      "stance": "观望",
+      "nextChecks": [
+        "Identify exact listed entity and ticker",
+        "Map its role in CPO or optical interconnect supply chain",
+        "Verify revenue exposure before adding to watchlist"
+      ],
+      "lastUpdated": "2026-06-03",
+      "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "Just waiting on Win Semi, Msscorp, and Nextronics to catch up.",
+          "url": "https://x.com/aleabitoreddit/status/2061980916323598838"
+        }
+      ]
+    },
+    {
       "id": "advanced-opto",
       "ticker": "3362",
       "name": "Advanced Optoelectronic",
@@ -410,6 +533,7 @@
       "whyItMatters": "This is a possible second-order laser-manufacturing bottleneck, earlier and less proven than the SIVE/GFS thesis.",
       "catalysts": [
         "Laser scaling needs in 2027",
+        "Serenity says she is waiting for Win Semi to catch up with other Taiwan CPO longs",
         "Taiwan optical-chain attention",
         "Potential analyst coverage catch-up"
       ],
@@ -426,6 +550,11 @@
       ],
       "lastUpdated": "2026-06-03",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "Just waiting on Win Semi, Msscorp, and Nextronics to catch up.",
+          "url": "https://x.com/aleabitoreddit/status/2061980916323598838"
+        },
         {
           "date": "2026-05-26",
           "quote": "Win Semi (3105) is almost never mentioned in photonics analyst reports. But they'll probably show up as an important bottleneck for scaling lasers next year.",
