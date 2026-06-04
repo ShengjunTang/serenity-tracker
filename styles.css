@@ -485,6 +485,10 @@ input {
   box-shadow: var(--shadow);
 }
 
+.table-panel {
+  scroll-margin-top: 14px;
+}
+
 .panel-head {
   display: flex;
   align-items: center;
@@ -509,6 +513,24 @@ input {
   color: var(--muted);
   font-size: 12px;
   font-weight: 700;
+}
+
+.table-head {
+  gap: 14px;
+}
+
+.table-head .top-actions {
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.table-head #result-count {
+  min-height: 38px;
+  display: inline-flex;
+  align-items: center;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
 }
 
 .latest-panel {
@@ -951,6 +973,20 @@ tr.idea-row.selected {
   .panel-head {
     align-items: flex-start;
     gap: 10px;
+  }
+
+  .table-head {
+    display: grid;
+  }
+
+  .table-head .top-actions {
+    width: 100%;
+    grid-template-columns: 1fr;
+    justify-content: stretch;
+  }
+
+  .table-head #result-count {
+    min-height: auto;
   }
 
   .table-wrap {

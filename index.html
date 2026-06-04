@@ -90,13 +90,6 @@
             <h2>投资线索分级与来源依据</h2>
             <p>公开信息整理，按标的、主题和风险分层跟踪。</p>
           </div>
-          <div class="top-actions">
-            <label class="search-box">
-              <span>搜索</span>
-              <input id="search-input" type="search" placeholder="Ticker、主题、公司名" />
-            </label>
-            <button id="sort-button" class="ghost-button" type="button">按更新时间排序</button>
-          </div>
         </header>
 
         <section class="disclaimer" aria-label="免责声明">
@@ -145,9 +138,19 @@
 
         <section class="workspace">
           <div class="table-panel">
-            <div class="panel-head">
-              <h3>线索列表</h3>
-              <span id="result-count">0 条</span>
+            <div class="panel-head table-head">
+              <div>
+                <h3>线索列表</h3>
+                <p>搜索后会自动定位到对应标的，点击标的查看详情。</p>
+              </div>
+              <div class="top-actions">
+                <label class="search-box">
+                  <span>搜索</span>
+                  <input id="search-input" type="search" placeholder="Ticker、主题、公司名" />
+                </label>
+                <button id="sort-button" class="ghost-button" type="button">按更新时间排序</button>
+                <span id="result-count">0 条</span>
+              </div>
             </div>
             <div class="table-wrap">
               <table>

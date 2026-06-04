@@ -355,12 +355,12 @@ function closeDetailSheet() {
   syncDetailSheet();
 }
 
-function scrollSelectedIdeaIntoView() {
+function scrollSearchResultsIntoView() {
   if (!state.query) return;
   requestAnimationFrame(() => {
-    document.querySelector(".idea-row.selected")?.scrollIntoView({
+    document.querySelector(".table-panel")?.scrollIntoView({
       behavior: "smooth",
-      block: "center",
+      block: "start",
     });
   });
 }
@@ -568,7 +568,7 @@ els.search.addEventListener("input", (event) => {
   closeDetailSheet();
   renderTable();
   renderDetail();
-  scrollSelectedIdeaIntoView();
+  scrollSearchResultsIntoView();
 });
 
 els.sort.addEventListener("click", () => {
@@ -577,7 +577,7 @@ els.sort.addEventListener("click", () => {
   state.selectedId = filteredIdeas()[0]?.id ?? null;
   renderTable();
   renderDetail();
-  scrollSelectedIdeaIntoView();
+  scrollSearchResultsIntoView();
 });
 
 els.tierButtons.forEach((button) => {
