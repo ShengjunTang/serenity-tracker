@@ -251,7 +251,6 @@ function updateCounts() {
   for (const tier of ["focus", "watch", "speculative", "archive"]) {
     const count = countByTier(state.ideas, tier);
     document.querySelector(`#count-${tier}`).textContent = count;
-    document.querySelector(`#summary-${tier}`).textContent = count;
     if (tier === "focus") els.heroFocus.textContent = count;
   }
 }
