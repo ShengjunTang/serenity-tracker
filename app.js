@@ -355,8 +355,8 @@ function closeDetailSheet() {
   syncDetailSheet();
 }
 
-function scrollSearchResultsIntoView() {
-  if (!state.query) return;
+function scrollSearchResultsIntoView({ force = false } = {}) {
+  if (!force && !state.query) return;
   requestAnimationFrame(() => {
     document.querySelector(".table-panel")?.scrollIntoView({
       behavior: "smooth",
@@ -589,6 +589,7 @@ els.tierButtons.forEach((button) => {
     closeDetailSheet();
     renderTable();
     renderDetail();
+    scrollSearchResultsIntoView({ force: true });
   });
 });
 
