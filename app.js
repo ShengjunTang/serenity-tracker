@@ -173,6 +173,7 @@ const state = {
   ideas: [],
   latestUpdates: [],
   selectedId: null,
+  detailOpen: false,
   tier: "all",
   query: "",
   sortDesc: true,
@@ -187,6 +188,7 @@ const els = {
   resultCount: document.querySelector("#result-count"),
   body: document.querySelector("#ideas-body"),
   detail: document.querySelector("#detail-panel"),
+  backdrop: document.querySelector("#detail-backdrop"),
   search: document.querySelector("#search-input"),
   sort: document.querySelector("#sort-button"),
   tierButtons: document.querySelectorAll(".tier-button"),
@@ -301,11 +303,24 @@ function formatDateTime(value) {
     .replaceAll("/", "-");
 }
 
-function scrollDetailIntoViewOnMobile() {
-  if (!window.matchMedia("(max-width: 760px)").matches) return;
-  requestAnimationFrame(() => {
-    els.detail.scrollIntoView({ behavior: "smooth", block: "start" });
-  });
+function isMobileView() {
+  return window.matchMedia("(max-width: 760px)").matches;
+}
+
+function syncDetailSheet() {
+  els.detail.classList.toggle("open", state.detailOpen);
+  els.backdrop.classList.toggle("open", state.detailOpen);
+  els.detail.setAttribute("aria-hidden", String(isMobileView() && !state.detailOpen));
+}
+
+function openDetailSheet() {
+  state.detailOpen = true;
+  syncDetailSheet();
+}
+
+function closeDetailSheet() {
+  state.detailOpen = false;
+  syncDetailSheet();
 }
 
 function renderTable() {
@@ -334,10 +349,16 @@ function renderTable() {
 
   document.querySelectorAll(".idea-row").forEach((row) => {
     row.addEventListener("click", () => {
-      state.selectedId = row.dataset.id;
+      const nextId = row.dataset.id;
+      const shouldClose = isMobileView() && state.detailOpen && state.selectedId === nextId;
+      state.selectedId = nextId;
       renderTable();
       renderDetail();
-      scrollDetailIntoViewOnMobile();
+      if (shouldClose) {
+        closeDetailSheet();
+      } else if (isMobileView()) {
+        openDetailSheet();
+      }
     });
   });
 }
@@ -418,6 +439,7 @@ function renderDetail() {
         <p>${zh(idea, "theme") ? `${escapeHtml(zh(idea, "theme"))} / ` : ""}${escapeHtml(idea.theme)}</p>
       </div>
       ${tierPill(idea.tier)}
+      <button class="detail-close" type="button" aria-label="关闭详情">关闭</button>
     </div>
 
     <section class="detail-section">
@@ -453,6 +475,8 @@ function renderDetail() {
       </div>
     </section>
   `;
+  els.detail.querySelector(".detail-close").addEventListener("click", closeDetailSheet);
+  syncDetailSheet();
 }
 
 function render() {
@@ -485,6 +509,7 @@ async function boot() {
 
 els.search.addEventListener("input", (event) => {
   state.query = event.target.value.trim();
+  closeDetailSheet();
   renderTable();
   renderDetail();
 });
@@ -501,9 +526,18 @@ els.tierButtons.forEach((button) => {
     els.tierButtons.forEach((item) => item.classList.remove("active"));
     button.classList.add("active");
     state.selectedId = filteredIdeas()[0]?.id ?? null;
+    closeDetailSheet();
     renderTable();
     renderDetail();
   });
 });
+
+els.backdrop.addEventListener("click", closeDetailSheet);
+
+window.addEventListener("keydown", (event) => {
+  if (event.key === "Escape") closeDetailSheet();
+});
+
+window.addEventListener("resize", syncDetailSheet);
 
 boot();
