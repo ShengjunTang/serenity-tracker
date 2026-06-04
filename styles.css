@@ -608,6 +608,23 @@ input {
   text-decoration: none;
 }
 
+.latest-toggle {
+  width: calc(100% - 32px);
+  min-height: 40px;
+  margin: 12px 16px 16px;
+  border: 1px solid #bfd8d2;
+  border-radius: 8px;
+  background: #f7fbfa;
+  color: var(--focus);
+  font-size: 13px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.latest-toggle:hover {
+  background: var(--focus-soft);
+}
+
 .table-wrap {
   overflow: auto;
 }

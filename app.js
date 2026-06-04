@@ -174,6 +174,7 @@ const state = {
   latestUpdates: [],
   selectedId: null,
   detailOpen: false,
+  latestExpanded: false,
   tier: "all",
   query: "",
   sortDesc: true,
@@ -255,26 +256,57 @@ function updateCounts() {
   }
 }
 
+function normalizeSearch(value) {
+  return String(value ?? "")
+    .toLowerCase()
+    .replaceAll("$", "")
+    .replace(/[^\p{L}\p{N}\u4e00-\u9fff]+/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function relatedLatestText(idea) {
+  const tokens = [idea.id, idea.ticker, idea.name]
+    .map(normalizeSearch)
+    .filter(Boolean);
+  return state.latestUpdates
+    .filter((item) => {
+      const related = (item.related ?? []).map(normalizeSearch);
+      return tokens.some((token) => related.some((tag) => tag.includes(token) || token.includes(tag)));
+    })
+    .flatMap((item) => [item.type, item.impactZh, item.original, ...(item.related ?? [])]);
+}
+
 function ideaMatches(idea) {
   const tierMatch = state.tier === "all" || idea.tier === state.tier;
+  const query = normalizeSearch(state.query);
+  if (!query) return tierMatch;
   const haystack = [
+    idea.id,
     idea.ticker,
+    normalizeSearch(idea.ticker),
     idea.name,
+    tierLabels[idea.tier],
     idea.theme,
     idea.thesis,
+    idea.whyItMatters,
     idea.stance,
+    idea.lastUpdated,
     zh(idea, "theme"),
     zh(idea, "thesis"),
     zh(idea, "whyItMatters"),
     ...(idea.catalysts ?? []),
     ...(idea.risks ?? []),
+    ...(idea.nextChecks ?? []),
+    ...(idea.evidence ?? []).flatMap((item) => [item.date, item.quote, item.url]),
+    ...relatedLatestText(idea),
     ...(zh(idea, "catalysts") ?? []),
     ...(zh(idea, "risks") ?? []),
     ...(zh(idea, "nextChecks") ?? []),
   ]
-    .join(" ")
-    .toLowerCase();
-  return tierMatch && haystack.includes(state.query.toLowerCase());
+    .map(normalizeSearch)
+    .join(" ");
+  return tierMatch && haystack.includes(query);
 }
 
 function filteredIdeas() {
@@ -365,7 +397,8 @@ function renderTable() {
 
 function renderLatestUpdates() {
   const updates = [...state.latestUpdates].sort((a, b) => new Date(b.publishedAt ?? b.date) - new Date(a.publishedAt ?? a.date));
-  els.latestCount.textContent = `${updates.length} 条`;
+  const visibleUpdates = state.latestExpanded ? updates : updates.slice(0, 3);
+  els.latestCount.textContent = state.latestExpanded ? `${updates.length} 条` : `显示 ${visibleUpdates.length}/${updates.length} 条`;
   if (!updates.length) {
     els.latestList.innerHTML = `
       <div class="empty-state">
@@ -376,7 +409,8 @@ function renderLatestUpdates() {
     return;
   }
 
-  els.latestList.innerHTML = updates
+  els.latestList.innerHTML =
+    visibleUpdates
     .map(
       (item) => `
         <article class="latest-card">
@@ -396,7 +430,18 @@ function renderLatestUpdates() {
         </article>
       `,
     )
-    .join("");
+      .join("") +
+    (updates.length > 3
+      ? `
+        <button class="latest-toggle" id="latest-toggle" type="button">
+          ${state.latestExpanded ? "收起最新消息" : `展开全部 ${updates.length} 条最新消息`}
+        </button>
+      `
+      : "");
+  document.querySelector("#latest-toggle")?.addEventListener("click", () => {
+    state.latestExpanded = !state.latestExpanded;
+    renderLatestUpdates();
+  });
 }
 
 function renderList(title, items) {
@@ -509,6 +554,7 @@ async function boot() {
 
 els.search.addEventListener("input", (event) => {
   state.query = event.target.value.trim();
+  state.selectedId = filteredIdeas()[0]?.id ?? null;
   closeDetailSheet();
   renderTable();
   renderDetail();
@@ -517,7 +563,9 @@ els.search.addEventListener("input", (event) => {
 els.sort.addEventListener("click", () => {
   state.sortDesc = !state.sortDesc;
   els.sort.textContent = state.sortDesc ? "按更新时间排序" : "按旧到新排序";
+  state.selectedId = filteredIdeas()[0]?.id ?? null;
   renderTable();
+  renderDetail();
 });
 
 els.tierButtons.forEach((button) => {
