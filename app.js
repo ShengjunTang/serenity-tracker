@@ -355,6 +355,16 @@ function closeDetailSheet() {
   syncDetailSheet();
 }
 
+function scrollSelectedIdeaIntoView() {
+  if (!state.query) return;
+  requestAnimationFrame(() => {
+    document.querySelector(".idea-row.selected")?.scrollIntoView({
+      behavior: "smooth",
+      block: "center",
+    });
+  });
+}
+
 function renderTable() {
   const rows = filteredIdeas();
   els.resultCount.textContent = `${rows.length} 条`;
@@ -558,6 +568,7 @@ els.search.addEventListener("input", (event) => {
   closeDetailSheet();
   renderTable();
   renderDetail();
+  scrollSelectedIdeaIntoView();
 });
 
 els.sort.addEventListener("click", () => {
@@ -566,6 +577,7 @@ els.sort.addEventListener("click", () => {
   state.selectedId = filteredIdeas()[0]?.id ?? null;
   renderTable();
   renderDetail();
+  scrollSelectedIdeaIntoView();
 });
 
 els.tierButtons.forEach((button) => {

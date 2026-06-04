@@ -659,6 +659,7 @@ td {
 
 tr.idea-row {
   cursor: pointer;
+  scroll-margin-top: 18px;
 }
 
 tr.idea-row:hover,
