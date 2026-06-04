@@ -1,13 +1,168 @@
 {
-  "generatedAt": "2026-06-03T18:32:09+08:00",
-  "sourceWindow": "X search: from:aleabitoreddit since:2026-06-03; latest refresh 2026-06-03 18:32 Beijing, focused on US pre-market window",
+  "generatedAt": "2026-06-04T18:45:00+08:00",
+  "sourceWindow": "X profile and replies: @aleabitoreddit; latest refresh 2026-06-04 18:45 Beijing, full status pages read after opening Show more-equivalent status views",
   "summary": {
     "focus": 4,
-    "watch": 7,
-    "speculative": 5,
-    "archive": 1
+    "watch": 9,
+    "speculative": 6,
+    "archive": 0
   },
   "latestUpdates": [
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T17:53:00+08:00",
+      "type": "TSM / CoPoS / Visera / XFAB",
+      "impactZh": "Serenity 引用 TSM chairman 对 CoPoS 的评论：2-3 年内会有很大 volume，当前已有 pilot lines。她认为 Visera 作为 TSM 子公司和重暴露标的已出现一定 re-rating，可作为明年 long idea 观察；同时 TSM 提到 autonomous robots / autonomous vehicles 是 growth areas，可能给处于汽车周期低谷的 XFAB 等公司提供底部验证线索。",
+      "original": "$TSM chairman: CoPoS very large within 2-3 year volumes already pilot lines now... Visera (TSM subsidiary heavy exposure) already got re-rated a bit... Automous robots / autonomous vehicles seen as growth areas for $TSM... great validation for $XFAB and others in a slump now with large exposure to that segment.",
+      "related": [
+        "TSM",
+        "Visera",
+        "XFAB",
+        "CoPoS",
+        "autonomous vehicles"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062472717283312046"
+    },
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T16:45:00+08:00",
+      "type": "SIVE / 潜在战略入股路径",
+      "impactZh": "她认为 CHIPS Act funded 公司不容易被大公司随意收购，因此更现实的路径可能是战略入股；举例 MTSI 入股 IQE，并猜测 GFS 或 JBL 可能在 6 月 vote 后入股 SIVE。这是重要催化想象，但目前只是推测，不能当作已发生事件。",
+      "original": "It’s a bit hard for major companies to go about acquiring CHIPS act funded companies like $SIVE on a whim... $MTSI took a stake in IQE so that’s another path. Maybe $GFS or $JBL takes a stake in $SIVE following June’s vote.",
+      "related": [
+        "SIVE",
+        "GFS",
+        "JBL",
+        "MTSI",
+        "IQE"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062455642854735906"
+    },
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T16:23:00+08:00",
+      "type": "SIVE / Win Semi 产能与 CW laser 瓶颈",
+      "impactZh": "她把 SIVE 的瓶颈逻辑落到产能端：Win Semi 刚做 private placement 扩产，她对其为 SIVE 放量有信心，但承认 2027/2028 精确数字没人知道；即使全行业都扩 CW laser，总需求可能仍超过供给。",
+      "original": "Win Semi just did a private placement to scale up capacity, pretty confident they can scale up significant volume for $SIVE... even if everyone in the industry mass produces cw, won’t be enough for overall demand. Which is why it’s a bottleneck.",
+      "related": [
+        "SIVE",
+        "Win Semi",
+        "CW laser",
+        "CPO"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062450175071920195"
+    },
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T15:54:00+08:00",
+      "type": "SIVE / 持仓与 insider selling 表态",
+      "impactZh": "她直接回应 insider selling FUD：称自己对 SIVE thesis 有信心，且不会卖出任何一股；同时认为无线业务董事卖股不改变 CPO/pluggable ramp 拐点上的基本面。这是明确持仓信心表态，但不能替代对 insider sale 真实背景的核查。",
+      "original": "I’m confident in my $SIVE thesis playing out and am not selling a single share... At the inflection of CPO/pluggable ramp... I’m just trying to combat disinformation by sharing all the nuances.",
+      "related": [
+        "SIVE",
+        "insider selling",
+        "CPO",
+        "pluggables"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062442844766531594"
+    },
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T15:15:00+08:00",
+      "type": "SIVE / CPO chokepoint + bottleneck 长文",
+      "impactZh": "这是本轮最重要更新。Serenity 将 SIVE 同时定义为 CPO 的 chokepoint 和 bottleneck：CW lasers 供给紧张由 LITE earnings 验证，Sumitomo/Furukawa 与 Win Semi 产能可能紧张；SIVE 虽 fab-lite，但通过提前锁定 Win Semi 和其他 foundry 的 CW laser output 控制最终供应。她进一步推演 SIVE 可能是 Jabil、Gen-1 Ayar、MRVL Celestial、其他 hyperscaler ASIC / merchant CPO routes 的 primary/sole source。",
+      "original": "$SIVE looks like both a chokepoint and a bottleneck for CPO next year... Demand exceeding supply from Ayar, Jabil, other pluggable vendors + Nvidia NVLink CPO ecosystem... $SIVE is also likely primary/sole source for Jabil, Gen-1 Ayar, $MRVL Celestial, and other hyperscaler asic/merchant CPO routes.",
+      "related": [
+        "SIVE",
+        "LITE",
+        "Win Semi",
+        "Ayar",
+        "JBL",
+        "MRVL",
+        "GFS",
+        "NVDA"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062433114933334487"
+    },
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T11:39:00+08:00",
+      "type": "AI capex / 上游半导体瓶颈资产",
+      "impactZh": "Serenity 引用 Goldman 将四大 hyperscaler 2025-2030 capex 预期从 4.5T 上调到 5.3T，并提到 2026-2031 aggregate capex 7.6T。她认为资金会向上游小型瓶颈传导，例如 SIVE 的 CPO lasers、SOI 的 silicon photonics substrates，以及人形机器人零部件 Leaderdrive / Harmonic。",
+      "original": "Goldman now expects a combined $5.3 trillion of capex spending for the four largest hyperscalers $GOOGL / $META / MSFT / $AMZN from 2025 to 2030... it flows upward to these tiny chokepoints like $SIVE for CPO lasers / $SOI for Silicon Photonics substrates.",
+      "related": [
+        "SIVE",
+        "SOI",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "AMZN",
+        "Leaderdrive",
+        "Harmonic"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062378784855368077"
+    },
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T10:00:00+08:00",
+      "type": "COIN / HOOD / CRCL / crypto swing",
+      "impactZh": "她认为美国相关法案可能压制 crypto 金融创新、收益类产品和流动性，对 COIN、HOOD、CRCL 等形成政策压力；但也说估值对 swing trading 又开始有吸引力。这应归为短线交易观察，不是她当前 AI/CPO 核心主线。",
+      "original": "Well, looks like it’s that time of the year again for $COIN, $HOOD, $CRCL and co... Valuations do seem compelling again if you’re swing trading.",
+      "related": [
+        "COIN",
+        "HOOD",
+        "CRCL",
+        "crypto"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062353660928278820"
+    },
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T07:56:00+08:00",
+      "type": "AVGO earnings / AI networking read-through",
+      "impactZh": "Serenity 整理 AVGO 电话会，重点是 AI networking demand “insatiable”、订单可见度延伸到 2028，OpenAI custom silicon late 2026 production，Meta custom AI program H2 2027 交付。这强化 MRVL、LITE 与 AI interconnect/networking 供应链需求，而非单纯看 AVGO 当天股价。",
+      "original": "TLDR: Strongly bullish AI demand, especially networking... Demand curves 2026 -> 2027 -> 2028. Also very positive read through as well for the $LITE and the other players.",
+      "related": [
+        "AVGO",
+        "MRVL",
+        "LITE",
+        "META",
+        "OpenAI",
+        "AI networking"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062322546809381094"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T22:14:00+08:00",
+      "type": "EU CHIPS Act 2.0 / Photonics 正式纳入政策",
+      "impactZh": "她称 EU CHIPS Act 2.0 proposal 已发布，photonics 被确认为 Chips for Europe Initiative 的新结构性组成部分；政策明确支持 photonic integrated circuits、CPO/interconnects、co-packaging、heterogeneous integration、design libraries。她认为这对 EU photonics 领导者，尤其 SIVE、XFAB、SOI，是长期结构性利好。",
+      "original": "Photonics is now confirmed to be the new structural addition to EU policy... co-packaged optics for AI data centres... $SIVE... $XFAB... $SOI directly mentioned in impact analysis regarding structural strengths of the EU.",
+      "related": [
+        "SIVE",
+        "XFAB",
+        "SOI",
+        "EU CHIPS Act 2.0",
+        "CPO"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062176094162428410"
+    },
+    {
+      "date": "2026-06-03",
+      "publishedAt": "2026-06-03T19:50:00+08:00",
+      "type": "POET vs XFAB / EU listing 折价",
+      "impactZh": "她对比 NASDAQ 上的 POET 与欧洲上市 XFAB：POET 市值约 2.4B，主要包装 Sivers lasers 并有 50M pre-production contract；而 XFAB 约 1.7B，拥有 SiC/GaN/MEMS/硅光 foundry、EU/US CHIPS Act 背书、NVDA/NOK pre-commercial SiPH foundry 评估，并低于 replacement P/B。她认为 EU listing 带来明显估值折价。",
+      "original": "$POET: $2.4B MC -> Packages Sivers lasers... $XFAB: $1.7B MC -> SiC/GaN/MEMS/Silicon Photonics Foundry backed with EU CHIPS ACT, US CHIPS ACT PMT -> Below replacement P/B value -> $NVDA, $NOK direct eval of their pre-commercial SiPH foundry.",
+      "related": [
+        "POET",
+        "XFAB",
+        "SIVE",
+        "NVDA",
+        "NOK",
+        "EU listing"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062139870613745890"
+    },
     {
       "date": "2026-06-03",
       "publishedAt": "2026-06-03T18:29:00+08:00",
@@ -232,9 +387,14 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity frames SIVE as the upstream laser chokepoint and likely laser supplier across the ASIC/merchant NVLink CPO ecosystem partners, now adding stronger Ayar confirmation claims and high-conviction Marvell Celestial / Lightmatter linkage claims on top of GFS reference-design validation.",
-      "whyItMatters": "If SIVE is not just in one customer path but is the reference or primary laser source across Ayar, Marvell Celestial, Lightmatter and GFS-linked NVLink CPO partners, the upside case shifts from single-design exposure to ecosystem-level leverage.",
+      "thesis": "Serenity has upgraded SIVE from a GFS/Ayar-linked laser supplier idea into her strongest CPO thesis: she now argues SIVE is both the bottleneck and chokepoint for ASIC/merchant CPO routes, with possible primary or sole-source exposure to Jabil, Gen-1 Ayar, Marvell Celestial, Lightmatter and GFS-linked ecosystem partners.",
+      "whyItMatters": "The thesis is no longer only about one customer validation. In her framework, SIVE controls scarce CW laser output through Win Semi and other fabs while being embedded in reference or route architectures used by multiple CPO programs; if correct, it creates ecosystem-level leverage into the 2027/2028 CPO ramp.",
       "catalysts": [
+        "Serenity says SIVE is both a CPO chokepoint and bottleneck for next year",
+        "CW laser shortage signal from LITE earnings and constrained Sumitomo/Furukawa / Win Semi capacity",
+        "Win Semi private placement to scale capacity, with Serenity confident it can support SIVE volume",
+        "Possible GFS or JBL strategic stake after June vote, speculative",
+        "Serenity says she is not selling a single SIVE share",
         "Possible future surprise partner announcement such as Innolight, still speculative",
         "Potential NASDAQ listing could narrow Swedish-exchange valuation discount",
         "Potential short squeeze if more customer or partner announcements arrive",
@@ -249,6 +409,9 @@
         "EU Tech Sovereignty Package / Chips Act 2.0 photonics priority"
       ],
       "risks": [
+        "Key primary/sole-source claims for Jabil, Ayar, Marvell Celestial and Lightmatter remain inference-heavy unless confirmed by filings or customer disclosures",
+        "Win Semi capacity timing and exact 2027/2028 output remain unknown",
+        "Insider selling FUD requires factual review even if Serenity dismisses it",
         "CPO volume ramp may lag qualification timelines",
         "Very high volatility after social-media attention",
         "Needs independent verification of customer and revenue conversion",
@@ -258,6 +421,10 @@
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Verify Win Semi private placement details and whether proceeds are tied to CW laser capacity relevant to SIVE",
+        "Confirm whether Jabil 1.6T LRO architecture publicly identifies SIVE or only implies it",
+        "Track June vote and whether GFS/JBL strategic stake speculation develops into an actual filing",
+        "Check insider selling filing date, seller role and remaining ownership",
         "Watch for any JBL-like or Innolight-related announcement",
         "Track short interest / borrow dynamics if available",
         "Check whether SIVE has disclosed any NASDAQ listing plan or timeline",
@@ -270,8 +437,33 @@
         "Check whether SIVE revenue guidance reflects CPO/pluggables",
         "Track customer concentration and production timing"
       ],
-      "lastUpdated": "2026-06-03 18:32",
+      "lastUpdated": "2026-06-04 18:45",
       "evidence": [
+        {
+          "date": "2026-06-04",
+          "quote": "It is not a monopoly, just technical dominance over ASIC/Merchant CPO route architectures.",
+          "url": "https://x.com/aleabitoreddit/status/2062435168389067033"
+        },
+        {
+          "date": "2026-06-04",
+          "quote": "Maybe GFS or JBL takes a stake in SIVE following June vote.",
+          "url": "https://x.com/aleabitoreddit/status/2062455642854735906"
+        },
+        {
+          "date": "2026-06-04",
+          "quote": "Win Semi just did a private placement to scale up capacity; confident they can scale up significant volume for SIVE.",
+          "url": "https://x.com/aleabitoreddit/status/2062450175071920195"
+        },
+        {
+          "date": "2026-06-04",
+          "quote": "I am confident in my SIVE thesis playing out and am not selling a single share.",
+          "url": "https://x.com/aleabitoreddit/status/2062442844766531594"
+        },
+        {
+          "date": "2026-06-04",
+          "quote": "SIVE looks like both a chokepoint and a bottleneck for CPO next year; likely primary/sole source for Jabil, Gen-1 Ayar, MRVL Celestial and other routes.",
+          "url": "https://x.com/aleabitoreddit/status/2062433114933334487"
+        },
         {
           "date": "2026-06-03",
           "quote": "SIVE 100% confirmed laser supplier to Ayar. SIVE high confidence laser supplier to Marvell Celestial, Lightmatter.",
@@ -428,28 +620,51 @@
       "name": "X-FAB",
       "tier": "focus",
       "theme": "European silicon photonics foundry",
-      "thesis": "Serenity compares XFAB to early TSEM: sub-$2B valuation, NVDA/NOK validation, photonixFAB, and EU Chips Act 2 tailwind.",
-      "whyItMatters": "This is a low-valuation European photonics-foundry re-rating thesis rather than a pure CPO component trade.",
+      "thesis": "Serenity continues to frame XFAB as a mispriced European silicon-photonics foundry: sub-$2B valuation, NVDA/NOK pre-commercial SiPH validation, EU/US CHIPS Act support, and now explicit EU CHIPS Act 2.0 photonics policy tailwind.",
+      "whyItMatters": "XFAB is the foundry-side expression of the European photonics policy trade. New posts add two angles: EU listing valuation discount versus NASDAQ peers like POET, and a possible automotive/autonomous-cycle bottom signal from TSM comments.",
       "catalysts": [
+        "EU CHIPS Act 2.0 confirms photonics, CPO/interconnects and silicon photonics as policy focus",
+        "Serenity compares XFAB valuation favorably versus POET despite deeper foundry assets",
+        "TSM autonomous vehicle / robot growth comments may validate depressed auto-exposed names like XFAB",
         "EU Chips Act 2 demand/funding support",
         "Serenity says XFAB and SIVE are highlighted in EU Industry Policy Blueprints",
         "photonixFAB validation",
         "NVDA and NOK activity around silicon photonics"
       ],
       "risks": [
+        "EU policy support may take 3-15 months to translate into company-specific awards",
+        "XFAB remains exposed to automotive-cycle weakness even if TSM comments hint at a bottom",
         "Pre-commercial foundry validation may not translate quickly into revenue",
         "Automotive-cycle drag",
         "Need to separate grants from guaranteed demand"
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Read EU CHIPS Act 2.0 proposal and impact analysis for exact XFAB, SOI and photonics language",
+        "Compare POET contract economics with XFAB foundry capacity and replacement value",
+        "Track whether TSM autonomous vehicle comments show up in XFAB order trends",
         "Read the EU Industry Policy Blueprints and confirm exact XFAB/SIVE references",
         "Verify NVDA/NOK validation details",
         "Read photonixFAB project disclosures",
         "Compare valuation to P/B and replacement-cost assumptions"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-04 18:45",
       "evidence": [
+        {
+          "date": "2026-06-04",
+          "quote": "Autonomous robots / autonomous vehicles seen as growth areas for TSM, a possible validation point for XFAB and others in a slump with auto exposure.",
+          "url": "https://x.com/aleabitoreddit/status/2062472717283312046"
+        },
+        {
+          "date": "2026-06-03",
+          "quote": "XFAB at about $1.7B market cap has SiC/GaN/MEMS/Silicon Photonics foundry assets, EU/US CHIPS Act backing, and NVDA/NOK direct evaluation.",
+          "url": "https://x.com/aleabitoreddit/status/2062139870613745890"
+        },
+        {
+          "date": "2026-06-04",
+          "quote": "EU CHIPS Act 2.0 confirms photonics as a structural addition to EU policy, with CPO/interconnects and XFAB specifically called out by Serenity.",
+          "url": "https://x.com/aleabitoreddit/status/2062176094162428410"
+        },
         {
           "date": "2026-06-03",
           "quote": "Europe is releasing its Tech Sovereignty Package... Both XFAB and SIVE are highlighted in the Industry Policy Blueprints.",
@@ -478,26 +693,35 @@
       "name": "Marvell Technology",
       "tier": "watch",
       "theme": "AI ASIC / CPO large-cap validation",
-      "thesis": "Serenity holds MRVL and highlights Jensen Huang's 'next $1T company' remark, but also notes the short-term move was comment-driven rather than fundamental.",
+      "thesis": "Serenity still treats MRVL as a large-cap AI interconnect / ASIC validation name, now reinforced by AVGO commentary that AI networking demand is rich-margin and visible into 2028; MRVL also remains relevant to the SIVE thesis through the inferred Celestial laser supply chain.",
       "whyItMatters": "MRVL is both a liquid large-cap AI infrastructure expression and a possible validation path for SIVE via Celestial lasers.",
       "catalysts": [
+        "AVGO transcript read-through: AI networking demand is insatiable and visibility extends to 2028",
+        "OpenAI custom silicon late-2026 production and Meta H2 2027 custom AI program timing support broader ASIC cycle",
         "Jensen Huang public endorsement",
         "AI ASIC/Celestial narrative",
         "Potential SIVE laser supplier connection"
       ],
       "risks": [
+        "AVGO demand strength does not automatically translate to MRVL share gains",
         "Short-term overextension after 35% move",
         "Large-cap upside depends on execution and valuation",
         "SIVE supplier link requires verification"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
+        "Compare AVGO customer timelines with MRVL AI ASIC pipeline disclosures",
         "Confirm Jensen quote and event context",
         "Verify MRVL Celestial supplier chain",
         "Separate AI ASIC growth from optical/CPO thesis"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-04 18:45",
       "evidence": [
+        {
+          "date": "2026-06-04",
+          "quote": "AVGO transcript notes show strongly bullish AI demand, especially networking, with demand curves into 2026, 2027 and 2028.",
+          "url": "https://x.com/aleabitoreddit/status/2062322546809381094"
+        },
         {
           "date": "2026-06-02",
           "quote": "MRVL the next $1T company... I have positions in Marvell.",
@@ -682,9 +906,11 @@
       "name": "Lumentum",
       "tier": "watch",
       "theme": "Historical optical-cycle analog / CPO laser supplier",
-      "thesis": "Serenity uses LITE as the historical analog for the first optical wave and notes it is one of two public laser suppliers with SIVE in GFS-related CPO context.",
+      "thesis": "Serenity now uses LITE not only as a historical optical-cycle analog but also as evidence that CW laser capacity is already bottlenecked, supporting the broader CPO laser supply thesis around SIVE and other optical names.",
       "whyItMatters": "LITE is both precedent and a larger-cap reference point for the smaller SIVE/Foci/MSSCorp theses.",
       "catalysts": [
+        "LITE earnings interpreted by Serenity as a CW laser bottleneck signal",
+        "AVGO AI networking transcript read-through supports optical/networking demand",
         "Optical-cycle continuation",
         "CPO laser supplier role",
         "Hyperscaler AI capex expansion"
@@ -696,12 +922,23 @@
       ],
       "stance": "跟踪观察",
       "nextChecks": [
+        "Check LITE earnings transcript for exact CW laser / EML capacity commentary",
         "Verify GFS presentation supplier reference",
         "Compare LITE valuation with SIVE",
         "Track AI optical revenue contribution"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-04 18:45",
       "evidence": [
+        {
+          "date": "2026-06-04",
+          "quote": "AVGO AI networking demand is a positive read-through for LITE and other players.",
+          "url": "https://x.com/aleabitoreddit/status/2062322546809381094"
+        },
+        {
+          "date": "2026-06-04",
+          "quote": "CW lasers are bottlenecked signaled by LITE earnings; laser fabs are heavily allocated to EML.",
+          "url": "https://x.com/aleabitoreddit/status/2062433114933334487"
+        },
         {
           "date": "2026-06-03",
           "quote": "LITE rode the first optical wave from $3B to $75B in 2 years time with EML and pluggables.",
@@ -922,30 +1159,115 @@
       "id": "soi",
       "ticker": "$SOI",
       "name": "SOI",
-      "tier": "archive",
-      "theme": "Prior winner / European semiconductor context",
-      "thesis": "Serenity says she is up about 250% on SOI, but the observed posts do not give enough fresh thesis detail to make it a current actionable line.",
-      "whyItMatters": "Keep as context for her European semiconductor calls, but avoid treating it as a new recommendation without fresh evidence.",
+      "tier": "watch",
+      "theme": "Silicon photonics substrate / EU policy beneficiary",
+      "thesis": "SOI has moved from archive context back to watchlist because Serenity explicitly grouped it with SIVE as a tiny upstream chokepoint: SOI for silicon photonics substrates, with additional EU CHIPS Act 2.0 impact-analysis support for Europe's SOI wafer strength.",
+      "whyItMatters": "If hyperscaler AI capex flows upward into photonics substrates, SOI could be a less direct but structurally relevant European photonics supply-chain expression.",
       "catalysts": [
+        "Goldman hyperscaler capex upgrade used by Serenity to support upstream chokepoint assets",
+        "EU CHIPS Act 2.0 impact analysis says the EU has a strong SOI wafer position with Soitec and Siltronic",
         "Prior market miss",
         "European semiconductor momentum"
       ],
       "risks": [
+        "SOI linkage is less direct than SIVE because Serenity gave less company-specific operating detail",
+        "Need to confirm whether SOI ticker maps to the intended Soitec/SOI exposure in the user's market universe",
         "Insufficient fresh thesis",
         "Already large move",
         "May be stale relative to current CPO focus"
       ],
-      "stance": "暂不纳入",
+      "stance": "跟踪观察",
       "nextChecks": [
+        "Confirm the exact listed vehicle / ticker Serenity means by SOI",
+        "Read EU CHIPS Act 2.0 impact analysis for Soitec and Siltronic language",
+        "Check whether silicon photonics substrate demand is already visible in company guidance",
         "Only revisit if Serenity posts a fresh SOI thesis",
         "Check whether SOI links to photonics or AI supply chain"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-04 18:45",
       "evidence": [
+        {
+          "date": "2026-06-03",
+          "quote": "EU impact analysis notes the EU has a relatively strong global position in SOI wafers, with Soitec and Siltronic notable players.",
+          "url": "https://x.com/aleabitoreddit/status/2062176094162428410"
+        },
+        {
+          "date": "2026-06-04",
+          "quote": "Goldman capex flows upward to tiny chokepoints like SIVE for CPO lasers and SOI for Silicon Photonics substrates.",
+          "url": "https://x.com/aleabitoreddit/status/2062378784855368077"
+        },
         {
           "date": "2026-06-03",
           "quote": "I'm up like 250% on SOI... surprised markets missed that one.",
           "url": "https://x.com/aleabitoreddit/status/2061806782226604188"
+        }
+      ]
+    },
+    {
+      "id": "tsm-visera",
+      "ticker": "$TSM / Visera",
+      "name": "TSMC CoPoS / Visera",
+      "tier": "watch",
+      "theme": "CoPoS advanced packaging / TSM subsidiary exposure",
+      "thesis": "Serenity highlights TSM chairman comments that CoPoS could reach large volumes within 2-3 years and already has pilot lines, while noting Visera as a TSM-subsidiary-heavy exposure that has begun to re-rate.",
+      "whyItMatters": "This is a newer, less developed long idea for next year: if CoPoS volume timing is earlier than market expected, TSM-adjacent optical/packaging subsidiaries may re-rate before revenue is obvious.",
+      "catalysts": [
+        "TSM chairman says CoPoS volumes could be large within 2-3 years",
+        "Pilot lines already running",
+        "Visera already started to re-rate in Serenity's observation",
+        "Autonomous vehicles / robots cited as TSM growth areas"
+      ],
+      "risks": [
+        "Visera exposure and investability need ticker-level verification",
+        "CoPoS timing may still slip from pilot to volume",
+        "Serenity frames this as a long idea for next year, not a current high-conviction position"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Identify Visera ticker, market cap and TSM ownership/exposure",
+        "Find original TSM chairman CoPoS comment and exact Chinese/English wording",
+        "Map CoPoS supply chain beneficiaries beyond TSM",
+        "Check whether autonomous vehicle/robot comments affect XFAB or other auto-exposed suppliers"
+      ],
+      "lastUpdated": "2026-06-04 18:45",
+      "evidence": [
+        {
+          "date": "2026-06-04",
+          "quote": "TSM chairman: CoPoS very large within 2-3 year volumes already pilot lines now; Visera already got re-rated a bit.",
+          "url": "https://x.com/aleabitoreddit/status/2062472717283312046"
+        }
+      ]
+    },
+    {
+      "id": "crypto-platforms",
+      "ticker": "$COIN / $HOOD / $CRCL",
+      "name": "Crypto platform equities",
+      "tier": "speculative",
+      "theme": "Crypto policy pressure / swing-trade valuation reset",
+      "thesis": "Serenity notes renewed policy pressure on crypto-linked financial platforms from bank-lobbied legislation, but says valuations look compelling again for swing trading.",
+      "whyItMatters": "This is not part of her core AI/CPO supply-chain thesis. It is a tactical risk/reward observation around policy, liquidity and valuation after crypto-related weakness.",
+      "catalysts": [
+        "Policy headlines around Clarity Act / bank-lobbied bills",
+        "Liquidity or crypto beta rebound",
+        "Valuation reset after pressure on COIN, HOOD and CRCL"
+      ],
+      "risks": [
+        "Highly policy-sensitive and not a long-term conviction thesis in the observed posts",
+        "Crypto beta can override company fundamentals",
+        "Need to separate platform revenue exposure from token price moves"
+      ],
+      "stance": "轻仓观察",
+      "nextChecks": [
+        "Read the relevant bill text and affected yield/stablecoin provisions",
+        "Check COIN, HOOD and CRCL valuation versus volume/revenue sensitivity",
+        "Track whether Serenity posts follow-up beyond swing-trade language"
+      ],
+      "lastUpdated": "2026-06-04 18:45",
+      "evidence": [
+        {
+          "date": "2026-06-04",
+          "quote": "COIN, HOOD, CRCL valuations do seem compelling again if you are swing trading.",
+          "url": "https://x.com/aleabitoreddit/status/2062353660928278820"
         }
       ]
     }
