@@ -1,13 +1,88 @@
 {
-  "generatedAt": "2026-06-04T18:45:00+08:00",
-  "sourceWindow": "X profile and replies: @aleabitoreddit; latest refresh 2026-06-04 18:45 Beijing, full status pages read after opening Show more-equivalent status views",
+  "generatedAt": "2026-06-05T16:30:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-05 16:30 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
   "summary": {
-    "focus": 4,
+    "focus": 6,
     "watch": 9,
     "speculative": 6,
     "archive": 0
   },
   "latestUpdates": [
+    {
+      "date": "2026-06-05",
+      "publishedAt": "2026-06-05T10:31:00+08:00",
+      "type": "LeaderDrive / 绿的谐波 / 人形机器人",
+      "impactZh": "Serenity 专门用中文发给中国读者，称绿的谐波（688017）是她布局人形机器人赛道最青睐的中国上市标的。核心逻辑是谐波减速器、旋转关节减速器、直线执行器、电机/关节等核心零部件，并开始进入 planetary roller screws。她认为这些部件可能占单台人形机器人 BOM 的 4%-15%，甚至未来更高。",
+      "original": "LeaderDrive (688017) is my favorite Chinese listed company for humanoid robots... harmonic reducers, humanoid robot rotary joint reducers, linear actuators, motors/joints, and planetary roller screws... BOM roughly 4-15% of each humanoid robot.",
+      "related": [
+        "LeaderDrive",
+        "688017",
+        "humanoid robotics",
+        "Physical AI",
+        "Tesla",
+        "Figure",
+        "UBTech",
+        "Agibot"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062723902728802341"
+    },
+    {
+      "date": "2026-06-05",
+      "publishedAt": "2026-06-05T08:46:00+08:00",
+      "type": "AAOI / 800G 与 1.6T 光模块瓶颈",
+      "impactZh": "Serenity 明确说 AAOI 是自己从 28 美元开始持续 averaging up 的标的之一，并认为若执行顺利可能 double or triple。她的逻辑是 800G / 1.6T 光模块需求太强，AAOI 目标是美国最大产能且高度垂直整合；sovereign DC 与 Tier-2 AI DC 可能在 hyperscaler 升级到 1.6T 时继续拉动 800G 需求。她还认为市场可能低估瓶颈带来的 ASP 上升和 margin expansion。",
+      "original": "$AAOI is one of the names I keep averaging up on since $28... too much demand for 800g/1.6T optical transceivers... could see unexpected price hikes + margin expansion across the board from $AAOI, $LITE, and others.",
+      "related": [
+        "AAOI",
+        "LITE",
+        "AMD",
+        "NVDA",
+        "800G",
+        "1.6T optical transceivers"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062697638500462639"
+    },
+    {
+      "date": "2026-06-05",
+      "publishedAt": "2026-06-05T08:03:00+08:00",
+      "type": "Anthropic / sovereign AI capex",
+      "impactZh": "Serenity 将 Anthropic 呼吁全球暂停 AI development 解读为“让我们先领先，别人别建”，并认为这类言论反而会刺激各国继续投资 AI。该内容不是单一标的推荐，但强化 sovereign AI、国家级 AI capex 和 AI 基础设施继续投入的宏观逻辑。",
+      "original": "Anthropic: “Urges Global Pause in AI Development”. Translation: “please let us take the lead, stop building!” Regardless, statements like this encourage every Country to start investing in AI.",
+      "related": [
+        "Anthropic",
+        "sovereign AI",
+        "AI capex"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062686651940483414"
+    },
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T23:08:00+08:00",
+      "type": "RDDT / AI 时代网络效应平台",
+      "impactZh": "Serenity 重新强调 RDDT，称其 massive earnings beat、FCF 强、收入同比增长 69%、gross margin 91.5%，并认为 Reddit 的网络效应是对抗 AI vibe coding 的护城河。该线索属于 AI/互联网平台基本面质量观察，不属于 CPO 主线。",
+      "original": "$RDDT was driving me insane... massive earnings beat... 69% Y/Y revenue growth... biggest moat against AI vibe coding from network effect... 91.5% gross margin.",
+      "related": [
+        "RDDT",
+        "Reddit",
+        "AI applications",
+        "network effect"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062552171502330188"
+    },
+    {
+      "date": "2026-06-04",
+      "publishedAt": "2026-06-04T21:04:00+08:00",
+      "type": "SIVE / 瑞典空头基金亏损",
+      "impactZh": "Serenity 提到瑞典 hedge fund Origo 因 short SIVE 亏损严重，称许多瑞典空头基金已经 heavily underwater。她把这与 SIVE 是 CPO supercycle 核心部分联系起来，并认为近期围绕 SIVE 的负面消息可能与空头压力有关。这强化的是高波动和 short squeeze 叙事，不是新的客户基本面证据。",
+      "original": "Origo’s fund has lost substantial money shorting $SIVE... Many of these Swedish hedge funds are now heavily underwater... as an accidental byproduct of $SIVE being a core part of the CPO supercycle.",
+      "related": [
+        "SIVE",
+        "Origo",
+        "short sellers",
+        "CPO supercycle"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062520852537917649"
+    },
     {
       "date": "2026-06-04",
       "publishedAt": "2026-06-04T17:53:00+08:00",
@@ -390,6 +465,7 @@
       "thesis": "Serenity has upgraded SIVE from a GFS/Ayar-linked laser supplier idea into her strongest CPO thesis: she now argues SIVE is both the bottleneck and chokepoint for ASIC/merchant CPO routes, with possible primary or sole-source exposure to Jabil, Gen-1 Ayar, Marvell Celestial, Lightmatter and GFS-linked ecosystem partners.",
       "whyItMatters": "The thesis is no longer only about one customer validation. In her framework, SIVE controls scarce CW laser output through Win Semi and other fabs while being embedded in reference or route architectures used by multiple CPO programs; if correct, it creates ecosystem-level leverage into the 2027/2028 CPO ramp.",
       "catalysts": [
+        "Swedish hedge funds short SIVE reportedly heavily underwater, reinforcing short-squeeze pressure",
         "Serenity says SIVE is both a CPO chokepoint and bottleneck for next year",
         "CW laser shortage signal from LITE earnings and constrained Sumitomo/Furukawa / Win Semi capacity",
         "Win Semi private placement to scale capacity, with Serenity confident it can support SIVE volume",
@@ -409,6 +485,7 @@
         "EU Tech Sovereignty Package / Chips Act 2.0 photonics priority"
       ],
       "risks": [
+        "Short-seller loss stories can amplify volatility without adding new customer evidence",
         "Key primary/sole-source claims for Jabil, Ayar, Marvell Celestial and Lightmatter remain inference-heavy unless confirmed by filings or customer disclosures",
         "Win Semi capacity timing and exact 2027/2028 output remain unknown",
         "Insider selling FUD requires factual review even if Serenity dismisses it",
@@ -421,6 +498,7 @@
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Find original Origo hedge fund short-loss article and quantify short exposure",
         "Verify Win Semi private placement details and whether proceeds are tied to CW laser capacity relevant to SIVE",
         "Confirm whether Jabil 1.6T LRO architecture publicly identifies SIVE or only implies it",
         "Track June vote and whether GFS/JBL strategic stake speculation develops into an actual filing",
@@ -437,8 +515,13 @@
         "Check whether SIVE revenue guidance reflects CPO/pluggables",
         "Track customer concentration and production timing"
       ],
-      "lastUpdated": "2026-06-04 18:45",
+      "lastUpdated": "2026-06-05 16:30",
       "evidence": [
+        {
+          "date": "2026-06-04",
+          "quote": "Origo’s fund has lost substantial money shorting SIVE; many Swedish hedge funds are now heavily underwater.",
+          "url": "https://x.com/aleabitoreddit/status/2062520852537917649"
+        },
         {
           "date": "2026-06-04",
           "quote": "It is not a monopoly, just technical dominance over ASIC/Merchant CPO route architectures.",
@@ -822,28 +905,43 @@
       "id": "aaoi",
       "ticker": "$AAOI",
       "name": "Applied Optoelectronics",
-      "tier": "watch",
-      "theme": "Optical supercycle / capacity ramp",
-      "thesis": "Serenity includes AAOI in her current top risk/reward list, citing H1 2027 revenue projections from capacity ramp.",
-      "whyItMatters": "AAOI is one of her high-conviction optical-cycle names, but the upside is tied to future ramp projections.",
+      "tier": "focus",
+      "theme": "800G / 1.6T optical transceivers / US optical capacity",
+      "thesis": "Serenity now gives AAOI a higher-conviction framing: she says she has been averaging up since $28 and sees potential for a double or triple if the company executes, driven by 800G/1.6T optical transceiver demand, US-based large capacity and vertical integration.",
+      "whyItMatters": "AAOI is a liquid optical-cycle expression tied directly to AI datacenter bandwidth demand. The new point is not just 2027 capacity, but a possible near-term bottleneck in H1 next year that could keep ASPs and margins higher than modeled.",
       "catalysts": [
+        "Serenity says she has kept averaging up AAOI since $28",
+        "800G demand may keep rising as hyperscalers move to 1.6T and sovereign / Tier-2 AI datacenters absorb capacity",
+        "Potential AMD / NVDA customer conversations, still rumor-level",
+        "Possible price hikes and margin expansion if optical transceivers bottleneck in H1 next year",
         "H1 2027 capacity/revenue ramp",
         "Optical supercycle attention",
         "Peer re-rating across optical names"
       ],
       "risks": [
+        "AMD / NVDA conversation claims are analyst rumors and need verification",
+        "Execution risk around scaling the largest US optical capacity",
+        "If ASPs fall at scale as consensus expects, the margin upside thesis weakens",
         "Large projected market-cap target is aggressive",
         "Capacity ramp and customer timing need verification",
         "High volatility in optical names"
       ],
-      "stance": "跟踪观察",
+      "stance": "重点关注",
       "nextChecks": [
+        "Verify AAOI capacity target and vertical integration claims from company filings",
+        "Check latest AAOI customer concentration and whether AMD/NVDA conversations are sourced",
+        "Track 800G and 1.6T ASP assumptions across analysts",
         "Verify H1 2027 revenue projections",
         "Check capacity additions and customer commitments",
         "Compare with SIVE/Foci risk-reward"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-05 16:30",
       "evidence": [
+        {
+          "date": "2026-06-05",
+          "quote": "AAOI is one of the names I keep averaging up on since $28... could see unexpected price hikes and margin expansion across the board from AAOI, LITE and others.",
+          "url": "https://x.com/aleabitoreddit/status/2062697638500462639"
+        },
         {
           "date": "2026-05-30",
           "quote": "AAOI at $12B... usually the best risk/reward to me currently.",
@@ -1268,6 +1366,77 @@
           "date": "2026-06-04",
           "quote": "COIN, HOOD, CRCL valuations do seem compelling again if you are swing trading.",
           "url": "https://x.com/aleabitoreddit/status/2062353660928278820"
+        }
+      ]
+    },
+    {
+      "id": "leaderdrive",
+      "ticker": "688017",
+      "name": "LeaderDrive / 绿的谐波",
+      "tier": "focus",
+      "theme": "Humanoid robotics / harmonic reducers / Physical AI components",
+      "thesis": "Serenity calls LeaderDrive her favorite Chinese-listed humanoid robotics company, highlighting harmonic reducers, humanoid robot rotary-joint reducers, linear actuators, motors/joints and a push into planetary roller screws.",
+      "whyItMatters": "This is a direct Physical AI hardware-components thesis. If humanoid robot production scales, LeaderDrive could capture a meaningful BOM share across core motion components rather than relying on one narrow product.",
+      "catalysts": [
+        "Serenity says LeaderDrive is her favorite Chinese listed humanoid robotics name",
+        "Claimed domestic harmonic reducer share above 60% and 1,800+ global customers",
+        "Exposure to rotary-joint reducers, linear actuators, motors/joints and planetary roller screws",
+        "Potential customers or ecosystem relevance include UBTech, Agibot, Tesla and Figure in her framework",
+        "Physical AI and humanoid robot scale production"
+      ],
+      "risks": [
+        "Market-share and customer claims need primary-source verification",
+        "Humanoid volume timing is highly uncertain and hard to model",
+        "A-share valuation and liquidity may differ from US-listed AI hardware names",
+        "Tesla/Figure customer linkage is framed as potential, not confirmed"
+      ],
+      "stance": "重点关注",
+      "nextChecks": [
+        "Verify 60% domestic share and 1,800+ customer claims from company reports",
+        "Estimate reducer/actuator/motor BOM value per humanoid robot",
+        "Check actual customer list: Universal Robots, UBTech, Agibot and any Tesla/Figure evidence",
+        "Review 688017 valuation, revenue mix and capacity plans"
+      ],
+      "lastUpdated": "2026-06-05 16:30",
+      "evidence": [
+        {
+          "date": "2026-06-05",
+          "quote": "LeaderDrive is my favorite Chinese listed company for humanoid robots, with harmonic reducers, rotary joint reducers, linear actuators, motors/joints and planetary roller screws.",
+          "url": "https://x.com/aleabitoreddit/status/2062723902728802341"
+        }
+      ]
+    },
+    {
+      "id": "rddt",
+      "ticker": "$RDDT",
+      "name": "Reddit",
+      "tier": "watch",
+      "theme": "AI-era internet platform / network-effect moat",
+      "thesis": "Serenity reiterates RDDT as a mispriced high-quality internet platform, pointing to a major earnings beat, strong FCF, 69% year-over-year revenue growth, 91.5% gross margin and network-effect moat against AI-generated software/content workflows.",
+      "whyItMatters": "RDDT is not an AI infrastructure supply-chain name, but it is a liquid AI-era platform thesis: user network effects, data/community depth and high gross margin may be undervalued if growth continues.",
+      "catalysts": [
+        "Renewed market attention after months of flat trading",
+        "69% YoY revenue growth cited by Serenity",
+        "91.5% gross margin and strong free cash flow",
+        "Network-effect moat against AI vibe coding in her view"
+      ],
+      "risks": [
+        "Financial metrics should be checked against latest filings",
+        "Platform valuation can compress if growth slows",
+        "Not part of Serenity core CPO/Physical AI hardware thesis"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Verify latest RDDT revenue growth, gross margin and FCF from filings",
+        "Check valuation versus revenue growth and margin profile",
+        "Assess AI data licensing, user growth and ad monetization sustainability"
+      ],
+      "lastUpdated": "2026-06-05 16:30",
+      "evidence": [
+        {
+          "date": "2026-06-04",
+          "quote": "RDDT had a massive earnings beat, 69% Y/Y revenue growth, 91.5% gross margin and network-effect moat against AI vibe coding.",
+          "url": "https://x.com/aleabitoreddit/status/2062552171502330188"
         }
       ]
     }

@@ -97,12 +97,12 @@ const zhCopy = {
     nextChecks: ["找到她提到的那份报告", "确认 Xintech 股权关系与对 TSM 的收入依赖", "判断 COUPE 是否会带来测试量增长"],
   },
   aaoi: {
-    theme: "光学超级周期 / 产能爬坡",
-    thesis: "Serenity 将 AAOI 放入当前风险收益比较靠前的名单，依据是 H1 2027 产能爬坡带来的收入预测。",
-    whyItMatters: "AAOI 是她高信心光学周期标的之一，但上行依赖未来产能和收入兑现。",
-    catalysts: ["2027 年上半年产能 / 收入爬坡", "光学超级周期关注", "光学同业重估"],
-    risks: ["市值目标较激进", "产能爬坡与客户时间需要验证", "光学标的整体波动很大"],
-    nextChecks: ["核实 H1 2027 收入预测", "检查产能扩张与客户承诺", "与 SIVE / FOCI 的风险收益对比"],
+    theme: "800G / 1.6T 光模块 / 美国光学产能",
+    thesis: "Serenity 将 AAOI 升级为更高信心的光模块线索：她称自己从 28 美元开始持续 averaging up，并认为如果公司执行顺利，可能 double 或 triple。",
+    whyItMatters: "AAOI 是 AI 数据中心带宽需求的直接表达。新增重点不是单纯 2027 产能，而是 H1 明年可能出现 800G / 1.6T 光模块瓶颈，从而带来 ASP 和利润率超预期。",
+    catalysts: ["Serenity 称自己从 28 美元开始持续加仓 AAOI", "hyperscaler 升级到 1.6T 后，sovereign / Tier-2 AI DC 可能继续吸收 800G 产能", "AMD / NVDA 相关客户对话传闻，仍需核实", "如果 H1 明年光模块成为瓶颈，可能出现涨价和 margin expansion", "2027 年上半年产能 / 收入爬坡", "光学超级周期关注", "光学同业重估"],
+    risks: ["AMD / NVDA 对话仍是 analyst rumors，需要验证", "美国最大产能和垂直整合执行存在风险", "如果规模化后 ASP 如市场预期下行，利润率上行逻辑会削弱", "市值目标较激进", "产能爬坡与客户时间需要验证", "光学标的整体波动很大"],
+    nextChecks: ["核实 AAOI 产能目标和垂直整合表述", "检查最新客户集中度及 AMD / NVDA 传闻来源", "比较分析师对 800G / 1.6T ASP 的假设", "核实 H1 2027 收入预测", "检查产能扩张与客户承诺", "与 SIVE / FOCI 的风险收益对比"],
   },
   shunsin: {
     theme: "台湾光学 / CPO 相邻暴露",
@@ -191,6 +191,22 @@ const zhCopy = {
     catalysts: ["Clarity Act / 银行游说相关法案消息", "Crypto beta 或流动性回暖", "COIN、HOOD、CRCL 回调后的估值修复"],
     risks: ["高度依赖政策变化，且不是长期高信心 thesis", "Crypto beta 可能压过公司基本面", "需要区分交易平台收入暴露和币价波动"],
     nextChecks: ["阅读相关法案条文，确认 yield / stablecoin 受影响部分", "比较 COIN、HOOD、CRCL 对交易量和 crypto beta 的敏感性", "观察 Serenity 是否继续给出后续，而不是只停留在 swing-trade 表述"],
+  },
+  leaderdrive: {
+    theme: "人形机器人 / 谐波减速器 / Physical AI 零部件",
+    thesis: "Serenity 称绿的谐波是她最青睐的中国上市人形机器人标的，核心暴露包括谐波减速器、旋转关节减速器、直线执行器、电机 / 关节，以及行星滚柱丝杠。",
+    whyItMatters: "这是一个直接的 Physical AI 硬件零部件 thesis。如果人形机器人量产放大，绿的谐波可能通过多个运动控制核心部件获得可观 BOM 份额，而不是只依赖单一产品。",
+    catalysts: ["Serenity 称绿的谐波是她最喜欢的中国上市人形机器人标的", "她提到国内谐波减速器份额超过 60%、全球客户超过 1800 家", "暴露于旋转关节减速器、直线执行器、电机 / 关节和行星滚柱丝杠", "她框架中潜在相关客户包括优必选、智元机器人、Tesla、Figure 等", "Physical AI 与人形机器人规模化量产"],
+    risks: ["市场份额和客户数量需要原始资料确认", "人形机器人量产节奏高度不确定，难以精确建模", "A 股估值和流动性与美股 AI 硬件标的不同", "Tesla / Figure 只是潜在客户框架，不是确认供应关系"],
+    nextChecks: ["核实 60% 国内份额和 1800+ 客户说法", "估算每台人形机器人中减速器 / 执行器 / 电机的 BOM 价值", "核对 Universal Robots、优必选、智元机器人以及 Tesla / Figure 证据", "查看 688017 估值、收入结构和扩产计划"],
+  },
+  rddt: {
+    theme: "AI 时代互联网平台 / 网络效应护城河",
+    thesis: "Serenity 重新强调 RDDT，认为它有强劲 earnings beat、FCF、69% 同比收入增长、91.5% gross margin，以及对抗 AI vibe coding 的网络效应护城河。",
+    whyItMatters: "RDDT 不是 AI 基建供应链标的，但属于 AI 时代平台型资产：社区网络效应、数据深度和高毛利率如果持续，可能被市场低估。",
+    catalysts: ["横盘数月后重新获得市场关注", "Serenity 引用 69% YoY revenue growth", "91.5% gross margin 和强 FCF", "她认为 Reddit 网络效应能对抗 AI vibe coding"],
+    risks: ["财务数据需要用最新 filing 核实", "如果增长放缓，平台估值可能压缩", "不属于 Serenity 当前 CPO / Physical AI 硬件主线"],
+    nextChecks: ["核实 RDDT 最新收入增长、毛利率和 FCF", "比较估值、收入增长和利润率", "评估 AI 数据授权、用户增长和广告变现是否可持续"],
   },
 };
 
