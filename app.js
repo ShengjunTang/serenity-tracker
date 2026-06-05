@@ -446,7 +446,9 @@ function renderTable() {
 }
 
 function renderLatestUpdates() {
-  const updates = [...state.latestUpdates].sort((a, b) => new Date(b.publishedAt ?? b.date) - new Date(a.publishedAt ?? a.date));
+  const latestBatch = state.latestUpdates.find((item) => item.batch)?.batch;
+  const scopedUpdates = latestBatch ? state.latestUpdates.filter((item) => item.batch === latestBatch) : state.latestUpdates;
+  const updates = [...scopedUpdates].sort((a, b) => new Date(b.publishedAt ?? b.date) - new Date(a.publishedAt ?? a.date));
   const visibleUpdates = state.latestExpanded ? updates : updates.slice(0, 3);
   els.latestCount.textContent = state.latestExpanded ? `${updates.length} 条` : `显示 ${visibleUpdates.length}/${updates.length} 条`;
   if (!updates.length) {
@@ -467,6 +469,7 @@ function renderLatestUpdates() {
           <div class="latest-meta">
             <time class="latest-date" datetime="${escapeHtml(item.publishedAt ?? item.date)}">${escapeHtml(formatDateTime(item.publishedAt ?? item.date))}</time>
             <span class="latest-zone">北京时间</span>
+            ${item.importanceLabel ? `<span class="importance-badge ${escapeHtml(item.importance ?? "medium")}">${escapeHtml(item.importanceLabel)}</span>` : ""}
             <span class="latest-type">${escapeHtml(item.type)}</span>
           </div>
           <div>
