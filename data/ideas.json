@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-06T10:58:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-06 10:58 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
+  "generatedAt": "2026-06-06T19:25:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-06 19:25 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
   "summary": {
     "focus": 6,
     "watch": 10,
@@ -8,6 +8,60 @@
     "archive": 0
   },
   "latestUpdates": [
+    {
+      "date": "2026-06-06",
+      "publishedAt": "2026-06-06T18:46:59+08:00",
+      "type": "LeaderDrive 688017 / 中文媒体扩散与涨停反馈",
+      "impactZh": "Serenity 跟进称，她关于绿的谐波（LeaderDrive，688017）在人形机器人供应链角色的研究已经被中文媒体广泛传播；她观察到中国机器人板块上涨，688017 触及 20% 涨停。这条更多是市场反馈和传播扩散，不是新的基本面证据，但强化了 Physical AI / 人形机器人零部件线索的关注度。",
+      "original": "Serenity said her LeaderDrive research was all over Chinese news, the China robotics stock sector went up, and 688017 hit 20% limit up.",
+      "related": [
+        "LeaderDrive",
+        "688017",
+        "humanoid robotics",
+        "Physical AI",
+        "Chinese media"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063211040989733012",
+      "batch": "2026-06-06T19:25:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "市场反馈"
+    },
+    {
+      "date": "2026-06-06",
+      "publishedAt": "2026-06-06T16:37:22+08:00",
+      "type": "XFAB / 早期 TSEM 类比 / H2 2027 CPO 节点",
+      "impactZh": "Serenity 周末继续强化 XFAB：她认为 XFAB 可能像早期 TSEM，仍处在 14 亿美元左右市值的早期阶段；公司可能跳过当前一代 CPO 量产节奏，面向 H2 2027 的 CPO scale-up inflection point 做准备。该线索强化 XFAB 的长期 CPO foundry 期权属性，但也说明商业化节点更偏 2027，短期需要耐心。",
+      "original": "XFAB could be the next TSEM, still early around $1.4B market cap, and may compete for the H2 2027 CPO scale-up inflection point.",
+      "related": [
+        "XFAB",
+        "TSEM",
+        "CPO",
+        "silicon photonics",
+        "H2 2027"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063178421497221604",
+      "batch": "2026-06-06T19:25:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-06",
+      "publishedAt": "2026-06-06T12:40:35+08:00",
+      "type": "RDDT / 高 beta 仓位节奏 / AAOI MRVL 对照",
+      "impactZh": "Serenity 借 RDDT 两天回撤提醒仓位节奏：即使方向判断正确，短线 timing 也可能错；相比使用高杠杆或短周期交易，她更倾向持有 AAOI、MRVL 这类本身已经高 beta 的个股。这条不是新的 RDDT 基本面 thesis，而是风险控制和持仓周期提醒。",
+      "original": "You can be right directionally, but wrong on short-term timing. One extra week or month makes a huge difference.",
+      "related": [
+        "RDDT",
+        "AAOI",
+        "MRVL",
+        "high beta",
+        "position sizing"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063118835105014006",
+      "batch": "2026-06-06T19:25:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "风险提醒"
+    },
     {
       "date": "2026-06-06",
       "publishedAt": "2026-06-06T09:55:51+08:00",
@@ -329,253 +383,6 @@
         "AI networking"
       ],
       "url": "https://x.com/aleabitoreddit/status/2062322546809381094"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T22:14:00+08:00",
-      "type": "EU CHIPS Act 2.0 / Photonics 正式纳入政策",
-      "impactZh": "她称 EU CHIPS Act 2.0 proposal 已发布，photonics 被确认为 Chips for Europe Initiative 的新结构性组成部分；政策明确支持 photonic integrated circuits、CPO/interconnects、co-packaging、heterogeneous integration、design libraries。她认为这对 EU photonics 领导者，尤其 SIVE、XFAB、SOI，是长期结构性利好。",
-      "original": "Photonics is now confirmed to be the new structural addition to EU policy... co-packaged optics for AI data centres... $SIVE... $XFAB... $SOI directly mentioned in impact analysis regarding structural strengths of the EU.",
-      "related": [
-        "SIVE",
-        "XFAB",
-        "SOI",
-        "EU CHIPS Act 2.0",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062176094162428410"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T19:50:00+08:00",
-      "type": "POET vs XFAB / EU listing 折价",
-      "impactZh": "她对比 NASDAQ 上的 POET 与欧洲上市 XFAB：POET 市值约 2.4B，主要包装 Sivers lasers 并有 50M pre-production contract；而 XFAB 约 1.7B，拥有 SiC/GaN/MEMS/硅光 foundry、EU/US CHIPS Act 背书、NVDA/NOK pre-commercial SiPH foundry 评估，并低于 replacement P/B。她认为 EU listing 带来明显估值折价。",
-      "original": "$POET: $2.4B MC -> Packages Sivers lasers... $XFAB: $1.7B MC -> SiC/GaN/MEMS/Silicon Photonics Foundry backed with EU CHIPS ACT, US CHIPS ACT PMT -> Below replacement P/B value -> $NVDA, $NOK direct eval of their pre-commercial SiPH foundry.",
-      "related": [
-        "POET",
-        "XFAB",
-        "SIVE",
-        "NVDA",
-        "NOK",
-        "EU listing"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062139870613745890"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T18:29:00+08:00",
-      "type": "NBIS / Neocloud 融资结构",
-      "impactZh": "Serenity 继续强化 NBIS 是她 Neocloud 主题中的最高信心赢家，并将其与 CRWV、IREN 做融资结构对比：她认为 CRWV 被债务利息拖累，IREN 被频繁 ATM 稀释，而 NBIS 的结构更合适，同时还有 Avride、ClickHouse 等资产组合价值。盘前重点看 NBIS 是否继续带动 Neocloud 情绪。",
-      "original": "Financing structure is much different, $CRWV is getting eaten alive by debt interest. $IREN has little equity appreciation from excessive ATMs. $NBIS is just right, and have sum of parts from its subsidiaries from Avride + ownership of Clickhouse.",
-      "related": [
-        "NBIS",
-        "CRWV",
-        "IREN",
-        "Avride",
-        "ClickHouse"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062119438552572283"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T18:17:00+08:00",
-      "type": "NBIS / Neocloud thesis 验证",
-      "impactZh": "Serenity 回顾自己去年对 Neocloud 板块和 NBIS 的高信心 thesis，称 NBIS 从约 84 美元到 260 美元，成为从 IREN 到 CRWV 整个 Neocloud 板块中表现最好的标的。该内容不是新买入声明，但说明她仍把 NBIS 当作 Neocloud 主线的代表。",
-      "original": "Fun to see my highest conviction Neocloud pick in $NBIS age well. I wrote a thesis last year on the Neocloud sector becoming a major theme. Nebius is #1 out of the entire sector from $IREN to $CRWV. $84 -> $260. Thesis validated by markets.",
-      "related": [
-        "NBIS",
-        "IREN",
-        "CRWV",
-        "Neocloud"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062116398210703462"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T16:17:00+08:00",
-      "type": "SIVE / 空头与潜在公告",
-      "impactZh": "她表示 SIVE 仍有空头可能加码，但如果后续公告继续出现，空头可能被迫回补；并点名如果出现类似 JBL 的 surprise announcement，尤其是 Innolight 这样的名字，会很有意思。这是新增潜在催化线索，但目前仍属推测。",
-      "original": "There's active short sellers probably doubling down on $SIVE. I'd expect them to get wrecked over time. Especially on more announcements. One more surprise $JBL type announcement with someone like Innolight would be interesting.",
-      "related": [
-        "SIVE",
-        "JBL",
-        "Innolight"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062086341291356317"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T16:12:00+08:00",
-      "type": "SIVE / ASIC merchant NVLink CPO 生态",
-      "impactZh": "Serenity 明确区分 NVDA 自有 CPO 项目与 ASIC/merchant NVLink CPO 生态伙伴。她认为 SIVE 看起来像是后者“供应给所有人”的激光器供应商，这使 SIVE thesis 从单一客户暴露升级为生态伙伴链条暴露。",
-      "original": "That's $NVDA directly. I'm talking about the ASIC/merchant NVLink CPO ecosystem partners. Where $SIVE looks like they're the supplier to everyone.",
-      "related": [
-        "SIVE",
-        "NVDA",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062084925445284078"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T16:07:00+08:00",
-      "type": "SIVE / Ayar / AMD / GFS 推演",
-      "impactZh": "她把 Ayar、NVDA、AMD、GFS 和 SIVE 串联起来：NVDA 与 AMD 都投资 Ayar，AMD 与 GFS 的 CPO 方向又通过 Ayar 与 SIVE 产生联想。这里是强推演，需核实 Ayar、AMD、GFS 与 SIVE 的原始供应链关系。",
-      "original": "NVDA was an investor in Ayar... $AMD also invested in Ayar, so $AMD going with $GFS for CPO also kinda put 1+1 together with $SIVE through Ayar.",
-      "related": [
-        "SIVE",
-        "Ayar",
-        "NVDA",
-        "AMD",
-        "GFS"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062083680093258006"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T16:00:00+08:00",
-      "type": "SIVE / 多源与一代供应",
-      "impactZh": "她承认 Celestial 和 Lightmatter 可能会 multi-source，但猜测第一代 NVDA CPO NVLink 生态里，很多可能由 SIVE sole source 或 primary source；同时提示 NVDA 自有项目可能与 LITE、COHR 有关。",
-      "original": "It is expected Celestial and Lightmatter try and multi source. But maybe for gen-1 my guess is a lot sole source / primary source with $SIVE for the $NVDA CPO NVlink ecosystem. Nvidia has their own program with $LITE and $COHR.",
-      "related": [
-        "SIVE",
-        "NVDA",
-        "LITE",
-        "COHR",
-        "Lightmatter"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062082082265076045"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T15:59:00+08:00",
-      "type": "SIVE / 估值与 NASDAQ listing",
-      "impactZh": "她称如果 SIVE 现在交易在 60-80 亿美元估值也不会惊讶，并认为其仍在瑞典交易所导致估值折价，未来 NASDAQ listing 可能缩小差距。这是非常强的重估表态，但上市计划与时间表需要独立核实。",
-      "original": "If $SIVE were trading at $6-8B valuations today, I wouldn't be surprised. That being said, its still on a Swedish exchange, but NASDAQ listing should close the gap.",
-      "related": [
-        "SIVE",
-        "NASDAQ listing"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062081644631372075"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T15:54:00+08:00",
-      "type": "SIVE / Ayar confirmed supplier claim",
-      "impactZh": "她进一步给出更明确的供应链判断：称 SIVE 是 Ayar 的 100% confirmed laser supplier，并称对 Marvell Celestial、Lightmatter 供应关系有高信心；同时把 NVDA、MRVL、Lightmatter、Ayar 与 GFS/Sivers reference laser 串在一起。该表述强度高，必须优先核实原始证据。",
-      "original": "$NVDA CPO ecosystem = $MRVL, Lightmatter, Ayar. $SIVE 100% confirmed laser supplier to Ayar. $SIVE high confidence laser supplier to Marvell Celestial, Lightmatter. Nvidia, Marvell, Lightmatter, Ayar all use $GFS, which Sivers is reference laser.",
-      "related": [
-        "SIVE",
-        "Ayar",
-        "MRVL",
-        "Lightmatter",
-        "GFS",
-        "NVDA"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062080378882658330"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T15:50:21+08:00",
-      "type": "SIVE / Ayar / NVLink Fusion",
-      "impactZh": "Serenity 进一步把 SIVE 定义为 Nvidia NVLink Fusion CPO 生态中多个上市供应链伙伴的上游激光器来源，新增点是 Ayar 加入 NVLink Fusion 后，她将 Marvell Celestial、Lightmatter、Ayar 串成同一条 SIVE 激光器线索。这个判断很强，但仍需要用 Ayar/Nvidia/供应链原始资料验证。",
-      "original": "After today’s new news with Ayar joining Nvidia NVLink fusion. $SIVE is now the laser source for likely: The entire Nvidia’s NVLink CPO listed supply chain ecosystem partners. From Marvell Celestial, Lightmatter, and now Ayar today.",
-      "related": [
-        "SIVE",
-        "NVDA",
-        "Ayar",
-        "MRVL",
-        "Lightmatter"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062079425475473595"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T14:51:12+08:00",
-      "type": "SIVE 上游瓶颈",
-      "impactZh": "她称当天出现“极具变革性”的新消息，并把某家光子公司称为 NVDA NVLink Fusion CPO 生态的有效上游激光器瓶颈；结合后续帖子，指向 SIVE。该消息把 SIVE 的 thesis 从 GFS 参考设计进一步推向 Nvidia 光基础设施供应链叙事。",
-      "original": "New extremely transformative news got released today. Making a certain photonics company: The effective upstream laser chokepoint for $NVDA NVLink fusion CPO ecosystem. With their lasers now in Nvidia’s optical infrastructure supply chains.",
-      "related": [
-        "SIVE",
-        "NVDA"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062064540075123050"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T13:37:07+08:00",
-      "type": "欧洲 Tech Sovereignty / Chips Act 2.0",
-      "impactZh": "Serenity 提到欧洲 Tech Sovereignty Package 与 CHIPS Act 2.0，并称该政策预计优先支持 photonics，且 XFAB 与 SIVE 被 Industry Policy Blueprints 点名。这强化了欧洲硅光/光子链的政策催化。",
-      "original": "Europe is releasing its Tech Sovereignty Package, today June 3rd. This includes, CHIPS ACT 2.0, which is expected to prioritize photonics. Both $XFAB and $SIVE are highlighted in the Industry Policy Blueprints.",
-      "related": [
-        "XFAB",
-        "SIVE",
-        "EU Chips Act 2.0"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062045895500419101"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T09:18:54+08:00",
-      "type": "台湾 CPO 组合",
-      "impactZh": "Serenity 表示台湾 CPO 多头开始启动：Shunsin、FOCI、Xintec 当日约涨 10%，同时等待 Win Semi、MSSCorp、Nextronics 补涨。短线动量增强，但需要继续核实各自真实供应链角色。",
-      "original": "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%, Foci +10%, Xintec +10%. Just waiting on Win Semi, Msscorp, and Nextronics to catch up.",
-      "related": [
-        "Shunsin",
-        "FOCI",
-        "Xintec",
-        "Win Semi",
-        "MSSCorp",
-        "Nextronics"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2061980916323598838"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T09:01:28+08:00",
-      "type": "SIVE / NVDA 线索",
-      "impactZh": "她强化 SIVE 与 NVDA NVLink Fusion 生态的激光器供应商叙事。这是 SIVE 当前最重要的新增催化之一，但仍需要用原始供应链资料确认。",
-      "original": "It's really big news to have SIVE as the laser supplier to NVDA nvlink fusion ecosystem.",
-      "related": [
-        "SIVE",
-        "NVDA"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2061976525575270583"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T07:51:15+08:00",
-      "type": "AI ASIC 测试",
-      "impactZh": "AEHR 从此前约 11 亿美元市值线索重估到约 35 亿美元后，Serenity 认为现在主要等待 AEHR、LPK 等测试设备玩家出现批量订单。",
-      "original": "Good times with AEHR, it's now ~$3.5B MC... Just waiting on volume orders for these types of players like LPK, and others.",
-      "related": [
-        "AEHR",
-        "LPK"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2061958857132585076"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T07:40:33+08:00",
-      "type": "AI ASIC 设计服务",
-      "impactZh": "她提到 AlChip 的 TAM 扩张可能性，尤其是假如其像 Marvell 一样通过 M&A 扩大版图。当前更像早期线索，尚不是完整高信心 thesis。",
-      "original": "I don't really mention AlChip much but there's a lot of tam expansion opportunities if they want to M&A like Marvell.",
-      "related": [
-        "AlChip",
-        "MRVL"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2061956165307883521"
-    },
-    {
-      "date": "2026-06-03",
-      "publishedAt": "2026-06-03T05:19:23+08:00",
-      "type": "MRVL 短线风险",
-      "impactZh": "她承认 MRVL 因 Jensen 评论大涨后短期可能有点透支。MRVL 仍可作为 AI ASIC / CPO 大盘验证标的，但追高风险上升。",
-      "original": "A few hundred billion dollar company ran 35% just because of a comment rather than fundamentals. So short term a bit overextended?",
-      "related": [
-        "MRVL"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2061920638928044391"
     }
   ],
   "ideas": [
@@ -846,8 +653,8 @@
       "name": "X-FAB",
       "tier": "focus",
       "theme": "European silicon photonics foundry",
-      "thesis": "Serenity continues to frame XFAB as a mispriced European silicon-photonics foundry: sub-$2B valuation, NVDA/NOK pre-commercial SiPH validation, EU/US CHIPS Act support, and now explicit EU CHIPS Act 2.0 photonics policy tailwind.",
-      "whyItMatters": "XFAB is the foundry-side expression of the European photonics policy trade. New posts add two angles: EU listing valuation discount versus NASDAQ peers like POET, and a possible automotive/autonomous-cycle bottom signal from TSM comments.",
+      "thesis": "Serenity continues to frame XFAB as a mispriced European silicon-photonics foundry: sub-$2B valuation, NVDA/NOK pre-commercial SiPH validation, EU/US CHIPS Act support, and a possible path toward the H2 2027 CPO scale-up inflection point.",
+      "whyItMatters": "XFAB is the foundry-side expression of the European photonics policy trade. The newest post adds a longer-dated angle: XFAB may be early like TSEM was before the volume inflection, with CPO scale-up more likely a 2027 setup than an immediate revenue story.",
       "catalysts": [
         "EU CHIPS Act 2.0 confirms photonics, CPO/interconnects and silicon photonics as policy focus",
         "Serenity compares XFAB valuation favorably versus POET despite deeper foundry assets",
@@ -855,14 +662,16 @@
         "EU Chips Act 2 demand/funding support",
         "Serenity says XFAB and SIVE are highlighted in EU Industry Policy Blueprints",
         "photonixFAB validation",
-        "NVDA and NOK activity around silicon photonics"
+        "NVDA and NOK activity around silicon photonics",
+        "Serenity compares XFAB to early TSEM and points to H2 2027 as a potential CPO scale-up inflection point"
       ],
       "risks": [
         "EU policy support may take 3-15 months to translate into company-specific awards",
         "XFAB remains exposed to automotive-cycle weakness even if TSM comments hint at a bottom",
         "Pre-commercial foundry validation may not translate quickly into revenue",
         "Automotive-cycle drag",
-        "Need to separate grants from guaranteed demand"
+        "Need to separate grants from guaranteed demand",
+        "If the relevant CPO volume inflection is H2 2027, near-term stock moves may rely more on narrative and policy than revenue conversion"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -872,10 +681,16 @@
         "Read the EU Industry Policy Blueprints and confirm exact XFAB/SIVE references",
         "Verify NVDA/NOK validation details",
         "Read photonixFAB project disclosures",
-        "Compare valuation to P/B and replacement-cost assumptions"
+        "Compare valuation to P/B and replacement-cost assumptions",
+        "Check the ASX or company documents Serenity referenced for H2 2027 CPO scale-up assumptions"
       ],
-      "lastUpdated": "2026-06-04 18:45",
+      "lastUpdated": "2026-06-06 19:25",
       "evidence": [
+        {
+          "date": "2026-06-06",
+          "quote": "XFAB could be the next TSEM, still early around $1.4B market cap, and positioned for a possible H2 2027 CPO scale-up inflection.",
+          "url": "https://x.com/aleabitoreddit/status/2063178421497221604"
+        },
         {
           "date": "2026-06-04",
           "quote": "Autonomous robots / autonomous vehicles seen as growth areas for TSM, a possible validation point for XFAB and others in a slump with auto exposure.",
@@ -1580,23 +1395,31 @@
         "Claimed domestic harmonic reducer share above 60% and 1,800+ global customers",
         "Exposure to rotary-joint reducers, linear actuators, motors/joints and planetary roller screws",
         "Potential customers or ecosystem relevance include UBTech, Agibot, Tesla and Figure in her framework",
-        "Physical AI and humanoid robot scale production"
+        "Physical AI and humanoid robot scale production",
+        "Chinese media picked up Serenity's LeaderDrive research and she observed 688017 hitting 20% limit up amid robotics-sector strength"
       ],
       "risks": [
         "Market-share and customer claims need primary-source verification",
         "Humanoid volume timing is highly uncertain and hard to model",
         "A-share valuation and liquidity may differ from US-listed AI hardware names",
-        "Tesla/Figure customer linkage is framed as potential, not confirmed"
+        "Tesla/Figure customer linkage is framed as potential, not confirmed",
+        "A limit-up reaction is market feedback, not proof of sustained fundamentals"
       ],
       "stance": "重点关注",
       "nextChecks": [
         "Verify 60% domestic share and 1,800+ customer claims from company reports",
         "Estimate reducer/actuator/motor BOM value per humanoid robot",
         "Check actual customer list: Universal Robots, UBTech, Agibot and any Tesla/Figure evidence",
-        "Review 688017 valuation, revenue mix and capacity plans"
+        "Review 688017 valuation, revenue mix and capacity plans",
+        "Separate media-driven price reaction from new orders, margins and capacity evidence"
       ],
-      "lastUpdated": "2026-06-05 16:30",
+      "lastUpdated": "2026-06-06 19:25",
       "evidence": [
+        {
+          "date": "2026-06-06",
+          "quote": "Serenity said LeaderDrive research spread through Chinese media, China robotics stocks moved up, and 688017 hit 20% limit up.",
+          "url": "https://x.com/aleabitoreddit/status/2063211040989733012"
+        },
         {
           "date": "2026-06-05",
           "quote": "LeaderDrive is my favorite Chinese listed company for humanoid robots, with harmonic reducers, rotary joint reducers, linear actuators, motors/joints and planetary roller screws.",
@@ -1621,16 +1444,23 @@
       "risks": [
         "Financial metrics should be checked against latest filings",
         "Platform valuation can compress if growth slows",
-        "Not part of Serenity core CPO/Physical AI hardware thesis"
+        "Not part of Serenity core CPO/Physical AI hardware thesis",
+        "High-beta or leveraged expressions can be directionally right but fail on short-term timing"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Verify latest RDDT revenue growth, gross margin and FCF from filings",
         "Check valuation versus revenue growth and margin profile",
-        "Assess AI data licensing, user growth and ad monetization sustainability"
+        "Assess AI data licensing, user growth and ad monetization sustainability",
+        "Track whether RDDT weakness is simple volatility or a change in growth, FCF and margin evidence"
       ],
-      "lastUpdated": "2026-06-05 16:30",
+      "lastUpdated": "2026-06-06 19:25",
       "evidence": [
+        {
+          "date": "2026-06-06",
+          "quote": "Serenity warned that being directionally right can still fail on timing, especially after sharp two-day moves in RDDT-like high-beta trades.",
+          "url": "https://x.com/aleabitoreddit/status/2063118835105014006"
+        },
         {
           "date": "2026-06-04",
           "quote": "RDDT had a massive earnings beat, 69% Y/Y revenue growth, 91.5% gross margin and network-effect moat against AI vibe coding.",
