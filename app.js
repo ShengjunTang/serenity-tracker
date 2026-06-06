@@ -8,9 +8,12 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 将 SIVE 升级为当前最强 CPO 主线：她认为 SIVE 同时是 ASIC / merchant CPO 路线的瓶颈和卡点，并可能深度暴露于 Jabil、Gen-1 Ayar、Marvell Celestial、Lightmatter 与 GFS 相关生态。",
-    whyItMatters: "这已经不是单一客户验证逻辑。按她的框架，SIVE 一方面通过 Win Semi 等产能控制稀缺 CW laser 输出，另一方面又嵌入多个 CPO 路线架构；如果成立，弹性来自 2027/2028 CPO 放量的生态级杠杆。",
+    thesis: "Serenity 将 SIVE 升级为当前最强 CPO 主线：她认为 SIVE 同时是 ASIC / merchant CPO 路线的瓶颈和卡点，并可能深度暴露于 Jabil、Gen-1 Ayar、Marvell Celestial、Lightmatter 与 GFS 相关生态。6 月 6 日新增重点是，她称 JP Morgan 对 Sivers 的持股从约 0.4% 提升到 5%+。",
+    whyItMatters: "这已经不是单一客户验证逻辑。按她的框架，SIVE 一方面通过 Win Semi 等产能控制稀缺 CW laser 输出，另一方面又嵌入多个 CPO 路线架构；如果成立，弹性来自 2027/2028 CPO 放量的生态级杠杆。JP Morgan 持股变化如果属实，则强化机构吸筹与散户震仓的叙事。",
     catalysts: [
+      "Serenity 称 JP Morgan 对 Sivers 持股从约 0.4% 升至 5%+",
+      "Serenity 称 SIVE 是她仅次于 AAOI 的 CPO / photonics 最喜欢标的",
+      "Protean Funds 质疑 SIVE CPO 应用后，Serenity 用 GFS reference laser 逻辑反驳",
       "Serenity 称 SIVE 是明年 CPO 的 chokepoint + bottleneck",
       "LITE 财报被她解读为 CW laser 供给紧张信号",
       "Win Semi private placement 扩产，可能支持 SIVE 放量",
@@ -29,8 +32,11 @@ const zhCopy = {
       "JBL 与 GFS 的公开验证",
       "欧洲 Tech Sovereignty Package / Chips Act 2.0 对 photonics 的政策优先级",
     ],
-    risks: ["Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
+    risks: ["JP Morgan 持股变化必须用原始持股文件确认", "Protean Funds 的反方观点也需要直接阅读", "H2 2026-2028 的 CPO TAM 数字需要核实来源与口径", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
     nextChecks: [
+      "核实 JP Morgan 最新 Sivers 持股比例和文件日期",
+      "阅读 Protean Funds 对 SIVE 的原始质疑",
+      "追溯 91B / 141B CPO TAM 数字的报告来源",
       "核实 Win Semi private placement 是否与 SIVE 相关 CW laser 产能有关",
       "确认 Jabil 1.6T LRO 架构是否公开指向 SIVE",
       "跟踪 6 月 vote 后是否出现 GFS / JBL 战略入股文件",
@@ -90,19 +96,27 @@ const zhCopy = {
   },
   xintech: {
     theme: "TSM 测试子公司 / COUPE 供应商线索",
-    thesis: "Serenity 称 Xintech 是 TSM 的测试子公司，自己有持仓；投资逻辑关键在于它是否与 COUPE 相关。",
-    whyItMatters: "如果 COUPE 相关测试需求真实，小型 TSM 关联测试公司可能提供更精准的暴露。",
-    catalysts: ["报告确认 TSM / COUPE 关联", "Serenity 称 Xintec 随台湾 CPO 多头启动，当日约涨 10%", "TSM 先进封装 / 光学供应链建设", "测试需求扩张"],
-    risks: ["帖子中 COUPE 关联仍不完整", "主题较窄且公开披露有限", "需要独立映射收入来源"],
-    nextChecks: ["找到她提到的那份报告", "确认 Xintech 股权关系与对 TSM 的收入依赖", "判断 COUPE 是否会带来测试量增长"],
+    thesis: "Serenity 称 Xintec 是 TSMC packaging / test 子公司，自己有持仓；6 月 5 日她进一步说 TSM COUPE H2 2026 量产，如果 TSMC 倾向垂直整合，量可能流向 Xintec。",
+    whyItMatters: "如果 COUPE 相关测试 / 封装需求真实，小型 TSM 关联公司可能提供更精准暴露。她短期认为 Xintec 比 VisEra 更有吸引力，但公开 volume 数据仍有限。",
+    catalysts: ["TSM COUPE H2 2026 量产时间线", "TSMC 通过子公司积极追求 CPO 机会的表述", "Serenity 认为未来几个月 Xintec 比 VisEra 更有吸引力", "报告确认 TSM / COUPE 关联", "Serenity 称 Xintec 随台湾 CPO 多头启动，当日约涨 10%", "TSM 先进封装 / 光学供应链建设", "测试需求扩张"],
+    risks: ["Serenity 承认公开披露中 Xintec 承接 COUPE volume 的数字有限", "帖子中 COUPE 关联仍需原始资料确认", "主题较窄且公开披露有限", "需要独立映射收入来源"],
+    nextChecks: ["找到 TSMC 通过 Xintec 等子公司追求 CPO 机会的原始资料", "核实 COUPE H2 2026 量产时间线", "比较 Xintec 与 VisEra 的业务暴露、估值和收入敏感性", "找到她提到的那份报告", "确认 Xintech 股权关系与对 TSM 的收入依赖", "判断 COUPE 是否会带来测试量增长"],
   },
   aaoi: {
     theme: "800G / 1.6T 光模块 / 美国光学产能",
     thesis: "Serenity 将 AAOI 升级为更高信心的光模块线索：她称自己从 28 美元开始持续 averaging up，并认为如果公司执行顺利，可能 double 或 triple。",
     whyItMatters: "AAOI 是 AI 数据中心带宽需求的直接表达。新增重点不是单纯 2027 产能，而是 H1 明年可能出现 800G / 1.6T 光模块瓶颈，从而带来 ASP 和利润率超预期。",
-    catalysts: ["Serenity 称自己从 28 美元开始持续加仓 AAOI", "hyperscaler 升级到 1.6T 后，sovereign / Tier-2 AI DC 可能继续吸收 800G 产能", "AMD / NVDA 相关客户对话传闻，仍需核实", "如果 H1 明年光模块成为瓶颈，可能出现涨价和 margin expansion", "2027 年上半年产能 / 收入爬坡", "光学超级周期关注", "光学同业重估"],
-    risks: ["AMD / NVDA 对话仍是 analyst rumors，需要验证", "美国最大产能和垂直整合执行存在风险", "如果规模化后 ASP 如市场预期下行，利润率上行逻辑会削弱", "市值目标较激进", "产能爬坡与客户时间需要验证", "光学标的整体波动很大"],
-    nextChecks: ["核实 AAOI 产能目标和垂直整合表述", "检查最新客户集中度及 AMD / NVDA 传闻来源", "比较分析师对 800G / 1.6T ASP 的假设", "核实 H1 2027 收入预测", "检查产能扩张与客户承诺", "与 SIVE / FOCI 的风险收益对比"],
+    catalysts: ["市场回调时 Serenity 仍强调看公司 projection，而不是交易 Fed 概率", "她用 AAOI H1 2027 约 471M projection 作为例子", "Serenity 称自己从 28 美元开始持续加仓 AAOI", "hyperscaler 升级到 1.6T 后，sovereign / Tier-2 AI DC 可能继续吸收 800G 产能", "AMD / NVDA 相关客户对话传闻，仍需核实", "如果 H1 明年光模块成为瓶颈，可能出现涨价和 margin expansion", "2027 年上半年产能 / 收入爬坡", "光学超级周期关注", "光学同业重估"],
+    risks: ["加息概率上升仍可能压制高 beta 光学标的", "AMD / NVDA 对话仍是 analyst rumors，需要验证", "美国最大产能和垂直整合执行存在风险", "如果规模化后 ASP 如市场预期下行，利润率上行逻辑会削弱", "市值目标较激进", "产能爬坡与客户时间需要验证", "光学标的整体波动很大"],
+    nextChecks: ["核实 AAOI H1 2027 约 471M projection 的来源和口径", "观察 AI 半导体回调中光学标的是否保持相对强势", "核实 AAOI 产能目标和垂直整合表述", "检查最新客户集中度及 AMD / NVDA 传闻来源", "比较分析师对 800G / 1.6T ASP 的假设", "核实 H1 2027 收入预测", "检查产能扩张与客户承诺", "与 SIVE / FOCI 的风险收益对比"],
+  },
+  rpi: {
+    theme: "AI 需求兑现 / 欧洲硬件",
+    thesis: "Serenity 将 Raspberry Pi 当作 AI 需求真实兑现的案例：她称 RPI 从她 thesis post 后由 283 美元涨到 983 美元，并引用 AI 相关需求推动 core profit 显著高于预期。",
+    whyItMatters: "RPI 不是 CPO 组件股，但它能验证 Serenity 的 broader AI 需求框架：AI 增量可能流向被忽视的欧洲硬件和非美上市资产，而不仅是美国大盘 AI 股。",
+    catalysts: ["公司称强 AI 相关需求可能使核心利润显著高于市场预期", "Serenity 称 RPI 较她 thesis post 后上涨约 247%", "欧洲硬件资产如果继续兑现 AI 需求，可能出现重估"],
+    risks: ["这是大涨后的回顾性验证，不是新的买点", "需要区分一次性 AI 需求惊喜和可持续收入增长", "247% 上涨后估值可能已经反映较多预期"],
+    nextChecks: ["核实公司关于 AI 需求和利润超预期的原始公告", "检查 RPI 当前估值与更新后利润指引", "判断 AI 需求是持续订单、客户集中，还是一次性拉动"],
   },
   shunsin: {
     theme: "台湾光学 / CPO 相邻暴露",
@@ -517,6 +531,34 @@ function renderList(title, items) {
   `;
 }
 
+function renderEvidence(idea) {
+  const evidence = idea.evidence ?? [];
+  if (!evidence.length) return "";
+  const hasMany = evidence.length > 3;
+  return `
+    <section class="detail-section evidence-section${hasMany ? " collapsed" : ""}">
+      <div class="section-title-row">
+        <h4>来源依据</h4>
+        ${hasMany ? `<button class="section-toggle evidence-toggle" type="button">展开全部 ${evidence.length} 条</button>` : ""}
+      </div>
+      <div class="detail-list evidence-list">
+        ${evidence
+          .map(
+            (item, index) => `
+              <article class="evidence-card${index >= 3 ? " extra-evidence" : ""}">
+                <time>${escapeHtml(item.date)}</time>
+                <span class="evidence-label">Serenity 原文 / Original</span>
+                <p>${escapeHtml(item.quote)}</p>
+                <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">打开 X 来源</a>
+              </article>
+            `,
+          )
+          .join("")}
+      </div>
+    </section>
+  `;
+}
+
 function renderDetail() {
   const idea = state.ideas.find((item) => item.id === state.selectedId) ?? filteredIdeas()[0];
   if (!idea) {
@@ -554,26 +596,14 @@ function renderDetail() {
     ${renderList("催化 / Catalysts", bilingualItems(idea, "catalysts"))}
     ${renderList("风险 / Risks", bilingualItems(idea, "risks"))}
     ${renderList("下一步核实 / Next checks", bilingualItems(idea, "nextChecks"))}
-
-    <section class="detail-section">
-      <h4>来源依据</h4>
-      <div class="detail-list">
-        ${(idea.evidence ?? [])
-          .map(
-            (item) => `
-              <article class="evidence-card">
-                <time>${escapeHtml(item.date)}</time>
-                <span class="evidence-label">Serenity 原文 / Original</span>
-                <p>${escapeHtml(item.quote)}</p>
-                <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">打开 X 来源</a>
-              </article>
-            `,
-          )
-          .join("")}
-      </div>
-    </section>
+    ${renderEvidence(idea)}
   `;
   els.detail.querySelector(".detail-close").addEventListener("click", closeDetailSheet);
+  els.detail.querySelector(".evidence-toggle")?.addEventListener("click", (event) => {
+    const section = event.currentTarget.closest(".evidence-section");
+    const collapsed = section.classList.toggle("collapsed");
+    event.currentTarget.textContent = collapsed ? `展开全部 ${idea.evidence.length} 条` : "收起来源";
+  });
   syncDetailSheet();
 }
 

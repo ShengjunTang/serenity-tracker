@@ -1,13 +1,103 @@
 {
-  "generatedAt": "2026-06-05T16:30:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-05 16:30 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
+  "generatedAt": "2026-06-06T10:30:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-06 10:30 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
   "summary": {
     "focus": 6,
-    "watch": 9,
+    "watch": 10,
     "speculative": 6,
     "archive": 0
   },
   "latestUpdates": [
+    {
+      "date": "2026-06-06",
+      "publishedAt": "2026-06-06T07:59:00+08:00",
+      "type": "SIVE / JP Morgan 持股变化",
+      "impactZh": "Serenity 再次强化 SIVE 是她最重要的 CPO / photonics 标的之一，并称 JP Morgan 对 Sivers 的持股从上月约 0.4% 提升到 5%+。她把这解读为机构在吸收被震出的散户筹码，也继续强调 SIVE 在 CPO 生态中的瓶颈地位。",
+      "original": "JP Morgan went from .4% ownership last month to 5%+ ownership this month... I keep telling retail + Swedish Hedge Funds how important $SIVE is to CPO.",
+      "related": [
+        "SIVE",
+        "JP Morgan",
+        "CPO",
+        "Sivers Semiconductors"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063048067432239598",
+      "batch": "2026-06-06T10:30:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-05",
+      "publishedAt": "2026-06-05T23:58:00+08:00",
+      "type": "AI 半导体回调 / NVDA MU PL AAOI",
+      "impactZh": "Serenity 将 NVDA、MU、PL 等回调解读为市场波动和加息概率变化，而不是 AI buildout 主线恶化。她认为 Broadcom 对芯片股形成负面 read-through 的说法牵强，核心需求和 capex 反而仍在增强，并表示自己不会试图交易 Fed 概率。",
+      "original": "Nothing's changed the AI buildout aside from increasing capex... Personally wouldn't try and trade fed decision probabilities and stay long on current company projections.",
+      "related": [
+        "NVDA",
+        "MU",
+        "PL",
+        "AAOI",
+        "AI capex"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062927167936504133",
+      "batch": "2026-06-06T10:30:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "宏观关注"
+    },
+    {
+      "date": "2026-06-05",
+      "publishedAt": "2026-06-05T23:15:00+08:00",
+      "type": "Xintec 3374 / TSMC COUPE",
+      "impactZh": "Serenity 进一步强化 Xintec 3374 作为 TSMC packaging / test 子公司和 COUPE 潜在受益者的线索。她认为 TSM COUPE H2 2026 量产，如果 TSMC 倾向垂直整合，量可能流向自家子公司；短期几个月她认为 Xintec 比 VisEra 更有吸引力，但公开 volume 数据仍有限。",
+      "original": "Xintec (3374) also looks like an interesting idea... TSM COUPE mass production starts this half, H2 2026... Xintec looks more compelling than VisEra, at least for this next few months.",
+      "related": [
+        "Xintec",
+        "3374",
+        "TSM",
+        "COUPE",
+        "VisEra",
+        "Foci",
+        "Shunsin"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062916125235831046",
+      "batch": "2026-06-06T10:30:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-05",
+      "publishedAt": "2026-06-05T22:25:00+08:00",
+      "type": "SIVE / Protean Funds / 空头争议",
+      "impactZh": "Serenity 称 SIVE 是她在 CPO / photonics 中仅次于 AAOI 的最喜欢标的，并回应 Protean Funds 认为 SIVE CPO 应用是 imaginary。她反驳说 GFS 已将 SIVE 作为 reference laser，并认为 H2 2026 到 2028 CPO TAM 会出现巨大拐点，瑞典本地空头基金在拐点前做空风险很高。",
+      "original": "$SIVE is my favorite CPO / photonics stock after AAOI... Right after $GFS just made $SIVE their reference laser... from H2 2026 to 2028, it goes from near $0 to $91B TAM.",
+      "related": [
+        "SIVE",
+        "AAOI",
+        "GFS",
+        "Protean Funds",
+        "CPO"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062903639300309302",
+      "batch": "2026-06-06T10:30:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-05",
+      "publishedAt": "2026-06-05T17:10:00+08:00",
+      "type": "RPI / AI 需求兑现案例",
+      "impactZh": "Serenity 回顾 RPI 从她 thesis post 后上涨约 247%，并引用 AI 相关需求推动 core profit 显著高于市场预期。她用 RPI 反驳此前欧洲媒体将其称为 meme stock / no fundamentals 的判断，作为 AI 需求向非美国硬件资产兑现的案例。",
+      "original": "$RPI: $283 -> $983, up 247% from my thesis post... Strong AI-related demand was expected to result in core profit significantly ahead of market expectations.",
+      "related": [
+        "RPI",
+        "Raspberry Pi",
+        "AI demand",
+        "European hardware"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2062824314655982037",
+      "batch": "2026-06-06T10:30:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "需关注"
+    },
     {
       "date": "2026-06-05",
       "publishedAt": "2026-06-05T10:31:00+08:00",
@@ -477,9 +567,13 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity has upgraded SIVE from a GFS/Ayar-linked laser supplier idea into her strongest CPO thesis: she now argues SIVE is both the bottleneck and chokepoint for ASIC/merchant CPO routes, with possible primary or sole-source exposure to Jabil, Gen-1 Ayar, Marvell Celestial, Lightmatter and GFS-linked ecosystem partners.",
-      "whyItMatters": "The thesis is no longer only about one customer validation. In her framework, SIVE controls scarce CW laser output through Win Semi and other fabs while being embedded in reference or route architectures used by multiple CPO programs; if correct, it creates ecosystem-level leverage into the 2027/2028 CPO ramp.",
+      "thesis": "Serenity has upgraded SIVE from a GFS/Ayar-linked laser supplier idea into her strongest CPO thesis: she now argues SIVE is both the bottleneck and chokepoint for ASIC/merchant CPO routes, with possible primary or sole-source exposure to Jabil, Gen-1 Ayar, Marvell Celestial, Lightmatter and GFS-linked ecosystem partners. On June 6 she added that JP Morgan's ownership reportedly jumped from about 0.4% to 5%+, reinforcing the institutional-accumulation angle.",
+      "whyItMatters": "The thesis is no longer only about one customer validation. In her framework, SIVE controls scarce CW laser output through Win Semi and other fabs while being embedded in reference or route architectures used by multiple CPO programs; if correct, it creates ecosystem-level leverage into the 2027/2028 CPO ramp. The new JP Morgan ownership claim, if verified, would suggest institutions are taking the other side of retail shakeouts and local short pressure.",
       "catalysts": [
+        "Serenity says JP Morgan ownership in Sivers rose from about 0.4% last month to 5%+ this month",
+        "Serenity says SIVE is her favorite CPO / photonics stock after AAOI",
+        "Protean Funds publicly questioned SIVE's CPO applications; Serenity frames this as another local short-side misunderstanding",
+        "Serenity cites GFS making SIVE its reference laser as a rebuttal to the imaginary-CPO critique",
         "Swedish hedge funds short SIVE reportedly heavily underwater, reinforcing short-squeeze pressure",
         "Serenity says SIVE is both a CPO chokepoint and bottleneck for next year",
         "CW laser shortage signal from LITE earnings and constrained Sumitomo/Furukawa / Win Semi capacity",
@@ -500,6 +594,9 @@
         "EU Tech Sovereignty Package / Chips Act 2.0 photonics priority"
       ],
       "risks": [
+        "JP Morgan ownership change must be confirmed through primary ownership filings",
+        "Protean Funds critique should be reviewed directly rather than dismissed only through Serenity's framing",
+        "The $91B CPO TAM estimate for H2 2026-2028 needs source and scope verification",
         "Short-seller loss stories can amplify volatility without adding new customer evidence",
         "Key primary/sole-source claims for Jabil, Ayar, Marvell Celestial and Lightmatter remain inference-heavy unless confirmed by filings or customer disclosures",
         "Win Semi capacity timing and exact 2027/2028 output remain unknown",
@@ -513,6 +610,9 @@
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Verify JP Morgan's latest Sivers ownership percentage and filing date",
+        "Read Protean Funds' original SIVE critique and identify whether it raises technical or revenue-recognition issues",
+        "Trace the $91B and $141B CPO TAM figures to the underlying report",
         "Find original Origo hedge fund short-loss article and quantify short exposure",
         "Verify Win Semi private placement details and whether proceeds are tied to CW laser capacity relevant to SIVE",
         "Confirm whether Jabil 1.6T LRO architecture publicly identifies SIVE or only implies it",
@@ -530,8 +630,18 @@
         "Check whether SIVE revenue guidance reflects CPO/pluggables",
         "Track customer concentration and production timing"
       ],
-      "lastUpdated": "2026-06-05 16:30",
+      "lastUpdated": "2026-06-06 10:30",
       "evidence": [
+        {
+          "date": "2026-06-06 07:59",
+          "quote": "JP Morgan went from .4% ownership last month to 5%+ ownership this month; Serenity says institutions are buying up Sivers shares as retail gets shaken out.",
+          "url": "https://x.com/aleabitoreddit/status/2063048067432239598"
+        },
+        {
+          "date": "2026-06-05 22:25",
+          "quote": "SIVE is my favorite CPO / photonics stock after AAOI; right after GFS made SIVE their reference laser, Protean Funds said the CPO applications are imaginary.",
+          "url": "https://x.com/aleabitoreddit/status/2062903639300309302"
+        },
         {
           "date": "2026-06-04",
           "quote": "Origo’s fund has lost substantial money shorting SIVE; many Swedish hedge funds are now heavily underwater.",
@@ -883,27 +993,39 @@
       "name": "Xintech",
       "tier": "watch",
       "theme": "TSM testing subsidiary / COUPE supplier idea",
-      "thesis": "Serenity says Xintech is TSM's testing subsidiary and owns exposure, with the investment logic hinging on whether it is tied to COUPE.",
-      "whyItMatters": "A smaller TSM-adjacent testing subsidiary could provide targeted exposure if COUPE-related test demand is real.",
+      "thesis": "Serenity says Xintec is a TSMC packaging/test subsidiary and owns exposure, with the investment logic hinging on whether TSMC COUPE volume flows into the subsidiary. On June 5 she strengthened the idea by saying COUPE mass production starts in H2 2026 and Xintec looks more compelling than VisEra over the next few months.",
+      "whyItMatters": "A smaller TSM-adjacent packaging/test subsidiary could provide targeted exposure if COUPE-related test demand is real. The setup is still inference-heavy, but it may be a more direct TSM vertical-integration angle than broader Taiwan optical names.",
       "catalysts": [
+        "Serenity says TSM COUPE mass production starts in H2 2026",
+        "TSMC reportedly plans to aggressively pursue CPO opportunities with subsidiaries including Xintec",
+        "Serenity says Xintec looks more compelling than VisEra for the next few months",
         "Report confirming TSM/COUPE linkage",
         "Serenity says Xintec was up about 10% alongside other Taiwan CPO longs",
         "TSM advanced packaging / optical supply-chain buildout",
         "Testing demand expansion"
       ],
       "risks": [
+        "Serenity says public figures on COUPE volume flowing to Xintec are limited",
         "COUPE linkage is not fully visible in the post",
         "May be a narrow thesis with limited public disclosure",
         "Needs independent revenue mapping"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
+        "Find primary source for TSMC's statement about pursuing CPO opportunities with subsidiaries Xintec",
+        "Verify H2 2026 COUPE mass-production timeline and whether Xintec is named",
+        "Compare Xintec versus VisEra exposure, valuation and revenue sensitivity",
         "Find the referenced report",
         "Confirm Xintech ownership and revenue dependence on TSM",
         "Map whether COUPE affects testing volume"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-06 10:30",
       "evidence": [
+        {
+          "date": "2026-06-05 23:15",
+          "quote": "Xintec also looks like an interesting idea; TSM COUPE mass production starts H2 2026 and Xintec looks more compelling than VisEra for the next few months.",
+          "url": "https://x.com/aleabitoreddit/status/2062916125235831046"
+        },
         {
           "date": "2026-06-03",
           "quote": "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%, Foci +10%, Xintec +10%.",
@@ -925,6 +1047,8 @@
       "thesis": "Serenity now gives AAOI a higher-conviction framing: she says she has been averaging up since $28 and sees potential for a double or triple if the company executes, driven by 800G/1.6T optical transceiver demand, US-based large capacity and vertical integration.",
       "whyItMatters": "AAOI is a liquid optical-cycle expression tied directly to AI datacenter bandwidth demand. The new point is not just 2027 capacity, but a possible near-term bottleneck in H1 next year that could keep ASPs and margins higher than modeled.",
       "catalysts": [
+        "Serenity says she remains long company projections through market corrections instead of trading Fed probabilities",
+        "She cites AAOI H1 2027 projection around $471M as an example of company-specific projection to stay focused on",
         "Serenity says she has kept averaging up AAOI since $28",
         "800G demand may keep rising as hyperscalers move to 1.6T and sovereign / Tier-2 AI datacenters absorb capacity",
         "Potential AMD / NVDA customer conversations, still rumor-level",
@@ -934,6 +1058,7 @@
         "Peer re-rating across optical names"
       ],
       "risks": [
+        "Higher rate-hike probabilities can still pressure high-beta optical names even if the AI buildout thesis is intact",
         "AMD / NVDA conversation claims are analyst rumors and need verification",
         "Execution risk around scaling the largest US optical capacity",
         "If ASPs fall at scale as consensus expects, the margin upside thesis weakens",
@@ -943,6 +1068,8 @@
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Verify the $471M H1 2027 AAOI projection source and whether it is revenue, capacity or another operating metric",
+        "Track whether optical names hold up during broader AI semiconductor corrections",
         "Verify AAOI capacity target and vertical integration claims from company filings",
         "Check latest AAOI customer concentration and whether AMD/NVDA conversations are sourced",
         "Track 800G and 1.6T ASP assumptions across analysts",
@@ -950,8 +1077,13 @@
         "Check capacity additions and customer commitments",
         "Compare with SIVE/Foci risk-reward"
       ],
-      "lastUpdated": "2026-06-05 16:30",
+      "lastUpdated": "2026-06-06 10:30",
       "evidence": [
+        {
+          "date": "2026-06-05 23:58",
+          "quote": "Nothing has changed the AI buildout aside from increasing capex; Serenity says she would not trade Fed probabilities and would stay long on company projections such as AAOI $471M H1 2027.",
+          "url": "https://x.com/aleabitoreddit/status/2062927167936504133"
+        },
         {
           "date": "2026-06-05",
           "quote": "AAOI is one of the names I keep averaging up on since $28... could see unexpected price hikes and margin expansion across the board from AAOI, LITE and others.",
@@ -966,6 +1098,39 @@
           "date": "2026-05-30",
           "quote": "AAOI - $70B MC ... random prediction in a year.",
           "url": "https://x.com/aleabitoreddit/status/2060539775954866386"
+        }
+      ]
+    },
+    {
+      "id": "rpi",
+      "ticker": "$RPI",
+      "name": "Raspberry Pi",
+      "tier": "watch",
+      "theme": "AI demand validation / European hardware",
+      "thesis": "Serenity revisits Raspberry Pi as a validated AI-demand hardware thesis, saying RPI moved from $283 to $983 after her thesis post and that AI-related demand drove core profit significantly ahead of expectations.",
+      "whyItMatters": "RPI is not a CPO component name, but it is a useful cross-check for Serenity's broader view that AI demand is flowing into overlooked non-US hardware and European-listed assets. It also supports her argument that some names dismissed as meme stocks may have real AI-linked revenue growth.",
+      "catalysts": [
+        "Company commentary that strong AI-related demand should put core profit significantly ahead of expectations",
+        "Serenity says RPI is up about 247% from her thesis post",
+        "European hardware names may continue to re-rate if AI demand shows up in earnings"
+      ],
+      "risks": [
+        "The post is retrospective after a large move, not a fresh entry signal",
+        "Need to separate one-time AI demand surprise from durable revenue growth",
+        "Valuation may already reflect a lot of the thesis after the 247% move"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Verify the company statement about AI-related demand and core profit beating expectations",
+        "Check RPI current valuation versus updated profit guidance",
+        "Identify whether AI demand is recurring, customer-concentrated or one-off"
+      ],
+      "lastUpdated": "2026-06-06 10:30",
+      "evidence": [
+        {
+          "date": "2026-06-05 17:10",
+          "quote": "RPI moved from $283 to $983, up 247% from Serenity's thesis post, with strong AI-related demand expected to push core profit significantly ahead of expectations.",
+          "url": "https://x.com/aleabitoreddit/status/2062824314655982037"
         }
       ]
     },

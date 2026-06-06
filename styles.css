@@ -778,6 +778,31 @@ tr.idea-row.selected {
   color: var(--muted);
 }
 
+.section-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.section-title-row h4 {
+  margin: 0;
+}
+
+.section-toggle {
+  min-height: 30px;
+  border: 1px solid #bfd8d2;
+  border-radius: 999px;
+  background: #f7fbfa;
+  color: var(--focus);
+  padding: 0 10px;
+  font-size: 12px;
+  font-weight: 800;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
 .detail-section p {
   margin: 0;
   font-size: 14px;
@@ -828,6 +853,10 @@ tr.idea-row.selected {
   border-radius: 8px;
   padding: 10px;
   background: #fbfcfc;
+}
+
+.evidence-section.collapsed .extra-evidence {
+  display: none;
 }
 
 .evidence-card time {
