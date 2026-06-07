@@ -1,13 +1,111 @@
 {
-  "generatedAt": "2026-06-06T19:25:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-06 19:25 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
+  "generatedAt": "2026-06-07T19:10:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-07 19:10 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
   "summary": {
     "focus": 6,
-    "watch": 10,
+    "watch": 12,
     "speculative": 6,
     "archive": 0
   },
   "latestUpdates": [
+    {
+      "date": "2026-06-07",
+      "publishedAt": "2026-06-07T18:39:16+08:00",
+      "type": "Neocloud / 融资结构与 float 动态",
+      "impactZh": "Serenity 回答早期机会筛选问题时，把 toxic financing structure / float dynamics 放在最重要位置。她以 Neocloud 为例，认为 IREN 因大规模 ATM 和潜在持续稀释形成结构性 overhang，而 NBIS 的融资结构更干净。这是对 NBIS / IREN / CRWV 线索的风险框架强化。",
+      "original": "Serenity said the #1 thing is toxic financing structure / float dynamics; IREN has large ATMs and virtually infinite dilution, while NBIS has a cleaner setup.",
+      "related": [
+        "NBIS",
+        "IREN",
+        "CRWV",
+        "Neocloud",
+        "financing structure",
+        "float dynamics"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063571485739106593",
+      "batch": "2026-06-07T19:10:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-07",
+      "publishedAt": "2026-06-07T11:37:40+08:00",
+      "type": "Serenity 方法论 / 早期硬科技机会筛选",
+      "impactZh": "Serenity 反思自己的投资风格：偏 discretionary，基于市场尚未充分知道的东西，以及现实世界观察、行业人脉和经验累积。她用 AXTI、RPI、SIVE、IQE 等作为例子，说明很多早期机会来自对研发、供应链和市场未定价信息的判断。这条不是单一标的推荐，但有助于理解她筛选 early-stage 硬科技机会的框架。",
+      "original": "Her style is discretionary and based on things markets do not know yet, using examples such as AXTI, RPI, SIVE and IQE.",
+      "related": [
+        "AXTI",
+        "RPI",
+        "SIVE",
+        "IQE",
+        "investment process",
+        "early-stage ideas"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063465386960736396",
+      "batch": "2026-06-07T19:10:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "方法论"
+    },
+    {
+      "date": "2026-06-07",
+      "publishedAt": "2026-06-07T10:07:23+08:00",
+      "type": "Glass substrate / SKC Absolics / Samsung EM",
+      "impactZh": "Serenity 引用 TrendForce 重新梳理 glass substrate 时间线：SKC Absolics 预计 H2 2026 first mover，并与 AMAT、AMD customers 相关；Samsung Electro-Mechanics 预计 H2 2027，并关联 Sumitomo Chemical、Apple、AVGO 和 hyperscalers；她对 INTC 2030 时间线较不确定。这是先进封装材料方向的新跟踪线索。",
+      "original": "Glass substrate timelines: SKC Absolics H2 2026 first mover with AMAT / AMD customers; Samsung Electro-Mechanics H2 2027 with Sumitomo Chemical, Apple, AVGO and hyperscalers.",
+      "related": [
+        "glass substrate",
+        "SKC Absolics",
+        "011790",
+        "AMAT",
+        "AMD",
+        "Samsung Electro-Mechanics",
+        "009150",
+        "Sumitomo Chemical",
+        "AVGO",
+        "INTC"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063442668844167613",
+      "batch": "2026-06-07T19:10:00+08:00",
+      "importance": "high",
+      "importanceLabel": "新增线索"
+    },
+    {
+      "date": "2026-06-07",
+      "publishedAt": "2026-06-07T09:34:54+08:00",
+      "type": "HBF / Memory packaging / TC bonders",
+      "impactZh": "Serenity 在 Subs 中提到 HBF memory wars 可能启动，点名 Hanmi Semiconductor、Hanwha Semiconductor 为 first movers，ASMPT 和 K&S 为 entry players。她引用报告称 TC bonders 可能在 HBF 商业化时立即受益。该线索属于存储封装设备方向，需进一步确认 HBF 定义、客户和订单节奏。",
+      "original": "HBF memory wars are kicking off: Hanmi and Hanwha as first movers, ASMPT and K&S as entry players; TC bonders are expected to benefit immediately.",
+      "related": [
+        "HBF",
+        "memory packaging",
+        "TC bonders",
+        "Hanmi Semiconductor",
+        "Hanwha Semiconductor",
+        "ASMPT",
+        "K&S"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063434493911081202",
+      "batch": "2026-06-07T19:10:00+08:00",
+      "importance": "high",
+      "importanceLabel": "Subs 重点"
+    },
+    {
+      "date": "2026-06-06",
+      "publishedAt": "2026-06-06T20:22:51+08:00",
+      "type": "SIVE / AAOI / 内容收益与持仓信念",
+      "impactZh": "Serenity 公开了 X impressions 收益，并称相关收入会用于捐助；同时她再次提到希望从 SIVE 到 AAOI 的利润来自投资而非内容。这条主要是个人与内容生态信息，不是新的基本面证据，但继续显示 SIVE / AAOI 是她当前反复提到的核心线索。",
+      "original": "She said X impression revenue is going to donations and referenced making profits from SIVE to AAOI rather than content revenue.",
+      "related": [
+        "SIVE",
+        "AAOI",
+        "content revenue",
+        "position conviction"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063235166336856251",
+      "batch": "2026-06-07T19:10:00+08:00",
+      "importance": "low",
+      "importanceLabel": "内容生态"
+    },
     {
       "date": "2026-06-06",
       "publishedAt": "2026-06-06T18:46:59+08:00",
@@ -225,164 +323,6 @@
       "batch": "2026-06-05T16:30:00+08:00",
       "importance": "medium",
       "importanceLabel": "宏观关注"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T23:08:00+08:00",
-      "type": "RDDT / AI 时代网络效应平台",
-      "impactZh": "Serenity 重新强调 RDDT，称其 massive earnings beat、FCF 强、收入同比增长 69%、gross margin 91.5%，并认为 Reddit 的网络效应是对抗 AI vibe coding 的护城河。该线索属于 AI/互联网平台基本面质量观察，不属于 CPO 主线。",
-      "original": "$RDDT was driving me insane... massive earnings beat... 69% Y/Y revenue growth... biggest moat against AI vibe coding from network effect... 91.5% gross margin.",
-      "related": [
-        "RDDT",
-        "Reddit",
-        "AI applications",
-        "network effect"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062552171502330188",
-      "batch": "2026-06-05T16:30:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "需关注"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T21:04:00+08:00",
-      "type": "SIVE / 瑞典空头基金亏损",
-      "impactZh": "Serenity 提到瑞典 hedge fund Origo 因 short SIVE 亏损严重，称许多瑞典空头基金已经 heavily underwater。她把这与 SIVE 是 CPO supercycle 核心部分联系起来，并认为近期围绕 SIVE 的负面消息可能与空头压力有关。这强化的是高波动和 short squeeze 叙事，不是新的客户基本面证据。",
-      "original": "Origo’s fund has lost substantial money shorting $SIVE... Many of these Swedish hedge funds are now heavily underwater... as an accidental byproduct of $SIVE being a core part of the CPO supercycle.",
-      "related": [
-        "SIVE",
-        "Origo",
-        "short sellers",
-        "CPO supercycle"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062520852537917649",
-      "batch": "2026-06-05T16:30:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "需关注"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T17:53:00+08:00",
-      "type": "TSM / CoPoS / Visera / XFAB",
-      "impactZh": "Serenity 引用 TSM chairman 对 CoPoS 的评论：2-3 年内会有很大 volume，当前已有 pilot lines。她认为 Visera 作为 TSM 子公司和重暴露标的已出现一定 re-rating，可作为明年 long idea 观察；同时 TSM 提到 autonomous robots / autonomous vehicles 是 growth areas，可能给处于汽车周期低谷的 XFAB 等公司提供底部验证线索。",
-      "original": "$TSM chairman: CoPoS very large within 2-3 year volumes already pilot lines now... Visera (TSM subsidiary heavy exposure) already got re-rated a bit... Automous robots / autonomous vehicles seen as growth areas for $TSM... great validation for $XFAB and others in a slump now with large exposure to that segment.",
-      "related": [
-        "TSM",
-        "Visera",
-        "XFAB",
-        "CoPoS",
-        "autonomous vehicles"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062472717283312046"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T16:45:00+08:00",
-      "type": "SIVE / 潜在战略入股路径",
-      "impactZh": "她认为 CHIPS Act funded 公司不容易被大公司随意收购，因此更现实的路径可能是战略入股；举例 MTSI 入股 IQE，并猜测 GFS 或 JBL 可能在 6 月 vote 后入股 SIVE。这是重要催化想象，但目前只是推测，不能当作已发生事件。",
-      "original": "It’s a bit hard for major companies to go about acquiring CHIPS act funded companies like $SIVE on a whim... $MTSI took a stake in IQE so that’s another path. Maybe $GFS or $JBL takes a stake in $SIVE following June’s vote.",
-      "related": [
-        "SIVE",
-        "GFS",
-        "JBL",
-        "MTSI",
-        "IQE"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062455642854735906"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T16:23:00+08:00",
-      "type": "SIVE / Win Semi 产能与 CW laser 瓶颈",
-      "impactZh": "她把 SIVE 的瓶颈逻辑落到产能端：Win Semi 刚做 private placement 扩产，她对其为 SIVE 放量有信心，但承认 2027/2028 精确数字没人知道；即使全行业都扩 CW laser，总需求可能仍超过供给。",
-      "original": "Win Semi just did a private placement to scale up capacity, pretty confident they can scale up significant volume for $SIVE... even if everyone in the industry mass produces cw, won’t be enough for overall demand. Which is why it’s a bottleneck.",
-      "related": [
-        "SIVE",
-        "Win Semi",
-        "CW laser",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062450175071920195"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T15:54:00+08:00",
-      "type": "SIVE / 持仓与 insider selling 表态",
-      "impactZh": "她直接回应 insider selling FUD：称自己对 SIVE thesis 有信心，且不会卖出任何一股；同时认为无线业务董事卖股不改变 CPO/pluggable ramp 拐点上的基本面。这是明确持仓信心表态，但不能替代对 insider sale 真实背景的核查。",
-      "original": "I’m confident in my $SIVE thesis playing out and am not selling a single share... At the inflection of CPO/pluggable ramp... I’m just trying to combat disinformation by sharing all the nuances.",
-      "related": [
-        "SIVE",
-        "insider selling",
-        "CPO",
-        "pluggables"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062442844766531594"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T15:15:00+08:00",
-      "type": "SIVE / CPO chokepoint + bottleneck 长文",
-      "impactZh": "这是本轮最重要更新。Serenity 将 SIVE 同时定义为 CPO 的 chokepoint 和 bottleneck：CW lasers 供给紧张由 LITE earnings 验证，Sumitomo/Furukawa 与 Win Semi 产能可能紧张；SIVE 虽 fab-lite，但通过提前锁定 Win Semi 和其他 foundry 的 CW laser output 控制最终供应。她进一步推演 SIVE 可能是 Jabil、Gen-1 Ayar、MRVL Celestial、其他 hyperscaler ASIC / merchant CPO routes 的 primary/sole source。",
-      "original": "$SIVE looks like both a chokepoint and a bottleneck for CPO next year... Demand exceeding supply from Ayar, Jabil, other pluggable vendors + Nvidia NVLink CPO ecosystem... $SIVE is also likely primary/sole source for Jabil, Gen-1 Ayar, $MRVL Celestial, and other hyperscaler asic/merchant CPO routes.",
-      "related": [
-        "SIVE",
-        "LITE",
-        "Win Semi",
-        "Ayar",
-        "JBL",
-        "MRVL",
-        "GFS",
-        "NVDA"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062433114933334487"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T11:39:00+08:00",
-      "type": "AI capex / 上游半导体瓶颈资产",
-      "impactZh": "Serenity 引用 Goldman 将四大 hyperscaler 2025-2030 capex 预期从 4.5T 上调到 5.3T，并提到 2026-2031 aggregate capex 7.6T。她认为资金会向上游小型瓶颈传导，例如 SIVE 的 CPO lasers、SOI 的 silicon photonics substrates，以及人形机器人零部件 Leaderdrive / Harmonic。",
-      "original": "Goldman now expects a combined $5.3 trillion of capex spending for the four largest hyperscalers $GOOGL / $META / MSFT / $AMZN from 2025 to 2030... it flows upward to these tiny chokepoints like $SIVE for CPO lasers / $SOI for Silicon Photonics substrates.",
-      "related": [
-        "SIVE",
-        "SOI",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "AMZN",
-        "Leaderdrive",
-        "Harmonic"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062378784855368077"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T10:00:00+08:00",
-      "type": "COIN / HOOD / CRCL / crypto swing",
-      "impactZh": "她认为美国相关法案可能压制 crypto 金融创新、收益类产品和流动性，对 COIN、HOOD、CRCL 等形成政策压力；但也说估值对 swing trading 又开始有吸引力。这应归为短线交易观察，不是她当前 AI/CPO 核心主线。",
-      "original": "Well, looks like it’s that time of the year again for $COIN, $HOOD, $CRCL and co... Valuations do seem compelling again if you’re swing trading.",
-      "related": [
-        "COIN",
-        "HOOD",
-        "CRCL",
-        "crypto"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062353660928278820"
-    },
-    {
-      "date": "2026-06-04",
-      "publishedAt": "2026-06-04T07:56:00+08:00",
-      "type": "AVGO earnings / AI networking read-through",
-      "impactZh": "Serenity 整理 AVGO 电话会，重点是 AI networking demand “insatiable”、订单可见度延伸到 2028，OpenAI custom silicon late 2026 production，Meta custom AI program H2 2027 交付。这强化 MRVL、LITE 与 AI interconnect/networking 供应链需求，而非单纯看 AVGO 当天股价。",
-      "original": "TLDR: Strongly bullish AI demand, especially networking... Demand curves 2026 -> 2027 -> 2028. Also very positive read through as well for the $LITE and the other players.",
-      "related": [
-        "AVGO",
-        "MRVL",
-        "LITE",
-        "META",
-        "OpenAI",
-        "AI networking"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062322546809381094"
     }
   ],
   "ideas": [
@@ -786,28 +726,36 @@
       "name": "Nebius Group",
       "tier": "watch",
       "theme": "Neocloud / AI infrastructure financing structure",
-      "thesis": "Serenity revisits NBIS as her highest-conviction Neocloud pick and says the thesis has been validated by the move from about $84 to $260, while arguing NBIS has a better financing structure and sum-of-parts profile than CRWV and IREN.",
-      "whyItMatters": "This brings Neocloud back into the pre-market watchlist: NBIS may be the cleaner AI-infrastructure equity expression in her framework, with potential value from Avride, ClickHouse ownership and lower structural drag than peers.",
+      "thesis": "Serenity revisits NBIS as her cleaner Neocloud expression, emphasizing financing structure and float dynamics: NBIS contrasts with IREN, which she criticizes for large ATMs and recurring dilution risk.",
+      "whyItMatters": "This reframes the Neocloud theme around capital structure quality, not just AI infrastructure demand. In her framework, avoiding structural dilution and financing overhang is a core screen before sizing early opportunities.",
       "catalysts": [
         "NBIS price strength around the $260 pre-market area",
         "Serenity says NBIS is the best-performing Neocloud name from IREN to CRWV",
         "Better financing structure versus CRWV debt burden and IREN ATM dilution in her view",
-        "Sum-of-parts upside from Avride and ClickHouse exposure"
+        "Sum-of-parts upside from Avride and ClickHouse exposure",
+        "Serenity identifies toxic financing structure and float dynamics as the top early-opportunity screen"
       ],
       "risks": [
         "Post-validation mention after a large move is not a fresh entry signal",
         "Neocloud names can be highly sensitive to financing terms and AI capex sentiment",
-        "Subsidiary and ownership valuation needs independent verification"
+        "Subsidiary and ownership valuation needs independent verification",
+        "Peers with large ATM programs can sell into rallies and create structural overhang"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Verify NBIS current debt, cash and financing structure",
         "Compare CRWV interest burden and IREN ATM dilution with NBIS capital structure",
         "Quantify Avride and ClickHouse ownership / valuation contribution",
-        "Track pre-market and open reaction in NBIS and related Neocloud names"
+        "Track pre-market and open reaction in NBIS and related Neocloud names",
+        "Review current ATM authorizations, share issuance and float changes for IREN, CRWV and NBIS"
       ],
-      "lastUpdated": "2026-06-03 18:32",
+      "lastUpdated": "2026-06-07 19:10",
       "evidence": [
+        {
+          "date": "2026-06-07",
+          "quote": "The #1 screen is toxic financing structure / float dynamics; IREN has large ATMs and structural dilution risk, while NBIS is framed as cleaner.",
+          "url": "https://x.com/aleabitoreddit/status/2063571485739106593"
+        },
         {
           "date": "2026-06-03",
           "quote": "NBIS is just right, and have sum of parts from its subsidiaries from Avride + ownership of Clickhouse.",
@@ -1465,6 +1413,78 @@
           "date": "2026-06-04",
           "quote": "RDDT had a massive earnings beat, 69% Y/Y revenue growth, 91.5% gross margin and network-effect moat against AI vibe coding.",
           "url": "https://x.com/aleabitoreddit/status/2062552171502330188"
+        }
+      ]
+    },
+    {
+      "id": "glass-substrate",
+      "ticker": "011790 / 009150 / $AMAT / $AMD / $AVGO",
+      "name": "Glass substrate supply chain",
+      "tier": "watch",
+      "theme": "Advanced packaging substrate / AI accelerators",
+      "thesis": "Serenity flags glass substrate timelines from TrendForce: SKC Absolics as a H2 2026 first mover linked with AMAT and AMD customers, and Samsung Electro-Mechanics as a H2 2027 entrant linked with Sumitomo Chemical, Apple, AVGO and hyperscalers.",
+      "whyItMatters": "Glass substrate is an advanced-packaging material track adjacent to AI accelerators. If adoption moves from pilots to real customer ramps, upstream substrate and equipment names could become another AI hardware bottleneck theme.",
+      "catalysts": [
+        "SKC Absolics H2 2026 first-mover timeline in Serenity's cited TrendForce framing",
+        "Samsung Electro-Mechanics H2 2027 timeline with Sumitomo Chemical collaboration",
+        "Potential customer references include AMD, Apple, AVGO and hyperscalers",
+        "AMAT tooling link for SKC Absolics"
+      ],
+      "risks": [
+        "Timelines come from report interpretation and need primary-source confirmation",
+        "Customer linkage may be indirect or prospective rather than contracted revenue",
+        "Intel 2030 path appears less clear in Serenity's wording",
+        "Glass substrate adoption can be delayed by yield, cost and packaging qualification"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Read the TrendForce report or source image Serenity referenced",
+        "Confirm SKC Absolics H2 2026 ramp details and AMAT equipment relationship",
+        "Check Samsung Electro-Mechanics and Sumitomo Chemical disclosures for H2 2027 glass substrate plans",
+        "Verify whether AMD, Apple, AVGO or hyperscaler links are disclosed or inferred"
+      ],
+      "lastUpdated": "2026-06-07 19:10",
+      "evidence": [
+        {
+          "date": "2026-06-07",
+          "quote": "Glass substrate timelines: SKC Absolics H2 2026 first mover with AMAT / AMD customers; Samsung Electro-Mechanics H2 2027 with Sumitomo Chemical, Apple, AVGO and hyperscalers.",
+          "url": "https://x.com/aleabitoreddit/status/2063442668844167613"
+        }
+      ]
+    },
+    {
+      "id": "hbf-tc-bonders",
+      "ticker": "Hanmi / Hanwha / ASMPT / K&S",
+      "name": "HBF / TC bonders",
+      "tier": "watch",
+      "theme": "Memory packaging equipment / thermal compression bonding",
+      "thesis": "Serenity says HBF memory wars may be starting and points to TC bonders as a segment expected to benefit immediately, naming Hanmi Semiconductor and Hanwha Semiconductor as first movers, with ASMPT and K&S entering.",
+      "whyItMatters": "This is a new memory-packaging equipment line. If HBF commercialization drives demand for thermal compression bonding tools, equipment suppliers may see earlier benefit than downstream memory capacity additions.",
+      "catalysts": [
+        "HBF commercialization could require TC bonders",
+        "Hanmi Semiconductor and Hanwha Semiconductor framed as first movers",
+        "ASMPT and K&S framed as entry players",
+        "Reports flagged TC bonders as immediate beneficiaries in Serenity's wording"
+      ],
+      "risks": [
+        "HBF definition, commercial timing and customer adoption need clarification",
+        "First-mover labels are from report/Serenity framing and need independent verification",
+        "Equipment order timing can precede or lag actual memory volume ramps",
+        "Segment may already be priced if reports circulate broadly"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Identify the specific HBF report and terminology Serenity referenced",
+        "Compare Hanmi, Hanwha, ASMPT and K&S TC bonder product exposure",
+        "Check memory customer qualification and order disclosures",
+        "Map HBF against HBM / advanced memory packaging roadmaps"
+      ],
+      "lastUpdated": "2026-06-07 19:10",
+      "evidence": [
+        {
+          "date": "2026-06-07",
+          "quote": "HBF memory wars are kicking off; Hanmi and Hanwha are first movers, ASMPT and K&S are entry players, and TC bonders are expected to benefit immediately.",
+          "url": "https://x.com/aleabitoreddit/status/2063434493911081202"
         }
       ]
     }

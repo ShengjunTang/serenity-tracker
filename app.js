@@ -88,11 +88,11 @@ const zhCopy = {
   },
   nbis: {
     theme: "Neocloud / AI 基础设施融资结构",
-    thesis: "Serenity 重新强调 NBIS 是她最高信心的 Neocloud 标的，并称从约 84 美元到 260 美元已验证 thesis；她认为 NBIS 相比 CRWV 和 IREN 有更好的融资结构和资产组合价值。",
-    whyItMatters: "这让 Neocloud 重新进入盘前观察名单：在她的框架里，NBIS 可能是更干净的 AI 基础设施股权表达，同时还有 Avride、ClickHouse 等 sum-of-parts 价值。",
-    catalysts: ["NBIS 盘前价格在约 260 美元附近保持强势", "Serenity 称 NBIS 是 IREN 到 CRWV 整个 Neocloud 板块中表现最好的名字", "她认为 NBIS 融资结构好于 CRWV 债务负担和 IREN ATM 稀释", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
-    risks: ["大涨后的回顾性验证不等于新的买入点", "Neocloud 标的对融资条件和 AI capex 情绪高度敏感", "子公司和持股价值需要独立核实"],
-    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "量化 Avride 和 ClickHouse 持股 / 估值贡献", "跟踪 NBIS 与相关 Neocloud 标的盘前和开盘反应"],
+    thesis: "Serenity 重新强调 NBIS 是更干净的 Neocloud 表达，这次重点放在 financing structure 和 float dynamics：她批评 IREN 有大规模 ATM 和持续稀释风险，而 NBIS 的结构更好。",
+    whyItMatters: "这把 Neocloud 主题从单纯 AI 基础设施需求，进一步转成资本结构质量筛选。在她框架里，早期机会能否加大仓位，首先要避开持续稀释和融资 overhang。",
+    catalysts: ["Serenity 将 toxic financing structure / float dynamics 放在早期机会筛选第一位", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能", "AI 基础设施需求仍支撑 Neocloud 主题"],
+    risks: ["大涨后的回顾性验证不等于新的买入点", "Neocloud 标的对融资条件和 AI capex 情绪高度敏感", "IREN 这类大规模 ATM 可能在上涨中持续卖出，形成结构性 overhang", "子公司和持股价值需要独立核实"],
+    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "量化 Avride 和 ClickHouse 持股 / 估值贡献"],
   },
   xintech: {
     theme: "TSM 测试子公司 / COUPE 供应商线索",
@@ -221,6 +221,22 @@ const zhCopy = {
     catalysts: ["横盘数月后重新获得市场关注", "Serenity 引用 69% YoY revenue growth", "91.5% gross margin 和强 FCF", "她认为 Reddit 网络效应能对抗 AI vibe coding"],
     risks: ["财务数据需要用最新 filing 核实", "如果增长放缓，平台估值可能压缩", "不属于 Serenity 当前 CPO / Physical AI 硬件主线"],
     nextChecks: ["核实 RDDT 最新收入增长、毛利率和 FCF", "比较估值、收入增长和利润率", "评估 AI 数据授权、用户增长和广告变现是否可持续"],
+  },
+  "glass-substrate": {
+    theme: "先进封装玻璃基板 / AI 加速器材料",
+    thesis: "Serenity 引用 TrendForce 时间线，把 glass substrate 作为新的先进封装材料线索：SKC Absolics 预计 H2 2026 first mover，Samsung Electro-Mechanics 预计 H2 2027 进入。",
+    whyItMatters: "玻璃基板是 AI 加速器先进封装的相邻瓶颈。如果从 pilot 走向客户 ramp，上游基板与设备公司可能成为除 CPO 之外的另一条 AI 硬件供应链表达。",
+    catalysts: ["SKC Absolics H2 2026 first mover 时间线", "Serenity 提到 AMAT / AMD customers 相关线索", "Samsung Electro-Mechanics H2 2027 与 Sumitomo Chemical 合作", "潜在关联 Apple、AVGO 与 hyperscalers"],
+    risks: ["时间线来自报告解读，需要原始来源确认", "客户关系可能是潜在或间接暴露，不一定是确认收入", "INTC 2030 路径在她表述中不够确定", "玻璃基板量产可能受良率、成本和封装认证拖累"],
+    nextChecks: ["阅读 Serenity 引用的 TrendForce 报告或图表", "确认 SKC Absolics H2 2026 ramp 与 AMAT 设备关系", "核实 Samsung Electro-Mechanics / Sumitomo Chemical 的 H2 2027 计划", "区分 AMD、Apple、AVGO、hyperscaler 线索是披露还是推断"],
+  },
+  "hbf-tc-bonders": {
+    theme: "HBF 存储封装 / TC bonders",
+    thesis: "Serenity 在 Subs 中提到 HBF memory wars 可能启动，并把 TC bonders 作为可能立即受益的设备环节；她点名 Hanmi、Hanwha 为 first movers，ASMPT 和 K&S 为 entry players。",
+    whyItMatters: "这是存储先进封装设备的新线索。如果 HBF 商业化需要 thermal compression bonding，设备供应商可能早于下游存储放量受益。",
+    catalysts: ["HBF 商业化可能拉动 TC bonders", "Hanmi Semiconductor 与 Hanwha Semiconductor 被她称为 first movers", "ASMPT 与 K&S 被她称为 entry players", "相关报告称 TC bonders 可能立即受益"],
+    risks: ["HBF 的定义、商业化时间和客户采用仍需确认", "first mover 说法来自报告 / Serenity 框架，需要独立验证", "设备订单节奏可能早于或滞后真实存储量产", "如果报告已广泛传播，部分预期可能已被定价"],
+    nextChecks: ["找到 Serenity 引用的 HBF 报告和术语定义", "比较 Hanmi、Hanwha、ASMPT、K&S 的 TC bonder 产品暴露", "检查存储客户认证和订单披露", "把 HBF 与 HBM / 先进存储封装路线图对应起来"],
   },
 };
 
