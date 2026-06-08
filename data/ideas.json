@@ -1,13 +1,137 @@
 {
-  "generatedAt": "2026-06-07T19:10:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-07 19:10 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
+  "generatedAt": "2026-06-08T17:25:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-08 17:25 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
   "summary": {
     "focus": 6,
-    "watch": 12,
-    "speculative": 6,
+    "watch": 13,
+    "speculative": 7,
     "archive": 0
   },
   "latestUpdates": [
+    {
+      "date": "2026-06-08",
+      "publishedAt": "2026-06-08T15:31:00+08:00",
+      "type": "SIVE / JP Morgan 5%+ 机构持股后续",
+      "impactZh": "Serenity 跟进称，SIVE 在 JP Morgan 机构持股升至 5%+ 后只上涨约 3.36%，她认为这是 Sivers 流通盘出现主要机构买入的第一个重要信号。该信息强化 SIVE 的机构吸筹和 float 变化叙事，但仍需用原始持股文件确认。",
+      "original": "Surprised $SIVE is only up 3.36% off the news JP Morgan bought 5%+ ownership of Sivers... First major signal of major institutional buying of the float for Sivers.",
+      "related": [
+        "SIVE",
+        "JP Morgan",
+        "Sivers",
+        "institutional ownership",
+        "float dynamics",
+        "CPO"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063886704306802891",
+      "batch": "2026-06-08T17:25:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-08",
+      "publishedAt": "2026-06-08T14:22:00+08:00",
+      "type": "800V DC / power semi 众包名单",
+      "impactZh": "Serenity 汇总社区众包的 800V DC / power semiconductor 相关标的名单，包括 IFNNY、ON、Lite-On、VICR、LFUS、VSH、ENPH、NVTS、POWI、AEHR、WOLF、XFAB、300376 等。她随后提醒这只是众包名单，不应当作她自己的高确信推荐；300376 当日大涨 20% 反而说明社媒扩散带来的短线波动很高。",
+      "original": "Compiled list of your favorite 800V DC related ideas... She later reminded readers that this was just a crowdsourced list after 300376 rose 20%.",
+      "related": [
+        "800V DC",
+        "power semiconductors",
+        "IFNNY",
+        "ON",
+        "Lite-On",
+        "VICR",
+        "LFUS",
+        "VSH",
+        "ENPH",
+        "NVTS",
+        "WOLF",
+        "XFAB",
+        "300376"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063869376542192013",
+      "batch": "2026-06-08T17:25:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "新增观察"
+    },
+    {
+      "date": "2026-06-08",
+      "publishedAt": "2026-06-08T13:11:00+08:00",
+      "type": "LeaderDrive 688017 / 人形机器人组件长文强化",
+      "impactZh": "Serenity 再次明确称绿的谐波是中国机器人板块中突出的 component leader。她强调其覆盖谐波减速器、行星滚柱丝杠等高壁垒高 BOM 价值部件，具备低成本量产能力；同时认为未来 3-5 年如果人形机器人 TAM 按 Elon Musk 等预测放大，当前约 106.5 亿美元市值可能回看很小。主要风险是中国新兴公司抢占单一组件份额，以及量产后利润率下降。",
+      "original": "LeaderDrive is China's standout component leader in robotics... high technology barriers, high component value costs, mass production capability at low cost... current $10.65B MC could look tiny in hindsight.",
+      "related": [
+        "LeaderDrive",
+        "688017",
+        "humanoid robotics",
+        "TSLA Optimus",
+        "harmonic reducers",
+        "planetary roller screws",
+        "Physical AI"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
+      "batch": "2026-06-08T17:25:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-08",
+      "publishedAt": "2026-06-08T09:39:00+08:00",
+      "type": "LeaderDrive / 中国证券报报道与长期估值提醒",
+      "impactZh": "Serenity 感谢中国证券报对其 LeaderDrive 研究的报道，并重申中国公司在低成本大规模人形机器人供应链中有优势。她称 LeaderDrive 从未来几年角度看仍可能被低估，但也提醒自己无法控制短期波动，尤其在宏观环境变化下。",
+      "original": "Chinese companies like 688017 hold a dominant position over low-cost, mass production as humanoids scale up... LeaderDrive position is very undervalued long term, but I do not control near term volatility.",
+      "related": [
+        "LeaderDrive",
+        "688017",
+        "China Securities Journal",
+        "humanoid robotics",
+        "Chinese supply chain"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063798063035228188",
+      "batch": "2026-06-08T17:25:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "市场反馈"
+    },
+    {
+      "date": "2026-06-07",
+      "publishedAt": "2026-06-07T20:45:00+08:00",
+      "type": "NVDA / Silicon Photonics / SIVE SOI read-through",
+      "impactZh": "Serenity 称 NVDA CEO 在 memory 之外也点名 silicon photonics / optical networking，并表示 Nvidia 需要“beyond imagination”的供应量。她认为这对 SiPH 供应链是强烈 read-through，尤其从 SIVE 到 SOI。该内容强化 CPO / 硅光上游瓶颈主线。",
+      "original": "$NVDA CEO also called out Silicon Photonics with memory, requiring supply volumes beyond imagination. Bullish read-through on the SiPH supply chain from $SIVE to $SOI.",
+      "related": [
+        "NVDA",
+        "SIVE",
+        "SOI",
+        "silicon photonics",
+        "optical networking",
+        "SiPH",
+        "CPO"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063603368178938193",
+      "batch": "2026-06-08T17:25:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-07",
+      "publishedAt": "2026-06-07T19:28:00+08:00",
+      "type": "MU / EWY / AI memory shortage",
+      "impactZh": "Serenity 引用 NVDA CEO 对 memory shortage 可能持续多年的警告，认为 AI infrastructure 大规模扩张正在打破传统存储周期；因此 MU 以及 EWY 中 Samsung / SK Hynix 的利润预测看起来不再夸张。这是 AI memory / HBM 周期的新强化线索。",
+      "original": "$NVDA CEO warned memory shortage is expected to persist for many years due to massive scaling demand of AI infrastructure... $MU and $EWY operating profit projections are not looking too crazy anymore.",
+      "related": [
+        "MU",
+        "EWY",
+        "Samsung",
+        "SK Hynix",
+        "memory shortage",
+        "HBM",
+        "AI infrastructure",
+        "NVDA"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2063583856025108986",
+      "batch": "2026-06-08T17:25:00+08:00",
+      "importance": "high",
+      "importanceLabel": "新增线索"
+    },
     {
       "date": "2026-06-07",
       "publishedAt": "2026-06-07T18:39:16+08:00",
@@ -194,135 +318,6 @@
       "batch": "2026-06-06T10:30:00+08:00",
       "importance": "high",
       "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-05",
-      "publishedAt": "2026-06-05T23:58:00+08:00",
-      "type": "AI 半导体回调 / NVDA MU PL AAOI",
-      "impactZh": "Serenity 将 NVDA、MU、PL 等回调解读为市场波动和加息概率变化，而不是 AI buildout 主线恶化。她认为 Broadcom 对芯片股形成负面 read-through 的说法牵强，核心需求和 capex 反而仍在增强，并表示自己不会试图交易 Fed 概率。",
-      "original": "Nothing's changed the AI buildout aside from increasing capex... Personally wouldn't try and trade fed decision probabilities and stay long on current company projections.",
-      "related": [
-        "NVDA",
-        "MU",
-        "PL",
-        "AAOI",
-        "AI capex"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062927167936504133",
-      "batch": "2026-06-06T10:30:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "宏观关注"
-    },
-    {
-      "date": "2026-06-05",
-      "publishedAt": "2026-06-05T23:15:00+08:00",
-      "type": "Xintec 3374 / TSMC COUPE",
-      "impactZh": "Serenity 进一步强化 Xintec 3374 作为 TSMC packaging / test 子公司和 COUPE 潜在受益者的线索。她认为 TSM COUPE H2 2026 量产，如果 TSMC 倾向垂直整合，量可能流向自家子公司；短期几个月她认为 Xintec 比 VisEra 更有吸引力，但公开 volume 数据仍有限。",
-      "original": "Xintec (3374) also looks like an interesting idea... TSM COUPE mass production starts this half, H2 2026... Xintec looks more compelling than VisEra, at least for this next few months.",
-      "related": [
-        "Xintec",
-        "3374",
-        "TSM",
-        "COUPE",
-        "VisEra",
-        "Foci",
-        "Shunsin"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062916125235831046",
-      "batch": "2026-06-06T10:30:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-05",
-      "publishedAt": "2026-06-05T22:25:00+08:00",
-      "type": "SIVE / Protean Funds / 空头争议",
-      "impactZh": "Serenity 称 SIVE 是她在 CPO / photonics 中仅次于 AAOI 的最喜欢标的，并回应 Protean Funds 认为 SIVE CPO 应用是 imaginary。她反驳说 GFS 已将 SIVE 作为 reference laser，并认为 H2 2026 到 2028 CPO TAM 会出现巨大拐点，瑞典本地空头基金在拐点前做空风险很高。",
-      "original": "$SIVE is my favorite CPO / photonics stock after AAOI... Right after $GFS just made $SIVE their reference laser... from H2 2026 to 2028, it goes from near $0 to $91B TAM.",
-      "related": [
-        "SIVE",
-        "AAOI",
-        "GFS",
-        "Protean Funds",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062903639300309302",
-      "batch": "2026-06-06T10:30:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-05",
-      "publishedAt": "2026-06-05T17:10:00+08:00",
-      "type": "RPI / AI 需求兑现案例",
-      "impactZh": "Serenity 回顾 RPI 从她 thesis post 后上涨约 247%，并引用 AI 相关需求推动 core profit 显著高于市场预期。她用 RPI 反驳此前欧洲媒体将其称为 meme stock / no fundamentals 的判断，作为 AI 需求向非美国硬件资产兑现的案例。",
-      "original": "$RPI: $283 -> $983, up 247% from my thesis post... Strong AI-related demand was expected to result in core profit significantly ahead of market expectations.",
-      "related": [
-        "RPI",
-        "Raspberry Pi",
-        "AI demand",
-        "European hardware"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062824314655982037",
-      "batch": "2026-06-06T10:30:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "需关注"
-    },
-    {
-      "date": "2026-06-05",
-      "publishedAt": "2026-06-05T10:31:00+08:00",
-      "type": "LeaderDrive / 绿的谐波 / 人形机器人",
-      "impactZh": "Serenity 专门用中文发给中国读者，称绿的谐波（688017）是她布局人形机器人赛道最青睐的中国上市标的。核心逻辑是谐波减速器、旋转关节减速器、直线执行器、电机/关节等核心零部件，并开始进入 planetary roller screws。她认为这些部件可能占单台人形机器人 BOM 的 4%-15%，甚至未来更高。",
-      "original": "LeaderDrive (688017) is my favorite Chinese listed company for humanoid robots... harmonic reducers, humanoid robot rotary joint reducers, linear actuators, motors/joints, and planetary roller screws... BOM roughly 4-15% of each humanoid robot.",
-      "related": [
-        "LeaderDrive",
-        "688017",
-        "humanoid robotics",
-        "Physical AI",
-        "Tesla",
-        "Figure",
-        "UBTech",
-        "Agibot"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062723902728802341",
-      "batch": "2026-06-05T16:30:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-05",
-      "publishedAt": "2026-06-05T08:46:00+08:00",
-      "type": "AAOI / 800G 与 1.6T 光模块瓶颈",
-      "impactZh": "Serenity 明确说 AAOI 是自己从 28 美元开始持续 averaging up 的标的之一，并认为若执行顺利可能 double or triple。她的逻辑是 800G / 1.6T 光模块需求太强，AAOI 目标是美国最大产能且高度垂直整合；sovereign DC 与 Tier-2 AI DC 可能在 hyperscaler 升级到 1.6T 时继续拉动 800G 需求。她还认为市场可能低估瓶颈带来的 ASP 上升和 margin expansion。",
-      "original": "$AAOI is one of the names I keep averaging up on since $28... too much demand for 800g/1.6T optical transceivers... could see unexpected price hikes + margin expansion across the board from $AAOI, $LITE, and others.",
-      "related": [
-        "AAOI",
-        "LITE",
-        "AMD",
-        "NVDA",
-        "800G",
-        "1.6T optical transceivers"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062697638500462639",
-      "batch": "2026-06-05T16:30:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-05",
-      "publishedAt": "2026-06-05T08:03:00+08:00",
-      "type": "Anthropic / sovereign AI capex",
-      "impactZh": "Serenity 将 Anthropic 呼吁全球暂停 AI development 解读为“让我们先领先，别人别建”，并认为这类言论反而会刺激各国继续投资 AI。该内容不是单一标的推荐，但强化 sovereign AI、国家级 AI capex 和 AI 基础设施继续投入的宏观逻辑。",
-      "original": "Anthropic: “Urges Global Pause in AI Development”. Translation: “please let us take the lead, stop building!” Regardless, statements like this encourage every Country to start investing in AI.",
-      "related": [
-        "Anthropic",
-        "sovereign AI",
-        "AI capex"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2062686651940483414",
-      "batch": "2026-06-05T16:30:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "宏观关注"
     }
   ],
   "ideas": [
@@ -333,7 +328,7 @@
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
       "thesis": "Serenity has upgraded SIVE from a GFS/Ayar-linked laser supplier idea into her strongest CPO thesis: she now argues SIVE is both the bottleneck and chokepoint for ASIC/merchant CPO routes, with possible primary or sole-source exposure to Jabil, Gen-1 Ayar, Marvell Celestial, Lightmatter and GFS-linked ecosystem partners. On June 6 she added that JP Morgan's ownership reportedly jumped from about 0.4% to 5%+, reinforcing the institutional-accumulation angle.",
-      "whyItMatters": "The thesis is no longer only about one customer validation. In her framework, SIVE controls scarce CW laser output through Win Semi and other fabs while being embedded in reference or route architectures used by multiple CPO programs; if correct, it creates ecosystem-level leverage into the 2027/2028 CPO ramp. The new JP Morgan ownership claim, if verified, would suggest institutions are taking the other side of retail shakeouts and local short pressure.",
+      "whyItMatters": "The thesis is no longer only about one customer validation. In her framework, SIVE controls scarce CW laser output through Win Semi and other fabs while being embedded in reference or route architectures used by multiple CPO programs; if correct, it creates ecosystem-level leverage into the 2027/2028 CPO ramp. The new JP Morgan ownership follow-up reinforces her float-dynamics angle: she views 5%+ institutional buying as the first major signal of institutions accumulating Sivers shares.",
       "catalysts": [
         "Serenity says JP Morgan ownership in Sivers rose from about 0.4% last month to 5%+ this month",
         "Serenity says SIVE is her favorite CPO / photonics stock after AAOI",
@@ -356,7 +351,8 @@
         "Potential linkage across Marvell Celestial, Lightmatter and Ayar",
         "CPO and pluggable optical transceiver ramp over the next 18 months",
         "JBL and GFS public validation",
-        "EU Tech Sovereignty Package / Chips Act 2.0 photonics priority"
+        "EU Tech Sovereignty Package / Chips Act 2.0 photonics priority",
+        "Serenity says SIVE was only up about 3.36% despite JP Morgan buying 5%+ ownership, which she frames as the first major institutional buying signal in the float"
       ],
       "risks": [
         "JP Morgan ownership change must be confirmed through primary ownership filings",
@@ -371,7 +367,8 @@
         "Needs independent verification of customer and revenue conversion",
         "Supplier claims for Ayar, Marvell Celestial and Lightmatter need primary-source confirmation",
         "Short squeeze framing increases crowding and volatility risk",
-        "NASDAQ listing comment needs independent verification"
+        "NASDAQ listing comment needs independent verification",
+        "Short-term price reaction may remain muted even when ownership headlines look positive"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -393,10 +390,16 @@
         "Verify the primary-source basis for the claimed NVDA NVLink Fusion laser-supplier link",
         "Map Marvell Celestial, Lightmatter and Ayar laser-supplier dependencies",
         "Check whether SIVE revenue guidance reflects CPO/pluggables",
-        "Track customer concentration and production timing"
+        "Track customer concentration and production timing",
+        "Compare Sivers share-register changes before and after JP Morgan crossing 5%+ ownership"
       ],
-      "lastUpdated": "2026-06-06 10:30",
+      "lastUpdated": "2026-06-08 17:25",
       "evidence": [
+        {
+          "date": "2026-06-08 15:31",
+          "quote": "Serenity said SIVE was only up 3.36% despite JP Morgan buying 5%+ ownership, calling it the first major signal of institutional buying of the Sivers float.",
+          "url": "https://x.com/aleabitoreddit/status/2063886704306802891"
+        },
         {
           "date": "2026-06-06 07:59",
           "quote": "JP Morgan went from .4% ownership last month to 5%+ ownership this month; Serenity says institutions are buying up Sivers shares as retail gets shaken out.",
@@ -1220,20 +1223,22 @@
       "name": "SOI",
       "tier": "watch",
       "theme": "Silicon photonics substrate / EU policy beneficiary",
-      "thesis": "SOI has moved from archive context back to watchlist because Serenity explicitly grouped it with SIVE as a tiny upstream chokepoint: SOI for silicon photonics substrates, with additional EU CHIPS Act 2.0 impact-analysis support for Europe's SOI wafer strength.",
-      "whyItMatters": "If hyperscaler AI capex flows upward into photonics substrates, SOI could be a less direct but structurally relevant European photonics supply-chain expression.",
+      "thesis": "SOI is in watchlist because Serenity groups it with SIVE as a tiny upstream silicon-photonics chokepoint, now reinforced by her read-through from NVDA CEO comments that Nvidia needs enormous supply volumes in silicon photonics / optical networking.",
+      "whyItMatters": "If AI infrastructure growth creates persistent demand for silicon photonics and optical networking capacity, substrate suppliers such as SOI/Soitec may benefit alongside more direct laser and CPO names like SIVE.",
       "catalysts": [
         "Goldman hyperscaler capex upgrade used by Serenity to support upstream chokepoint assets",
         "EU CHIPS Act 2.0 impact analysis says the EU has a strong SOI wafer position with Soitec and Siltronic",
         "Prior market miss",
-        "European semiconductor momentum"
+        "European semiconductor momentum",
+        "NVDA CEO silicon photonics / optical networking comments, which Serenity frames as bullish read-through for SOI"
       ],
       "risks": [
         "SOI linkage is less direct than SIVE because Serenity gave less company-specific operating detail",
         "Need to confirm whether SOI ticker maps to the intended Soitec/SOI exposure in the user's market universe",
         "Insufficient fresh thesis",
         "Already large move",
-        "May be stale relative to current CPO focus"
+        "May be stale relative to current CPO focus",
+        "NVDA silicon photonics comments are a sector read-through, not a direct SOI customer award"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -1241,10 +1246,16 @@
         "Read EU CHIPS Act 2.0 impact analysis for Soitec and Siltronic language",
         "Check whether silicon photonics substrate demand is already visible in company guidance",
         "Only revisit if Serenity posts a fresh SOI thesis",
-        "Check whether SOI links to photonics or AI supply chain"
+        "Check whether SOI links to photonics or AI supply chain",
+        "Verify whether SOI / Soitec has explicit exposure to Nvidia-related silicon photonics supply volumes"
       ],
-      "lastUpdated": "2026-06-04 18:45",
+      "lastUpdated": "2026-06-08 17:25",
       "evidence": [
+        {
+          "date": "2026-06-07 20:45",
+          "quote": "Serenity said Nvidia calling out silicon photonics and supply volumes beyond imagination is a bullish read-through from SIVE to SOI.",
+          "url": "https://x.com/aleabitoreddit/status/2063603368178938193"
+        },
         {
           "date": "2026-06-03",
           "quote": "EU impact analysis notes the EU has a relatively strong global position in SOI wafers, with Soitec and Siltronic notable players.",
@@ -1336,22 +1347,28 @@
       "name": "LeaderDrive / 绿的谐波",
       "tier": "focus",
       "theme": "Humanoid robotics / harmonic reducers / Physical AI components",
-      "thesis": "Serenity calls LeaderDrive her favorite Chinese-listed humanoid robotics company, highlighting harmonic reducers, humanoid robot rotary-joint reducers, linear actuators, motors/joints and a push into planetary roller screws.",
-      "whyItMatters": "This is a direct Physical AI hardware-components thesis. If humanoid robot production scales, LeaderDrive could capture a meaningful BOM share across core motion components rather than relying on one narrow product.",
+      "thesis": "Serenity reiterates LeaderDrive as China's standout humanoid-robotics component leader, not just a harmonic-reducer company: she highlights high-barrier reducers, planetary roller screws, motors/joints, high component BOM capture and low-cost mass-production capability.",
+      "whyItMatters": "The thesis has shifted from one Chinese humanoid stock idea into a broader component-leader framework. If humanoid robots scale from prototypes toward millions of units, she believes LeaderDrive could capture meaningful value across several motion-control components while Chinese supply chains dominate low-cost mass production.",
       "catalysts": [
         "Serenity says LeaderDrive is her favorite Chinese listed humanoid robotics name",
         "Claimed domestic harmonic reducer share above 60% and 1,800+ global customers",
         "Exposure to rotary-joint reducers, linear actuators, motors/joints and planetary roller screws",
         "Potential customers or ecosystem relevance include UBTech, Agibot, Tesla and Figure in her framework",
         "Physical AI and humanoid robot scale production",
-        "Chinese media picked up Serenity's LeaderDrive research and she observed 688017 hitting 20% limit up amid robotics-sector strength"
+        "Chinese media picked up Serenity's LeaderDrive research and she observed 688017 hitting 20% limit up amid robotics-sector strength",
+        "Serenity says Western research such as Goldman flags LeaderDrive for high technology barriers and component value capture",
+        "She frames LeaderDrive as a long-term 3-5 year humanoid TAM compounder rather than a short-term trading idea",
+        "China Securities Journal coverage increased institutional attention around the thesis"
       ],
       "risks": [
         "Market-share and customer claims need primary-source verification",
         "Humanoid volume timing is highly uncertain and hard to model",
         "A-share valuation and liquidity may differ from US-listed AI hardware names",
         "Tesla/Figure customer linkage is framed as potential, not confirmed",
-        "A limit-up reaction is market feedback, not proof of sustained fundamentals"
+        "A limit-up reaction is market feedback, not proof of sustained fundamentals",
+        "Emerging Chinese competitors may take share in individual components",
+        "Mass-production margins may decline over time as component prices fall",
+        "Short-term volatility can be driven by media coverage rather than new orders"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -1359,10 +1376,23 @@
         "Estimate reducer/actuator/motor BOM value per humanoid robot",
         "Check actual customer list: Universal Robots, UBTech, Agibot and any Tesla/Figure evidence",
         "Review 688017 valuation, revenue mix and capacity plans",
-        "Separate media-driven price reaction from new orders, margins and capacity evidence"
+        "Separate media-driven price reaction from new orders, margins and capacity evidence",
+        "Review Goldman or other institutional research references to LeaderDrive technology barriers and BOM capture",
+        "Compare LeaderDrive margins and pricing under mass-production scenarios",
+        "Track whether media attention converts into institutional ownership or company order disclosures"
       ],
-      "lastUpdated": "2026-06-06 19:25",
+      "lastUpdated": "2026-06-08 17:25",
       "evidence": [
+        {
+          "date": "2026-06-08 09:39",
+          "quote": "Serenity said China Securities Journal covered her LeaderDrive analysis and reiterated that 688017 may be undervalued long term despite uncontrollable near-term volatility.",
+          "url": "https://x.com/aleabitoreddit/status/2063798063035228188"
+        },
+        {
+          "date": "2026-06-08 13:11",
+          "quote": "Serenity called LeaderDrive China's standout robotics component leader, citing high-barrier components, high humanoid BOM capture and low-cost mass-production capability.",
+          "url": "https://x.com/aleabitoreddit/status/2063851425462173726"
+        },
         {
           "date": "2026-06-06",
           "quote": "Serenity said LeaderDrive research spread through Chinese media, China robotics stocks moved up, and 688017 hit 20% limit up.",
@@ -1485,6 +1515,82 @@
           "date": "2026-06-07",
           "quote": "HBF memory wars are kicking off; Hanmi and Hanwha are first movers, ASMPT and K&S are entry players, and TC bonders are expected to benefit immediately.",
           "url": "https://x.com/aleabitoreddit/status/2063434493911081202"
+        }
+      ]
+    },
+    {
+      "id": "ai-memory",
+      "ticker": "$MU / $EWY",
+      "name": "AI memory shortage / Samsung / SK Hynix",
+      "tier": "watch",
+      "theme": "AI memory shortage / HBM cycle",
+      "thesis": "Serenity points to NVDA CEO warnings that memory shortages could persist for years because AI infrastructure demand is scaling so aggressively, and argues MU plus EWY exposure to Samsung / SK Hynix profit projections may no longer look excessive.",
+      "whyItMatters": "This extends her AI infrastructure framework beyond compute and CPO into memory supply. If AI breaks the old memory cycle, HBM and leading DRAM producers may deserve structurally higher earnings assumptions.",
+      "catalysts": [
+        "NVDA CEO warning that memory shortage may persist for many years",
+        "AI infrastructure scaling demand continues to pressure memory supply",
+        "Operating-profit projections for MU and Korean memory leaders may be revised upward",
+        "Potential further Nvidia announcements around memory and optical networking"
+      ],
+      "risks": [
+        "Memory remains cyclical if supply catches up faster than expected",
+        "EWY is a broad Korea ETF and not pure Samsung/SK Hynix exposure",
+        "NVDA commentary is a sector signal, not company-specific guidance for MU or EWY",
+        "Valuation may already price a durable HBM shortage"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Verify the NVDA CEO memory-shortage comments from the original event",
+        "Compare MU, Samsung and SK Hynix HBM capacity plans versus demand forecasts",
+        "Separate HBM shortage from commodity DRAM/NAND cycle dynamics",
+        "Check EWY weightings and whether it is an efficient expression of Samsung/SK Hynix profit revisions"
+      ],
+      "lastUpdated": "2026-06-08 17:25",
+      "evidence": [
+        {
+          "date": "2026-06-07 19:28",
+          "quote": "Serenity said Nvidia warned memory shortage could persist for many years due to AI infrastructure scaling, making MU and EWY profit projections look less extreme.",
+          "url": "https://x.com/aleabitoreddit/status/2063583856025108986"
+        }
+      ]
+    },
+    {
+      "id": "power-800v-dc",
+      "ticker": "$IFNNY / $ON / 300376 / basket",
+      "name": "800V DC power semiconductor basket",
+      "tier": "speculative",
+      "theme": "800V DC / power semiconductor crowdsourced ideas",
+      "thesis": "Serenity compiled a community-sourced list of 800V DC and power-semiconductor related names after earlier asking for high-conviction power semi ideas linked to NVDA pushing a shift toward 800 VDC. She explicitly reminded readers that the list is crowdsourced rather than her own direct recommendation.",
+      "whyItMatters": "800V DC is one of the broader AI power-infrastructure themes adjacent to data-center power delivery. The list is useful as a discovery map, but it should be treated as an idea-generation basket rather than a vetted Serenity thesis.",
+      "catalysts": [
+        "NVDA pushing data-center power architecture toward 800 VDC in Serenity's framework",
+        "Crowdsourced list includes large and mid-cap power semiconductor names such as IFNNY, ON, Lite-On, VICR, LFUS, VSH, ENPH, NVTS, POWI, AEHR, WOLF and XFAB",
+        "300376.SZ rose 20% after appearing in the crowdsourced list, showing social-media attention can move smaller names"
+      ],
+      "risks": [
+        "Serenity explicitly says this is only a crowdsourced list",
+        "Many names have different or only adjacent exposure to 800V DC",
+        "Small-cap names can move sharply on attention before fundamentals are verified",
+        "The list mixes power semis, energy storage, fuel cells, equipment and adjacent names, so purity is low"
+      ],
+      "stance": "观望",
+      "nextChecks": [
+        "Map each listed company to actual 800V DC data-center power exposure",
+        "Identify which names have confirmed AI data-center customers, not only EV or industrial power exposure",
+        "Separate pure power semiconductor beneficiaries from adjacent or irrelevant names",
+        "Treat 300376.SZ price move as a volatility warning until company-level evidence is verified"
+      ],
+      "lastUpdated": "2026-06-08 17:25",
+      "evidence": [
+        {
+          "date": "2026-06-08 14:22",
+          "quote": "Serenity compiled a crowdsourced list of 800V DC related ideas including IFNNY, ON, Lite-On, VICR, LFUS, VSH, ENPH, NVTS, WOLF, XFAB and 300376.SZ.",
+          "url": "https://x.com/aleabitoreddit/status/2063869376542192013"
+        },
+        {
+          "date": "2026-06-08 14:51",
+          "quote": "After 300376 rose 20%, Serenity reminded readers that the 800V DC list was only crowdsourced.",
+          "url": "https://x.com/aleabitoreddit/status/2063876472419533110"
         }
       ]
     }

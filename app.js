@@ -9,9 +9,10 @@ const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
     thesis: "Serenity 将 SIVE 升级为当前最强 CPO 主线：她认为 SIVE 同时是 ASIC / merchant CPO 路线的瓶颈和卡点，并可能深度暴露于 Jabil、Gen-1 Ayar、Marvell Celestial、Lightmatter 与 GFS 相关生态。6 月 6 日新增重点是，她称 JP Morgan 对 Sivers 的持股从约 0.4% 提升到 5%+。",
-    whyItMatters: "这已经不是单一客户验证逻辑。按她的框架，SIVE 一方面通过 Win Semi 等产能控制稀缺 CW laser 输出，另一方面又嵌入多个 CPO 路线架构；如果成立，弹性来自 2027/2028 CPO 放量的生态级杠杆。JP Morgan 持股变化如果属实，则强化机构吸筹与散户震仓的叙事。",
+    whyItMatters: "这已经不是单一客户验证逻辑。按她的框架，SIVE 一方面通过 Win Semi 等产能控制稀缺 CW laser 输出，另一方面又嵌入多个 CPO 路线架构；如果成立，弹性来自 2027/2028 CPO 放量的生态级杠杆。6 月 8 日她继续强调 JP Morgan 5%+ 持股是机构买入流通盘的第一个重要信号。",
     catalysts: [
       "Serenity 称 JP Morgan 对 Sivers 持股从约 0.4% 升至 5%+",
+      "Serenity 称 JP Morgan 持股消息后 SIVE 仅涨约 3.36%，她认为市场反应偏弱",
       "Serenity 称 SIVE 是她仅次于 AAOI 的 CPO / photonics 最喜欢标的",
       "Protean Funds 质疑 SIVE CPO 应用后，Serenity 用 GFS reference laser 逻辑反驳",
       "Serenity 称 SIVE 是明年 CPO 的 chokepoint + bottleneck",
@@ -32,9 +33,10 @@ const zhCopy = {
       "JBL 与 GFS 的公开验证",
       "欧洲 Tech Sovereignty Package / Chips Act 2.0 对 photonics 的政策优先级",
     ],
-    risks: ["JP Morgan 持股变化必须用原始持股文件确认", "Protean Funds 的反方观点也需要直接阅读", "H2 2026-2028 的 CPO TAM 数字需要核实来源与口径", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
+    risks: ["JP Morgan 持股变化必须用原始持股文件确认", "短期股价可能不会立即反映机构持股消息", "Protean Funds 的反方观点也需要直接阅读", "H2 2026-2028 的 CPO TAM 数字需要核实来源与口径", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
     nextChecks: [
       "核实 JP Morgan 最新 Sivers 持股比例和文件日期",
+      "对比 JP Morgan 过 5% 前后 Sivers 股东名册和流通盘变化",
       "阅读 Protean Funds 对 SIVE 的原始质疑",
       "追溯 91B / 141B CPO TAM 数字的报告来源",
       "核实 Win Semi private placement 是否与 SIVE 相关 CW laser 产能有关",
@@ -184,11 +186,11 @@ const zhCopy = {
   },
   soi: {
     theme: "硅光衬底 / 欧洲政策受益",
-    thesis: "SOI 从暂不纳入提升为跟踪观察，因为 Serenity 明确把它与 SIVE 并列为上游小型瓶颈：SIVE 是 CPO lasers，SOI 是 silicon photonics substrates，同时 EU CHIPS Act 2.0 impact analysis 提到欧洲 SOI wafer 强项。",
-    whyItMatters: "如果 hyperscaler AI capex 向 photonics substrate 上游传导，SOI 可能成为比 SIVE 更间接、但仍有结构相关性的欧洲 photonics 供应链表达。",
-    catalysts: ["Serenity 用 Goldman hyperscaler capex 上调支撑上游瓶颈资产", "EU CHIPS Act 2.0 impact analysis 提到欧洲 SOI wafer 强项", "此前市场低估", "欧洲半导体动量"],
-    risks: ["SOI 逻辑比 SIVE 间接，Serenity 给出的公司级细节较少", "需要确认 Serenity 所指 SOI 对应的具体上市标的", "已经大幅上涨", "相对当前 CPO 主线可能偏旧"],
-    nextChecks: ["确认 Serenity 所指 SOI 的具体上市主体 / ticker", "阅读 EU CHIPS Act 2.0 impact analysis 中 Soitec / Siltronic 相关原文", "检查 silicon photonics substrate 需求是否已进入公司指引", "确认 SOI 是否与光子或 AI 供应链有关"],
+    thesis: "SOI 留在跟踪观察，因为 Serenity 把它与 SIVE 并列为上游硅光瓶颈：SIVE 是 CPO lasers，SOI 是 silicon photonics substrates。6 月 7 日她又把 NVDA CEO 对 silicon photonics / optical networking 的评论视为 SIVE 到 SOI 的正向 read-through。",
+    whyItMatters: "如果 AI 基础设施增长真的带来对 silicon photonics 和 optical networking 的“超想象供应量”需求，那么 SOI / Soitec 这类衬底供应商可能与 SIVE 等更直接 CPO 标的一起受益。",
+    catalysts: ["NVDA CEO 点名 silicon photonics / optical networking，被 Serenity 解读为 SOI read-through", "Serenity 用 Goldman hyperscaler capex 上调支撑上游瓶颈资产", "EU CHIPS Act 2.0 impact analysis 提到欧洲 SOI wafer 强项", "此前市场低估", "欧洲半导体动量"],
+    risks: ["NVDA 对 silicon photonics 的评论是行业 read-through，不是 SOI 直接客户订单", "SOI 逻辑比 SIVE 间接，Serenity 给出的公司级细节较少", "需要确认 Serenity 所指 SOI 对应的具体上市标的", "已经大幅上涨", "相对当前 CPO 主线可能偏旧"],
+    nextChecks: ["确认 Serenity 所指 SOI 的具体上市主体 / ticker", "核实 SOI / Soitec 是否明确暴露于 Nvidia 相关 silicon photonics 供应量", "阅读 EU CHIPS Act 2.0 impact analysis 中 Soitec / Siltronic 相关原文", "检查 silicon photonics substrate 需求是否已进入公司指引", "确认 SOI 是否与光子或 AI 供应链有关"],
   },
   "tsm-visera": {
     theme: "CoPoS 先进封装 / TSM 子公司暴露",
@@ -208,11 +210,11 @@ const zhCopy = {
   },
   leaderdrive: {
     theme: "人形机器人 / 谐波减速器 / Physical AI 零部件",
-    thesis: "Serenity 称绿的谐波是她最青睐的中国上市人形机器人标的，核心暴露包括谐波减速器、旋转关节减速器、直线执行器、电机 / 关节，以及行星滚柱丝杠。",
-    whyItMatters: "这是一个直接的 Physical AI 硬件零部件 thesis。如果人形机器人量产放大，绿的谐波可能通过多个运动控制核心部件获得可观 BOM 份额，而不是只依赖单一产品。",
-    catalysts: ["Serenity 称绿的谐波是她最喜欢的中国上市人形机器人标的", "她提到国内谐波减速器份额超过 60%、全球客户超过 1800 家", "暴露于旋转关节减速器、直线执行器、电机 / 关节和行星滚柱丝杠", "她框架中潜在相关客户包括优必选、智元机器人、Tesla、Figure 等", "Physical AI 与人形机器人规模化量产"],
-    risks: ["市场份额和客户数量需要原始资料确认", "人形机器人量产节奏高度不确定，难以精确建模", "A 股估值和流动性与美股 AI 硬件标的不同", "Tesla / Figure 只是潜在客户框架，不是确认供应关系"],
-    nextChecks: ["核实 60% 国内份额和 1800+ 客户说法", "估算每台人形机器人中减速器 / 执行器 / 电机的 BOM 价值", "核对 Universal Robots、优必选、智元机器人以及 Tesla / Figure 证据", "查看 688017 估值、收入结构和扩产计划"],
+    thesis: "Serenity 再次称绿的谐波是中国人形机器人里突出的 component leader，不只是谐波减速器公司；她强调其覆盖高壁垒减速器、行星滚柱丝杠、电机 / 关节等高 BOM 价值部件，并具备低成本量产能力。",
+    whyItMatters: "这是一个直接的 Physical AI 硬件零部件 thesis。如果人形机器人从原型走向数百万台量产，绿的谐波可能通过多个运动控制核心部件获得可观 BOM 份额，而中国供应链可能主导低成本量产。",
+    catalysts: ["Serenity 称绿的谐波是中国机器人板块突出的 component leader", "她提到 Goldman 等西方机构也多次提及其高技术壁垒和 BOM 价值捕获", "暴露于谐波减速器、旋转关节减速器、直线执行器、电机 / 关节和行星滚柱丝杠", "她框架中潜在相关客户包括优必选、智元机器人、Tesla、Figure 等", "Physical AI 与人形机器人规模化量产", "中国证券报报道提升机构关注度"],
+    risks: ["市场份额和客户数量需要原始资料确认", "人形机器人量产节奏高度不确定，难以精确建模", "新兴中国公司可能抢占单一零部件份额", "量产后零部件价格和利润率可能下降", "A 股估值和流动性与美股 AI 硬件标的不同", "Tesla / Figure 只是潜在客户框架，不是确认供应关系"],
+    nextChecks: ["核实 60% 国内份额和 1800+ 客户说法", "查找 Goldman 等机构对 LeaderDrive 技术壁垒和 BOM 捕获的原文", "估算每台人形机器人中减速器 / 执行器 / 电机的 BOM 价值", "核对 Universal Robots、优必选、智元机器人以及 Tesla / Figure 证据", "查看 688017 估值、收入结构和扩产计划", "跟踪媒体关注是否转化为订单、机构持仓或公司披露"],
   },
   rddt: {
     theme: "AI 时代互联网平台 / 网络效应护城河",
@@ -237,6 +239,22 @@ const zhCopy = {
     catalysts: ["HBF 商业化可能拉动 TC bonders", "Hanmi Semiconductor 与 Hanwha Semiconductor 被她称为 first movers", "ASMPT 与 K&S 被她称为 entry players", "相关报告称 TC bonders 可能立即受益"],
     risks: ["HBF 的定义、商业化时间和客户采用仍需确认", "first mover 说法来自报告 / Serenity 框架，需要独立验证", "设备订单节奏可能早于或滞后真实存储量产", "如果报告已广泛传播，部分预期可能已被定价"],
     nextChecks: ["找到 Serenity 引用的 HBF 报告和术语定义", "比较 Hanmi、Hanwha、ASMPT、K&S 的 TC bonder 产品暴露", "检查存储客户认证和订单披露", "把 HBF 与 HBM / 先进存储封装路线图对应起来"],
+  },
+  "ai-memory": {
+    theme: "AI 存储短缺 / HBM 周期",
+    thesis: "Serenity 引用 NVDA CEO 对 memory shortage 可能持续多年的警告，认为 AI 基础设施需求正在打破传统存储周期，因此 MU 以及 EWY 中 Samsung / SK Hynix 的利润预测不再显得夸张。",
+    whyItMatters: "这把她的 AI 基建框架从算力和 CPO 延伸到存储供给。如果 HBM 与高端 DRAM 进入结构性紧缺，领先存储厂商的盈利假设可能需要上修。",
+    catalysts: ["NVDA CEO 警告 memory shortage 可能持续多年", "AI infrastructure scaling demand 继续压迫存储供应", "MU、Samsung、SK Hynix 的盈利预测可能上修", "后续 Nvidia 可能继续发布 memory / optical networking 相关信息"],
+    risks: ["如果供给扩张快于预期，存储仍可能回到周期波动", "EWY 是韩国 ETF，不是纯 Samsung / SK Hynix 暴露", "NVDA 评论是行业信号，不是 MU 或 EWY 的公司指引", "市场可能已经部分定价 HBM 紧缺"],
+    nextChecks: ["核实 NVDA CEO 关于 memory shortage 的原始发言", "比较 MU、Samsung、SK Hynix 的 HBM 产能计划和需求预测", "区分 HBM 紧缺与普通 DRAM / NAND 周期", "检查 EWY 权重，看是否适合作为 Samsung / SK Hynix 利润上修表达"],
+  },
+  "power-800v-dc": {
+    theme: "800V DC / 功率半导体众包名单",
+    thesis: "Serenity 汇总了社区众包的 800V DC / power semiconductor 标的名单，背景是 NVDA 推动数据中心向 800V DC 架构迁移；但她明确提醒，这只是众包名单，不等于她本人的高确信推荐。",
+    whyItMatters: "800V DC 是 AI 数据中心供电架构的相邻主题。这个名单适合当作线索地图，而不是已验证 thesis；特别是小票被点名后可能快速波动。",
+    catalysts: ["NVDA 推动数据中心供电架构向 800V DC 迁移", "众包名单包括 IFNNY、ON、Lite-On、VICR、LFUS、VSH、ENPH、NVTS、POWI、AEHR、WOLF、XFAB、300376 等", "300376.SZ 被列入名单后上涨 20%，显示社媒关注会推动短线波动"],
+    risks: ["Serenity 明确说这只是众包名单", "名单里很多公司只是相邻暴露，800V DC 纯度不同", "小盘股可能先被注意力推动，而不是基本面兑现", "名单混合功率半导体、储能、燃料电池、设备和相邻标的，纯度较低"],
+    nextChecks: ["逐一映射名单公司真实 800V DC 数据中心供电暴露", "确认哪些公司有 AI 数据中心客户，而不只是 EV / 工业电源暴露", "区分纯功率半导体受益者和相邻 / 无关标的", "在公司证据核实前，把 300376.SZ 的涨停视为波动提醒"],
   },
 };
 
@@ -379,10 +397,26 @@ function ideaMatches(idea) {
   return tierMatch && haystack.includes(query);
 }
 
+function ideaSearchScore(idea, query) {
+  if (!query) return 0;
+  const primaryFields = [idea.id, idea.ticker, idea.name].map(normalizeSearch);
+  const relatedTags = (idea.evidence ?? []).flatMap((item) => [item.quote, item.url]).map(normalizeSearch);
+  if (primaryFields.some((field) => field === query || field.split(" ").includes(query))) return 100;
+  if (primaryFields.some((field) => field.includes(query))) return 80;
+  if ((idea.catalysts ?? []).map(normalizeSearch).some((field) => field.includes(query))) return 60;
+  if (relatedTags.some((field) => field.includes(query))) return 40;
+  return 0;
+}
+
 function filteredIdeas() {
+  const query = normalizeSearch(state.query);
   return state.ideas
     .filter(ideaMatches)
     .sort((a, b) => {
+      if (query) {
+        const score = ideaSearchScore(b, query) - ideaSearchScore(a, query);
+        if (score) return score;
+      }
       const result = new Date(b.lastUpdated) - new Date(a.lastUpdated);
       return state.sortDesc ? result : -result;
     });
