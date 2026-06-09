@@ -8,9 +8,12 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 将 SIVE 升级为当前最强 CPO 主线：她认为 SIVE 同时是 ASIC / merchant CPO 路线的瓶颈和卡点，并可能深度暴露于 Jabil、Gen-1 Ayar、Marvell Celestial、Lightmatter 与 GFS 相关生态。6 月 6 日新增重点是，她称 JP Morgan 对 Sivers 的持股从约 0.4% 提升到 5%+。",
-    whyItMatters: "这已经不是单一客户验证逻辑。按她的框架，SIVE 一方面通过 Win Semi 等产能控制稀缺 CW laser 输出，另一方面又嵌入多个 CPO 路线架构；如果成立，弹性来自 2027/2028 CPO 放量的生态级杠杆。6 月 8 日她继续强调 JP Morgan 5%+ 持股是机构买入流通盘的第一个重要信号。",
+    thesis: "Serenity 将 SIVE 从 GFS / Ayar 激光器供应线索扩展为 CPO 加航天国防双重瓶颈。6 月 9 日，Sivers 获得 ALL.SPACE 价值 820 万美元的 Ka-band beamforming IC 量产订单；她同时继续关注 Jabil 等可插拔光模块厂商带来的 photonics 放量。",
+    whyItMatters: "这条逻辑现在覆盖两条稀缺技术链：AI 光互连所需的 CW laser，以及 LEO / 多轨卫星通信所需的 beamforming IC。ALL.SPACE 订单是直接量产证据，但更大型国防主承包商的后续订单和 JBL 放量仍是前瞻判断。",
     catalysts: [
+      "ALL.SPACE 价值 820 万美元的 Ka-band beamforming IC 量产订单",
+      "订单用于 LEO / 多轨卫星通信，验证 SIVE 的航天国防供应链暴露",
+      "Serenity 期待 Jabil 等可插拔光模块厂商推动 photonics 端放量",
       "Serenity 称 JP Morgan 对 Sivers 持股从约 0.4% 升至 5%+",
       "Serenity 称 JP Morgan 持股消息后 SIVE 仅涨约 3.36%，她认为市场反应偏弱",
       "Serenity 称 SIVE 是她仅次于 AAOI 的 CPO / photonics 最喜欢标的",
@@ -33,8 +36,10 @@ const zhCopy = {
       "JBL 与 GFS 的公开验证",
       "欧洲 Tech Sovereignty Package / Chips Act 2.0 对 photonics 的政策优先级",
     ],
-    risks: ["JP Morgan 持股变化必须用原始持股文件确认", "短期股价可能不会立即反映机构持股消息", "Protean Funds 的反方观点也需要直接阅读", "H2 2026-2028 的 CPO TAM 数字需要核实来源与口径", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
+    risks: ["820 万美元订单已公开，但后续国防主承包商订单并不确定", "需要核实订单交付节奏、收入确认与利润率贡献", "JP Morgan 持股变化必须用原始持股文件确认", "短期股价可能不会立即反映机构持股消息", "Protean Funds 的反方观点也需要直接阅读", "H2 2026-2028 的 CPO TAM 数字需要核实来源与口径", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
     nextChecks: [
+      "阅读 Sivers / ALL.SPACE 原始公告，核实交付、收入确认和利润率影响",
+      "核实 YSS 收购关系以及是否披露更多航天国防项目",
       "核实 JP Morgan 最新 Sivers 持股比例和文件日期",
       "对比 JP Morgan 过 5% 前后 Sivers 股东名册和流通盘变化",
       "阅读 Protean Funds 对 SIVE 的原始质疑",
@@ -87,6 +92,14 @@ const zhCopy = {
     catalysts: ["AVGO 电话会显示 AI networking demand 强、订单可见度延伸到 2028", "OpenAI custom silicon late-2026 production 与 Meta H2 2027 项目时间线支持 ASIC 周期", "Jensen Huang 公开背书", "AI ASIC / Celestial 叙事", "潜在 SIVE 激光器供应商关系"],
     risks: ["AVGO 需求强不等于 MRVL 自动拿到份额", "35% 快速上涨后短期可能透支", "大盘股上行依赖执行与估值", "SIVE 供应关系仍需验证"],
     nextChecks: ["比较 AVGO 客户时间线与 MRVL AI ASIC pipeline 披露", "确认 Jensen 引述与活动语境", "验证 MRVL / Celestial 供应链", "区分 AI ASIC 增长与光学 / CPO 逻辑"],
+  },
+  jbl: {
+    theme: "1.6T LRO 可插拔光模块 / 美国光学制造",
+    thesis: "Serenity 把 JBL 提为可能尚未充分定价的长线光通信线索：Jabil 接手 Intel 可插拔光模块产线，已有 hyperscaler 认证供应链和大规模制造能力，并可能通过 SIVE 与其他晶圆厂获得外部激光器供给。",
+    whyItMatters: "如果 1.6T 需求已经出现，而 H1 2027 的主要限制转向激光器产能，Jabil 可能在仍以综合电子制造商估值的情况下获得光学业务重估。",
+    catalysts: ["H1 2027 前后的 1.6T LRO 放量", "接手 Intel 可插拔光模块产线", "已有 hyperscaler 认证供应链", "SIVE 与多家晶圆厂可能支持激光器扩产", "美国本土光学供应链可能获得估值溢价"],
+    risks: ["Serenity 明确表示当前没有 JBL 持仓，只是研究线索", "JBL 光学机会可能已被部分定价", "SIVE 关系和 1.6T 客户项目需要原始资料确认", "综合业务体量可能稀释光学增长对整体盈利的影响", "H1 2027 时间和约 40% 重估只是推测"],
+    nextChecks: ["核实 Jabil 接手 Intel 可插拔光模块产线的原始披露", "查找 1.6T LRO 产能、客户和量产时间信息", "确认 JBL 是否公开点名 SIVE 或其他激光器供应商", "估算光学收入对 JBL 总收入与利润率的敏感性", "与 AAOI、Innolight 等光模块厂商比较估值和业务纯度"],
   },
   nbis: {
     theme: "Neocloud / AI 基础设施融资结构",
@@ -210,7 +223,7 @@ const zhCopy = {
   },
   leaderdrive: {
     theme: "人形机器人 / 谐波减速器 / Physical AI 零部件",
-    thesis: "Serenity 再次称绿的谐波是中国人形机器人里突出的 component leader，不只是谐波减速器公司；她强调其覆盖高壁垒减速器、行星滚柱丝杠、电机 / 关节等高 BOM 价值部件，并具备低成本量产能力。",
+    thesis: "Serenity 再次称绿的谐波是中国人形机器人里突出的 component leader，不只是谐波减速器公司；她强调其覆盖高壁垒减速器、行星滚柱丝杠、电机 / 关节等高 BOM 价值部件，并明确 688017 是长线持有框架，不是几天内完成的短线交易。",
     whyItMatters: "这是一个直接的 Physical AI 硬件零部件 thesis。如果人形机器人从原型走向数百万台量产，绿的谐波可能通过多个运动控制核心部件获得可观 BOM 份额，而中国供应链可能主导低成本量产。",
     catalysts: ["Serenity 称绿的谐波是中国机器人板块突出的 component leader", "她提到 Goldman 等西方机构也多次提及其高技术壁垒和 BOM 价值捕获", "暴露于谐波减速器、旋转关节减速器、直线执行器、电机 / 关节和行星滚柱丝杠", "她框架中潜在相关客户包括优必选、智元机器人、Tesla、Figure 等", "Physical AI 与人形机器人规模化量产", "中国证券报报道提升机构关注度"],
     risks: ["市场份额和客户数量需要原始资料确认", "人形机器人量产节奏高度不确定，难以精确建模", "新兴中国公司可能抢占单一零部件份额", "量产后零部件价格和利润率可能下降", "A 股估值和流动性与美股 AI 硬件标的不同", "Tesla / Figure 只是潜在客户框架，不是确认供应关系"],
@@ -242,7 +255,7 @@ const zhCopy = {
   },
   "ai-memory": {
     theme: "AI 存储短缺 / HBM 周期",
-    thesis: "Serenity 引用 NVDA CEO 对 memory shortage 可能持续多年的警告，认为 AI 基础设施需求正在打破传统存储周期，因此 MU 以及 EWY 中 Samsung / SK Hynix 的利润预测不再显得夸张。",
+    thesis: "Serenity 引用 NVDA CEO 对 memory shortage 可能持续多年的警告，认为 AI 基础设施需求正在打破传统存储周期；6 月 9 日她又以 KOSPI、Samsung 和 SK Hynix 在早前“极端泡沫”警告后继续上涨，反驳只看机构卖出评级的做法。",
     whyItMatters: "这把她的 AI 基建框架从算力和 CPO 延伸到存储供给。如果 HBM 与高端 DRAM 进入结构性紧缺，领先存储厂商的盈利假设可能需要上修。",
     catalysts: ["NVDA CEO 警告 memory shortage 可能持续多年", "AI infrastructure scaling demand 继续压迫存储供应", "MU、Samsung、SK Hynix 的盈利预测可能上修", "后续 Nvidia 可能继续发布 memory / optical networking 相关信息"],
     risks: ["如果供给扩张快于预期，存储仍可能回到周期波动", "EWY 是韩国 ETF，不是纯 Samsung / SK Hynix 暴露", "NVDA 评论是行业信号，不是 MU 或 EWY 的公司指引", "市场可能已经部分定价 HBM 紧缺"],
@@ -253,7 +266,7 @@ const zhCopy = {
     thesis: "Serenity 汇总了社区众包的 800V DC / power semiconductor 标的名单，背景是 NVDA 推动数据中心向 800V DC 架构迁移；但她明确提醒，这只是众包名单，不等于她本人的高确信推荐。",
     whyItMatters: "800V DC 是 AI 数据中心供电架构的相邻主题。这个名单适合当作线索地图，而不是已验证 thesis；特别是小票被点名后可能快速波动。",
     catalysts: ["NVDA 推动数据中心供电架构向 800V DC 迁移", "众包名单包括 IFNNY、ON、Lite-On、VICR、LFUS、VSH、ENPH、NVTS、POWI、AEHR、WOLF、XFAB、300376 等", "300376.SZ 被列入名单后上涨 20%，显示社媒关注会推动短线波动"],
-    risks: ["Serenity 明确说这只是众包名单", "名单里很多公司只是相邻暴露，800V DC 纯度不同", "小盘股可能先被注意力推动，而不是基本面兑现", "名单混合功率半导体、储能、燃料电池、设备和相邻标的，纯度较低"],
+    risks: ["Serenity 再次明确 300376 等标的是粉丝推荐，并非她自己的持仓或荐股", "Serenity 明确说这只是众包名单", "名单里很多公司只是相邻暴露，800V DC 纯度不同", "小盘股可能先被注意力推动，而不是基本面兑现", "名单混合功率半导体、储能、燃料电池、设备和相邻标的，纯度较低"],
     nextChecks: ["逐一映射名单公司真实 800V DC 数据中心供电暴露", "确认哪些公司有 AI 数据中心客户，而不只是 EV / 工业电源暴露", "区分纯功率半导体受益者和相邻 / 无关标的", "在公司证据核实前，把 300376.SZ 的涨停视为波动提醒"],
   },
 };
