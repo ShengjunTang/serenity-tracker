@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T18:34:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-09 18:34 Beijing. Read Posts and subscriber-only Subs; no Replies scanned. Subs had no posts newer than 2026-06-07.",
+  "generatedAt": "2026-06-10T21:57:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-10 21:57 Beijing. Read Posts and subscriber-only Subs; no Replies scanned; Subs had no new post after Jun 7.",
   "summary": {
     "focus": 6,
     "watch": 14,
@@ -8,6 +8,80 @@
     "archive": 0
   },
   "latestUpdates": [
+    {
+      "date": "2026-06-10",
+      "publishedAt": "2026-06-10T21:44:57+08:00",
+      "type": "Optical recovery / LITE AAOI SIVE",
+      "impactZh": "Serenity 认为 LITE、AAOI、SIVE 等 optical players 在此前 selloff 后回升是合理的，并称最初下跌“很蠢”。这不是新的公司基本面证据，但强化她对 AI optical / CPO 主线未变的判断。",
+      "original": "Glad optical players from LITE to AAOI and SIVE are slightly recovering as they should. The initial selloff was just stupid.",
+      "related": [
+        "LITE",
+        "AAOI",
+        "SIVE",
+        "optical players",
+        "CPO"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064705380933074945",
+      "batch": "2026-06-10T21:57:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "主线修复"
+    },
+    {
+      "date": "2026-06-10",
+      "publishedAt": "2026-06-10T18:47:56+08:00",
+      "type": "NVDA / 800V DC 与 CPO 延期传闻反驳",
+      "impactZh": "Serenity 引用 Morgan Stanley 称 NVDA 否认 800V DC 被推迟的报道，并称 SemiAnalysis 报告与 Computex 供应链检查相反。她把这轮 CPO / 800V selloff 视为由传闻驱动的过度反应，并继续倾向相信 Nvidia 自身时间线。",
+      "original": "Morgan Stanley said NVDA denied reports that 800V DC was pushed back; recent SemiAnalysis reports run contrary to their checks at Computex.",
+      "related": [
+        "NVDA",
+        "800V DC",
+        "CPO",
+        "SemiAnalysis",
+        "Morgan Stanley",
+        "MU"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064660831405805648",
+      "batch": "2026-06-10T21:57:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-10",
+      "publishedAt": "2026-06-10T15:20:22+08:00",
+      "type": "SIVE / BlackRock Fidelity 机构持股",
+      "impactZh": "Serenity 称 BlackRock 在 index listing 后作为 passive owner 进入 SIVE，Fidelity Research 也开始建立 Sivers 直接持仓。她认为这与此前 JP Morgan 从小仓位增至约 5.25% 一起，显示美国机构正在验证并积累 SIVE 的 photonics 暴露。她也区分 BlackRock 被动跟踪与 Fidelity Research 主动投资。",
+      "original": "BlackRock has entered SIVE as passive owner after index listing; Fidelity Research started direct positions, which Serenity frames as US institutions validating and accumulating Sivers.",
+      "related": [
+        "SIVE",
+        "BlackRock",
+        "Fidelity Research",
+        "JP Morgan",
+        "institutional ownership",
+        "index listing"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064608597343125931",
+      "batch": "2026-06-10T21:57:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-10",
+      "publishedAt": "2026-06-10T13:11:38+08:00",
+      "type": "NVDA / Lumentum / CPO 时间线反驳",
+      "impactZh": "Serenity 用 TLDR 方式总结当天：市场因分析师质疑 NVDA 的 800V DC / CPO 时间线而抛售，但随后 Nvidia 与 Lumentum 高管仍对 CPO 表达乐观，并称时间线在加速。该内容强化 CPO selloff 属于时间线恐慌而非主线破坏的判断。",
+      "original": "Nvidia and Lumentum executives were bullish on CPO and timelines accelerating after the market sold off on analyst doubts about 800V DC and CPO.",
+      "related": [
+        "NVDA",
+        "Lumentum",
+        "LITE",
+        "CPO",
+        "800V DC"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064576200211861981",
+      "batch": "2026-06-10T21:57:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "主线强化"
+    },
     {
       "date": "2026-06-09",
       "publishedAt": "2026-06-09T16:37:12+08:00",
@@ -236,128 +310,6 @@
       "batch": "2026-06-08T17:25:00+08:00",
       "importance": "medium",
       "importanceLabel": "市场反馈"
-    },
-    {
-      "date": "2026-06-07",
-      "publishedAt": "2026-06-07T20:45:00+08:00",
-      "type": "NVDA / Silicon Photonics / SIVE SOI read-through",
-      "impactZh": "Serenity 称 NVDA CEO 在 memory 之外也点名 silicon photonics / optical networking，并表示 Nvidia 需要“beyond imagination”的供应量。她认为这对 SiPH 供应链是强烈 read-through，尤其从 SIVE 到 SOI。该内容强化 CPO / 硅光上游瓶颈主线。",
-      "original": "$NVDA CEO also called out Silicon Photonics with memory, requiring supply volumes beyond imagination. Bullish read-through on the SiPH supply chain from $SIVE to $SOI.",
-      "related": [
-        "NVDA",
-        "SIVE",
-        "SOI",
-        "silicon photonics",
-        "optical networking",
-        "SiPH",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063603368178938193",
-      "batch": "2026-06-08T17:25:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-07",
-      "publishedAt": "2026-06-07T19:28:00+08:00",
-      "type": "MU / EWY / AI memory shortage",
-      "impactZh": "Serenity 引用 NVDA CEO 对 memory shortage 可能持续多年的警告，认为 AI infrastructure 大规模扩张正在打破传统存储周期；因此 MU 以及 EWY 中 Samsung / SK Hynix 的利润预测看起来不再夸张。这是 AI memory / HBM 周期的新强化线索。",
-      "original": "$NVDA CEO warned memory shortage is expected to persist for many years due to massive scaling demand of AI infrastructure... $MU and $EWY operating profit projections are not looking too crazy anymore.",
-      "related": [
-        "MU",
-        "EWY",
-        "Samsung",
-        "SK Hynix",
-        "memory shortage",
-        "HBM",
-        "AI infrastructure",
-        "NVDA"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063583856025108986",
-      "batch": "2026-06-08T17:25:00+08:00",
-      "importance": "high",
-      "importanceLabel": "新增线索"
-    },
-    {
-      "date": "2026-06-07",
-      "publishedAt": "2026-06-07T18:39:16+08:00",
-      "type": "Neocloud / 融资结构与 float 动态",
-      "impactZh": "Serenity 回答早期机会筛选问题时，把 toxic financing structure / float dynamics 放在最重要位置。她以 Neocloud 为例，认为 IREN 因大规模 ATM 和潜在持续稀释形成结构性 overhang，而 NBIS 的融资结构更干净。这是对 NBIS / IREN / CRWV 线索的风险框架强化。",
-      "original": "Serenity said the #1 thing is toxic financing structure / float dynamics; IREN has large ATMs and virtually infinite dilution, while NBIS has a cleaner setup.",
-      "related": [
-        "NBIS",
-        "IREN",
-        "CRWV",
-        "Neocloud",
-        "financing structure",
-        "float dynamics"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063571485739106593",
-      "batch": "2026-06-07T19:10:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-07",
-      "publishedAt": "2026-06-07T11:37:40+08:00",
-      "type": "Serenity 方法论 / 早期硬科技机会筛选",
-      "impactZh": "Serenity 反思自己的投资风格：偏 discretionary，基于市场尚未充分知道的东西，以及现实世界观察、行业人脉和经验累积。她用 AXTI、RPI、SIVE、IQE 等作为例子，说明很多早期机会来自对研发、供应链和市场未定价信息的判断。这条不是单一标的推荐，但有助于理解她筛选 early-stage 硬科技机会的框架。",
-      "original": "Her style is discretionary and based on things markets do not know yet, using examples such as AXTI, RPI, SIVE and IQE.",
-      "related": [
-        "AXTI",
-        "RPI",
-        "SIVE",
-        "IQE",
-        "investment process",
-        "early-stage ideas"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063465386960736396",
-      "batch": "2026-06-07T19:10:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "方法论"
-    },
-    {
-      "date": "2026-06-07",
-      "publishedAt": "2026-06-07T10:07:23+08:00",
-      "type": "Glass substrate / SKC Absolics / Samsung EM",
-      "impactZh": "Serenity 引用 TrendForce 重新梳理 glass substrate 时间线：SKC Absolics 预计 H2 2026 first mover，并与 AMAT、AMD customers 相关；Samsung Electro-Mechanics 预计 H2 2027，并关联 Sumitomo Chemical、Apple、AVGO 和 hyperscalers；她对 INTC 2030 时间线较不确定。这是先进封装材料方向的新跟踪线索。",
-      "original": "Glass substrate timelines: SKC Absolics H2 2026 first mover with AMAT / AMD customers; Samsung Electro-Mechanics H2 2027 with Sumitomo Chemical, Apple, AVGO and hyperscalers.",
-      "related": [
-        "glass substrate",
-        "SKC Absolics",
-        "011790",
-        "AMAT",
-        "AMD",
-        "Samsung Electro-Mechanics",
-        "009150",
-        "Sumitomo Chemical",
-        "AVGO",
-        "INTC"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063442668844167613",
-      "batch": "2026-06-07T19:10:00+08:00",
-      "importance": "high",
-      "importanceLabel": "新增线索"
-    },
-    {
-      "date": "2026-06-07",
-      "publishedAt": "2026-06-07T09:34:54+08:00",
-      "type": "HBF / Memory packaging / TC bonders",
-      "impactZh": "Serenity 在 Subs 中提到 HBF memory wars 可能启动，点名 Hanmi Semiconductor、Hanwha Semiconductor 为 first movers，ASMPT 和 K&S 为 entry players。她引用报告称 TC bonders 可能在 HBF 商业化时立即受益。该线索属于存储封装设备方向，需进一步确认 HBF 定义、客户和订单节奏。",
-      "original": "HBF memory wars are kicking off: Hanmi and Hanwha as first movers, ASMPT and K&S as entry players; TC bonders are expected to benefit immediately.",
-      "related": [
-        "HBF",
-        "memory packaging",
-        "TC bonders",
-        "Hanmi Semiconductor",
-        "Hanwha Semiconductor",
-        "ASMPT",
-        "K&S"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063434493911081202",
-      "batch": "2026-06-07T19:10:00+08:00",
-      "importance": "high",
-      "importanceLabel": "Subs 重点"
     }
   ],
   "ideas": [
@@ -395,7 +347,9 @@
         "CPO and pluggable optical transceiver ramp over the next 18 months",
         "JBL and GFS public validation",
         "EU Tech Sovereignty Package / Chips Act 2.0 photonics priority",
-        "Serenity says SIVE was only up about 3.36% despite JP Morgan buying 5%+ ownership, which she frames as the first major institutional buying signal in the float"
+        "Serenity says SIVE was only up about 3.36% despite JP Morgan buying 5%+ ownership, which she frames as the first major institutional buying signal in the float",
+        "BlackRock appeared as passive SIVE owner after index listing, while Fidelity Research appeared as a direct active position in Serenity's framing",
+        "Serenity says US institution ownership is moving from JP Morgan to BlackRock / Fidelity validation of Sivers photonics exposure"
       ],
       "risks": [
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
@@ -413,7 +367,8 @@
         "Supplier claims for Ayar, Marvell Celestial and Lightmatter need primary-source confirmation",
         "Short squeeze framing increases crowding and volatility risk",
         "NASDAQ listing comment needs independent verification",
-        "Short-term price reaction may remain muted even when ownership headlines look positive"
+        "Short-term price reaction may remain muted even when ownership headlines look positive",
+        "BlackRock ownership may be passive index tracking rather than active conviction"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -438,10 +393,21 @@
         "Map Marvell Celestial, Lightmatter and Ayar laser-supplier dependencies",
         "Check whether SIVE revenue guidance reflects CPO/pluggables",
         "Track customer concentration and production timing",
-        "Compare Sivers share-register changes before and after JP Morgan crossing 5%+ ownership"
+        "Compare Sivers share-register changes before and after JP Morgan crossing 5%+ ownership",
+        "Verify BlackRock and Fidelity Research ownership in Morningstar / filings and separate passive index inclusion from active accumulation"
       ],
-      "lastUpdated": "2026-06-09 18:34",
+      "lastUpdated": "2026-06-10 21:57",
       "evidence": [
+        {
+          "date": "2026-06-10",
+          "quote": "Serenity said optical players from LITE to AAOI and SIVE were recovering as they should after an overdone selloff.",
+          "url": "https://x.com/aleabitoreddit/status/2064705380933074945"
+        },
+        {
+          "date": "2026-06-10",
+          "quote": "BlackRock entered SIVE as passive owner after index listing; Fidelity Research started direct positions, which Serenity frames as US institutions validating Sivers photonics.",
+          "url": "https://x.com/aleabitoreddit/status/2064608597343125931"
+        },
         {
           "date": "2026-06-09 15:21",
           "quote": "Sivers announced an $8.2M ALL.SPACE production order for Ka-band beamforming ICs; Serenity views the larger implication as entry into a broader space/defense prime supply chain.",
@@ -935,7 +901,8 @@
         "Possible price hikes and margin expansion if optical transceivers bottleneck in H1 next year",
         "H1 2027 capacity/revenue ramp",
         "Optical supercycle attention",
-        "Peer re-rating across optical names"
+        "Peer re-rating across optical names",
+        "Serenity says AAOI and other optical players recovered after an overdone CPO / 800V selloff"
       ],
       "risks": [
         "Higher rate-hike probabilities can still pressure high-beta optical names even if the AI buildout thesis is intact",
@@ -944,7 +911,8 @@
         "If ASPs fall at scale as consensus expects, the margin upside thesis weakens",
         "Large projected market-cap target is aggressive",
         "Capacity ramp and customer timing need verification",
-        "High volatility in optical names"
+        "High volatility in optical names",
+        "High-beta optical names can still be dragged by analyst reports and timing fears even when thesis is unchanged"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -955,10 +923,16 @@
         "Track 800G and 1.6T ASP assumptions across analysts",
         "Verify H1 2027 revenue projections",
         "Check capacity additions and customer commitments",
-        "Compare with SIVE/Foci risk-reward"
+        "Compare with SIVE/Foci risk-reward",
+        "Track whether AAOI recovery is supported by orders, capacity and customer evidence rather than only sentiment reversal"
       ],
-      "lastUpdated": "2026-06-06 10:30",
+      "lastUpdated": "2026-06-10 21:57",
       "evidence": [
+        {
+          "date": "2026-06-10",
+          "quote": "Optical players from LITE to AAOI and SIVE recovered as they should after the initial selloff.",
+          "url": "https://x.com/aleabitoreddit/status/2064705380933074945"
+        },
         {
           "date": "2026-06-05 23:58",
           "quote": "Nothing has changed the AI buildout aside from increasing capex; Serenity says she would not trade Fed probabilities and would stay long on company projections such as AAOI $471M H1 2027.",
@@ -1071,22 +1045,30 @@
         "AVGO AI networking transcript read-through supports optical/networking demand",
         "Optical-cycle continuation",
         "CPO laser supplier role",
-        "Hyperscaler AI capex expansion"
+        "Hyperscaler AI capex expansion",
+        "Serenity says Nvidia and Lumentum executives remained bullish on CPO and that timelines were accelerating"
       ],
       "risks": [
         "May already reflect more of the optical theme",
         "Less asymmetric than smaller names",
-        "Need fresh fundamental evidence"
+        "Need fresh fundamental evidence",
+        "Executive bullishness is a sector read-through and needs to be checked against Lumentum orders, margins and capacity"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Check LITE earnings transcript for exact CW laser / EML capacity commentary",
         "Verify GFS presentation supplier reference",
         "Compare LITE valuation with SIVE",
-        "Track AI optical revenue contribution"
+        "Track AI optical revenue contribution",
+        "Find the Nvidia and Lumentum executive comments Serenity referenced and verify exact CPO timing language"
       ],
-      "lastUpdated": "2026-06-04 18:45",
+      "lastUpdated": "2026-06-10 21:57",
       "evidence": [
+        {
+          "date": "2026-06-10",
+          "quote": "Nvidia and Lumentum executives were bullish on CPO and timelines accelerating after the market sold off on analyst timing fears.",
+          "url": "https://x.com/aleabitoreddit/status/2064576200211861981"
+        },
         {
           "date": "2026-06-04",
           "quote": "AVGO AI networking demand is a positive read-through for LITE and other players.",
@@ -1681,24 +1663,32 @@
       "catalysts": [
         "NVDA pushing data-center power architecture toward 800 VDC in Serenity's framework",
         "Crowdsourced list includes large and mid-cap power semiconductor names such as IFNNY, ON, Lite-On, VICR, LFUS, VSH, ENPH, NVTS, POWI, AEHR, WOLF and XFAB",
-        "300376.SZ rose 20% after appearing in the crowdsourced list, showing social-media attention can move smaller names"
+        "300376.SZ rose 20% after appearing in the crowdsourced list, showing social-media attention can move smaller names",
+        "Morgan Stanley said NVDA denied reports that 800V DC shipments were pushed back, according to Serenity's cited post"
       ],
       "risks": [
         "Serenity again clarified that 300376 and the broader list were follower-recommended ideas, not her own picks",
         "Serenity explicitly says this is only a crowdsourced list",
         "Many names have different or only adjacent exposure to 800V DC",
         "Small-cap names can move sharply on attention before fundamentals are verified",
-        "The list mixes power semis, energy storage, fuel cells, equipment and adjacent names, so purity is low"
+        "The list mixes power semis, energy storage, fuel cells, equipment and adjacent names, so purity is low",
+        "800V DC remains vulnerable to report-driven volatility and conflicting supply-chain checks"
       ],
       "stance": "观望",
       "nextChecks": [
         "Map each listed company to actual 800V DC data-center power exposure",
         "Identify which names have confirmed AI data-center customers, not only EV or industrial power exposure",
         "Separate pure power semiconductor beneficiaries from adjacent or irrelevant names",
-        "Treat 300376.SZ price move as a volatility warning until company-level evidence is verified"
+        "Treat 300376.SZ price move as a volatility warning until company-level evidence is verified",
+        "Read the Morgan Stanley note and SemiAnalysis report directly to compare 800V DC timing claims"
       ],
-      "lastUpdated": "2026-06-09 18:34",
+      "lastUpdated": "2026-06-10 21:57",
       "evidence": [
+        {
+          "date": "2026-06-10",
+          "quote": "Morgan Stanley said NVDA denied reports that 800V DC was pushed back, while SemiAnalysis claims conflicted with Computex supply-chain checks.",
+          "url": "https://x.com/aleabitoreddit/status/2064660831405805648"
+        },
         {
           "date": "2026-06-08 18:39",
           "quote": "Serenity clarified that the 800V DC list consisted of follower-recommended names and was not a list of her own stock ideas.",
