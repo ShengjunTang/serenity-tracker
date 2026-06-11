@@ -1,13 +1,217 @@
 {
-  "generatedAt": "2026-06-10T21:57:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-10 21:57 Beijing. Read Posts and subscriber-only Subs; no Replies scanned; Subs had no new post after Jun 7.",
+  "generatedAt": "2026-06-11T20:29:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-11 20:29 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
   "summary": {
     "focus": 6,
-    "watch": 14,
-    "speculative": 7,
+    "watch": 15,
+    "speculative": 9,
     "archive": 0
   },
   "latestUpdates": [
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T19:51:48+08:00",
+      "type": "Starlink supplier research / trade records",
+      "impactZh": "Serenity 在 Subs 中尝试用 trade records 做新研究风格，并列出一批 Starlink direct suppliers 线索，包括 Eson Precision、Lite-On、Meiko、Lens Technology、Compeq、Chicony Power、Foxconn Interconnect、DISCO、E&R 等。她明确说噪音很多，属于信息发现和后续挖掘线索。",
+      "original": "Serenity tried a new research style using trade records and listed possible Starlink direct suppliers including Eson Precision, Lite-On, Meiko, Lens Technology, Compeq, Chicony Power, Foxconn Interconnect, DISCO and E&R.",
+      "related": [
+        "Starlink",
+        "SpaceX",
+        "Eson Precision",
+        "Lite-On",
+        "Meiko",
+        "Lens Technology",
+        "Compeq",
+        "Chicony Power",
+        "Foxconn Interconnect",
+        "DISCO",
+        "E&R"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2065039294126030906",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "high",
+      "importanceLabel": "Subs 新线索"
+    },
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T18:40:25+08:00",
+      "type": "RDDT / WSB retail alpha research",
+      "impactZh": "Serenity 引用 Democratization of Retail Trading 研究，称对 160 万条 WSB 评论的研究发现 WSB 在发现 top-performing stocks 方面表现强，平均收益可与顶级投行竞争。她认为 WSB 对 RKLB、HOOD 等名字很早，但期权择时常错；她更倾向认为当下 alpha 在 X 上。",
+      "original": "Serenity cited a retail-trading study on 1.6M WSB comments and said WSB can be early to names like RKLB and HOOD, while she thinks X is where the alpha is nowadays.",
+      "related": [
+        "RDDT",
+        "WSB",
+        "RKLB",
+        "HOOD",
+        "retail alpha",
+        "X"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2065021329275855277",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "方法论"
+    },
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T17:54:56+08:00",
+      "type": "XFAB / Silicon Photonics foundry timeline",
+      "impactZh": "Serenity 再次解释 XFAB：她认为 XFAB 正在建设相对 TSEM / GFS 的欧洲 silicon photonics foundry alternative，有欧洲支持和 NVDA evaluations；开发预计到 2026 年 10 月左右完成，2027 年进入 production，并在 2028 年扩大到 mass production。她提醒这是早期商业化 leap of faith，去风险路线可看 Tower。",
+      "original": "XFAB is building a silicon photonics foundry alternative to TSEM and GFS with Europe backing and NVDA evaluations; development around Oct 2026, production in 2027 and scaled into 2028.",
+      "related": [
+        "XFAB",
+        "TSEM",
+        "GFS",
+        "NVDA",
+        "Tower",
+        "silicon photonics",
+        "CPO"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2065009883133644963",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点强化"
+    },
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T16:46:38+08:00",
+      "type": "LPK / SpaceX import logs",
+      "impactZh": "Serenity 称 LPK 是一个未知的 SpaceX supplier，可在 SpaceX US import logs 中找到。她表示不确定具体合同内容，自己持有 LPK / NFA，并把它作为 SpaceX IPO 相关的信息发现线索。",
+      "original": "Serenity said LPK is an unknown SpaceX supplier visible in SpaceX US import logs, though the exact contract is unclear; she disclosed positions in LPK and NFA.",
+      "related": [
+        "LPK",
+        "SpaceX",
+        "NFA",
+        "import logs",
+        "Velo"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064992691902140603",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "high",
+      "importanceLabel": "新增线索"
+    },
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T16:11:37+08:00",
+      "type": "SIVE / conviction reaffirmed",
+      "impactZh": "Serenity 用一句话再次强化：I like SIVE。虽然没有新增基本面证据，但结合前一天机构持股和 optical recovery 内容，属于对 SIVE 高优先级关注的重复确认。",
+      "original": "I like SIVE.",
+      "related": [
+        "SIVE",
+        "photonic",
+        "CPO"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064983882802565169",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "信心强化"
+    },
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T14:30:29+08:00",
+      "type": "TSM CoPoS / external suppliers basket",
+      "impactZh": "Serenity 在 Subs 中列出一批 TSM CoPoS 可能外部供应商：Favite、GMM、V5、Gudeng、Scientech、Ta Liang、C Sun、GPTC、APT、Chroma 等，覆盖 inspection / metrology、panel-level alignment、AOI、advanced-packaging carriers、wet process、thermal process、measurement / automation 等环节。她把它作为供大家继续挖掘的供应链地图。",
+      "original": "For TSM CoPoS, Serenity listed likely external suppliers across inspection, metrology, panel alignment, AOI, carriers, wet process, thermal and automation.",
+      "related": [
+        "TSM",
+        "CoPoS",
+        "Favite",
+        "GMM",
+        "V5",
+        "Gudeng",
+        "Scientech",
+        "Ta Liang",
+        "C Sun",
+        "GPTC",
+        "APT",
+        "Chroma"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064958428813140424",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "high",
+      "importanceLabel": "Subs 重点"
+    },
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T13:27:12+08:00",
+      "type": "AXTI / InP bottleneck",
+      "impactZh": "Serenity 引用 Reuters 新报告称中国对 InP 的控制威胁 AI data center buildout，并回顾自己去年关于 AXTI / SMTOY 控制全球 InP substrate 供应、可能成为 AI optical / hyperscaler bottleneck 的警告。这条强化 InP substrate 上游瓶颈线。",
+      "original": "A new Reuters report says China control over InP threatens the AI DC buildout; Serenity says AXTI was a major point of failure she had warned about.",
+      "related": [
+        "AXTI",
+        "SMTOY",
+        "InP",
+        "AI data centers",
+        "NVDA",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "AMZN"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064942505553170886",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "high",
+      "importanceLabel": "新增线索"
+    },
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T11:18:16+08:00",
+      "type": "CPO basket / drawdown and pricing process",
+      "impactZh": "Serenity 分享组合本周也经历明显回撤，点名 Foci、Shunsin、SOI、AAOI 等 CPO 相关标的。她把这视为继续学习市场如何给不同主题和供应链环节定价的过程，而不是否定 CPO 主线。",
+      "original": "Serenity said her portfolio also has drawdowns, including Foci/Shunsin/SOI, AAOI and other CPO names, and she is learning how the market prices different supply-chain segments.",
+      "related": [
+        "FOCI",
+        "Shunsin",
+        "SOI",
+        "AAOI",
+        "CPO",
+        "portfolio drawdown"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064910057767309551",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "风险提醒"
+    },
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T09:38:21+08:00",
+      "type": "SIVE / retail front-ran institutions cycle",
+      "impactZh": "Serenity 把 SIVE 与 NBIS、RKLB 的机构进场周期类比：她认为 retail 先于机构发现下一代架构转变，SIVE 曾几乎没有美国机构持股，现在 JP Morgan、Fidelity Research 等 active institutions 出现在 cap table。她也认为负面卖方报告或集中负面消息有时是机构需要流动性的信号。",
+      "original": "Retail frontran institutions on architectural shifts; SIVE had close to zero US institutional ownership, now active institutions like JP Morgan and Fidelity Research are on the cap table.",
+      "related": [
+        "SIVE",
+        "NBIS",
+        "RKLB",
+        "Fidelity Research",
+        "JP Morgan",
+        "FOCI",
+        "HIMX",
+        "NVDA",
+        "TSM"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064884912667439129",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点强化"
+    },
+    {
+      "date": "2026-06-11",
+      "publishedAt": "2026-06-11T00:07:43+08:00",
+      "type": "Market selloff / high-beta names context",
+      "impactZh": "Serenity 回应 Navitas、LPK、Wolfspeed、XFAB 等下跌时指出 broader index 已经下跌约 3-4%，股票不会直线上涨，高 beta 线索也会被大盘 selloff 拖累。这条是对小盘和高 beta 主题波动的风险提醒。",
+      "original": "The broader index is down a significant 3-4%; stocks do not move in a straight line and are affected by wider selloffs.",
+      "related": [
+        "Navitas",
+        "LPK",
+        "Wolfspeed",
+        "XFAB",
+        "SNDK",
+        "market selloff"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2064741308460351493",
+      "batch": "2026-06-11T20:29:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "风险提醒"
+    },
     {
       "date": "2026-06-10",
       "publishedAt": "2026-06-10T21:44:57+08:00",
@@ -192,124 +396,6 @@
       "batch": "2026-06-09T18:34:00+08:00",
       "importance": "high",
       "importanceLabel": "主线强化"
-    },
-    {
-      "date": "2026-06-08",
-      "publishedAt": "2026-06-08T19:48:25+08:00",
-      "type": "SIVE / JP Morgan 5.25% 持股含义",
-      "impactZh": "Serenity 进一步解释 JP Morgan 披露持有 SIVE 5.25%+ 的意义：Sivers 约 1.35 亿美元市值对大型美国机构很小，但可交易流通盘有限，因此继续买入可能快速影响筹码结构。该判断仍需结合原始持股文件和真实流通盘验证。",
-      "original": "Implications of JP Morgan disclosure buying 5.25%+ SIVE are greater than people think... constrained by float available from retail.",
-      "related": [
-        "SIVE",
-        "JP Morgan",
-        "5.25% ownership",
-        "float dynamics",
-        "institutional accumulation"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063951279278391414",
-      "batch": "2026-06-09T18:34:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-08",
-      "publishedAt": "2026-06-08T18:39:40+08:00",
-      "type": "800V DC / 众包名单归属澄清",
-      "impactZh": "Serenity 再次澄清，300376 等 800V DC 名单来自粉丝推荐和社区汇总，并非她自己的持仓或高确信推荐。网页继续把该主题放在观望层级，避免把名单传播误读为个人荐股。",
-      "original": "These are follower-recommended stock ideas, not mine. I was compiling shoutouts into a list of 30+ names related or adjacent to 800V DC exposure.",
-      "related": [
-        "800V DC",
-        "300376",
-        "crowdsourced ideas",
-        "risk disclosure"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063933976012861533",
-      "batch": "2026-06-09T18:34:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "风险澄清"
-    },
-    {
-      "date": "2026-06-08",
-      "publishedAt": "2026-06-08T15:31:00+08:00",
-      "type": "SIVE / JP Morgan 5%+ 机构持股后续",
-      "impactZh": "Serenity 跟进称，SIVE 在 JP Morgan 机构持股升至 5%+ 后只上涨约 3.36%，她认为这是 Sivers 流通盘出现主要机构买入的第一个重要信号。该信息强化 SIVE 的机构吸筹和 float 变化叙事，但仍需用原始持股文件确认。",
-      "original": "Surprised $SIVE is only up 3.36% off the news JP Morgan bought 5%+ ownership of Sivers... First major signal of major institutional buying of the float for Sivers.",
-      "related": [
-        "SIVE",
-        "JP Morgan",
-        "Sivers",
-        "institutional ownership",
-        "float dynamics",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063886704306802891",
-      "batch": "2026-06-08T17:25:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-08",
-      "publishedAt": "2026-06-08T14:22:00+08:00",
-      "type": "800V DC / power semi 众包名单",
-      "impactZh": "Serenity 汇总社区众包的 800V DC / power semiconductor 相关标的名单，包括 IFNNY、ON、Lite-On、VICR、LFUS、VSH、ENPH、NVTS、POWI、AEHR、WOLF、XFAB、300376 等。她随后提醒这只是众包名单，不应当作她自己的高确信推荐；300376 当日大涨 20% 反而说明社媒扩散带来的短线波动很高。",
-      "original": "Compiled list of your favorite 800V DC related ideas... She later reminded readers that this was just a crowdsourced list after 300376 rose 20%.",
-      "related": [
-        "800V DC",
-        "power semiconductors",
-        "IFNNY",
-        "ON",
-        "Lite-On",
-        "VICR",
-        "LFUS",
-        "VSH",
-        "ENPH",
-        "NVTS",
-        "WOLF",
-        "XFAB",
-        "300376"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063869376542192013",
-      "batch": "2026-06-08T17:25:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "新增观察"
-    },
-    {
-      "date": "2026-06-08",
-      "publishedAt": "2026-06-08T13:11:00+08:00",
-      "type": "LeaderDrive 688017 / 人形机器人组件长文强化",
-      "impactZh": "Serenity 再次明确称绿的谐波是中国机器人板块中突出的 component leader。她强调其覆盖谐波减速器、行星滚柱丝杠等高壁垒高 BOM 价值部件，具备低成本量产能力；同时认为未来 3-5 年如果人形机器人 TAM 按 Elon Musk 等预测放大，当前约 106.5 亿美元市值可能回看很小。主要风险是中国新兴公司抢占单一组件份额，以及量产后利润率下降。",
-      "original": "LeaderDrive is China's standout component leader in robotics... high technology barriers, high component value costs, mass production capability at low cost... current $10.65B MC could look tiny in hindsight.",
-      "related": [
-        "LeaderDrive",
-        "688017",
-        "humanoid robotics",
-        "TSLA Optimus",
-        "harmonic reducers",
-        "planetary roller screws",
-        "Physical AI"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063851425462173726",
-      "batch": "2026-06-08T17:25:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-08",
-      "publishedAt": "2026-06-08T09:39:00+08:00",
-      "type": "LeaderDrive / 中国证券报报道与长期估值提醒",
-      "impactZh": "Serenity 感谢中国证券报对其 LeaderDrive 研究的报道，并重申中国公司在低成本大规模人形机器人供应链中有优势。她称 LeaderDrive 从未来几年角度看仍可能被低估，但也提醒自己无法控制短期波动，尤其在宏观环境变化下。",
-      "original": "Chinese companies like 688017 hold a dominant position over low-cost, mass production as humanoids scale up... LeaderDrive position is very undervalued long term, but I do not control near term volatility.",
-      "related": [
-        "LeaderDrive",
-        "688017",
-        "China Securities Journal",
-        "humanoid robotics",
-        "Chinese supply chain"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2063798063035228188",
-      "batch": "2026-06-08T17:25:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "市场反馈"
     }
   ],
   "ideas": [
@@ -349,7 +435,10 @@
         "EU Tech Sovereignty Package / Chips Act 2.0 photonics priority",
         "Serenity says SIVE was only up about 3.36% despite JP Morgan buying 5%+ ownership, which she frames as the first major institutional buying signal in the float",
         "BlackRock appeared as passive SIVE owner after index listing, while Fidelity Research appeared as a direct active position in Serenity's framing",
-        "Serenity says US institution ownership is moving from JP Morgan to BlackRock / Fidelity validation of Sivers photonics exposure"
+        "Serenity says US institution ownership is moving from JP Morgan to BlackRock / Fidelity validation of Sivers photonics exposure",
+        "Serenity again stated she likes SIVE",
+        "Serenity compares SIVE to NBIS and RKLB as a case where retail found an architectural shift before institutions",
+        "JP Morgan and Fidelity Research appearing on the cap table reinforces her institutional-accumulation narrative"
       ],
       "risks": [
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
@@ -368,7 +457,9 @@
         "Short squeeze framing increases crowding and volatility risk",
         "NASDAQ listing comment needs independent verification",
         "Short-term price reaction may remain muted even when ownership headlines look positive",
-        "BlackRock ownership may be passive index tracking rather than active conviction"
+        "BlackRock ownership may be passive index tracking rather than active conviction",
+        "Negative sellside reports and institutional-liquidity narratives are Serenity's interpretation and require independent verification",
+        "Short posts such as 'I like SIVE' add conviction color but not new company-level evidence"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -394,10 +485,22 @@
         "Check whether SIVE revenue guidance reflects CPO/pluggables",
         "Track customer concentration and production timing",
         "Compare Sivers share-register changes before and after JP Morgan crossing 5%+ ownership",
-        "Verify BlackRock and Fidelity Research ownership in Morningstar / filings and separate passive index inclusion from active accumulation"
+        "Verify BlackRock and Fidelity Research ownership in Morningstar / filings and separate passive index inclusion from active accumulation",
+        "Separate SIVE company-level evidence from Serenity's retail-versus-institution cycle framing",
+        "Track whether active institutional ownership continues to rise after JP Morgan and Fidelity Research"
       ],
-      "lastUpdated": "2026-06-10 21:57",
+      "lastUpdated": "2026-06-11 20:29",
       "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity simply wrote: I like SIVE.",
+          "url": "https://x.com/aleabitoreddit/status/2064983882802565169"
+        },
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity said SIVE had close to zero US institutional ownership before active institutions such as JP Morgan and Fidelity Research appeared on the cap table.",
+          "url": "https://x.com/aleabitoreddit/status/2064884912667439129"
+        },
         {
           "date": "2026-06-10",
           "quote": "Serenity said optical players from LITE to AAOI and SIVE were recovering as they should after an overdone selloff.",
@@ -542,16 +645,23 @@
       "risks": [
         "Needs confirmation of actual COUPE exposure",
         "Potential retail-driven price action",
-        "Taiwan small-cap liquidity and valuation risk"
+        "Taiwan small-cap liquidity and valuation risk",
+        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility"
       ],
       "stance": "重点关注",
       "nextChecks": [
         "Verify FOCI customer exposure and FAU revenue contribution",
         "Read UDN article and company disclosures",
-        "Track monthly revenue acceleration"
+        "Track monthly revenue acceleration",
+        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-11 20:29",
       "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity said her own portfolio also experienced drawdowns in Foci/Shunsin/SOI, AAOI and other CPO related names, and framed it as learning how markets price supply-chain segments.",
+          "url": "https://x.com/aleabitoreddit/status/2064910057767309551"
+        },
         {
           "date": "2026-06-03",
           "quote": "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%, Foci +10%, Xintec +10%.",
@@ -629,7 +739,9 @@
         "Serenity says XFAB and SIVE are highlighted in EU Industry Policy Blueprints",
         "photonixFAB validation",
         "NVDA and NOK activity around silicon photonics",
-        "Serenity compares XFAB to early TSEM and points to H2 2027 as a potential CPO scale-up inflection point"
+        "Serenity compares XFAB to early TSEM and points to H2 2027 as a potential CPO scale-up inflection point",
+        "Serenity says XFAB is building a Europe-backed silicon photonics foundry alternative to TSEM and GFS with NVDA evaluations",
+        "Development may finish around Oct 2026, with 2027 production and 2028 mass-production scaling in Serenity's timeline"
       ],
       "risks": [
         "EU policy support may take 3-15 months to translate into company-specific awards",
@@ -637,7 +749,9 @@
         "Pre-commercial foundry validation may not translate quickly into revenue",
         "Automotive-cycle drag",
         "Need to separate grants from guaranteed demand",
-        "If the relevant CPO volume inflection is H2 2027, near-term stock moves may rely more on narrative and policy than revenue conversion"
+        "If the relevant CPO volume inflection is H2 2027, near-term stock moves may rely more on narrative and policy than revenue conversion",
+        "Serenity frames XFAB as early and dependent on a leap of faith toward commercialization",
+        "Tower is a more de-risked alternative in the same foundry theme"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -648,10 +762,17 @@
         "Verify NVDA/NOK validation details",
         "Read photonixFAB project disclosures",
         "Compare valuation to P/B and replacement-cost assumptions",
-        "Check the ASX or company documents Serenity referenced for H2 2027 CPO scale-up assumptions"
+        "Check the ASX or company documents Serenity referenced for H2 2027 CPO scale-up assumptions",
+        "Verify XFAB development milestones around Oct 2026 and any disclosed NVDA evaluation language",
+        "Compare XFAB risk/reward with Tower as the de-risked silicon photonics foundry route"
       ],
-      "lastUpdated": "2026-06-06 19:25",
+      "lastUpdated": "2026-06-11 20:29",
       "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity said XFAB is building a silicon photonics foundry alternative to TSEM/GFS with Europe backing and NVDA evaluations, targeting 2027 production and 2028 mass production.",
+          "url": "https://x.com/aleabitoreddit/status/2065009883133644963"
+        },
         {
           "date": "2026-06-06",
           "quote": "XFAB could be the next TSEM, still early around $1.4B market cap, and positioned for a possible H2 2027 CPO scale-up inflection.",
@@ -912,7 +1033,8 @@
         "Large projected market-cap target is aggressive",
         "Capacity ramp and customer timing need verification",
         "High volatility in optical names",
-        "High-beta optical names can still be dragged by analyst reports and timing fears even when thesis is unchanged"
+        "High-beta optical names can still be dragged by analyst reports and timing fears even when thesis is unchanged",
+        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -924,10 +1046,16 @@
         "Verify H1 2027 revenue projections",
         "Check capacity additions and customer commitments",
         "Compare with SIVE/Foci risk-reward",
-        "Track whether AAOI recovery is supported by orders, capacity and customer evidence rather than only sentiment reversal"
+        "Track whether AAOI recovery is supported by orders, capacity and customer evidence rather than only sentiment reversal",
+        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage"
       ],
-      "lastUpdated": "2026-06-10 21:57",
+      "lastUpdated": "2026-06-11 20:29",
       "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity said her own portfolio also experienced drawdowns in Foci/Shunsin/SOI, AAOI and other CPO related names, and framed it as learning how markets price supply-chain segments.",
+          "url": "https://x.com/aleabitoreddit/status/2064910057767309551"
+        },
         {
           "date": "2026-06-10",
           "quote": "Optical players from LITE to AAOI and SIVE recovered as they should after the initial selloff.",
@@ -1005,16 +1133,23 @@
       "risks": [
         "Less detailed role attribution in observed posts",
         "Needs company-specific evidence",
-        "Small-cap liquidity risk"
+        "Small-cap liquidity risk",
+        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Identify exact CPO/optical role",
         "Check recent monthly revenue",
-        "Compare valuation with Foci/MSSCorp"
+        "Compare valuation with Foci/MSSCorp",
+        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-11 20:29",
       "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity said her own portfolio also experienced drawdowns in Foci/Shunsin/SOI, AAOI and other CPO related names, and framed it as learning how markets price supply-chain segments.",
+          "url": "https://x.com/aleabitoreddit/status/2064910057767309551"
+        },
         {
           "date": "2026-06-03",
           "quote": "My CPO longs in Taiwan are finally starting to take off today. Shunsin +10%, Foci +10%, Xintec +10%.",
@@ -1316,7 +1451,8 @@
         "Insufficient fresh thesis",
         "Already large move",
         "May be stale relative to current CPO focus",
-        "NVDA silicon photonics comments are a sector read-through, not a direct SOI customer award"
+        "NVDA silicon photonics comments are a sector read-through, not a direct SOI customer award",
+        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -1325,10 +1461,16 @@
         "Check whether silicon photonics substrate demand is already visible in company guidance",
         "Only revisit if Serenity posts a fresh SOI thesis",
         "Check whether SOI links to photonics or AI supply chain",
-        "Verify whether SOI / Soitec has explicit exposure to Nvidia-related silicon photonics supply volumes"
+        "Verify whether SOI / Soitec has explicit exposure to Nvidia-related silicon photonics supply volumes",
+        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage"
       ],
-      "lastUpdated": "2026-06-08 17:25",
+      "lastUpdated": "2026-06-11 20:29",
       "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity said her own portfolio also experienced drawdowns in Foci/Shunsin/SOI, AAOI and other CPO related names, and framed it as learning how markets price supply-chain segments.",
+          "url": "https://x.com/aleabitoreddit/status/2064910057767309551"
+        },
         {
           "date": "2026-06-07 20:45",
           "quote": "Serenity said Nvidia calling out silicon photonics and supply volumes beyond imagination is a bullish read-through from SIVE to SOI.",
@@ -1363,22 +1505,33 @@
         "TSM chairman says CoPoS volumes could be large within 2-3 years",
         "Pilot lines already running",
         "Visera already started to re-rate in Serenity's observation",
-        "Autonomous vehicles / robots cited as TSM growth areas"
+        "Autonomous vehicles / robots cited as TSM growth areas",
+        "Serenity listed a likely TSM CoPoS external supplier basket including Favite, GMM, V5, Gudeng, Scientech, Ta Liang, C Sun, GPTC, APT and Chroma",
+        "Supplier roles span inspection/metrology, panel-level alignment, AOI, carriers, wet process, thermal process and automation"
       ],
       "risks": [
         "Visera exposure and investability need ticker-level verification",
         "CoPoS timing may still slip from pilot to volume",
-        "Serenity frames this as a long idea for next year, not a current high-conviction position"
+        "Serenity frames this as a long idea for next year, not a current high-conviction position",
+        "The CoPoS supplier basket is a research map, not confirmed volume allocation",
+        "Many named suppliers need company-level verification before treating them as direct beneficiaries"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Identify Visera ticker, market cap and TSM ownership/exposure",
         "Find original TSM chairman CoPoS comment and exact Chinese/English wording",
         "Map CoPoS supply chain beneficiaries beyond TSM",
-        "Check whether autonomous vehicle/robot comments affect XFAB or other auto-exposed suppliers"
+        "Check whether autonomous vehicle/robot comments affect XFAB or other auto-exposed suppliers",
+        "Map each named CoPoS supplier to TSM advanced packaging exposure and revenue sensitivity",
+        "Compare Visera/Xintech with the broader CoPoS external supplier basket"
       ],
-      "lastUpdated": "2026-06-04 18:45",
+      "lastUpdated": "2026-06-11 20:29",
       "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity listed likely external suppliers for TSM CoPoS across metrology, alignment, AOI, carriers, wet process, thermal and automation.",
+          "url": "https://x.com/aleabitoreddit/status/2064958428813140424"
+        },
         {
           "date": "2026-06-04",
           "quote": "TSM chairman: CoPoS very large within 2-3 year volumes already pilot lines now; Visera already got re-rated a bit.",
@@ -1507,23 +1660,34 @@
         "Renewed market attention after months of flat trading",
         "69% YoY revenue growth cited by Serenity",
         "91.5% gross margin and strong free cash flow",
-        "Network-effect moat against AI vibe coding in her view"
+        "Network-effect moat against AI vibe coding in her view",
+        "Serenity cited research on 1.6M WSB comments concluding WSB can detect top-performing stocks early",
+        "She says WSB was early to RKLB and HOOD, but timing is often wrong with options",
+        "She believes X is where much of the alpha is now"
       ],
       "risks": [
         "Financial metrics should be checked against latest filings",
         "Platform valuation can compress if growth slows",
         "Not part of Serenity core CPO/Physical AI hardware thesis",
-        "High-beta or leveraged expressions can be directionally right but fail on short-term timing"
+        "High-beta or leveraged expressions can be directionally right but fail on short-term timing",
+        "Retail-alpha research supports community data value but does not directly translate into RDDT monetization",
+        "WSB timing and options behavior can still produce poor realized outcomes"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Verify latest RDDT revenue growth, gross margin and FCF from filings",
         "Check valuation versus revenue growth and margin profile",
         "Assess AI data licensing, user growth and ad monetization sustainability",
-        "Track whether RDDT weakness is simple volatility or a change in growth, FCF and margin evidence"
+        "Track whether RDDT weakness is simple volatility or a change in growth, FCF and margin evidence",
+        "Read the Democratization of Retail Trading paper and separate WSB investment-signal quality from Reddit business fundamentals"
       ],
-      "lastUpdated": "2026-06-06 19:25",
+      "lastUpdated": "2026-06-11 20:29",
       "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity cited Democratization of Retail Trading and said WSB can be early to names like RKLB and HOOD, while X is where alpha is nowadays.",
+          "url": "https://x.com/aleabitoreddit/status/2065021329275855277"
+        },
         {
           "date": "2026-06-06",
           "quote": "Serenity warned that being directionally right can still fail on timing, especially after sharp two-day moves in RDDT-like high-beta trades.",
@@ -1703,6 +1867,105 @@
           "date": "2026-06-08 14:51",
           "quote": "After 300376 rose 20%, Serenity reminded readers that the 800V DC list was only crowdsourced.",
           "url": "https://x.com/aleabitoreddit/status/2063876472419533110"
+        }
+      ]
+    },
+    {
+      "id": "lpk-spacex",
+      "ticker": "LPK / NFA",
+      "name": "LPK / SpaceX import-log supplier line",
+      "tier": "speculative",
+      "theme": "SpaceX supplier discovery / import logs",
+      "thesis": "Serenity highlighted LPK as an unknown SpaceX supplier visible in US import logs and disclosed positions in LPK and NFA. She does not know the exact contract details, so this is an early information-discovery line rather than a confirmed revenue thesis.",
+      "whyItMatters": "If SpaceX supplier relationships become more visible around IPO-related attention, obscure suppliers can re-rate quickly. But import-log evidence needs contract, volume and product mapping before it becomes a true thesis.",
+      "catalysts": [
+        "LPK appears in SpaceX US import logs according to Serenity",
+        "SpaceX IPO attention may increase interest in direct suppliers",
+        "Serenity disclosed positions in LPK and NFA"
+      ],
+      "risks": [
+        "Exact contract content is unknown",
+        "Import-log supplier relationship may be small, one-off or low-margin",
+        "SpaceX IPO timing and supplier read-through may be speculative"
+      ],
+      "stance": "观望",
+      "nextChecks": [
+        "Verify SpaceX import logs and identify product category, shipment frequency and counterparties",
+        "Map LPK revenue sensitivity to any SpaceX relationship",
+        "Check whether NFA has direct SpaceX or adjacent exposure"
+      ],
+      "lastUpdated": "2026-06-11 20:29",
+      "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity said LPK is an unknown SpaceX supplier visible in US import logs, while noting the exact contract is unclear and disclosing positions in LPK and NFA.",
+          "url": "https://x.com/aleabitoreddit/status/2064992691902140603"
+        }
+      ]
+    },
+    {
+      "id": "axti-inp",
+      "ticker": "$AXTI / $SMTOY",
+      "name": "AXTI / InP substrate bottleneck",
+      "tier": "watch",
+      "theme": "InP substrates / AI optical bottleneck",
+      "thesis": "Serenity cited a Reuters report saying China control over InP threatens AI data-center buildout and tied it back to her prior warning that AXTI and SMTOY control a large share of InP substrates needed for future hyperscaler optical systems.",
+      "whyItMatters": "InP substrates sit upstream of lasers and optical networking. If AI clusters require large volumes of InP-based lasers, upstream substrate concentration could become a bottleneck that affects NVDA, Google TPU, Meta, Microsoft and Amazon buildouts.",
+      "catalysts": [
+        "Reuters report on China control over InP threatening AI DC buildout",
+        "Serenity previously framed AXTI and SMTOY as controlling 60-70%+ of global InP substrates",
+        "AI optical networking and hyperscaler cluster growth could increase InP substrate demand"
+      ],
+      "risks": [
+        "Reuters report and market-share numbers need primary verification",
+        "AXTI revenue sensitivity to AI optical demand must be quantified",
+        "Export controls, China exposure and substrate cyclicality can complicate the thesis"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Read Reuters report and identify exact InP supply-chain claims",
+        "Verify AXTI and SMTOY InP substrate market-share estimates",
+        "Map InP substrate demand to AI optical networking and hyperscaler timelines"
+      ],
+      "lastUpdated": "2026-06-11 20:29",
+      "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity said a Reuters report shows China control over InP threatens AI data-center buildout, and pointed to AXTI as a major point of failure she had warned about.",
+          "url": "https://x.com/aleabitoreddit/status/2064942505553170886"
+        }
+      ]
+    },
+    {
+      "id": "starlink-suppliers",
+      "ticker": "5243 / Lite-On / 300433 / 2317 basket",
+      "name": "Starlink supplier trade-record basket",
+      "tier": "speculative",
+      "theme": "Starlink direct suppliers / trade-record research",
+      "thesis": "Serenity tested a trade-record research style and listed possible Starlink direct suppliers including Eson Precision, Lite-On, Meiko, Lens Technology, Compeq, Chicony Power, Foxconn Interconnect, DISCO and E&R. She described the list as noisy and fun information discovery.",
+      "whyItMatters": "Trade records can surface direct supplier relationships before they become obvious in investor materials. Around Starlink and SpaceX attention, this can become a discovery map for hardware, power, PCB, precision-component and equipment exposure.",
+      "catalysts": [
+        "Serenity listed possible Starlink direct suppliers from trade records",
+        "SpaceX and Starlink attention may increase demand for supplier mapping",
+        "Names span power, PCB, precision, optical/electronics and equipment adjacent categories"
+      ],
+      "risks": [
+        "Serenity explicitly says there is a lot of noise",
+        "Trade-record appearance does not prove material revenue or margins",
+        "Several names are large diversified companies where Starlink exposure may be immaterial"
+      ],
+      "stance": "观望",
+      "nextChecks": [
+        "Verify trade-record entries and counterparties for each named supplier",
+        "Estimate whether Starlink-related shipments are recurring and material",
+        "Separate direct suppliers from distributors or low-value shipment records"
+      ],
+      "lastUpdated": "2026-06-11 20:29",
+      "evidence": [
+        {
+          "date": "2026-06-11",
+          "quote": "Serenity listed Starlink direct suppliers from trade records, including Eson Precision, Lite-On, Meiko, Lens Technology, Compeq, Chicony Power, Foxconn Interconnect, DISCO and E&R, while calling the list noisy.",
+          "url": "https://x.com/aleabitoreddit/status/2065039294126030906"
         }
       ]
     }
