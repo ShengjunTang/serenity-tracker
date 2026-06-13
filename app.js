@@ -8,8 +8,8 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 将 SIVE 从 GFS / Ayar 激光器供应线索扩展为 CPO 加航天国防双重瓶颈。6 月 9 日，Sivers 获得 ALL.SPACE 价值 820 万美元的 Ka-band beamforming IC 量产订单；她同时继续关注 Jabil 等可插拔光模块厂商带来的 photonics 放量。",
-    whyItMatters: "这条逻辑现在覆盖两条稀缺技术链：AI 光互连所需的 CW laser，以及 LEO / 多轨卫星通信所需的 beamforming IC。ALL.SPACE 订单是直接量产证据，但更大型国防主承包商的后续订单和 JBL 放量仍是前瞻判断。",
+    thesis: "Serenity 继续把 SIVE 放在自己最高信心的 CPO / silicon photonics 线索里。6 月 13 日她回顾 3 个月前 4 SEK 的 long thesis，称 SIVE 已上涨约 1900%，并说 JPM、Fidelity 等美国机构只是近期才开始进入；她把 SIVE 称为自己仅次于 AXTI 的第二大成功 thesis。",
+    whyItMatters: "这条更新不是新的客户公告，而是强化 SIVE 的机构持仓和 thesis 验证叙事。接下来要区分股价表现回顾与新的公司级证据：客户、产能、订单和收入兑现仍然是最关键的验证点。",
     catalysts: [
       "ALL.SPACE 价值 820 万美元的 Ka-band beamforming IC 量产订单",
       "订单用于 LEO / 多轨卫星通信，验证 SIVE 的航天国防供应链暴露",
@@ -44,8 +44,11 @@ const zhCopy = {
       "欧洲 Tech Sovereignty Package / Chips Act 2.0 对 photonics 的政策优先级",
       "Serenity 将 SIVE 放在 AAOI 早期小市值成功案例的类比中，认为 SIVE 也应获得更多关注",
       "Serenity 把 SIVE 与 AAOI、IQE、XFAB、SOI、WOLF 等一起放入西方 AI 关键供应链框架",
+      "Serenity 称 SIVE 从她 4 SEK thesis 后约上涨 1900%",
+      "她称 JPM、Fidelity 等美国机构近期才进入 SIVE",
+      "她把 SIVE 称为自己仅次于 AXTI 的第二大成功 thesis",
     ],
-    risks: ["820 万美元订单已公开，但后续国防主承包商订单并不确定", "需要核实订单交付节奏、收入确认与利润率贡献", "JP Morgan、BlackRock、Fidelity 持股变化必须用原始持股文件确认", "BlackRock 持股可能只是被动指数跟踪，不等于主动看多", "短期股价可能不会立即反映机构持股消息", "Serenity 对 retail front-run institutions 的解释属于市场结构判断，需要和公司级证据分开", "I like SIVE 这类短帖只增加信心色彩，不是新增基本面证据", "历史成功案例类比不等于 SIVE 一定复制 AAOI / LITE / NBIS 路径", "西方供应链战略框架仍需要客户、产能和收入证据支撑", "Protean Funds 的反方观点也需要直接阅读", "H2 2026-2028 的 CPO TAM 数字需要核实来源与口径", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
+    risks: ["820 万美元订单已公开，但后续国防主承包商订单并不确定", "需要核实订单交付节奏、收入确认与利润率贡献", "JP Morgan、BlackRock、Fidelity 持股变化必须用原始持股文件确认", "BlackRock 持股可能只是被动指数跟踪，不等于主动看多", "短期股价可能不会立即反映机构持股消息", "Serenity 对 retail front-run institutions 的解释属于市场结构判断，需要和公司级证据分开", "6 月 13 日帖子偏回顾性验证，不是新的买入信号", "大幅上涨后估值和拥挤度风险更高", "I like SIVE 这类短帖只增加信心色彩，不是新增基本面证据", "历史成功案例类比不等于 SIVE 一定复制 AAOI / LITE / NBIS 路径", "西方供应链战略框架仍需要客户、产能和收入证据支撑", "Protean Funds 的反方观点也需要直接阅读", "H2 2026-2028 的 CPO TAM 数字需要核实来源与口径", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
     nextChecks: [
       "阅读 Sivers / ALL.SPACE 原始公告，核实交付、收入确认和利润率影响",
       "核实 YSS 收购关系以及是否披露更多航天国防项目",
@@ -73,6 +76,8 @@ const zhCopy = {
       "梳理 Marvell Celestial、Lightmatter、Ayar 的激光器供应依赖",
       "检查 SIVE 指引是否体现 CPO / 可插拔产品收入",
       "跟踪客户集中度与量产时间",
+      "重新核对 JPM、Fidelity 等最新股东文件，并区分主动建仓和被动持仓",
+      "把股价回顾性验证与新增订单、客户、产能证据分开跟踪",
     ],
   },
   foci: {
@@ -295,9 +300,9 @@ const zhCopy = {
     theme: "InP substrate / AI 光互连上游瓶颈",
     thesis: "Serenity 引用 Reuters 新报告称中国对 InP 的控制威胁 AI data center buildout，并回顾自己此前关于 AXTI / SMTOY 控制全球 InP substrate、可能成为 AI 光互连瓶颈的判断。",
     whyItMatters: "InP substrate 位于激光器和光通信链条上游。如果未来 NVDA、Google TPU、Meta、Microsoft、Amazon 等 AI 集群需要大量 InP-based lasers，上游基板集中度可能成为关键瓶颈。",
-    catalysts: ["Reuters 报道把 InP 供应链风险推到台前", "Serenity 此前把 AXTI / SMTOY 视为 InP substrate 关键控制点", "AI optical networking 与 hyperscaler 集群扩张可能拉动 InP 需求"],
-    risks: ["Reuters 报道和市占率数字需要原文验证", "AXTI 对 AI 光互连需求的收入弹性还需量化", "中国暴露、出口限制和材料周期会增加复杂度"],
-    nextChecks: ["阅读 Reuters 原文并提取 InP 供应链断点", "核实 AXTI / SMTOY InP substrate 市占率", "把 InP substrate 需求映射到 CPO / 光模块 / hyperscaler 时间线"],
+    catalysts: ["Reuters 报道把 InP 供应链风险推到台前", "Serenity 此前把 AXTI / SMTOY 视为 InP substrate 关键控制点", "AI optical networking 与 hyperscaler 集群扩张可能拉动 InP 需求", "Serenity 将 AI supremacy wars 定义为各国出口管制带来的上游供应链瓶颈，并以 AXTI 为例"],
+    risks: ["Reuters 报道和市占率数字需要原文验证", "AXTI 对 AI 光互连需求的收入弹性还需量化", "中国暴露、出口限制和材料周期会增加复杂度", "AI supremacy wars 是主题框架，仍需落到具体公司证据"],
+    nextChecks: ["阅读 Reuters 原文并提取 InP 供应链断点", "核实 AXTI / SMTOY InP substrate 市占率", "把 InP substrate 需求映射到 CPO / 光模块 / hyperscaler 时间线", "跟踪新出口管制是否直接影响 InP substrate、AXTI 或 SMTOY"],
   },
   "starlink-suppliers": {
     theme: "Starlink 供应商 / trade records 研究",
@@ -309,11 +314,19 @@ const zhCopy = {
   },
   "wf6-peric": {
     theme: "WF6 前驱体气体 / 钨出口管制 / 存储供应链",
-    thesis: "Serenity 在 Subs 中把 WF6 作为 TSM、Samsung、SK Hynix、SMIC 相关的潜在瓶颈研究，并称 Peric Special Gases（688146）可能是主要受益者。她的逻辑是中国钨出口管制影响 WF6 成本，而 WF6 是 DRAM / NAND 的关键前驱体气体。",
-    whyItMatters: "WF6 是非常上游、很冷门的半导体材料。如果日本和韩国相关供应因钨出口管制、Kanto Denka / Central Glass 等产能变化而受扰动，替代供应商可能获得战略价值。",
-    catalysts: ["中国钨出口管制影响 WF6 成本", "WF6 用于 DRAM / NAND", "Serenity 称 Peric 已进入 TSM、Samsung、SMIC 等供应链", "Kanto Denka / Central Glass 相关供应扰动可能造成缺口", "AI memory 与 foundry 供应链安全提升上游气体关注度"],
-    risks: ["WF6 供应扰动、ChemNet 和产能停产信息需要原文验证", "Peric 的产能、市占率、客户认证和收入弹性需要量化", "新闻公开时可能已经偏后", "出口管制和供应链替代路径变化很快"],
-    nextChecks: ["核实 Kanto Denka / Central Glass 是否真的从 2026 年 7 月起永久停产或减少 WF6", "确认 Peric 对 TSM、Samsung、SMIC 的认证和供货范围", "估算 WF6 产能份额、价格弹性和收入敏感性", "跟踪日本、韩国供应商是否找到钨原料替代"],
+    thesis: "Serenity 在 Subs 中把 WF6 作为 TSM、Samsung、SK Hynix、SMIC 相关的潜在瓶颈研究，并称 Peric Special Gases（688146）可能是中国侧主要受益者。6 月 13 日她又把这条线扩展到韩国 Foosung（093370）：日本 WF6 供应受中国钨出口管制冲击，可能影响全球约 25-35% 供应链，外部替代供应商的战略价值上升。",
+    whyItMatters: "WF6 是非常上游、很冷门的半导体材料。如果日本相关供应因钨出口管制、Kanto Denka / Central Glass 等产能变化而受扰动，Peric 与 Foosung 这类替代供应商可能获得定价权、认证稀缺性和供应安全溢价。",
+    catalysts: ["中国钨出口管制影响 WF6 成本", "WF6 用于 DRAM / NAND", "Serenity 称 Peric 已进入 TSM、Samsung、SMIC 等供应链", "Kanto Denka / Central Glass 相关供应扰动可能造成缺口", "Serenity 称前驱体短缺和成本上升可能影响全球 25-35% 供应链", "Foosung（093370）被她新列为韩国侧、非中国侧的 WF6 纯受益线索", "AI memory 与 foundry 供应链安全提升上游气体关注度"],
+    risks: ["WF6 供应扰动、ChemNet 和产能停产信息需要原文验证", "Peric 与 Foosung 的产能、市占率、客户认证和收入弹性需要量化", "目前还不清楚 Peric、Foosung 或其他供应商谁的收入敏感性更干净", "Serenity 明确说自己没有 Foosung 持仓，只是发布早期 idea", "新闻公开时可能已经偏后", "出口管制和供应链替代路径变化很快"],
+    nextChecks: ["核实 Kanto Denka / Central Glass 是否真的从 2026 年 7 月起永久停产或减少 WF6", "确认 Peric 对 TSM、Samsung、SMIC 的认证和供货范围", "核实 Foosung 的 WF6 产能、客户认证和对 SK Hynix / Samsung 的供货关系", "比较 Peric 与 Foosung 的产能、原料获取、客户结构和定价权", "估算 WF6 产能份额、价格弹性和收入敏感性", "跟踪日本、韩国供应商是否找到钨原料替代"],
+  },
+  "foosung-wf6": {
+    theme: "WF6 前驱体气体 / 韩国存储供应链",
+    thesis: "Serenity 新提出 Foosung（093370，约 12 亿美元市值）可能是 WF6 瓶颈的韩国侧重要受益者。她的逻辑是中国对日本钨出口管制扰动日本 WF6 供应，可能影响 SK Hynix、Samsung、TSM 所需供应，而 Foosung 可能成为非中国侧相对纯的替代受益标的。",
+    whyItMatters: "Foosung 是 WF6 链条里更偏韩国存储供应链的表达。如果 WF6 供给跟不上存储需求，合格韩国供应商可能获得更强定价权和战略价值。",
+    catalysts: ["中国钨出口管制冲击日本 WF6 供应", "Serenity 称可能影响 SK Hynix、Samsung、TSM 所需的约 25% 供应", "后续帖进一步称前驱体短缺和成本上升可能影响全球 25-35% 供应链", "Serenity 称 Foosung 可能约占供应链 10%", "她认为 Foosung 可能是非中国侧最纯的受益标的之一"],
+    risks: ["Serenity 明确说自己没有 Foosung 持仓，只是发布早期 idea", "Foosung 的产能份额、产品结构和客户认证需要原始资料验证", "WF6 供应链冲击比例可能来自二手信息，需要核实", "原材料成本上升不一定全部转化为利润", "韩国中小市值标的存在流动性、汇率和信息披露差异"],
+    nextChecks: ["核实 Foosung 的 WF6 产品、产能和客户", "确认 SK Hynix、Samsung 是否依赖 Foosung 或相关特气", "用行业原始资料验证日本生产商扰动和钨原料约束", "对比 Foosung 与 Peric 的产能、原料、认证和定价权", "估算 WF6 价格上涨对 Foosung 收入和利润的敏感性"],
   },
   "anthropic-neocloud-colo": {
     theme: "Anthropic 数据中心租赁 / Neocloud colocation",
@@ -325,11 +338,11 @@ const zhCopy = {
   },
   "spcx-liquidity": {
     theme: "SpaceX / SPCX mega-IPO 流动性与指数再平衡",
-    thesis: "Serenity 引用 Frankfurt Bank strategists 的观点，称海外对 SpaceX（SPCX）股票的需求可能一天内再融资美国 current-account deficit 的 8%；随后她也讨论市场回调是否来自 SPCX + index inclusion 的流动性抽离和再平衡交易。",
+    thesis: "Serenity 将 SPCX / SpaceX 作为市场结构和流动性事件跟踪。继此前讨论海外需求、index inclusion 和再平衡影响后，她 6 月 12 日提到 SPCX 已经开始交易，并称其市值超过 2.15 万亿美元。",
     whyItMatters: "这不是公司供应链 thesis，而是市场结构和流动性观察。如果 SpaceX / SPCX 以超大规模上市或纳入指数，可能短期争夺市场流动性并影响高 beta 科技股和 AI 相关标的。",
-    catalysts: ["Frankfurt Bank 关于 SpaceX 海外需求的宏观流动性判断", "SpaceX / SPCX mega-IPO 关注度", "潜在 index inclusion 和机构提前再平衡交易"],
-    risks: ["Frankfurt Bank 原始报告需要核实", "SPCX 流动性影响很难和宏观因素分开", "mega-IPO 事件驱动可能短而剧烈，不等于长期基本面线索"],
-    nextChecks: ["查找 Frankfurt Bank 原始策略观点", "跟踪 SPCX 上市结构、float、index eligibility 和被动资金需求", "对比市场回调时间与 SPCX / Nasdaq 100 再平衡资金流"],
+    catalysts: ["Frankfurt Bank 关于 SpaceX 海外需求的宏观流动性判断", "SpaceX / SPCX mega-IPO 关注度", "Serenity 称 SPCX 已开始交易", "她称 SPCX 市值已超过 2.15 万亿美元", "潜在 index inclusion 和机构提前再平衡交易"],
+    risks: ["Frankfurt Bank 原始报告需要核实", "SPCX 的交易结构、市值计算和流动性需要用市场数据确认", "SPCX 流动性影响很难和宏观因素分开", "mega-IPO 事件驱动可能短而剧烈，不等于长期基本面线索"],
+    nextChecks: ["查找 Frankfurt Bank 原始策略观点", "确认 SPCX 交易结构、市值口径、float、liquidity 和 index eligibility", "跟踪 SPCX 上市结构、float、index eligibility 和被动资金需求", "对比市场回调时间与 SPCX / Nasdaq 100 再平衡资金流"],
   },
 };
 

@@ -1,13 +1,105 @@
 {
-  "generatedAt": "2026-06-12T16:51:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-12 16:51 Beijing. Read Posts and subscriber-only Subs; no Replies scanned.",
-  "summary": {
-    "focus": 6,
-    "watch": 16,
-    "speculative": 11,
-    "archive": 0
-  },
+  "generatedAt": "2026-06-14T00:44:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-14 00:44 Beijing. Read Posts and subscriber-only Subs; no Replies scanned. Subs newest visible post remained the Jun 12 WF6/Peric note.",
+  "summary": "Serenity Tracker refreshed for the June 13 evening X posts. New emphasis is on Foosung (093370) as a Korea WF6 bottleneck beneficiary, continued validation of the WF6/tungsten export-control chain, SIVE as a three-month +1900% thesis with US institutions entering, AI-supremacy export-control bottlenecks, and SPCX now trading above a $2.15T market cap.",
   "latestUpdates": [
+    {
+      "date": "2026-06-13",
+      "publishedAt": "2026-06-13T20:29:00+08:00",
+      "type": "SIVE / three-month thesis validation / institutions entering",
+      "impactZh": "Serenity 回顾自己 3 个月前在 4 SEK 发布的 SIVE long thesis，称该想法已上涨约 1900%，并强调 JPM、Fidelity 等美国机构近期才开始进入。她把 SIVE 称为仅次于 AXTI 的第二大成功 thesis。",
+      "original": "It has been 3 months since Serenity posted the SIVE thesis at 4 SEK; she says it is now up about 1900%, with JPM and Fidelity only recently entering positions.",
+      "related": [
+        "$SIVE",
+        "Sivers Semiconductors",
+        "$AXTI",
+        "CPO",
+        "silicon photonics",
+        "JPM",
+        "Fidelity"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2065779524248510758",
+      "batch": "2026-06-14T00:44:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-13",
+      "publishedAt": "2026-06-13T19:27:00+08:00",
+      "type": "WF6 third-order effects / Foosung validation",
+      "impactZh": "Serenity 再次强调 WF6 的三阶供应链影响：她称中国对日本钨出口管制可能导致前驱体短缺和成本上升，影响全球约 25-35% 供应链，并把 Foosung / 093370 放到 SK Hynix 等存储厂商的重要供应链位置上。",
+      "original": "Serenity highlighted WF6 third-order effects: China tungsten export controls on Japan may create precursor shortages and cost increases affecting 25-35% of the global supply chain, with Foosung / 093370 important to SK Hynix memory supply chains.",
+      "related": [
+        "WF6",
+        "Foosung",
+        "093370",
+        "SK Hynix",
+        "Samsung",
+        "$TSM",
+        "tungsten export controls"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2065758024896037020",
+      "batch": "2026-06-14T00:44:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-13",
+      "publishedAt": "2026-06-13T18:03:00+08:00",
+      "type": "Foosung 093370 / Korea WF6 pure-play beneficiary",
+      "impactZh": "Serenity 新提出 Foosung（093370，约 12 亿美元市值）可能成为 WF6 供应链扰动的韩国纯受益标的。她认为日本 WF6 供应受中国钨出口管制冲击，可能影响 SK Hynix、Samsung、TSM 所需的约 25% 供应，Foosung 若占约 10% 供应链，定价权可能上升。她明确说自己没有持仓，只是发布一个早期 idea。",
+      "original": "Foosung (093370, about $1.2B MC) looks like a massive beneficiary if China export controls disrupt Japan WF6 supply; Serenity says it may be the best pure-play beneficiary outside China, but she has no position.",
+      "related": [
+        "Foosung",
+        "093370",
+        "WF6",
+        "SK Hynix",
+        "Samsung",
+        "$TSM",
+        "Korea",
+        "tungsten export controls"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2065736884752703865",
+      "batch": "2026-06-14T00:44:00+08:00",
+      "importance": "high",
+      "importanceLabel": "新增线索"
+    },
+    {
+      "date": "2026-06-13",
+      "publishedAt": "2026-06-13T12:00:00+08:00",
+      "type": "AI supremacy wars / upstream export-control bottlenecks",
+      "impactZh": "Serenity 把各国互相出口管制导致的上游供应链瓶颈称为 AI supremacy wars 的开始，并以 AXTI 为例，认为未来会继续出现有意思的上游机会。",
+      "original": "Serenity says the AI supremacy wars begin, and upstream supply-chain bottlenecks caused by countries export-controlling each other, such as AXTI, should create interesting opportunities.",
+      "related": [
+        "$AXTI",
+        "InP",
+        "AI supremacy",
+        "export controls",
+        "upstream bottlenecks"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2065650434644304165",
+      "batch": "2026-06-14T00:44:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "主题强化"
+    },
+    {
+      "date": "2026-06-12",
+      "publishedAt": "2026-06-12T23:35:00+08:00",
+      "type": "SPCX trading / SpaceX market cap",
+      "impactZh": "Serenity 提到 SPCX 已经开始交易，并称其市值已经超过 2.15 万亿美元。这强化了她此前对 SpaceX / SPCX 超大体量上市和市场流动性影响的关注。",
+      "original": "SPCX is now trading and is over $2.15T+ market cap, reinforcing Serenity’s prior SPCX liquidity and market-structure watch item.",
+      "related": [
+        "$SPCX",
+        "SpaceX",
+        "liquidity",
+        "mega-cap",
+        "market structure"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2065462946785030506",
+      "batch": "2026-06-14T00:44:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "跟踪更新"
+    },
     {
       "date": "2026-06-12",
       "publishedAt": "2026-06-12T16:31:08+08:00",
@@ -193,322 +285,6 @@
       "batch": "2026-06-12T16:51:00+08:00",
       "importance": "high",
       "importanceLabel": "重点强化"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T23:05:53+08:00",
-      "type": "SPCX / SpaceX liquidity pull and index inclusion",
-      "impactZh": "Serenity 讨论市场从 META、MSFT 等到更广泛名字的回调，可能来自宏观，也可能来自 SPCX + index inclusion 的流动性抽离，以及机构提前布局 SpaceX / Nasdaq 100 等再平衡。该内容属于市场结构和流动性解释。",
-      "original": "Serenity wondered whether correction from META to MSFT was macro or liquidity pull from SPCX plus index inclusion and institutions frontrunning SpaceX/Nasdaq 100 rebalancing.",
-      "related": [
-        "SPCX",
-        "SpaceX",
-        "META",
-        "MSFT",
-        "Nasdaq 100",
-        "liquidity",
-        "index inclusion"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2065088136884220158",
-      "batch": "2026-06-12T16:51:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "流动性观察"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T22:07:42+08:00",
-      "type": "SPCX / SpaceX mega-IPO demand",
-      "impactZh": "Serenity 引用 Frankfurt Bank strategists 称海外对 SpaceX（SPCX）股票的需求可能一天内再融资美国 current-account deficit 的 8%，并表示关注 mega-IPO 对市场的影响。该线索偏宏观流动性和市场结构。",
-      "original": "Frankfurt Bank strategists said overseas demand for SpaceX (SPCX) shares could refinance 8% of the US current-account deficit in a single day, according to Serenity.",
-      "related": [
-        "SPCX",
-        "SpaceX",
-        "mega-IPO",
-        "current-account deficit",
-        "liquidity"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2065073494220849660",
-      "batch": "2026-06-12T16:51:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "流动性观察"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T19:51:48+08:00",
-      "type": "Starlink supplier research / trade records",
-      "impactZh": "Serenity 在 Subs 中尝试用 trade records 做新研究风格，并列出一批 Starlink direct suppliers 线索，包括 Eson Precision、Lite-On、Meiko、Lens Technology、Compeq、Chicony Power、Foxconn Interconnect、DISCO、E&R 等。她明确说噪音很多，属于信息发现和后续挖掘线索。",
-      "original": "Serenity tried a new research style using trade records and listed possible Starlink direct suppliers including Eson Precision, Lite-On, Meiko, Lens Technology, Compeq, Chicony Power, Foxconn Interconnect, DISCO and E&R.",
-      "related": [
-        "Starlink",
-        "SpaceX",
-        "Eson Precision",
-        "Lite-On",
-        "Meiko",
-        "Lens Technology",
-        "Compeq",
-        "Chicony Power",
-        "Foxconn Interconnect",
-        "DISCO",
-        "E&R"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2065039294126030906",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "high",
-      "importanceLabel": "Subs 新线索"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T18:40:25+08:00",
-      "type": "RDDT / WSB retail alpha research",
-      "impactZh": "Serenity 引用 Democratization of Retail Trading 研究，称对 160 万条 WSB 评论的研究发现 WSB 在发现 top-performing stocks 方面表现强，平均收益可与顶级投行竞争。她认为 WSB 对 RKLB、HOOD 等名字很早，但期权择时常错；她更倾向认为当下 alpha 在 X 上。",
-      "original": "Serenity cited a retail-trading study on 1.6M WSB comments and said WSB can be early to names like RKLB and HOOD, while she thinks X is where the alpha is nowadays.",
-      "related": [
-        "RDDT",
-        "WSB",
-        "RKLB",
-        "HOOD",
-        "retail alpha",
-        "X"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2065021329275855277",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "方法论"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T17:54:56+08:00",
-      "type": "XFAB / Silicon Photonics foundry timeline",
-      "impactZh": "Serenity 再次解释 XFAB：她认为 XFAB 正在建设相对 TSEM / GFS 的欧洲 silicon photonics foundry alternative，有欧洲支持和 NVDA evaluations；开发预计到 2026 年 10 月左右完成，2027 年进入 production，并在 2028 年扩大到 mass production。她提醒这是早期商业化 leap of faith，去风险路线可看 Tower。",
-      "original": "XFAB is building a silicon photonics foundry alternative to TSEM and GFS with Europe backing and NVDA evaluations; development around Oct 2026, production in 2027 and scaled into 2028.",
-      "related": [
-        "XFAB",
-        "TSEM",
-        "GFS",
-        "NVDA",
-        "Tower",
-        "silicon photonics",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2065009883133644963",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点强化"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T16:46:38+08:00",
-      "type": "LPK / SpaceX import logs",
-      "impactZh": "Serenity 称 LPK 是一个未知的 SpaceX supplier，可在 SpaceX US import logs 中找到。她表示不确定具体合同内容，自己持有 LPK / NFA，并把它作为 SpaceX IPO 相关的信息发现线索。",
-      "original": "Serenity said LPK is an unknown SpaceX supplier visible in SpaceX US import logs, though the exact contract is unclear; she disclosed positions in LPK and NFA.",
-      "related": [
-        "LPK",
-        "SpaceX",
-        "NFA",
-        "import logs",
-        "Velo"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064992691902140603",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "high",
-      "importanceLabel": "新增线索"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T16:11:37+08:00",
-      "type": "SIVE / conviction reaffirmed",
-      "impactZh": "Serenity 用一句话再次强化：I like SIVE。虽然没有新增基本面证据，但结合前一天机构持股和 optical recovery 内容，属于对 SIVE 高优先级关注的重复确认。",
-      "original": "I like SIVE.",
-      "related": [
-        "SIVE",
-        "photonic",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064983882802565169",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "信心强化"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T14:30:29+08:00",
-      "type": "TSM CoPoS / external suppliers basket",
-      "impactZh": "Serenity 在 Subs 中列出一批 TSM CoPoS 可能外部供应商：Favite、GMM、V5、Gudeng、Scientech、Ta Liang、C Sun、GPTC、APT、Chroma 等，覆盖 inspection / metrology、panel-level alignment、AOI、advanced-packaging carriers、wet process、thermal process、measurement / automation 等环节。她把它作为供大家继续挖掘的供应链地图。",
-      "original": "For TSM CoPoS, Serenity listed likely external suppliers across inspection, metrology, panel alignment, AOI, carriers, wet process, thermal and automation.",
-      "related": [
-        "TSM",
-        "CoPoS",
-        "Favite",
-        "GMM",
-        "V5",
-        "Gudeng",
-        "Scientech",
-        "Ta Liang",
-        "C Sun",
-        "GPTC",
-        "APT",
-        "Chroma"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064958428813140424",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "high",
-      "importanceLabel": "Subs 重点"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T13:27:12+08:00",
-      "type": "AXTI / InP bottleneck",
-      "impactZh": "Serenity 引用 Reuters 新报告称中国对 InP 的控制威胁 AI data center buildout，并回顾自己去年关于 AXTI / SMTOY 控制全球 InP substrate 供应、可能成为 AI optical / hyperscaler bottleneck 的警告。这条强化 InP substrate 上游瓶颈线。",
-      "original": "A new Reuters report says China control over InP threatens the AI DC buildout; Serenity says AXTI was a major point of failure she had warned about.",
-      "related": [
-        "AXTI",
-        "SMTOY",
-        "InP",
-        "AI data centers",
-        "NVDA",
-        "GOOGL",
-        "META",
-        "MSFT",
-        "AMZN"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064942505553170886",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "high",
-      "importanceLabel": "新增线索"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T11:18:16+08:00",
-      "type": "CPO basket / drawdown and pricing process",
-      "impactZh": "Serenity 分享组合本周也经历明显回撤，点名 Foci、Shunsin、SOI、AAOI 等 CPO 相关标的。她把这视为继续学习市场如何给不同主题和供应链环节定价的过程，而不是否定 CPO 主线。",
-      "original": "Serenity said her portfolio also has drawdowns, including Foci/Shunsin/SOI, AAOI and other CPO names, and she is learning how the market prices different supply-chain segments.",
-      "related": [
-        "FOCI",
-        "Shunsin",
-        "SOI",
-        "AAOI",
-        "CPO",
-        "portfolio drawdown"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064910057767309551",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "风险提醒"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T09:38:21+08:00",
-      "type": "SIVE / retail front-ran institutions cycle",
-      "impactZh": "Serenity 把 SIVE 与 NBIS、RKLB 的机构进场周期类比：她认为 retail 先于机构发现下一代架构转变，SIVE 曾几乎没有美国机构持股，现在 JP Morgan、Fidelity Research 等 active institutions 出现在 cap table。她也认为负面卖方报告或集中负面消息有时是机构需要流动性的信号。",
-      "original": "Retail frontran institutions on architectural shifts; SIVE had close to zero US institutional ownership, now active institutions like JP Morgan and Fidelity Research are on the cap table.",
-      "related": [
-        "SIVE",
-        "NBIS",
-        "RKLB",
-        "Fidelity Research",
-        "JP Morgan",
-        "FOCI",
-        "HIMX",
-        "NVDA",
-        "TSM"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064884912667439129",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点强化"
-    },
-    {
-      "date": "2026-06-11",
-      "publishedAt": "2026-06-11T00:07:43+08:00",
-      "type": "Market selloff / high-beta names context",
-      "impactZh": "Serenity 回应 Navitas、LPK、Wolfspeed、XFAB 等下跌时指出 broader index 已经下跌约 3-4%，股票不会直线上涨，高 beta 线索也会被大盘 selloff 拖累。这条是对小盘和高 beta 主题波动的风险提醒。",
-      "original": "The broader index is down a significant 3-4%; stocks do not move in a straight line and are affected by wider selloffs.",
-      "related": [
-        "Navitas",
-        "LPK",
-        "Wolfspeed",
-        "XFAB",
-        "SNDK",
-        "market selloff"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064741308460351493",
-      "batch": "2026-06-11T20:29:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "风险提醒"
-    },
-    {
-      "date": "2026-06-10",
-      "publishedAt": "2026-06-10T21:44:57+08:00",
-      "type": "Optical recovery / LITE AAOI SIVE",
-      "impactZh": "Serenity 认为 LITE、AAOI、SIVE 等 optical players 在此前 selloff 后回升是合理的，并称最初下跌“很蠢”。这不是新的公司基本面证据，但强化她对 AI optical / CPO 主线未变的判断。",
-      "original": "Glad optical players from LITE to AAOI and SIVE are slightly recovering as they should. The initial selloff was just stupid.",
-      "related": [
-        "LITE",
-        "AAOI",
-        "SIVE",
-        "optical players",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064705380933074945",
-      "batch": "2026-06-10T21:57:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "主线修复"
-    },
-    {
-      "date": "2026-06-10",
-      "publishedAt": "2026-06-10T18:47:56+08:00",
-      "type": "NVDA / 800V DC 与 CPO 延期传闻反驳",
-      "impactZh": "Serenity 引用 Morgan Stanley 称 NVDA 否认 800V DC 被推迟的报道，并称 SemiAnalysis 报告与 Computex 供应链检查相反。她把这轮 CPO / 800V selloff 视为由传闻驱动的过度反应，并继续倾向相信 Nvidia 自身时间线。",
-      "original": "Morgan Stanley said NVDA denied reports that 800V DC was pushed back; recent SemiAnalysis reports run contrary to their checks at Computex.",
-      "related": [
-        "NVDA",
-        "800V DC",
-        "CPO",
-        "SemiAnalysis",
-        "Morgan Stanley",
-        "MU"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064660831405805648",
-      "batch": "2026-06-10T21:57:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-10",
-      "publishedAt": "2026-06-10T15:20:22+08:00",
-      "type": "SIVE / BlackRock Fidelity 机构持股",
-      "impactZh": "Serenity 称 BlackRock 在 index listing 后作为 passive owner 进入 SIVE，Fidelity Research 也开始建立 Sivers 直接持仓。她认为这与此前 JP Morgan 从小仓位增至约 5.25% 一起，显示美国机构正在验证并积累 SIVE 的 photonics 暴露。她也区分 BlackRock 被动跟踪与 Fidelity Research 主动投资。",
-      "original": "BlackRock has entered SIVE as passive owner after index listing; Fidelity Research started direct positions, which Serenity frames as US institutions validating and accumulating Sivers.",
-      "related": [
-        "SIVE",
-        "BlackRock",
-        "Fidelity Research",
-        "JP Morgan",
-        "institutional ownership",
-        "index listing"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064608597343125931",
-      "batch": "2026-06-10T21:57:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-10",
-      "publishedAt": "2026-06-10T13:11:38+08:00",
-      "type": "NVDA / Lumentum / CPO 时间线反驳",
-      "impactZh": "Serenity 用 TLDR 方式总结当天：市场因分析师质疑 NVDA 的 800V DC / CPO 时间线而抛售，但随后 Nvidia 与 Lumentum 高管仍对 CPO 表达乐观，并称时间线在加速。该内容强化 CPO selloff 属于时间线恐慌而非主线破坏的判断。",
-      "original": "Nvidia and Lumentum executives were bullish on CPO and timelines accelerating after the market sold off on analyst doubts about 800V DC and CPO.",
-      "related": [
-        "NVDA",
-        "Lumentum",
-        "LITE",
-        "CPO",
-        "800V DC"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2064576200211861981",
-      "batch": "2026-06-10T21:57:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "主线强化"
     }
   ],
   "ideas": [
@@ -518,8 +294,8 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity has upgraded SIVE from a GFS/Ayar-linked laser supplier idea into a broader CPO plus space/defense chokepoint. On June 9, Sivers announced an $8.2M ALL.SPACE production order for Ka-band beamforming ICs, while Serenity continued to frame Jabil and other pluggable makers as potential photonics volume-ramp paths.",
-      "whyItMatters": "The thesis now spans two scarce technology chains: CW lasers for AI optical interconnects and beamforming ICs for LEO/multi-orbit satellite communications. The ALL.SPACE order is direct production evidence, while the larger follow-on defense-prime and Jabil implications remain forward-looking.",
+      "thesis": "Serenity continues to frame SIVE as one of her highest-conviction CPO / silicon-photonics ideas. On June 13 she reviewed the three-month anniversary of her 4 SEK thesis, saying SIVE is up about 1900% and that JPM and Fidelity are only recently entering positions; she called it probably her second-greatest thesis after AXTI.",
+      "whyItMatters": "The latest post is not a new customer disclosure, but it reinforces the institutional-ownership and thesis-validation narrative around SIVE. The key analytical question is whether the move is still backed by fresh customer, capacity and revenue evidence rather than only retrospective performance.",
       "catalysts": [
         "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
         "Serenity expects the ALL.SPACE/YSS relationship may create follow-on space and defense volume orders",
@@ -553,7 +329,10 @@
         "Serenity compares SIVE to NBIS and RKLB as a case where retail found an architectural shift before institutions",
         "JP Morgan and Fidelity Research appearing on the cap table reinforces her institutional-accumulation narrative",
         "Serenity suggests current small-cap names in the AAOI 2025 size range, such as SIVE, may deserve more attention",
-        "Western-supply-chain framing puts SIVE alongside AAOI, IQE, XFAB, SOI and WOLF as critical AI supply-chain nodes"
+        "Western-supply-chain framing puts SIVE alongside AAOI, IQE, XFAB, SOI and WOLF as critical AI supply-chain nodes",
+        "Three-month thesis validation: Serenity says SIVE has risen about 1900% since her 4 SEK long thesis",
+        "JPM and Fidelity only recently entering positions in Serenity's framing",
+        "Serenity calls SIVE probably her second-greatest thesis after AXTI"
       ],
       "risks": [
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
@@ -576,7 +355,10 @@
         "Negative sellside reports and institutional-liquidity narratives are Serenity's interpretation and require independent verification",
         "Short posts such as 'I like SIVE' add conviction color but not new company-level evidence",
         "Historical winner analogies such as AAOI/LITE/NBIS/RKLB do not prove SIVE will follow the same path",
-        "Strategic supply-chain framing still needs customer, capacity and revenue evidence"
+        "Strategic supply-chain framing still needs customer, capacity and revenue evidence",
+        "The June 13 post is retrospective validation rather than a fresh buy signal",
+        "Large prior price appreciation increases valuation and crowding risk",
+        "Institutional-entry claims still need confirmation from current shareholder filings"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -606,9 +388,11 @@
         "Separate SIVE company-level evidence from Serenity's retail-versus-institution cycle framing",
         "Track whether active institutional ownership continues to rise after JP Morgan and Fidelity Research",
         "Compare SIVE market cap, revenue path and customer evidence with AAOI when Serenity first called it",
-        "Verify whether SIVE receives direct subsidy, customer or capacity evidence under the Western supply-chain frame"
+        "Verify whether SIVE receives direct subsidy, customer or capacity evidence under the Western supply-chain frame",
+        "Re-check latest Sivers shareholder filings for JPM, Fidelity and other US institutional ownership",
+        "Separate post-performance validation from incremental company evidence such as new customers, orders or capacity"
       ],
-      "lastUpdated": "2026-06-12 16:51",
+      "lastUpdated": "2026-06-14 00:44",
       "evidence": [
         {
           "date": "2026-06-12",
@@ -749,6 +533,11 @@
           "date": "2026-06-02",
           "quote": "SIVE is a laser chokepoint for photonics and are publicly validated by GFS and JBL.",
           "url": "https://x.com/aleabitoreddit/status/2061538735595069534"
+        },
+        {
+          "date": "2026-06-13",
+          "quote": "Serenity said it has been three months since her SIVE thesis at 4 SEK, now up about 1900%, with JPM and Fidelity only recently entering positions.",
+          "url": "https://x.com/aleabitoreddit/status/2065779524248510758"
         }
       ]
     },
@@ -2090,22 +1879,26 @@
         "Serenity previously framed AXTI and SMTOY as controlling 60-70%+ of global InP substrates",
         "AI optical networking and hyperscaler cluster growth could increase InP substrate demand",
         "Serenity links WF6/tungsten research to other upstream bottleneck work around InP substrates and AXTI",
-        "She says by the time news publishes, it may be late, but useful for finding ripple effects"
+        "She says by the time news publishes, it may be late, but useful for finding ripple effects",
+        "Serenity framed AI supremacy wars as a series of upstream export-control bottlenecks and used AXTI as an example",
+        "Country-by-country export controls may keep surfacing overlooked upstream materials and substrate chokepoints"
       ],
       "risks": [
         "Reuters report and market-share numbers need primary verification",
         "AXTI revenue sensitivity to AI optical demand must be quantified",
         "Export controls, China exposure and substrate cyclicality can complicate the thesis",
-        "WF6/tungsten is a separate upstream pathway and should not be conflated with InP without specific process overlap"
+        "WF6/tungsten is a separate upstream pathway and should not be conflated with InP without specific process overlap",
+        "The AI supremacy wars framing is thematic and needs company-level evidence before being applied to any single ticker"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Read Reuters report and identify exact InP supply-chain claims",
         "Verify AXTI and SMTOY InP substrate market-share estimates",
         "Map InP substrate demand to AI optical networking and hyperscaler timelines",
-        "Separate InP substrate bottlenecks from tungsten/WF6 bottlenecks and map which processes connect to each AI optical or memory chain"
+        "Separate InP substrate bottlenecks from tungsten/WF6 bottlenecks and map which processes connect to each AI optical or memory chain",
+        "Track whether new export-control actions directly affect InP substrates, AXTI or SMTOY rather than adjacent materials only"
       ],
-      "lastUpdated": "2026-06-12 16:51",
+      "lastUpdated": "2026-06-14 00:44",
       "evidence": [
         {
           "date": "2026-06-12",
@@ -2116,6 +1909,11 @@
           "date": "2026-06-11",
           "quote": "Serenity said a Reuters report shows China control over InP threatens AI data-center buildout, and pointed to AXTI as a major point of failure she had warned about.",
           "url": "https://x.com/aleabitoreddit/status/2064942505553170886"
+        },
+        {
+          "date": "2026-06-13",
+          "quote": "Serenity said AI supremacy wars are beginning and upstream supply-chain bottlenecks from country export controls, such as AXTI, should create interesting opportunities.",
+          "url": "https://x.com/aleabitoreddit/status/2065650434644304165"
         }
       ]
     },
@@ -2158,29 +1956,39 @@
       "name": "Peric Special Gases / WF6 bottleneck",
       "tier": "watch",
       "theme": "WF6 precursor gas / tungsten export controls / memory supply chain",
-      "thesis": "Serenity identified WF6 as a possible TSM, Samsung, SK Hynix and SMIC bottleneck tied to China tungsten export controls. She says Peric Special Gases (688146) may be the main beneficiary because WF6 is critical for DRAM/NAND and Peric has entered major foundry and memory supply chains.",
-      "whyItMatters": "WF6 is an obscure upstream gas used in memory manufacturing. If Japanese/Korean supply is disrupted by tungsten export controls and Japanese producers reduce output, alternative suppliers such as Peric could gain strategic value in AI memory and foundry supply chains.",
+      "thesis": "Serenity identified WF6 as a possible TSM, Samsung, SK Hynix and SMIC bottleneck tied to China tungsten export controls. The line has expanded from Peric Special Gases (688146) in China to Foosung (093370) in Korea: she says Japanese WF6 disruption could affect 25-35% of the global supply chain and give outside-China suppliers more strategic value.",
+      "whyItMatters": "WF6 is an obscure upstream gas used in memory manufacturing. If Japanese supply is disrupted by tungsten export controls and memory makers need alternative sources, Peric and Foosung could become strategic beneficiaries through pricing power, qualification scarcity and supply security.",
       "catalysts": [
         "China tungsten export controls affecting 60-70% of WF6 costs in Serenity's framing",
         "WF6 is used for DRAM and NAND",
         "Kanto Denka and Central Glass reportedly warned Korean chipmakers of potential WF6 disruptions",
         "ChemNet reports Kanto Denka and Central Glass may permanently halt production starting July 2026",
-        "Peric entered supply chains of TSM, Samsung and SMIC according to Serenity"
+        "Peric entered supply chains of TSM, Samsung and SMIC according to Serenity",
+        "Serenity says China tungsten export controls on Japan could create precursor shortages and cost increases affecting 25-35% of the global supply chain",
+        "Foosung (093370) was introduced as a possible Korean pure-play beneficiary outside China",
+        "Serenity says Foosung may represent about 10% of the supply chain and could gain pricing power if supply cannot keep up with demand",
+        "SK Hynix, Samsung and TSM remain the key downstream memory/foundry exposures in her framing"
       ],
       "risks": [
         "WF6 supply claims and ChemNet reports need primary verification",
         "Peric revenue sensitivity, capacity and qualification status must be quantified",
         "News may already be late by the time it appears publicly",
-        "Export-control dynamics can change quickly"
+        "Export-control dynamics can change quickly",
+        "Foosung supply-chain share and customer exposure need primary verification",
+        "It is still unclear whether Foosung, Peric or another supplier has the cleanest revenue sensitivity",
+        "Serenity explicitly said she has no Foosung position and was publishing an early idea"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Verify ChemNet and producer shutdown reports",
         "Confirm Peric customer qualification with TSM, Samsung, SMIC and memory makers",
         "Estimate WF6 capacity share, pricing and revenue sensitivity",
-        "Track whether Japanese or Korean producers resume or secure tungsten feedstock"
+        "Track whether Japanese or Korean producers resume or secure tungsten feedstock",
+        "Verify Foosung WF6 capacity, customer qualification and revenue sensitivity",
+        "Compare Foosung versus Peric on capacity, customer mix, feedstock access and pricing power",
+        "Confirm whether the 25-35% global supply-chain impact and 10% Foosung share are supported by primary industry sources"
       ],
-      "lastUpdated": "2026-06-12 16:51",
+      "lastUpdated": "2026-06-14 00:44",
       "evidence": [
         {
           "date": "2026-06-12",
@@ -2191,6 +1999,60 @@
           "date": "2026-06-12",
           "quote": "Serenity said Japan WF6 supply-chain disruption from China export controls affects TSM, Samsung and SK Hynix.",
           "url": "https://x.com/aleabitoreddit/status/2065351180314955924"
+        },
+        {
+          "date": "2026-06-13",
+          "quote": "Serenity said Foosung (093370, about $1.2B market cap) could be a major beneficiary if Japan WF6 supply is disrupted by China tungsten export controls.",
+          "url": "https://x.com/aleabitoreddit/status/2065736884752703865"
+        },
+        {
+          "date": "2026-06-13",
+          "quote": "Serenity highlighted WF6 third-order effects, saying precursor shortages and cost increases could affect 25-35% of the global supply chain and make Foosung important to SK Hynix.",
+          "url": "https://x.com/aleabitoreddit/status/2065758024896037020"
+        }
+      ]
+    },
+    {
+      "id": "foosung-wf6",
+      "ticker": "093370 / Foosung",
+      "name": "Foosung / Korea WF6 bottleneck beneficiary",
+      "tier": "watch",
+      "theme": "WF6 precursor gas / Korea memory supply chain",
+      "thesis": "Serenity introduced Foosung (093370, about $1.2B market cap) as a possible major beneficiary of the WF6 bottleneck. Her view is that China tungsten export controls are disrupting Japanese WF6 supply, potentially affecting supply needed by SK Hynix, Samsung and TSM, while Foosung could be a relatively clean outside-China beneficiary.",
+      "whyItMatters": "Foosung is a more targeted Korea-side expression of the WF6 chain than the broader Peric/China angle. If WF6 supply cannot keep up with memory demand, qualified Korean suppliers may gain pricing power and strategic importance to SK Hynix and Samsung.",
+      "catalysts": [
+        "China export controls on tungsten affecting Japanese WF6 supply in Serenity's framing",
+        "Potential disruption to about 25% of global WF6 supply required by SK Hynix, Samsung and TSM in the initial post",
+        "Later post described a 25-35% global supply-chain impact from precursor shortages and cost increases",
+        "Serenity says Foosung may be around 10% of the supply chain",
+        "Foosung appears to Serenity as the best pure-play beneficiary outside China if the bottleneck tightens"
+      ],
+      "risks": [
+        "Serenity explicitly said she has no position and was publishing an early idea",
+        "Foosung capacity share, product mix and customer qualification need primary verification",
+        "WF6 supply-chain disruption numbers may come from secondary sources and need validation",
+        "Precursor pricing may be rough, and higher costs do not automatically translate to earnings upside",
+        "Korea-listed small/mid-cap liquidity and translation risk are material"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Verify Foosung ticker, WF6 product exposure, capacity and customer list",
+        "Check whether SK Hynix and Samsung depend on Foosung for WF6 or related specialty gases",
+        "Validate Japanese producer disruption and tungsten feedstock constraints from primary industry sources",
+        "Compare Foosung with Peric Special Gases on capacity, feedstock access, pricing and customer qualification",
+        "Estimate revenue sensitivity if WF6 pricing rises or Japanese supply exits"
+      ],
+      "lastUpdated": "2026-06-14 00:44",
+      "evidence": [
+        {
+          "date": "2026-06-13",
+          "quote": "Serenity said Foosung (093370, about $1.2B market cap) looks like a massive beneficiary as China export controls disrupt Japan WF6 supply, while noting she has no position.",
+          "url": "https://x.com/aleabitoreddit/status/2065736884752703865"
+        },
+        {
+          "date": "2026-06-13",
+          "quote": "Serenity said WF6 third-order effects could affect 25-35% of the global supply chain and highlighted Foosung as important to SK Hynix memory manufacturers.",
+          "url": "https://x.com/aleabitoreddit/status/2065758024896037020"
         }
       ]
     },
@@ -2234,25 +2096,29 @@
       "name": "SpaceX / SPCX liquidity and index-inclusion effect",
       "tier": "speculative",
       "theme": "Mega-IPO liquidity / market structure",
-      "thesis": "Serenity highlighted a Frankfurt Bank strategist claim that overseas demand for SpaceX (SPCX) shares could refinance 8% of the US current-account deficit in one day, then questioned whether broader market corrections were macro or liquidity pulled into SPCX plus index inclusion and rebalancing trades.",
+      "thesis": "Serenity is tracking SPCX / SpaceX as a market-structure and liquidity event. After earlier comments about overseas demand and possible index/rebalancing effects, she noted on June 12 that SPCX is now trading and is above a $2.15T market cap.",
       "whyItMatters": "A very large SpaceX/SPCX listing could become a market-structure event, competing for liquidity and affecting index/rebalancing flows. This is not a company supply-chain thesis; it is a macro-liquidity watch item.",
       "catalysts": [
         "Frankfurt Bank strategist claim about overseas SpaceX demand and US current-account deficit refinancing",
         "Potential SpaceX mega-IPO attention",
-        "Possible liquidity pull from SPCX and index inclusion/rebalancing"
+        "Possible liquidity pull from SPCX and index inclusion/rebalancing",
+        "SPCX is now trading according to Serenity",
+        "Serenity says SPCX market cap is already above $2.15T"
       ],
       "risks": [
         "Claim needs source verification and may be framing rather than investable fact",
         "SPCX liquidity effect is speculative and difficult to isolate from macro",
-        "Market reaction can be short-lived and path-dependent"
+        "Market reaction can be short-lived and path-dependent",
+        "The $2.15T market-cap reference and trading venue/structure need confirmation from primary market data"
       ],
       "stance": "观望",
       "nextChecks": [
         "Find original Frankfurt Bank strategist note",
         "Track SPCX listing structure, index eligibility and expected float/demand",
-        "Compare macro drawdown timing with SPCX and Nasdaq 100 rebalance flows"
+        "Compare macro drawdown timing with SPCX and Nasdaq 100 rebalance flows",
+        "Confirm SPCX trading structure, market cap calculation, liquidity and index eligibility from market data"
       ],
-      "lastUpdated": "2026-06-12 16:51",
+      "lastUpdated": "2026-06-14 00:44",
       "evidence": [
         {
           "date": "2026-06-11",
@@ -2263,6 +2129,11 @@
           "date": "2026-06-11",
           "quote": "Serenity wondered whether correction from META to MSFT was macro or liquidity pull from SPCX plus index inclusion and rebalancing.",
           "url": "https://x.com/aleabitoreddit/status/2065088136884220158"
+        },
+        {
+          "date": "2026-06-12",
+          "quote": "Serenity said SPCX is now trading and is over $2.15T+ market cap.",
+          "url": "https://x.com/aleabitoreddit/status/2065462946785030506"
         }
       ]
     }
