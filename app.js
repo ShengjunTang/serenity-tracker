@@ -47,8 +47,9 @@ const zhCopy = {
       "Serenity 称 SIVE 从她 4 SEK thesis 后约上涨 1900%",
       "她称 JPM、Fidelity 等美国机构近期才进入 SIVE",
       "她把 SIVE 称为自己仅次于 AXTI 的第二大成功 thesis",
+      "Serenity 将欧洲市场对 SIVE / SOI 的谨慎，与美国市场追逐 SPCX 这类未来资产做对比，强化欧洲 photonics 资产可能被低估的叙事",
     ],
-    risks: ["820 万美元订单已公开，但后续国防主承包商订单并不确定", "需要核实订单交付节奏、收入确认与利润率贡献", "JP Morgan、BlackRock、Fidelity 持股变化必须用原始持股文件确认", "BlackRock 持股可能只是被动指数跟踪，不等于主动看多", "短期股价可能不会立即反映机构持股消息", "Serenity 对 retail front-run institutions 的解释属于市场结构判断，需要和公司级证据分开", "6 月 13 日帖子偏回顾性验证，不是新的买入信号", "大幅上涨后估值和拥挤度风险更高", "I like SIVE 这类短帖只增加信心色彩，不是新增基本面证据", "历史成功案例类比不等于 SIVE 一定复制 AAOI / LITE / NBIS 路径", "西方供应链战略框架仍需要客户、产能和收入证据支撑", "Protean Funds 的反方观点也需要直接阅读", "H2 2026-2028 的 CPO TAM 数字需要核实来源与口径", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
+    risks: ["820 万美元订单已公开，但后续国防主承包商订单并不确定", "需要核实订单交付节奏、收入确认与利润率贡献", "JP Morgan、BlackRock、Fidelity 持股变化必须用原始持股文件确认", "BlackRock 持股可能只是被动指数跟踪，不等于主动看多", "短期股价可能不会立即反映机构持股消息", "Serenity 对 retail front-run institutions 的解释属于市场结构判断，需要和公司级证据分开", "6 月 13 日帖子偏回顾性验证，不是新的买入信号", "大幅上涨后估值和拥挤度风险更高", "欧洲市场更谨慎且看重近 12 个月表现，可能拖慢 SIVE 这类欧洲 photonics 资产重估", "I like SIVE 这类短帖只增加信心色彩，不是新增基本面证据", "历史成功案例类比不等于 SIVE 一定复制 AAOI / LITE / NBIS 路径", "西方供应链战略框架仍需要客户、产能和收入证据支撑", "Protean Funds 的反方观点也需要直接阅读", "H2 2026-2028 的 CPO TAM 数字需要核实来源与口径", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "Win Semi 产能节奏和 2027/2028 精确输出仍未知", "insider selling 需要核对真实公告、时间和持股变化", "空头回补叙事会提高拥挤度和波动", "NASDAQ listing 表述需要独立核实", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高", "客户关系与收入兑现需要独立核实"],
     nextChecks: [
       "阅读 Sivers / ALL.SPACE 原始公告，核实交付、收入确认和利润率影响",
       "核实 YSS 收购关系以及是否披露更多航天国防项目",
@@ -78,6 +79,7 @@ const zhCopy = {
       "跟踪客户集中度与量产时间",
       "重新核对 JPM、Fidelity 等最新股东文件，并区分主动建仓和被动持仓",
       "把股价回顾性验证与新增订单、客户、产能证据分开跟踪",
+      "观察欧洲机构和散户对 SIVE 的定价偏见是否会随更多 AI buildout / 客户证据变化",
     ],
   },
   foci: {
@@ -218,11 +220,11 @@ const zhCopy = {
   },
   soi: {
     theme: "硅光衬底 / 欧洲政策受益",
-    thesis: "SOI 留在跟踪观察，因为 Serenity 把它与 SIVE 并列为上游硅光瓶颈：SIVE 是 CPO lasers，SOI 是 silicon photonics substrates。6 月 7 日她又把 NVDA CEO 对 silicon photonics / optical networking 的评论视为 SIVE 到 SOI 的正向 read-through。",
-    whyItMatters: "如果 AI 基础设施增长真的带来对 silicon photonics 和 optical networking 的“超想象供应量”需求，那么 SOI / Soitec 这类衬底供应商可能与 SIVE 等更直接 CPO 标的一起受益。",
-    catalysts: ["NVDA CEO 点名 silicon photonics / optical networking，被 Serenity 解读为 SOI read-through", "Serenity 用 Goldman hyperscaler capex 上调支撑上游瓶颈资产", "EU CHIPS Act 2.0 impact analysis 提到欧洲 SOI wafer 强项", "此前市场低估", "欧洲半导体动量"],
-    risks: ["NVDA 对 silicon photonics 的评论是行业 read-through，不是 SOI 直接客户订单", "SOI 逻辑比 SIVE 间接，Serenity 给出的公司级细节较少", "需要确认 Serenity 所指 SOI 对应的具体上市标的", "已经大幅上涨", "相对当前 CPO 主线可能偏旧"],
-    nextChecks: ["确认 Serenity 所指 SOI 的具体上市主体 / ticker", "核实 SOI / Soitec 是否明确暴露于 Nvidia 相关 silicon photonics 供应量", "阅读 EU CHIPS Act 2.0 impact analysis 中 Soitec / Siltronic 相关原文", "检查 silicon photonics substrate 需求是否已进入公司指引", "确认 SOI 是否与光子或 AI 供应链有关"],
+    thesis: "SOI 留在跟踪观察，因为 Serenity 把它与 SIVE 并列为欧洲上游硅光瓶颈。6 月 14 日她再次用 SIVE 到 SOI 举例，认为欧洲市场更关注水资源和过去 12 个月表现，而不是 AI buildout 带来的未来供应链重估。",
+    whyItMatters: "这不是新的 SOI 公司级更新，但强化了 Serenity 对欧洲 AI / silicon photonics 资产被低估的判断。如果 AI 基础设施增长真的带来对 silicon photonics 和 optical networking 的超大需求，SOI / Soitec 这类衬底供应商可能与 SIVE 一起受益。",
+    catalysts: ["NVDA CEO 点名 silicon photonics / optical networking，被 Serenity 解读为 SOI read-through", "Serenity 用 Goldman hyperscaler capex 上调支撑上游瓶颈资产", "EU CHIPS Act 2.0 impact analysis 提到欧洲 SOI wafer 强项", "Serenity 再次把 SIVE / SOI 作为欧洲市场可能低估 AI buildout 的例子", "此前市场低估", "欧洲半导体动量"],
+    risks: ["NVDA 对 silicon photonics 的评论是行业 read-through，不是 SOI 直接客户订单", "6 月 14 日提及只是市场风格观察，不是新的客户或订单证据", "SOI 逻辑比 SIVE 间接，Serenity 给出的公司级细节较少", "需要确认 Serenity 所指 SOI 对应的具体上市标的", "已经大幅上涨", "相对当前 CPO 主线可能偏旧"],
+    nextChecks: ["确认 Serenity 所指 SOI 的具体上市主体 / ticker", "核实 SOI / Soitec 是否明确暴露于 Nvidia 相关 silicon photonics 供应量", "阅读 EU CHIPS Act 2.0 impact analysis 中 Soitec / Siltronic 相关原文", "检查 silicon photonics substrate 需求是否已进入公司指引", "等待后续 SOI-specific 帖子或公司级证据，再决定是否从 watch 上调"],
   },
   "tsm-visera": {
     theme: "CoPoS 先进封装 / TSM 子公司暴露",
@@ -340,9 +342,9 @@ const zhCopy = {
     theme: "SpaceX / SPCX mega-IPO 流动性与指数再平衡",
     thesis: "Serenity 将 SPCX / SpaceX 作为市场结构和流动性事件跟踪。继此前讨论海外需求、index inclusion 和再平衡影响后，她 6 月 12 日提到 SPCX 已经开始交易，并称其市值超过 2.15 万亿美元。",
     whyItMatters: "这不是公司供应链 thesis，而是市场结构和流动性观察。如果 SpaceX / SPCX 以超大规模上市或纳入指数，可能短期争夺市场流动性并影响高 beta 科技股和 AI 相关标的。",
-    catalysts: ["Frankfurt Bank 关于 SpaceX 海外需求的宏观流动性判断", "SpaceX / SPCX mega-IPO 关注度", "Serenity 称 SPCX 已开始交易", "她称 SPCX 市值已超过 2.15 万亿美元", "潜在 index inclusion 和机构提前再平衡交易"],
-    risks: ["Frankfurt Bank 原始报告需要核实", "SPCX 的交易结构、市值计算和流动性需要用市场数据确认", "SPCX 流动性影响很难和宏观因素分开", "mega-IPO 事件驱动可能短而剧烈，不等于长期基本面线索"],
-    nextChecks: ["查找 Frankfurt Bank 原始策略观点", "确认 SPCX 交易结构、市值口径、float、liquidity 和 index eligibility", "跟踪 SPCX 上市结构、float、index eligibility 和被动资金需求", "对比市场回调时间与 SPCX / Nasdaq 100 再平衡资金流"],
+    catalysts: ["Frankfurt Bank 关于 SpaceX 海外需求的宏观流动性判断", "SpaceX / SPCX mega-IPO 关注度", "Serenity 称 SPCX 已开始交易", "她称 SPCX 市值已超过 2.15 万亿美元", "Serenity 称美国市场愿意追逐 SPCX 这类未来感资产、较少在意估值", "潜在 index inclusion 和机构提前再平衡交易"],
+    risks: ["Frankfurt Bank 原始报告需要核实", "SPCX 的交易结构、市值计算和流动性需要用市场数据确认", "美国市场对未来资产的高热情可能让 SPCX 定价脱离传统估值纪律", "SPCX 流动性影响很难和宏观因素分开", "mega-IPO 事件驱动可能短而剧烈，不等于长期基本面线索"],
+    nextChecks: ["查找 Frankfurt Bank 原始策略观点", "确认 SPCX 交易结构、市值口径、float、liquidity 和 index eligibility", "跟踪 SPCX 上市结构、float、index eligibility 和被动资金需求", "观察 SPCX 情绪和流动性是否继续影响高 beta AI / futurism 交易", "对比市场回调时间与 SPCX / Nasdaq 100 再平衡资金流"],
   },
 };
 

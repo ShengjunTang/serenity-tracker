@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-06-14T00:44:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-14 00:44 Beijing. Read Posts and subscriber-only Subs; no Replies scanned. Subs newest visible post remained the Jun 12 WF6/Peric note.",
-  "summary": "Serenity Tracker refreshed for the June 13 evening X posts. New emphasis is on Foosung (093370) as a Korea WF6 bottleneck beneficiary, continued validation of the WF6/tungsten export-control chain, SIVE as a three-month +1900% thesis with US institutions entering, AI-supremacy export-control bottlenecks, and SPCX now trading above a $2.15T market cap.",
+  "generatedAt": "2026-06-14T23:06:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-14 23:06 Beijing. Read Posts and subscriber-only Subs; no Replies scanned. Ignored a non-investment Sweden lunch post; Subs newest visible post remained the Jun 12 WF6/Peric note.",
+  "summary": "Serenity Tracker refreshed for June 14. The only new investment-relevant public post after the prior 00:44 refresh was a market-style note contrasting US enthusiasm for futuristic assets such as SPCX with European skepticism around SIVE/SOI and AI buildout; no newer subscriber-only post was visible.",
   "latestUpdates": [
+    {
+      "date": "2026-06-14",
+      "publishedAt": "2026-06-14T06:51:12+08:00",
+      "type": "Market style / Europe skepticism / SIVE-SOI-SPCX framing",
+      "impactZh": "Serenity 用地域市场风格做了一次总结：她称美国市场愿意追逐 SPCX 这类未来感资产、较少在意估值；欧洲市场从 SIVE 到 SOI 更关注水资源等约束、对 AI buildout 和未来供应链重估更短视。这不是新公司 thesis，但强化了她对欧洲 AI / photonics 上游资产被低估的看法。",
+      "original": "Serenity contrasted market styles: America is bullish on futuristic names like SPCX, while Europe, from SIVE to SOI, focuses more on water usage than the AI buildout and looks too much at the past 12 months.",
+      "related": [
+        "$SPCX",
+        "$SIVE",
+        "$SOI",
+        "Europe",
+        "AI buildout",
+        "silicon photonics",
+        "market structure"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2065930011023204509",
+      "batch": "2026-06-14T23:06:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "主题强化"
+    },
     {
       "date": "2026-06-13",
       "publishedAt": "2026-06-13T20:29:00+08:00",
@@ -332,7 +352,8 @@
         "Western-supply-chain framing puts SIVE alongside AAOI, IQE, XFAB, SOI and WOLF as critical AI supply-chain nodes",
         "Three-month thesis validation: Serenity says SIVE has risen about 1900% since her 4 SEK long thesis",
         "JPM and Fidelity only recently entering positions in Serenity's framing",
-        "Serenity calls SIVE probably her second-greatest thesis after AXTI"
+        "Serenity calls SIVE probably her second-greatest thesis after AXTI",
+        "Serenity contrasted Europe's skepticism around SIVE with US willingness to fund futuristic AI assets, reinforcing her view that European photonics assets may remain underappreciated"
       ],
       "risks": [
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
@@ -358,7 +379,8 @@
         "Strategic supply-chain framing still needs customer, capacity and revenue evidence",
         "The June 13 post is retrospective validation rather than a fresh buy signal",
         "Large prior price appreciation increases valuation and crowding risk",
-        "Institutional-entry claims still need confirmation from current shareholder filings"
+        "Institutional-entry claims still need confirmation from current shareholder filings",
+        "European-market skepticism and focus on recent fundamentals can slow SIVE rerating even if the AI buildout thesis is right"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -390,9 +412,10 @@
         "Compare SIVE market cap, revenue path and customer evidence with AAOI when Serenity first called it",
         "Verify whether SIVE receives direct subsidy, customer or capacity evidence under the Western supply-chain frame",
         "Re-check latest Sivers shareholder filings for JPM, Fidelity and other US institutional ownership",
-        "Separate post-performance validation from incremental company evidence such as new customers, orders or capacity"
+        "Separate post-performance validation from incremental company evidence such as new customers, orders or capacity",
+        "Track whether European institutional and retail skepticism around SIVE changes after additional AI buildout or customer evidence"
       ],
-      "lastUpdated": "2026-06-14 00:44",
+      "lastUpdated": "2026-06-14 23:06",
       "evidence": [
         {
           "date": "2026-06-12",
@@ -538,6 +561,11 @@
           "date": "2026-06-13",
           "quote": "Serenity said it has been three months since her SIVE thesis at 4 SEK, now up about 1900%, with JPM and Fidelity only recently entering positions.",
           "url": "https://x.com/aleabitoreddit/status/2065779524248510758"
+        },
+        {
+          "date": "2026-06-14",
+          "quote": "Serenity contrasted US enthusiasm for futuristic assets like SPCX with European skepticism around SIVE/SOI and AI buildout, saying Europe focuses more on water usage and the past 12 months.",
+          "url": "https://x.com/aleabitoreddit/status/2065930011023204509"
         }
       ]
     },
@@ -1390,14 +1418,15 @@
       "name": "SOI",
       "tier": "watch",
       "theme": "Silicon photonics substrate / EU policy beneficiary",
-      "thesis": "SOI is in watchlist because Serenity groups it with SIVE as a tiny upstream silicon-photonics chokepoint, now reinforced by her read-through from NVDA CEO comments that Nvidia needs enormous supply volumes in silicon photonics / optical networking.",
-      "whyItMatters": "If AI infrastructure growth creates persistent demand for silicon photonics and optical networking capacity, substrate suppliers such as SOI/Soitec may benefit alongside more direct laser and CPO names like SIVE.",
+      "thesis": "SOI remains on watch because Serenity groups it with SIVE as a European upstream silicon-photonics chokepoint. On June 14 she again mentioned SIVE-to-SOI as an example of Europe focusing on water usage and recent backward-looking data rather than the AI buildout.",
+      "whyItMatters": "The latest post is not a company-specific SOI update, but it reinforces Serenity's broader view that Europe may underprice AI supply-chain assets such as SIVE and SOI because the market is more cautious and backward-looking than US futurism trades.",
       "catalysts": [
         "Goldman hyperscaler capex upgrade used by Serenity to support upstream chokepoint assets",
         "EU CHIPS Act 2.0 impact analysis says the EU has a strong SOI wafer position with Soitec and Siltronic",
         "Prior market miss",
         "European semiconductor momentum",
-        "NVDA CEO silicon photonics / optical networking comments, which Serenity frames as bullish read-through for SOI"
+        "NVDA CEO silicon photonics / optical networking comments, which Serenity frames as bullish read-through for SOI",
+        "Serenity again paired SIVE and SOI as European AI / silicon-photonics assets that markets may underappreciate versus the AI buildout"
       ],
       "risks": [
         "SOI linkage is less direct than SIVE because Serenity gave less company-specific operating detail",
@@ -1406,7 +1435,8 @@
         "Already large move",
         "May be stale relative to current CPO focus",
         "NVDA silicon photonics comments are a sector read-through, not a direct SOI customer award",
-        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility"
+        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility",
+        "The June 14 mention is a market-style observation, not fresh company evidence or customer disclosure"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -1416,9 +1446,10 @@
         "Only revisit if Serenity posts a fresh SOI thesis",
         "Check whether SOI links to photonics or AI supply chain",
         "Verify whether SOI / Soitec has explicit exposure to Nvidia-related silicon photonics supply volumes",
-        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage"
+        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage",
+        "Look for future SOI-specific posts or primary evidence before upgrading the idea beyond watch"
       ],
-      "lastUpdated": "2026-06-11 20:29",
+      "lastUpdated": "2026-06-14 23:06",
       "evidence": [
         {
           "date": "2026-06-11",
@@ -1444,6 +1475,11 @@
           "date": "2026-06-03",
           "quote": "I'm up like 250% on SOI... surprised markets missed that one.",
           "url": "https://x.com/aleabitoreddit/status/2061806782226604188"
+        },
+        {
+          "date": "2026-06-14",
+          "quote": "Serenity contrasted US enthusiasm for futuristic assets like SPCX with European skepticism around SIVE/SOI and AI buildout, saying Europe focuses more on water usage and the past 12 months.",
+          "url": "https://x.com/aleabitoreddit/status/2065930011023204509"
         }
       ]
     },
@@ -2103,22 +2139,25 @@
         "Potential SpaceX mega-IPO attention",
         "Possible liquidity pull from SPCX and index inclusion/rebalancing",
         "SPCX is now trading according to Serenity",
-        "Serenity says SPCX market cap is already above $2.15T"
+        "Serenity says SPCX market cap is already above $2.15T",
+        "Serenity says US market participants are bullish on futuristic assets like SPCX and care less about valuation, reinforcing the sentiment/liquidity angle"
       ],
       "risks": [
         "Claim needs source verification and may be framing rather than investable fact",
         "SPCX liquidity effect is speculative and difficult to isolate from macro",
         "Market reaction can be short-lived and path-dependent",
-        "The $2.15T market-cap reference and trading venue/structure need confirmation from primary market data"
+        "The $2.15T market-cap reference and trading venue/structure need confirmation from primary market data",
+        "US enthusiasm for futuristic assets can detach SPCX pricing from valuation discipline and make liquidity-driven moves more volatile"
       ],
       "stance": "观望",
       "nextChecks": [
         "Find original Frankfurt Bank strategist note",
         "Track SPCX listing structure, index eligibility and expected float/demand",
         "Compare macro drawdown timing with SPCX and Nasdaq 100 rebalance flows",
-        "Confirm SPCX trading structure, market cap calculation, liquidity and index eligibility from market data"
+        "Confirm SPCX trading structure, market cap calculation, liquidity and index eligibility from market data",
+        "Track whether SPCX liquidity and sentiment continue to affect broader high-beta AI and futurism trades"
       ],
-      "lastUpdated": "2026-06-14 00:44",
+      "lastUpdated": "2026-06-14 23:06",
       "evidence": [
         {
           "date": "2026-06-11",
@@ -2134,6 +2173,11 @@
           "date": "2026-06-12",
           "quote": "Serenity said SPCX is now trading and is over $2.15T+ market cap.",
           "url": "https://x.com/aleabitoreddit/status/2065462946785030506"
+        },
+        {
+          "date": "2026-06-14",
+          "quote": "Serenity contrasted US enthusiasm for futuristic assets like SPCX with European skepticism around SIVE/SOI and AI buildout, saying Europe focuses more on water usage and the past 12 months.",
+          "url": "https://x.com/aleabitoreddit/status/2065930011023204509"
         }
       ]
     }
