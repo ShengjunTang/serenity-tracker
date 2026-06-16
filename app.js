@@ -8,84 +8,25 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 继续把 SIVE 放在自己最高信心的 CPO / silicon photonics 线索里。6 月 15 日她把 SIVE 放进 InP 出口放松后的 optical chain，同时在回复中再次说自己对 SIVE 很 bullish，并把可能的 Nasdaq listing 时间线列为近期待观察点。",
-    whyItMatters: "今天的 SIVE 更新不是新的客户公告，而是供应链瓶颈缓解和情绪验证：如果 InP substrate / 激光产能放松，SIVE 这类 photonics 上游资产更容易释放需求；但 Nasdaq listing 仍只是待确认线索，客户、产能、订单和收入兑现仍是关键验证点。",
+    thesis: "Serenity 继续把 SIVE 放在最高信心的欧洲 AI / photonics 主线中。6 月 16 日她新增 AMD 正在争抢 CW laser 供应的角度，并把 SIVE 列为最直接受益者之一，理由是 AMD 走 GFS CPO，而 Sivers 处在 reference laser 层级。",
+    whyItMatters: "这次 SIVE 更新的重点从机构持股和历史涨幅，转到 CW laser 需求紧迫性。如果 AMD、hyperscaler 和光模块厂都要锁定 CW laser，而 Lumentum / Coherent 产能排到 2028，SIVE 的瓶颈弹性会继续被放大；但 AMD-SIVE 直接订单仍未确认。",
     catalysts: [
-      "ALL.SPACE 价值 820 万美元的 Ka-band beamforming IC 量产订单",
-      "订单用于 LEO / 多轨卫星通信，验证 SIVE 的航天国防供应链暴露",
-      "Serenity 期待 Jabil 等可插拔光模块厂商推动 photonics 端放量",
-      "Serenity 称 JP Morgan 对 Sivers 持股从约 0.4% 升至 5%+",
-      "Serenity 称 JP Morgan 持股消息后 SIVE 仅涨约 3.36%，她认为市场反应偏弱",
-      "Serenity 称 SIVE 是她仅次于 AAOI 的 CPO / photonics 最喜欢标的",
-      "BlackRock 因 index listing 成为 SIVE 被动持有人",
-      "Fidelity Research 开始建立 Sivers 直接持仓",
-      "Serenity 将 JP Morgan、BlackRock、Fidelity 串成美国机构验证 Sivers photonics 暴露的信号",
-      "Serenity 称 LITE、AAOI、SIVE 等 optical players 在 selloff 后回升合理",
-      "Serenity 6 月 11 日再次简短确认 I like SIVE",
-      "Serenity 将 SIVE 类比 NBIS / RKLB 的机构进场周期，认为 retail 先于机构发现架构转变",
-      "她称 SIVE 曾几乎没有美国机构持股，现在 JP Morgan、Fidelity Research 等 active institutions 出现在 cap table",
-      "Protean Funds 质疑 SIVE CPO 应用后，Serenity 用 GFS reference laser 逻辑反驳",
-      "Serenity 称 SIVE 是明年 CPO 的 chokepoint + bottleneck",
-      "LITE 财报被她解读为 CW laser 供给紧张信号",
-      "Win Semi private placement 扩产，可能支持 SIVE 放量",
-      "GFS 或 JBL 在 6 月 vote 后入股 SIVE 的可能性，仍属推测",
-      "Serenity 明确表示自己不卖出任何 SIVE 持仓",
-      "Serenity 称 SIVE 是 Ayar 的 100% confirmed laser supplier",
-      "Serenity 称 SIVE 与 Marvell Celestial / Lightmatter 有高信心供应关系",
-      "后续客户或合作伙伴公告可能引发空头回补",
-      "潜在 NASDAQ listing 可能缩小瑞典交易所估值折价",
-      "类似 JBL 或 Innolight 的潜在 surprise announcement 仍属推测",
-      "Sivers 与 GlobalFoundries 战略合作",
-      "Serenity 将 SIVE 与 Ayar 加入 Nvidia NVLink Fusion 关联起来",
-      "Serenity 称 SIVE 是 NVDA NVLink Fusion 生态的激光器供应商",
-      "潜在串联 Marvell Celestial、Lightmatter 与 Ayar",
-      "未来 18 个月 CPO 与可插拔光收发器放量",
-      "JBL 与 GFS 的公开验证",
-      "欧洲 Tech Sovereignty Package / Chips Act 2.0 对 photonics 的政策优先级",
-      "Serenity 将 SIVE 放在 AAOI 早期小市值成功案例的类比中，认为 SIVE 也应获得更多关注",
-      "Serenity 把 SIVE 与 AAOI、IQE、XFAB、SOI、WOLF 等一起放入西方 AI 关键供应链框架",
-      "Serenity 称 SIVE 从她 4 SEK thesis 后约上涨 1900%",
-      "她称 JPM、Fidelity 等美国机构近期才进入 SIVE",
-      "她把 SIVE 称为自己仅次于 AXTI 的第二大成功 thesis",
-      "Serenity 将欧洲市场对 SIVE / SOI 的谨慎，与美国市场追逐 SPCX 这类未来资产做对比，强化欧洲 photonics 资产可能被低估的叙事",
-      "中国放松 InP substrate 出口可能缓解 photonics 量产瓶颈，Serenity 将 SIVE 与 AXTI、IQE、AAOI、LITE 一起点名",
-      "Serenity 在相关回复中称自己对 SIVE position 仍然 super bullish",
-      "她提到 possible Nasdaq listing timeline announcement today，但仍需公司正式确认",
+      "AMD 据称正在争抢 CW laser 供应并谈大规模采购",
+      "Serenity 点名 SIVE 是直接受益者，因为 AMD 走 GFS CPO 且 Sivers 是 reference laser 层级",
+      "Lumentum / Coherent 被描述为产能排到 2028，Lumentum 还受 EML 合约约束",
+      "Serenity 将 SIVE 列为欧洲核心多头中上行空间最高的名字",
+      "AAOI/LITE/AXTI 2025 光学重估被用作当前 SIVE 的类比"
     ],
-    risks: ["820 万美元订单已公开，但后续国防主承包商订单并不确定", "需要核实订单交付节奏、收入确认与利润率贡献", "InP 出口放松是供应链 read-through，需要落回 SIVE 自身客户和产能", "JP Morgan、BlackRock、Fidelity 持股变化必须用原始持股文件确认", "BlackRock 持股可能只是被动指数跟踪，不等于主动看多", "短期股价可能不会立即反映机构持股消息", "Serenity 对 retail front-run institutions 的解释属于市场结构判断，需要和公司级证据分开", "6 月 13 日帖子偏回顾性验证，不是新的买入信号", "大幅上涨后估值和拥挤度风险更高", "欧洲市场更谨慎且看重近 12 个月表现，可能拖慢 SIVE 这类欧洲 photonics 资产重估", "I like SIVE / super bullish 这类短帖只增加信心色彩，不是新增基本面证据", "Nasdaq listing 时间线必须等公司正式公告", "历史成功案例类比不等于 SIVE 一定复制 AAOI / LITE / NBIS 路径", "西方供应链战略框架仍需要客户、产能和收入证据支撑", "Jabil、Ayar、Marvell Celestial、Lightmatter 的 primary / sole-source 说法仍需原始披露确认", "CPO 量产节奏可能慢于资格认证节奏", "社交媒体关注后波动很高"],
+    risks: [
+      "AMD CW laser 采购目前仍是报告和 Serenity 框架下的 read-through，不是 SIVE 已披露订单",
+      "GFS reference laser 逻辑需要落到客户采购、产能和收入时间",
+      "AAOI/LITE/AXTI 类比不等于 SIVE 会复制同样路径"
+    ],
     nextChecks: [
-      "阅读 Sivers / ALL.SPACE 原始公告，核实交付、收入确认和利润率影响",
-      "核实 YSS 收购关系以及是否披露更多航天国防项目",
-      "核实 JP Morgan 最新 Sivers 持股比例和文件日期",
-      "核实 BlackRock 与 Fidelity Research 的最新 Sivers 持股文件，并区分被动持仓和主动建仓",
-      "把 SIVE 公司级证据与 Serenity 的 retail / institution cycle 框架分开验证",
-      "跟踪 JP Morgan、Fidelity Research 后是否继续出现 active institutional ownership 增加",
-      "比较 SIVE 当前市值、收入路径和客户证据与 Serenity 早期看 AAOI 时的条件",
-      "验证 SIVE 在西方 AI 关键供应链框架中是否有直接补贴、客户或产能证据",
-      "对比 JP Morgan 过 5% 前后 Sivers 股东名册和流通盘变化",
-      "阅读 Protean Funds 对 SIVE 的原始质疑",
-      "追溯 91B / 141B CPO TAM 数字的报告来源",
-      "核实 Win Semi private placement 是否与 SIVE 相关 CW laser 产能有关",
-      "确认 Jabil 1.6T LRO 架构是否公开指向 SIVE",
-      "跟踪 6 月 vote 后是否出现 GFS / JBL 战略入股文件",
-      "核对 insider selling 的公告日期、出售人职位和剩余持股",
-      "核实 SIVE 是否在文件、演示或客户材料中被明确列为 Ayar 激光器供应商",
-      "核实 Marvell Celestial / Lightmatter 关系是直接供应、推断关系，还是仅来自 GFS 参考设计",
-      "核实 SIVE 是否披露 NASDAQ listing 计划或时间表",
-      "跟踪可获得的 short interest / borrow 动态",
-      "关注是否出现 JBL 类似或 Innolight 相关公告",
-      "核实 GFS 原始公告中的参考设计表述",
-      "核实 Ayar 的 NVLink Fusion 公告，以及 SIVE 是否有明确或间接连接",
-      "核实 SIVE 与 NVDA NVLink Fusion 激光器供应关系的原始来源",
-      "梳理 Marvell Celestial、Lightmatter、Ayar 的激光器供应依赖",
-      "检查 SIVE 指引是否体现 CPO / 可插拔产品收入",
-      "跟踪客户集中度与量产时间",
-      "重新核对 JPM、Fidelity 等最新股东文件，并区分主动建仓和被动持仓",
-      "把股价回顾性验证与新增订单、客户、产能证据分开跟踪",
-      "观察欧洲机构和散户对 SIVE 的定价偏见是否会随更多 AI buildout / 客户证据变化",
-      "查 Sivers 是否发布 Nasdaq listing 时间线或正式交易所相关公告",
-      "确认 InP 出口放松是否实际改善 SIVE 相关 laser / photonics 产能链条",
-    ],
+      "查 TrendForce 关于 AMD CW laser 采购的原始报道",
+      "跟踪 AMD、GFS、Sivers 或光模块厂是否披露 LTA / 订单 / 产能预留",
+      "把 SIVE 当前估值和客户证据与早期 AAOI/LITE/AXTI 做对比"
+    ]
   },
   foci: {
     theme: "CPO FAU / 光学组件",
@@ -105,11 +46,21 @@ const zhCopy = {
   },
   xfab: {
     theme: "欧洲硅光代工平台",
-    thesis: "Serenity 继续把 XFAB 定义为被低估的欧洲硅光 foundry：低于 20 亿美元市值、NVDA / NOK pre-commercial SiPH 验证、EU / US CHIPS Act 支持，以及 EU CHIPS Act 2.0 明确纳入 photonics 的政策顺风。",
-    whyItMatters: "XFAB 是欧洲 photonics 政策交易中的 foundry 端表达。新增信息包括相对 POET 的欧洲上市折价，以及 TSM 对 autonomous vehicles / robots 的评论可能验证汽车暴露类公司的底部。",
-    catalysts: ["EU CHIPS Act 2.0 明确支持 photonics、CPO / interconnects 和 silicon photonics", "Serenity 将 XFAB 与 POET 估值对比，认为 XFAB 资产更深但估值更低", "TSM 对自动驾驶 / 机器人增长的评论可能验证 XFAB 等汽车暴露标的", "Serenity 称 XFAB 正在建设相对 TSEM / GFS 的欧洲 silicon photonics foundry alternative", "她提到 XFAB 有欧洲支持和 NVDA evaluations", "她给出的时间线是 2026 年 10 月左右完成 development、2027 production、2028 mass production", "EU Chips Act 2 对需求 / 资金的支持", "Serenity 称 XFAB 与 SIVE 被 EU Industry Policy Blueprints 点名", "photonixFAB 验证", "NVDA 与 NOK 在硅光方向的活动"],
-    risks: ["EU 政策支持可能需要 3-15 个月才转化为公司级公告", "即使 TSM 评论暗示底部，XFAB 仍受汽车周期拖累", "商业化前验证未必快速转化为收入", "Serenity 明确把 XFAB 称为较早期，需要对商业化 take a leap of faith", "Tower 是更去风险的相邻路线，可能稀释 XFAB 的风险收益吸引力", "需要区分补贴与确定性需求"],
-    nextChecks: ["阅读 EU CHIPS Act 2.0 proposal 和 impact analysis，确认 XFAB / SOI / photonics 原文", "核实 XFAB 2026 年 10 月 development milestone、2027 production 与 2028 mass production 的披露依据", "比较 XFAB 与 Tower 作为 silicon photonics foundry route 的风险收益", "比较 POET 合同经济性与 XFAB foundry 产能及资产重置价值", "跟踪 TSM 自动驾驶 / 机器人评论是否体现在 XFAB 订单趋势", "核实 NVDA / NOK 验证细节", "阅读 photonixFAB 项目披露", "比较 P/B 与资产重置成本假设"],
+    thesis: "Serenity 继续认为 XFAB 可能是欧洲 silicon photonics foundry 错配：她称 Nvidia 是其硅光 foundry 的直接评估方，而 XFAB 仍低于 replacement P/B。",
+    whyItMatters: "这次复盘强化的是估值错配。如果 Nvidia evaluation 最终转向量产，XFAB 可能成为更早期但弹性较强的 foundry-stage photonics 卡片。",
+    catalysts: [
+      "Serenity 将 XFAB 列为欧洲核心多头",
+      "Nvidia 被描述为 XFAB silicon photonics foundry 的直接评估方",
+      "低于 replacement P/B 被她视为潜在市场错配"
+    ],
+    risks: [
+      "evaluation 不等于 production order",
+      "replacement P/B 需要结合资产质量、产能利用率和汽车/工业周期验证"
+    ],
+    nextChecks: [
+      "核实 Nvidia evaluation 细节和是否有生产时间线",
+      "计算 replacement P/B，并和 utilization、debt、segment margin 对照"
+    ]
   },
   mrvl: {
     theme: "AI ASIC / CPO 大盘股验证",
@@ -145,19 +96,40 @@ const zhCopy = {
   },
   aaoi: {
     theme: "800G / 1.6T 光模块 / 美国光学产能",
-    thesis: "Serenity 继续把 AAOI 放在 AI 光学主线中。6 月 15 日她把 AAOI 列入 InP 出口放松后的受益链条：AXTI 提供 substrate、IQE 提供 epiwafer，AAOI / LITE / SIVE 等激光与光学公司可能因为上游瓶颈缓解而更容易放量。",
-    whyItMatters: "AAOI 是 AI 数据中心带宽需求的直接表达。今天的新信息不是新增客户，而是供应链瓶颈可能缓解：Serenity 的判断是 photonics / laser 链条更缺“能生产多少”，而不是缺需求。",
-    catalysts: ["中国放松 InP substrate 出口可能缓解光子量产瓶颈", "Serenity 将 AAOI 与 AXTI、IQE、LITE、SIVE 放在同一条 InP / photonics 供应链上", "市场回调时 Serenity 仍强调看公司 projection，而不是交易 Fed 概率", "她用 AAOI H1 2027 约 471M projection 作为例子", "Serenity 称自己从 28 美元开始持续加仓 AAOI", "美国 AI 光学 domestic champion 框架", "hyperscaler 升级到 1.6T 后，sovereign / Tier-2 AI DC 可能继续吸收 800G 产能"],
-    risks: ["InP 放松是供应链 read-through，需要落回 AAOI 自身订单、产能、良率和利润率", "供应放松可能提升出货量，也可能改变原先的 scarcity pricing 假设", "加息概率和 CPO 时间线争议仍会压制高 beta 光学标的", "AMD / NVDA 对话仍是 analyst rumors，需要验证", "471m/month projection 的来源、单位和可实现性必须核实"],
-    nextChecks: ["核实 AAOI H1 2027 约 471M projection 的来源和口径", "观察 InP 出口放松是否被 AAOI 或其供应商确认", "跟踪 AAOI 订单、产能、客户和 800G / 1.6T ASP 是否继续验证 optical recovery", "区分板块情绪上涨和公司级基本面证据"],
+    thesis: "Serenity 继续把 AAOI 放在 AI 光学主线中；6 月 16 日新增 CW laser 角度：如果 AMD 为避免被 NVDA 限制而锁定 CW laser 产能，她认为 AAOI 与 SIVE 都是明显受益者，并提到 Rosenblatt checks。",
+    whyItMatters: "AAOI 仍是 AI 数据中心带宽需求的流动性表达。新增重点是 CW laser 采购紧迫性可能前置需求、维持光学供应紧张，但 AMD / NVDA 相关线索仍需公司级确认。",
+    catalysts: [
+      "Serenity 点名 AAOI 是 AMD 锁定 CW laser 供应的明显受益者",
+      "Rosenblatt checks 被她作为 AAOI 角度的支持",
+      "AAOI 被放进 2025 optical idea 成功重估的回顾里",
+      "她称 memory 到 photonics 这些旧想法仍在兑现"
+    ],
+    risks: [
+      "AAOI 受益者说法仍依赖 analyst checks 和板块 read-through",
+      "CW laser 紧张支持价格，但也提高产能和客户 allocation 的执行压力"
+    ],
+    nextChecks: [
+      "核实 Rosenblatt checks 及 AAOI 是否直接暴露 AMD CW laser 采购",
+      "跟踪 AAOI 是否在公告或电话会中提到 CW laser、AMD/NVDA 需求或产能紧张"
+    ]
   },
   rpi: {
     theme: "AI 需求兑现 / 欧洲硬件",
-    thesis: "Serenity 将 Raspberry Pi 当作 AI 需求真实兑现的案例：她称 RPI 从她 thesis post 后由 283 美元涨到 983 美元，并引用 AI 相关需求推动 core profit 显著高于预期。",
-    whyItMatters: "RPI 不是 CPO 组件股，但它能验证 Serenity 的 broader AI 需求框架：AI 增量可能流向被忽视的欧洲硬件和非美上市资产，而不仅是美国大盘 AI 股。",
-    catalysts: ["公司称强 AI 相关需求可能使核心利润显著高于市场预期", "Serenity 称 RPI 较她 thesis post 后上涨约 247%", "欧洲硬件资产如果继续兑现 AI 需求，可能出现重估"],
-    risks: ["这是大涨后的回顾性验证，不是新的买点", "需要区分一次性 AI 需求惊喜和可持续收入增长", "247% 上涨后估值可能已经反映较多预期"],
-    nextChecks: ["核实公司关于 AI 需求和利润超预期的原始公告", "检查 RPI 当前估值与更新后利润指引", "判断 AI 需求是持续订单、客户集中，还是一次性拉动"],
+    thesis: "RPI 继续留在 Serenity 欧洲核心多头中，作为 AI edge hardware 的需求验证案例。她半开玩笑地说，如果 Raspberry Pi 最终成了低端 edge AI 的 mini-Nvidia 会很有意思。",
+    whyItMatters: "RPI 不属于 CPO，但能验证 AI 需求从数据中心扩散到 edge hardware。现在重点是这种需求能否持续，而不是一次性订单惊喜。",
+    catalysts: [
+      "Serenity 将 RPI 列为欧洲核心多头",
+      "低端 edge AI 的 mini-Nvidia 想象",
+      "此前 AI demand 已经带来业绩验证"
+    ],
+    risks: [
+      "mini-Nvidia 表述偏想象，不是公司指引",
+      "RPI 已经明显重估，估值风险上升"
+    ],
+    nextChecks: [
+      "跟踪 RPI 是否把 AI 需求转成持续订单增长",
+      "对比低端 edge AI 机会和当前估值"
+    ]
   },
   shunsin: {
     theme: "台湾光学 / CPO 相邻暴露",
@@ -169,11 +141,22 @@ const zhCopy = {
   },
   lite: {
     theme: "光学周期历史类比 / CPO 激光器供应商",
-    thesis: "Serenity 现在把 LITE 放在两条线上：一是第一轮光学浪潮和 CPO 激光器供应商参照，二是 6 月 15 日 InP 放松后的 optical basket 受益者。她还在 IQE 回顾帖里强调 LITE 是已知 GOOGL 供应商，IQE 又是 LITE 供应商。",
-    whyItMatters: "LITE 既是较大市值锚点，也是关系映射里的关键中间层。如果 InP substrate / epiwafer 瓶颈缓解，LITE 这类激光和光学公司可能更快释放需求。",
-    catalysts: ["Serenity 称 LITE optical basket 应受益于 InP easing", "她称 LITE / laser group 因 InP bottleneck easing 在盘前或隔夜交易中已有 4-6% 反应", "LITE 财报被 Serenity 解读为 CW laser bottleneck 信号", "LITE 是 Serenity IQE-GOOGL 关系映射中的关键中间节点", "CPO 激光器供应商角色", "云厂商 AI capex 扩张"],
-    risks: ["光学主题可能已有更多定价", "InP easing 是板块 read-through，仍需验证 LITE 自身订单、产能和 margin", "CPO 时间线仍可能被分析师报告和技术障碍反复扰动", "相对小票弹性较低"],
-    nextChecks: ["检查 LITE 财报电话会中 CW laser / EML 产能的原文", "确认 InP easing 是否影响 LITE 实际产能和交付", "核实 LITE 与 GOOGL / hyperscaler 供应关系的公开证据", "比较 LITE 与 SIVE / AAOI 的估值和弹性"],
+    thesis: "Serenity 继续用 LITE 作为光学周期锚点，并新增产能信号：她称 Lumentum / Coherent 产能已排到 2028，Lumentum 尤其受 EML 合约约束；在 AI capex 框架里，她认为从 LITE 到 SK Hynix 的上游半导体不像泡沫。",
+    whyItMatters: "LITE 既是较大市值参照，也是 SIVE / AAOI 等小票激光瓶颈逻辑的验证锚。如果大厂产能排满，较小的 laser / photonics 供应商更容易被市场重估。",
+    catalysts: [
+      "Lumentum / Coherent 被 Serenity 描述为产能排到 2028",
+      "Lumentum 因 EML 合约导致 CW capacity 更紧",
+      "她认为从 LITE 到 SK Hynix 的上游半导体不像 AI 泡沫",
+      "LITE 仍是 2025 optical rerating 的成功参照"
+    ],
+    risks: [
+      "产能排到 2028 的说法需要 Lumentum / Coherent 原始资料验证",
+      "大市值 optical 标的弹性可能低于 SIVE / AAOI 等小票"
+    ],
+    nextChecks: [
+      "检查 Lumentum / Coherent 对 backlog 和 2028 产能的原文",
+      "区分 LITE 公司级订单和 CW laser 板块稀缺 read-through"
+    ]
   },
   aehr: {
     theme: "AI ASIC 测试 / 批量订单弹性",
@@ -217,19 +200,40 @@ const zhCopy = {
   },
   iqe: {
     theme: "西方光学供应链 / InP epiwafer",
-    thesis: "IQE 从回顾性赢家变成今天的新重点之一：Serenity 提到 IQE 与 Tower Semi / TSEM 签署多年 InP epiwafer 协议，并用 MTSI 锁定 IQE 供应、LITE-GOOGL / IQE-LITE / AXTI-IQE 关系图来强化其西方光学供应链位置。",
-    whyItMatters: "IQE 是 InP epiwafer 上游环节。新协议说明产能安全和西方供应链验证正在变得更具体，但 IQE 到 Google TPU / hyperscaler ASIC 的关系仍然是供应链映射推断，不是公开 BOM 披露。",
-    catalysts: ["IQE 与 TSEM / Tower Semiconductor 签署多年 InP epiwafer 协议", "Serenity 称 MTSI 之前也需要专门锁定 IQE 供应", "Serenity 回顾 LITE 是 GOOGL 供应商、IQE 是 LITE 供应商、AXTI 是 IQE 供应商的关系图", "中国放松 InP substrate 出口可能帮助 IQE 上游供给和 epiwafer 放量", "VPEC / Landmark epiwafer pricing power read-through"],
-    risks: ["IQE 到 hyperscaler ASIC 的联系仍是关系映射推断，不是直接客户披露", "大涨后估值和拥挤度风险提高", "TSEM 协议的规模、利润率、交付时间和收入贡献需要原始资料确认", "VPEC 涨价对 IQE 的传导需要确认产品重叠、订单和产能利用率"],
-    nextChecks: ["阅读 IQE / Tower Semiconductor 协议原文，确认期限、产品、volume 和收入时间", "核实 MTSI 投资 IQE 的条款和产能锁定细节", "区分已披露供应关系和 Serenity 的 hyperscaler ASIC 关系推断", "检查 IQE 当前估值和指引是否反映 epiwafer pricing power"],
+    thesis: "IQE 继续留在 Serenity 欧洲核心多头里。她认为 Tower / TSEM 的长期 InP epiwafer 协议仍是关键验证，并提到 Macom 相关链条；如果 latent capacity 转化，IQE 仍可能像 Landmark 一样重估。",
+    whyItMatters: "IQE 是 SIVE、LPK 等欧洲 photonics 上游链条的一环。现在重点是 Tower LTA 和 Macom 需求能否转成 volume、pricing power 和 margin。",
+    catalysts: [
+      "Serenity 将 IQE 列为欧洲核心多头",
+      "Tower / TSEM 长协仍是 IQE 关键验证",
+      "Macom 相关 photonics 暴露提供额外 read-through",
+      "latent capacity 转化可能支持 Landmark 式重估"
+    ],
+    risks: [
+      "Tower LTA 和 Macom read-through 仍需 volume、margin、timing 证明",
+      "类比 Landmark 是重估想象，不是已披露订单"
+    ],
+    nextChecks: [
+      "检查 IQE 是否披露 latent capacity 转化或 InP epiwafer utilization",
+      "验证 Macom linkage 是否能转成 IQE 收入"
+    ]
   },
   soi: {
     theme: "硅光衬底 / 欧洲政策受益",
-    thesis: "SOI 留在跟踪观察，因为 Serenity 把它与 SIVE 并列为欧洲上游硅光瓶颈。6 月 14 日她再次用 SIVE 到 SOI 举例，认为欧洲市场更关注水资源和过去 12 个月表现，而不是 AI buildout 带来的未来供应链重估。",
-    whyItMatters: "这不是新的 SOI 公司级更新，但强化了 Serenity 对欧洲 AI / silicon photonics 资产被低估的判断。如果 AI 基础设施增长真的带来对 silicon photonics 和 optical networking 的超大需求，SOI / Soitec 这类衬底供应商可能与 SIVE 一起受益。",
-    catalysts: ["NVDA CEO 点名 silicon photonics / optical networking，被 Serenity 解读为 SOI read-through", "Serenity 用 Goldman hyperscaler capex 上调支撑上游瓶颈资产", "EU CHIPS Act 2.0 impact analysis 提到欧洲 SOI wafer 强项", "Serenity 再次把 SIVE / SOI 作为欧洲市场可能低估 AI buildout 的例子", "此前市场低估", "欧洲半导体动量"],
-    risks: ["NVDA 对 silicon photonics 的评论是行业 read-through，不是 SOI 直接客户订单", "6 月 14 日提及只是市场风格观察，不是新的客户或订单证据", "SOI 逻辑比 SIVE 间接，Serenity 给出的公司级细节较少", "需要确认 Serenity 所指 SOI 对应的具体上市标的", "已经大幅上涨", "相对当前 CPO 主线可能偏旧"],
-    nextChecks: ["确认 Serenity 所指 SOI 的具体上市主体 / ticker", "核实 SOI / Soitec 是否明确暴露于 Nvidia 相关 silicon photonics 供应量", "阅读 EU CHIPS Act 2.0 impact analysis 中 Soitec / Siltronic 相关原文", "检查 silicon photonics substrate 需求是否已进入公司指引", "等待后续 SOI-specific 帖子或公司级证据，再决定是否从 watch 上调"],
+    thesis: "SOI 留在 Serenity 欧洲核心多头里，是 silicon photonics SOI substrate pure-monopoly 方向；但她也说 SOI 可能已经重估最多，自己仍然继续持有。",
+    whyItMatters: "这是组合定位更新，不是新公司催化。SOI 仍在欧洲 photonics 基建篮子中，但相对 SIVE、LPK、ALRIB，弹性可能没那么明显。",
+    catalysts: [
+      "Serenity 将 SOI 列为欧洲核心多头",
+      "她把 SOI 描述为 silicon photonics SOI substrate pure-monopoly",
+      "她表示虽然 SOI 可能已重估最多，自己仍持有"
+    ],
+    risks: [
+      "SOI 可能已经比其他欧洲 photonics 标的重估更多",
+      "本次没有新增订单或客户披露"
+    ],
+    nextChecks: [
+      "比较 SOI 与 SIVE、LPK、IQE、ALRIB、XFAB 的估值和重估幅度",
+      "等待 SOI-specific 的客户或 demand 证据"
+    ]
   },
   "tsm-visera": {
     theme: "CoPoS 先进封装 / TSM 子公司暴露",
@@ -281,11 +285,25 @@ const zhCopy = {
   },
   "ai-memory": {
     theme: "AI 存储短缺 / HBM 周期",
-    thesis: "Serenity 引用 NVDA CEO 对 memory shortage 可能持续多年的警告，认为 AI 基础设施需求正在打破传统存储周期；6 月 9 日她又以 KOSPI、Samsung 和 SK Hynix 在早前“极端泡沫”警告后继续上涨，反驳只看机构卖出评级的做法。",
-    whyItMatters: "这把她的 AI 基建框架从算力和 CPO 延伸到存储供给。如果 HBM 与高端 DRAM 进入结构性紧缺，领先存储厂商的盈利假设可能需要上修。",
-    catalysts: ["NVDA CEO 警告 memory shortage 可能持续多年", "AI infrastructure scaling demand 继续压迫存储供应", "MU、Samsung、SK Hynix 的盈利预测可能上修", "后续 Nvidia 可能继续发布 memory / optical networking 相关信息"],
-    risks: ["如果供给扩张快于预期，存储仍可能回到周期波动", "EWY 是韩国 ETF，不是纯 Samsung / SK Hynix 暴露", "NVDA 评论是行业信号，不是 MU 或 EWY 的公司指引", "市场可能已经部分定价 HBM 紧缺"],
-    nextChecks: ["核实 NVDA CEO 关于 memory shortage 的原始发言", "比较 MU、Samsung、SK Hynix 的 HBM 产能计划和需求预测", "区分 HBM 紧缺与普通 DRAM / NAND 周期", "检查 EWY 权重，看是否适合作为 Samsung / SK Hynix 利润上修表达"],
+    thesis: "Serenity 把 MU / AI memory 从短缺观察进一步提升为验证线：她称 MU 像下一个 NVDA，现在市值约 1.23T；同时把 Samsung、SK Hynix、SNDK、EWY 放在同一条 memory theme 里。",
+    whyItMatters: "这强化了她“AI 打破传统存储周期”的判断。如果 hyperscaler capex 延续到 2028，高端 DRAM / HBM 的盈利假设可能继续上修。",
+    catalysts: [
+      "Serenity 称 Micron + memory 预测正在兑现",
+      "Samsung / SK Hynix 是她 2025 年开始跟踪的 memory 主线",
+      "SNDK 是今年 1 月以来更集中表达 memory theme 的名字",
+      "EWY 多头受韩国 memory 走强带动",
+      "AI capex 框架中她认为 SK Hynix 等上游半导体不像泡沫"
+    ],
+    risks: [
+      "大幅上涨后估值和拥挤度风险增加",
+      "如果供给扩张快于需求，存储仍可能回到周期波动",
+      "EWY 不是纯 memory 暴露"
+    ],
+    nextChecks: [
+      "核实 MU 市值、盈利修正和 HBM / DRAM 产能计划",
+      "比较 Samsung / SK Hynix 存储价格和 capex 与 2028 hyperscaler 需求",
+      "量化 SNDK 和 EWY 对 AI memory 的纯度"
+    ]
   },
   "power-800v-dc": {
     theme: "800V DC / 功率半导体众包名单",
@@ -296,20 +314,44 @@ const zhCopy = {
     nextChecks: ["区分 WOLF 自身资产负债表 / 补贴风险和整个 800VDC power semi basket", "阅读 Morgan Stanley 与 SemiAnalysis 对 NVDA 800V DC / CPO 时间线的原始表述", "逐一映射名单公司真实 800V DC 数据中心供电暴露", "确认哪些公司有 AI 数据中心客户，而不只是 EV / 工业电源暴露"],
   },
   "lpk-spacex": {
-    theme: "SpaceX 供应商 / 进口记录线索",
-    thesis: "Serenity 称 LPK 是一个不太被注意的 SpaceX supplier，可在 SpaceX US import logs 中看到；她同时披露自己持有 LPK / NFA，但也说明还不确定具体合同内容。",
-    whyItMatters: "如果 SpaceX / Starlink 相关供应链在 IPO 关注下被重估，进口记录可能提前暴露一些直接供应商关系。但这类线索必须先确认产品、频率、金额和收入敏感性。",
-    catalysts: ["SpaceX US import logs 中出现 LPK 的直接供应关系", "SpaceX IPO 相关关注提升供应链挖掘热度", "Serenity 披露持有 LPK / NFA"],
-    risks: ["具体合同内容未知", "进口记录不等于重大收入贡献", "SpaceX IPO 主题可能带来短线拥挤和波动"],
-    nextChecks: ["核实 SpaceX import logs 原始记录", "确认 LPK 供货产品、发货频率和金额", "判断 NFA 是否也有直接或相邻暴露"],
+    theme: "LPK Laser / 玻璃核心基板设备 / SpaceX 供应商线索",
+    thesis: "Serenity 现在给 LPK 增加了比 SpaceX import log 更重要的欧洲 AI 角度：她称 LPK Laser 通过 LIDE 在 glass core substrate 设备上近似 monopoly，并引用“80%+ 主要全球玩家选择其设备做验证、学习和量产扩展”的说法。",
+    whyItMatters: "LPK 不再只是 SpaceX 供应商线索，也可能是 AI advanced packaging / glass core substrate 设备卡片。关键在于 LIDE 从验证设备走向量产订单的速度。",
+    catalysts: [
+      "Serenity 将 LPK 列为欧洲核心多头",
+      "LPK Laser 被描述为 LIDE glass-core-substrate monopoly",
+      "80%+ 主要全球玩家选择其设备用于验证和 scale-up",
+      "她认为 LPK 虽有 monopoly-like 地位但仍被低估"
+    ],
+    risks: [
+      "80%+ 表述需要 LPK 原始材料和客户语境验证",
+      "验证设备选择不等于量产订单规模或时间",
+      "新 glass-substrate 角度要和旧 SpaceX import-log 线索分开"
+    ],
+    nextChecks: [
+      "找到 LPK / LIDE 关于 80%+ 验证的原始来源",
+      "映射 LPK glass-core-substrate 设备到 AI advanced packaging 客户",
+      "考虑是否后续拆成独立 glass-substrate 卡片"
+    ]
   },
   "axti-inp": {
     theme: "InP substrate / AI 光互连上游瓶颈",
-    thesis: "AXTI 仍是 Serenity 的 InP substrate 上游瓶颈卡片，但 6 月 15 日的角度从“出口限制造成稀缺”转向“出口放松帮助量产”：她引用 Digitimes 称中国放松 InP substrate 出口，预计缓解 photonics 量产瓶颈。",
-    whyItMatters: "InP substrate 位于激光器和光通信链条上游。Serenity 今天强调光子 / 激光公司更像是缺产能而不是缺需求，因此 AXTI 这类 substrate 环节既可能受益于出货恢复，也需要重新评估 scarcity premium。",
-    catalysts: ["Digitimes 报道中国放松 InP substrate 出口", "Serenity 点名 AXTI 是 substrate 暴露，并把 IQE、AAOI、LITE、SIVE 放在同一供应链", "她认为 photonics / laser 链条核心约束是 how much can you make", "此前 Reuters 报道把 InP 供应链风险推到台前"],
-    risks: ["出口放松可能降低瓶颈稀缺溢价，同时提升 volume，需要拆分影响", "Digitimes 报道需要原文确认，尤其是适用地区、公司和产品类别", "AXTI dilution、中国暴露和材料周期仍是公司级风险", "AXTI 对 AI 光互连需求的收入弹性还需量化"],
-    nextChecks: ["阅读 Digitimes InP 出口放松报道，确认影响范围", "跟踪 AXTI 是否披露 shipment recovery、价格变化或客户 allocation 改善", "把 InP substrate 需求映射到 CPO / 光模块 / hyperscaler 时间线", "区分直接受益和下游 IQE / AAOI / LITE / SIVE read-through"],
+    thesis: "AXTI 仍是 Serenity 上游 InP substrate 方法论的代表案例。6 月 16 日她说自己仍持有 AXTI，并回顾当初如何通过供应链映射、市占率资料、高纯铟价格、出口管制和瓶颈博弈推导该 thesis。",
+    whyItMatters: "这条更新不是新的 AXTI 买点，而是验证她寻找上游 chokepoint 的研究方法：很多 AI 供应链机会会先出现在 substrate、epiwafer、laser 这类冷门环节，而不是主流 AI 叙事里。",
+    catalysts: [
+      "Serenity 称自己仍持有 AXTI",
+      "Reuters 后续报道 InP substrates 可能影响 AI buildout，被她视为 thesis 验证",
+      "研究输入包括 InP 供应链、市占率、高纯铟价格、出口管制和光学公司收购",
+      "AAOI/LITE/AXTI 被一起作为 2025 optical rerating 成功案例"
+    ],
+    risks: [
+      "这是回顾性研究验证，不是新的公司级催化",
+      "still holding 增加信心色彩，但不消除估值、稀释、中国暴露和材料周期风险"
+    ],
+    nextChecks: [
+      "重读 Reuters InP substrate 报道，并和 AXTI filing、出货、价格对应",
+      "继续跟踪高纯铟价格对 AXTI substrate 毛利和需求的影响"
+    ]
   },
   "starlink-suppliers": {
     theme: "Starlink 供应商 / trade records 研究",
@@ -344,12 +386,49 @@ const zhCopy = {
     nextChecks: ["阅读 The Information 原文，看是否点名开发商或地点", "核实 WULF、CIFR、WYFI、HUT 的电力、机房、融资和租赁 pipeline", "判断哪些公司可能真正匹配 Anthropic 需求"],
   },
   "spcx-liquidity": {
-    theme: "SpaceX / SPCX mega-IPO 流动性与指数再平衡",
-    thesis: "Serenity 将 SPCX / SpaceX 作为市场结构和流动性事件跟踪。继此前讨论海外需求、index inclusion 和再平衡影响后，她 6 月 12 日提到 SPCX 已经开始交易，并称其市值超过 2.15 万亿美元。",
-    whyItMatters: "这不是公司供应链 thesis，而是市场结构和流动性观察。如果 SpaceX / SPCX 以超大规模上市或纳入指数，可能短期争夺市场流动性并影响高 beta 科技股和 AI 相关标的。",
-    catalysts: ["Serenity 称 SPCX 成功 IPO 提升 risk-on themes / IPOs 的 appetite，尤其是 space sector", "Frankfurt Bank 关于 SpaceX 海外需求的宏观流动性判断", "SpaceX / SPCX mega-IPO 关注度", "Serenity 称 SPCX 已开始交易", "她称 SPCX 市值已超过 2.15 万亿美元", "Serenity 称美国市场愿意追逐 SPCX 这类未来感资产、较少在意估值", "潜在 index inclusion 和机构提前再平衡交易"],
-    risks: ["SPCX appetite 是情绪和流动性传导，不等于每个 space / futurism 标的基本面改善", "Frankfurt Bank 原始报告需要核实", "SPCX 的交易结构、市值计算和流动性需要用市场数据确认", "SPCX 流动性影响很难和宏观因素分开", "mega-IPO 事件驱动可能短而剧烈，不等于长期基本面线索"],
-    nextChecks: ["查找 Frankfurt Bank 原始策略观点", "确认 SPCX 交易结构、市值口径、float、liquidity 和 index eligibility", "观察 SPCX 情绪和流动性是否继续影响 high-beta AI / space / futurism 交易", "对比市场回调时间与 SPCX / Nasdaq 100 再平衡资金流"],
+    theme: "SpaceX / SPCX mega-IPO 流动性与 AI 软件可选项",
+    thesis: "Serenity 继续把 SPCX / SpaceX 当成未来感资产、流动性和估值事件。6 月 16 日她提到 SPCX 市值约 2.5T，又转发/评论 SPCX 以 600 亿美元收购 Cursor 的消息，猜测 AI coding 网络效应和训练数据价值可能被高估值定价。",
+    whyItMatters: "SPCX 不是供应链 thesis，而是市场结构和 sentiment 观察。Cursor 角度把 SpaceX/SPCX 的未来资产叙事延伸到 AI 软件和数据，但交易和估值需要独立确认。",
+    catalysts: [
+      "Serenity 称 SPCX 约 2.5T 市值",
+      "Cursor 600 亿美元收购消息带来 AI coding / 数据价值叙事",
+      "网络效应和模型改进数据可能成为估值理由",
+      "美国市场追逐未来感资产的情绪继续支撑 SPCX 框架"
+    ],
+    risks: [
+      "Cursor 交易和 600 亿美元估值需要原始来源确认",
+      "SPCX 市值、流通盘和交易结构需市场数据核实",
+      "未来感资产情绪可能放大上行和回撤"
+    ],
+    nextChecks: [
+      "确认 SPCX 是否真的收购 Cursor、条款和战略理由",
+      "核实 SPCX 市值、float 和流动性",
+      "观察 SPCX 情绪是否外溢到 AI 软件、space 和高 beta futurism 交易"
+    ]
+  },
+  alrib: {
+    theme: "MBE 设备 / quantum dot 与硅光工具链",
+    thesis: "Serenity 新把 ALRIB / Riber 列入欧洲核心多头，称其在 MBE 设备上近似 monopoly，并暴露于 quantum、quantum dot 和 silicon photonics。",
+    whyItMatters: "这是本次新增的早期欧洲硬件卡片。如果 MBE 在量子点或硅光产能中变得关键，低关注度的设备供应商可能被重估；但公司级证据还很薄。",
+    catalysts: [
+      "Serenity 将 ALRIB 列为欧洲核心多头",
+      "她称 Riber 在 MBE 领域近似 monopoly",
+      "暴露于 quantum / quantum dot / silicon photonics",
+      "她称该线索来自 Microsoft Quantum 采购机器的 OSINT",
+      "她认为当前市值下相对 de-risked"
+    ],
+    risks: [
+      "新线索，证据仍薄",
+      "Riber 市占率、产品角色和客户集中度需要验证",
+      "Microsoft Quantum 采购线索来自 OSINT，需独立确认",
+      "quantum 和 silicon photonics 需求转化为设备订单可能较慢"
+    ],
+    nextChecks: [
+      "核实 Riber ticker、市值和 MBE 产品线",
+      "检查订单、客户和市场份额原始披露",
+      "验证 Microsoft Quantum 或其他 hyperscaler 采购线索",
+      "映射 MBE 工具与 quantum dot / silicon photonics 生产关系"
+    ]
   },
 };
 
