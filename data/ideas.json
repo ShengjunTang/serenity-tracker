@@ -1,8 +1,118 @@
 {
-  "generatedAt": "2026-06-16T22:20:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-16 22:20 Beijing. Read public Posts and subscriber-only Subs; no Replies scanned. Subs newest visible post remained the Jun 12 WF6/Peric note, so this refresh had no new Subs.",
-  "summary": "June 16 refresh added seven main public-post updates: AMD scrambling for CW laser supply with SIVE/AAOI named as beneficiaries; AI capex and bubble-risk framework; MU / AI memory validation; AXTI / InP thesis validation; AAOI/LITE/AXTI optical-theme validation with SIVE analogy; SPCX/Cursor valuation and liquidity observation; and a June 15 European core-longs recap covering SIVE, LPK, SOI, RPI, IQE, ALRIB and XFAB. Subscriber-only posts had no newer item than Jun 12.",
+  "generatedAt": "2026-06-17T22:10:00+08:00",
+  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-17 22:10 Beijing. Read public Posts and subscriber-only Subs; no Replies scanned. Subs newest visible post was the Jun 17 WUS / 2316 Palliser activist-report note; next Subs item was the Jun 12 WF6 / Peric note.",
+  "summary": "June 17 refresh added five main updates: XFAB sovereign-AI / PhotonixFab framing with no new company news; LPK glass-core-substrate HVM timeline and 80% customer-validation claim; AMD CW-laser bottleneck deepening with SIVE/AAOI/Macom as scarce Western capacity; a Kioxia/INTC analyst-report risk lesson; and a new subscriber-only WUS / 2316 activist / AI switch PCB idea based on Palliser research. LatestUpdates now keep the rolling Jun 15-17 window.",
   "latestUpdates": [
+    {
+      "date": "2026-06-17",
+      "publishedAt": "2026-06-17T21:18:00+08:00",
+      "type": "XFAB / sovereign AI supply chain / PhotonixFab framing",
+      "impactZh": "Serenity 表示 XFAB 今天没有新的公司新闻，股价弱更多是市场没有把它和 optical AI datacenter / power semi adjacent exposure 连接起来。她认为 XFAB 仍是欧洲 silicon photonics value chain / PhotonixFab 的关键线索；在 Fable 出口管制后，EU 和市场重新讨论 sovereign AI supply chain，她觉得 XFAB 可能和 IMEC、Ligentec 等一起成为潜在受益者，但仍要看市场是否最终认可。",
+      "original": "Serenity said there is no new XFAB news; the company needs better marketing, but she still sees XFAB as part of Europe’s silicon-photonics value chain and a possible beneficiary of the sovereign-AI supply-chain push after Fable’s export controls.",
+      "related": [
+        "$XFAB",
+        "PhotonixFab",
+        "IMEC",
+        "Ligentec",
+        "sovereign AI",
+        "EU supply chain",
+        "silicon photonics",
+        "Fable export controls"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2067235336842097124",
+      "batch": "2026-06-17T22:10:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "框架更新"
+    },
+    {
+      "date": "2026-06-17",
+      "publishedAt": "2026-06-17T20:01:00+08:00",
+      "type": "LPK / glass core substrate HVM timeline / 80% customer validation",
+      "impactZh": "Serenity 再次强化 LPK 的 glass-core-substrate 逻辑：她引用 LPKF 设备已被 80% 主要全球玩家选择的说法，并认为 glass substrate 是下一代 packaging shift。她提到 Absolics H2 2026 ramp、Samsung Electro Mechanics 2027 及其合作伙伴、TSM CoPoS 2028 的潜在上游暴露（未确认），认为不一定需要新新闻，可能只是市场逐渐接近 HVM 时间线并开始定价。",
+      "original": "Serenity said LPKF claimed 80% of major global players selected its equipment; she sees glass substrates as the next packaging shift, with Absolics H2 2026, Samsung Electro Mechanics 2027 and possible TSM CoPoS 2028 upstream exposure still unconfirmed.",
+      "related": [
+        "$LPK",
+        "LPKF",
+        "glass core substrate",
+        "LIDE",
+        "Absolics",
+        "Samsung Electro Mechanics",
+        "TSM CoPoS",
+        "HVM",
+        "advanced packaging"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2067216066905088237",
+      "batch": "2026-06-17T22:10:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-17",
+      "publishedAt": "2026-06-17T19:24:00+08:00",
+      "type": "AMD CW laser bottleneck / Western capacity scarcity / SIVE-AAOI-Macom",
+      "impactZh": "Serenity 对 AMD CW laser 采购线索做了更深一层解释：TrendForce 称 AMD 正在用多个大采购订单锁定 CW laser，以避免未来产能被 NVDA 和其他 CSP 限制。她认为西方独立产能所剩不多，除 SIVE、AAOI、可能的 Macom 外，Lumentum / Coherent 已被 Nvidia 多年协议锁住；Lumentum 可能还要从 Sumitomo / Furukawa 等日本公司买产能。她判断这可能是 hyperscaler 之间锁容量博弈的第一张牌。",
+      "original": "Serenity said AMD trying to secure CW laser supply may be the first domino in a capacity game; Western independent capacity looks scarce outside SIVE, AAOI and maybe Macom, while Lumentum/Coherent are locked up with Nvidia multi-year agreements.",
+      "related": [
+        "$AMD",
+        "$NVDA",
+        "$SIVE",
+        "$AAOI",
+        "$LITE",
+        "Macom",
+        "Lumentum",
+        "Coherent",
+        "Sumitomo",
+        "Furukawa",
+        "CW lasers",
+        "CSPs",
+        "hyperscalers"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2067206734427697196",
+      "batch": "2026-06-17T22:10:00+08:00",
+      "importance": "high",
+      "importanceLabel": "重点更新"
+    },
+    {
+      "date": "2026-06-17",
+      "publishedAt": "2026-06-17T13:31:00+08:00",
+      "type": "Kioxia / Bernstein analyst-report risk / INTC lesson",
+      "impactZh": "Serenity 批评 Bernstein 对 Kioxia 提出 50% downside 的报告，并用其 1 月给 INTC 36 美元目标价、后来 INTC 大涨作为反例。她把这条作为提醒：面向散户传播的机构报告不一定帮助散户，应该独立看公司和产业链证据。该条更像风险识别和研究方法提醒，而不是新的 Kioxia 持仓 thesis。",
+      "original": "Serenity criticized Bernstein’s Kioxia downside call and pointed to its old INTC $36 PT as a lesson to be cautious with institutional reports published for retail consumption.",
+      "related": [
+        "Kioxia",
+        "$INTC",
+        "Bernstein",
+        "analyst reports",
+        "institutional research",
+        "risk discipline"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2067117980656533764",
+      "batch": "2026-06-17T22:10:00+08:00",
+      "importance": "medium",
+      "importanceLabel": "风险提醒"
+    },
+    {
+      "date": "2026-06-17",
+      "publishedAt": "2026-06-17T12:21:00+08:00",
+      "type": "WUS 2316 / Palliser activist report / AI switch PCB NAV discount",
+      "impactZh": "Subs 新增 WUS / 2316：Serenity 读了 Palliser 的 activist report 后认为很有说服力，并表示自己跟随买入（她强调不是自己的原创 idea，且需要调整仓位）。核心是 WUS Taiwan 持有 WUS Kunshan 11.3%，而后者据报告估算在 Nvidia AI switch PCB 份额约 45%；WUS TW 本身约 10 亿美元估值，独立 PCB 业务约 1.2 亿美元收入且有 AI 增长。她认为昆山持股可能值约 4-4.3B，税后约 3.2B，是当前业务价值的 3-4 倍；关键看 activist 能否推动管理层释放价值。",
+      "original": "Subscriber-only: Serenity said she found Palliser’s activist report on WUS (2316) compelling and bought in; the thesis centers on WUS Taiwan’s 11.3% stake in WUS Kunshan, estimated 45% Nvidia AI switch PCB share, and a large NAV discount.",
+      "related": [
+        "WUS",
+        "2316",
+        "WUS Kunshan",
+        "Palliser",
+        "$NVDA",
+        "AI switch PCB",
+        "activist report",
+        "NAV discount",
+        "PCB supply chain"
+      ],
+      "url": "https://x.com/aleabitoreddit/status/2067100222778704207",
+      "batch": "2026-06-17T22:10:00+08:00",
+      "importance": "high",
+      "importanceLabel": "Subs新增"
+    },
     {
       "date": "2026-06-16",
       "publishedAt": "2026-06-16T21:00:15+08:00",
@@ -260,26 +370,6 @@
       "batch": "2026-06-15T19:51:00+08:00",
       "importance": "high",
       "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-14",
-      "publishedAt": "2026-06-14T06:51:12+08:00",
-      "type": "Market style / Europe skepticism / SIVE-SOI-SPCX framing",
-      "impactZh": "Serenity 用地域市场风格做了一次总结：她称美国市场愿意追逐 SPCX 这类未来感资产、较少在意估值；欧洲市场从 SIVE 到 SOI 更关注水资源等约束、对 AI buildout 和未来供应链重估更短视。这不是新公司 thesis，但强化了她对欧洲 AI / photonics 上游资产被低估的看法。",
-      "original": "Serenity contrasted market styles: America is bullish on futuristic names like SPCX, while Europe, from SIVE to SOI, focuses more on water usage than the AI buildout and looks too much at the past 12 months.",
-      "related": [
-        "$SPCX",
-        "$SIVE",
-        "$SOI",
-        "Europe",
-        "AI buildout",
-        "silicon photonics",
-        "market structure"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2065930011023204509",
-      "batch": "2026-06-14T23:06:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "主题强化"
     }
   ],
   "ideas": [
@@ -289,8 +379,8 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity continues to frame SIVE as her highest-upside European AI / photonics long and a core laser chokepoint for next-generation photonics, from 1.6T pluggables to CPO. On June 16 she added that AMD is reportedly scrambling for CW laser supply and named SIVE as an obvious beneficiary because AMD went to GFS for CPO and Sivers sits at the reference-laser level.",
-      "whyItMatters": "The new information strengthens the demand-side urgency around CW lasers rather than only repeating ownership or price validation. If AMD, hyperscalers and optical-module makers all try to secure CW laser capacity while Lumentum/Coherent are booked out, SIVE may remain one of the most asymmetric bottleneck expressions, but direct AMD/SIVE order evidence is still unconfirmed.",
+      "thesis": "Serenity continues to frame SIVE as her highest-upside European AI / photonics long and a core laser chokepoint. On June 17 she deepened the AMD CW-laser read-through: if AMD and later other hyperscalers try to secure capacity after Nvidia locked Lumentum/Coherent into multi-year agreements, SIVE remains one of the scarce Western independent CW-laser capacity cards alongside AAOI and maybe Macom.",
+      "whyItMatters": "The update makes the SIVE thesis less about one AMD order rumor and more about capacity game theory. If CW lasers become a chokepoint that AMD, Nvidia and other CSPs all try to lock up, the value of independent laser capacity could rise sharply; the key risk is still that SIVE-specific orders or LTAs have not yet been disclosed.",
       "catalysts": [
         "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
         "Serenity expects the ALL.SPACE/YSS relationship may create follow-on space and defense volume orders",
@@ -337,7 +427,10 @@
         "Lumentum/Coherent capacity described as booked into 2028, with Lumentum especially constrained by existing EML contracts",
         "Serenity lists SIVE as one of her core European longs and says it has the highest upside among them",
         "Ability for laser companies to vertically integrate or acquire downstream companies could make lasers more valuable over time",
-        "AAOI/LITE/AXTI 2025 rerating used as a deja-vu analogy for current smaller optical longs such as SIVE"
+        "AAOI/LITE/AXTI 2025 rerating used as a deja-vu analogy for current smaller optical longs such as SIVE",
+        "Serenity says AMD actively trying to secure CW laser supply may be the first domino in a capacity-locking game among hyperscalers",
+        "Western independent CW-laser capacity is framed as scarce, with SIVE, AAOI and maybe Macom called out after Lumentum/Coherent were locked by Nvidia multi-year agreements",
+        "Lumentum is described as already constrained and likely sourcing from Sumitomo/Furukawa, suggesting limited spare capacity across the chain"
       ],
       "risks": [
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
@@ -370,7 +463,9 @@
         "Nasdaq-listing timeline language was a possible watch item and needs primary company confirmation",
         "AMD CW laser urgency is currently a read-through from TrendForce/reporting and Serenity framing, not a disclosed SIVE order",
         "Reference-laser status and GFS linkage still need to be tied to actual customer purchase orders and revenue timing",
-        "Analogies to AAOI/LITE/AXTI are useful context but do not prove the same rerating path for SIVE"
+        "Analogies to AAOI/LITE/AXTI are useful context but do not prove the same rerating path for SIVE",
+        "June 17 AMD CW-laser logic remains a TrendForce / Serenity read-through and still needs SIVE-specific order, LTA or customer evidence",
+        "If other suppliers add capacity faster than expected, scarcity economics could normalize before SIVE captures meaningful revenue"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -409,9 +504,11 @@
         "Check Sivers company communications for any Nasdaq listing timeline or formal exchange-listing update",
         "Find the TrendForce report on AMD CW laser procurement and identify whether any suppliers are named directly",
         "Track whether AMD, GFS, Sivers or module makers disclose CW laser LTAs, purchase orders or capacity reservations",
-        "Compare SIVE valuation and customer evidence against AAOI/LITE/AXTI at comparable early optical-cycle stages"
+        "Compare SIVE valuation and customer evidence against AAOI/LITE/AXTI at comparable early optical-cycle stages",
+        "Track whether AMD, CSPs, GFS, Sivers, AAOI or Macom disclose CW laser LTAs or capacity reservations",
+        "Compare SIVE capacity roadmap with Lumentum, Coherent, Sumitomo and Furukawa capacity constraints"
       ],
-      "lastUpdated": "2026-06-16",
+      "lastUpdated": "2026-06-17",
       "evidence": [
         {
           "date": "2026-06-12",
@@ -587,6 +684,11 @@
           "date": "2026-06-16",
           "quote": "Serenity compared current smaller optical longs such as SIVE with earlier AAOI/LITE/AXTI optical ideas that rerated heavily.",
           "url": "https://x.com/aleabitoreddit/status/2066785056031670657"
+        },
+        {
+          "date": "2026-06-17",
+          "quote": "Serenity said AMD securing CW laser supply may be the first domino in a capacity game, with scarce Western independent capacity outside SIVE, AAOI and maybe Macom.",
+          "url": "https://x.com/aleabitoreddit/status/2067206734427697196"
         }
       ]
     },
@@ -691,8 +793,8 @@
       "name": "X-FAB",
       "tier": "focus",
       "theme": "European silicon photonics foundry",
-      "thesis": "Serenity still sees XFAB as a possible European silicon-photonics foundry mispricing: she says Nvidia is a direct evaluator of the silicon-photonics foundry and XFAB trades below replacement P/B, making her wonder whether the market is missing something.",
-      "whyItMatters": "The European recap sharpens the valuation angle. XFAB remains earlier than SIVE or IQE, but a direct Nvidia evaluation plus below-replacement valuation would make it a potentially asymmetric foundry-stage photonics card if the evaluation converts.",
+      "thesis": "Serenity still sees XFAB as a European silicon-photonics foundry mispricing, but the June 17 update is explicitly not new company news. Her point is that the market may be failing to connect XFAB to optical AI datacenter / power-semi-adjacent exposure, PhotonixFab, and the EU sovereign-AI supply-chain push after Fable-related export controls.",
+      "whyItMatters": "The update reframes XFAB as a perception and policy-recognition problem. If Europe prioritizes sovereign AI supply chains and silicon photonics, XFAB could matter alongside IMEC and Ligentec; if the market keeps treating it as a cyclical auto/industrial foundry, valuation may remain depressed until project milestones or customer evidence appear.",
       "catalysts": [
         "EU CHIPS Act 2.0 confirms photonics, CPO/interconnects and silicon photonics as policy focus",
         "Serenity compares XFAB valuation favorably versus POET despite deeper foundry assets",
@@ -706,7 +808,11 @@
         "Development may finish around Oct 2026, with 2027 production and 2028 mass-production scaling in Serenity's timeline",
         "Serenity lists XFAB as one of her core European longs",
         "Nvidia is described as a direct evaluator of XFAB’s silicon photonics foundry",
-        "XFAB trading below replacement P/B is framed as a potential market mispricing"
+        "XFAB trading below replacement P/B is framed as a potential market mispricing",
+        "June 17 Serenity said there is no new XFAB news but the company needs better marketing around optical AI datacenter and power-semi-adjacent exposure",
+        "PhotonixFab and European silicon photonics value-chain leadership remain key parts of the thesis",
+        "Fable export controls and sovereign AI supply-chain discussion may increase attention to European silicon-photonics infrastructure",
+        "Potential peer framing with IMEC and Ligentec in the European sovereign AI push"
       ],
       "risks": [
         "EU policy support may take 3-15 months to translate into company-specific awards",
@@ -718,7 +824,10 @@
         "Serenity frames XFAB as early and dependent on a leap of faith toward commercialization",
         "Tower is a more de-risked alternative in the same foundry theme",
         "Direct evaluation is not the same as a production order",
-        "Replacement P/B mispricing needs to be checked against asset quality, utilization and cyclical auto/industrial exposure"
+        "Replacement P/B mispricing needs to be checked against asset quality, utilization and cyclical auto/industrial exposure",
+        "June 17 update is explicitly not new company news, so near-term moves may remain sentiment-driven",
+        "Poor marketing and weak investor understanding can delay recognition even if the technical exposure is real",
+        "Sovereign-AI policy framing must still convert into orders, grants or customer milestones"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -733,9 +842,12 @@
         "Verify XFAB development milestones around Oct 2026 and any disclosed NVDA evaluation language",
         "Compare XFAB risk/reward with Tower as the de-risked silicon photonics foundry route",
         "Verify Nvidia evaluation details and whether any timeline to production exists",
-        "Calculate replacement P/B and compare against XFAB utilization, debt and segment margins"
+        "Calculate replacement P/B and compare against XFAB utilization, debt and segment margins",
+        "Track PhotonixFab milestones and any XFAB disclosures around silicon photonics customers",
+        "Verify whether EU sovereign-AI supply-chain programs mention XFAB, IMEC or Ligentec directly after export-control discussions",
+        "Separate XFAB silicon-photonics exposure from its auto/industrial cycle drag in valuation work"
       ],
-      "lastUpdated": "2026-06-16",
+      "lastUpdated": "2026-06-17",
       "evidence": [
         {
           "date": "2026-06-11",
@@ -786,6 +898,52 @@
           "date": "2026-06-15",
           "quote": "Serenity listed XFAB as a core European long, citing Nvidia evaluation of its silicon-photonics foundry and below-replacement P/B.",
           "url": "https://x.com/aleabitoreddit/status/2066535221554733278"
+        },
+        {
+          "date": "2026-06-17",
+          "quote": "Serenity said there is no new XFAB news, but XFAB should be considered in Europe’s silicon-photonics value chain and sovereign-AI supply-chain push alongside IMEC and Ligentec.",
+          "url": "https://x.com/aleabitoreddit/status/2067235336842097124"
+        }
+      ]
+    },
+    {
+      "id": "wus-pcb",
+      "ticker": "2316 / WUS",
+      "name": "WUS Printed Circuit / WUS Taiwan",
+      "tier": "watch",
+      "theme": "AI switch PCB / activist NAV discount",
+      "thesis": "Subscriber-only: Serenity introduced WUS (2316) after reading Palliser’s activist report and said she followed along by buying shares, while stressing it was not her original idea. The core thesis is that WUS Taiwan owns 11.3% of WUS Kunshan, which Palliser estimates has about 45% share in Nvidia AI switch PCB, creating a large NAV discount relative to WUS Taiwan’s market value and standalone PCB business.",
+      "whyItMatters": "This is a new AI infrastructure angle outside opticals: PCB exposure to Nvidia AI switch demand plus activist pressure to unlock a holding-company discount. Serenity frames the Kunshan stake as potentially worth several times WUS Taiwan’s current business value after tax, but the catalyst depends on management response and activist execution.",
+      "catalysts": [
+        "Palliser activist report on WUS / 2316 highlighted by Serenity",
+        "Serenity said she bought shares after reading the report, while noting it was not her original idea",
+        "WUS Taiwan owns 11.3% of WUS Kunshan according to Serenity’s summary",
+        "Palliser estimates WUS Kunshan has about 45% Nvidia AI switch PCB share",
+        "Serenity says the WUS Kunshan stake could be worth around $4.0-4.3B before tax and about $3.2B after tax",
+        "Underlying WUS Taiwan PCB business is said to have AI growth ahead, around $120M revenue in her summary",
+        "Potential activist push for value unlock, including a possible middle-ground partial stake sale"
+      ],
+      "risks": [
+        "This is explicitly not Serenity’s original idea and relies heavily on Palliser’s activist report",
+        "Management may ignore activists or refuse to unlock value",
+        "NAV discount can persist for a long time in family-controlled or holding-company structures",
+        "WUS Kunshan value, Nvidia AI switch PCB share and tax assumptions need primary verification",
+        "Taiwan/China PCB exposure adds governance, liquidity, FX and geopolitical risk"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Read Palliser’s WUS report directly and verify stake, valuation and tax assumptions",
+        "Confirm WUS Taiwan’s ownership in WUS Kunshan from filings",
+        "Verify WUS Kunshan’s Nvidia AI switch PCB share and customer concentration",
+        "Track whether management responds to Palliser or announces capital actions",
+        "Separate standalone PCB business value from look-through Kunshan stake value"
+      ],
+      "lastUpdated": "2026-06-17",
+      "evidence": [
+        {
+          "date": "2026-06-17",
+          "quote": "Subscriber-only: Serenity said Palliser’s WUS activist report was compelling enough that she followed along and bought shares, with the thesis centered on WUS Taiwan’s Kunshan stake and AI switch PCB exposure.",
+          "url": "https://x.com/aleabitoreddit/status/2067100222778704207"
         }
       ]
     },
@@ -993,8 +1151,8 @@
       "name": "Applied Optoelectronics",
       "tier": "focus",
       "theme": "800G / 1.6T optical transceivers / US optical capacity",
-      "thesis": "Serenity keeps AAOI in the high-conviction AI optical line and now adds a more direct CW-laser angle: if AMD is trying to secure CW laser capacity so production is not constrained by NVDA, she sees AAOI alongside SIVE as an obvious beneficiary, with Rosenblatt checks as the cited support.",
-      "whyItMatters": "AAOI remains one of the cleaner liquid expressions of AI optical bandwidth demand. The new angle is that CW laser procurement urgency may pull demand forward and keep optical supply tight, but the AMD/NVDA customer read-through remains analyst/report based rather than company-confirmed.",
+      "thesis": "Serenity keeps AAOI in the high-conviction AI optical line and now frames it as one of the few remaining Western independent CW-laser capacity cards if AMD and other hyperscalers rush to secure supply. She still pairs AAOI with SIVE as an obvious beneficiary of the AMD CW-laser procurement read-through.",
+      "whyItMatters": "AAOI remains a liquid US optical expression of AI datacenter bandwidth demand. June 17 strengthened the capacity-scarcity narrative: Lumentum/Coherent are described as locked by Nvidia, leaving fewer alternatives if AMD and CSPs need independent CW laser capacity.",
       "catalysts": [
         "Serenity says she remains long company projections through market corrections instead of trading Fed probabilities",
         "She cites AAOI H1 2027 projection around $471M as an example of company-specific projection to stay focused on",
@@ -1014,7 +1172,10 @@
         "Serenity names AAOI as an obvious CW laser beneficiary if AMD is negotiating large-scale CW laser purchase orders",
         "Rosenblatt checks are cited by Serenity as support for the AAOI angle",
         "AAOI is used in the 2025 optical rerating recap as a successful early optical-cycle idea",
-        "Serenity says memory-to-photonics ideas like AAOI are still playing out, so she does not need a new US stock position"
+        "Serenity says memory-to-photonics ideas like AAOI are still playing out, so she does not need a new US stock position",
+        "Serenity says there is little independent Western CW-laser capacity left beyond SIVE, AAOI and maybe Macom",
+        "AMD securing CW laser supply may pressure other hyperscalers and CSPs to lock capacity next",
+        "Lumentum/Coherent multi-year Nvidia agreements may improve the strategic value of independent alternatives"
       ],
       "risks": [
         "Higher rate-hike probabilities can still pressure high-beta optical names even if the AI buildout thesis is intact",
@@ -1031,7 +1192,9 @@
         "InP export easing is a supply-chain read-through and must be tied back to company-specific orders, capacity and margins",
         "A positive supply relief event can also change scarcity pricing assumptions, so revenue and margin effects need verification",
         "AAOI beneficiary language depends on analyst checks and sector read-through rather than direct customer disclosure",
-        "CW laser tightness can support pricing but also increases execution pressure around capacity and customer allocation"
+        "CW laser tightness can support pricing but also increases execution pressure around capacity and customer allocation",
+        "June 17 AAOI read-through is still not a direct AAOI customer disclosure",
+        "If AAOI cannot scale capacity or win customer allocation, sector scarcity may not translate into company-specific upside"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -1050,9 +1213,11 @@
         "Check whether AAOI management or suppliers confirm InP-related capacity relief",
         "Track whether optical names hold gains on company evidence rather than only sector sentiment",
         "Verify Rosenblatt checks and whether AAOI has direct exposure to AMD CW laser procurement",
-        "Track whether AAOI mentions CW lasers, AMD/NVDA demand or capacity tightness in filings or calls"
+        "Track whether AAOI mentions CW lasers, AMD/NVDA demand or capacity tightness in filings or calls",
+        "Watch AAOI disclosures for CW laser capacity, hyperscaler allocation and AMD/CSP order evidence",
+        "Compare AAOI capacity and margins against SIVE/Macom and incumbent Lumentum/Coherent constraints"
       ],
-      "lastUpdated": "2026-06-16",
+      "lastUpdated": "2026-06-17",
       "evidence": [
         {
           "date": "2026-06-12",
@@ -1103,6 +1268,11 @@
           "date": "2026-06-16",
           "quote": "Serenity compared AAOI, LITE and AXTI market-cap reratings since 2025 with current smaller optical longs.",
           "url": "https://x.com/aleabitoreddit/status/2066785056031670657"
+        },
+        {
+          "date": "2026-06-17",
+          "quote": "Serenity said Western independent CW laser capacity looks scarce outside SIVE, AAOI and maybe Macom after Lumentum/Coherent were locked up by Nvidia multi-year agreements.",
+          "url": "https://x.com/aleabitoreddit/status/2067206734427697196"
         }
       ]
     },
@@ -2058,12 +2228,12 @@
     },
     {
       "id": "lpk-spacex",
-      "ticker": "LPK / NFA",
-      "name": "LPK / SpaceX import-log supplier line",
-      "tier": "speculative",
-      "theme": "SpaceX supplier discovery / import logs",
-      "thesis": "Serenity now gives LPK a second, more important European-AI angle beyond the SpaceX import-log clue: she calls LPK Laser a glass-core-substrate “monopoly” with LIDE, citing language that more than 80% of major global players have selected its equipment for process validation, learning and scaling to mass production.",
-      "whyItMatters": "This makes LPK a potential advanced-packaging / glass-core-substrate equipment card, not just a SpaceX supplier clue. The key is whether LIDE process adoption becomes mass-production equipment orders for AI packaging customers.",
+      "ticker": "$LPK",
+      "name": "LPKF Laser & Electronics / LPK",
+      "tier": "watch",
+      "theme": "Glass core substrate equipment / LIDE advanced packaging",
+      "thesis": "Serenity now treats LPK primarily as a glass-core-substrate equipment / advanced-packaging line rather than only a SpaceX import-log clue. On June 17 she repeated that 80% of major global players have selected LPKF equipment, called glass substrates the next packaging shift, and pointed to Absolics H2 2026, Samsung Electro Mechanics 2027 and possible TSM CoPoS 2028 upstream exposure, while noting TSM CoPoS linkage remains unconfirmed.",
+      "whyItMatters": "The thesis has shifted from a speculative SpaceX supplier clue to a more direct AI advanced-packaging equipment timeline. If LIDE tools move from validation to HVM as glass substrates scale, LPK could be a small European equipment bottleneck; the challenge is proving order size, customer identity and mass-production timing.",
       "catalysts": [
         "LPK appears in SpaceX US import logs according to Serenity",
         "SpaceX IPO attention may increase interest in direct suppliers",
@@ -2071,7 +2241,11 @@
         "Serenity lists LPK as one of her core European longs",
         "LPK Laser is described as a glass-core-substrate monopoly with LIDE",
         "More than 80% of major global players selecting the equipment for validation and scale-up is cited by Serenity",
-        "Serenity says LPK remains undervalued despite its monopoly-like positioning"
+        "Serenity says LPK remains undervalued despite its monopoly-like positioning",
+        "June 17 Serenity said glass substrates look like the next packaging shift",
+        "Absolics H2 2026 ramp and Samsung Electro Mechanics 2027 timeline are cited as possible LPK demand milestones",
+        "Potential TSM CoPoS 2028 upstream exposure is mentioned by Serenity but remains unconfirmed",
+        "Serenity says the 80% major-global-player validation claim is staggering and markets may be pricing it as HVM timelines approach"
       ],
       "risks": [
         "Exact contract content is unknown",
@@ -2079,18 +2253,24 @@
         "SpaceX IPO timing and supplier read-through may be speculative",
         "The “more than 80%” statement needs to be traced to LPK primary materials and customer context",
         "Validation equipment selection does not guarantee mass-production order size or timing",
-        "This new glass-substrate angle should be separated from the older SpaceX import-log thesis"
+        "This new glass-substrate angle should be separated from the older SpaceX import-log thesis",
+        "TSM CoPoS upstream exposure is explicitly unconfirmed",
+        "The market may already be moving ahead of order confirmation after the LPK rally",
+        "HVM timing depends on glass-substrate adoption by major packaging players"
       ],
-      "stance": "观望",
+      "stance": "跟踪观察",
       "nextChecks": [
         "Verify SpaceX import logs and identify product category, shipment frequency and counterparties",
         "Map LPK revenue sensitivity to any SpaceX relationship",
         "Check whether NFA has direct SpaceX or adjacent exposure",
         "Find LPK/LIDE source for the more-than-80% validation statement",
         "Map LPK glass-core-substrate equipment to AI advanced packaging customers and order timing",
-        "Consider whether LPK deserves a standalone glass-substrate card separate from SpaceX supplier tracking"
+        "Consider whether LPK deserves a standalone glass-substrate card separate from SpaceX supplier tracking",
+        "Verify Absolics H2 2026 and Samsung Electro Mechanics 2027 ramp timelines from primary sources",
+        "Check whether TSM CoPoS has any disclosed LPKF/LIDE tool connection",
+        "Track whether 80% validation converts into named customers, backlog or revenue guidance"
       ],
-      "lastUpdated": "2026-06-16",
+      "lastUpdated": "2026-06-17",
       "evidence": [
         {
           "date": "2026-06-11",
@@ -2101,6 +2281,11 @@
           "date": "2026-06-15",
           "quote": "Serenity listed LPK as a core European long and described LPK Laser as a glass-core-substrate monopoly with LIDE.",
           "url": "https://x.com/aleabitoreddit/status/2066535221554733278"
+        },
+        {
+          "date": "2026-06-17",
+          "quote": "Serenity said LPKF equipment was selected by 80% of major global players and linked glass-substrate HVM timelines to Absolics H2 2026, Samsung Electro Mechanics 2027 and possible TSM CoPoS 2028 exposure.",
+          "url": "https://x.com/aleabitoreddit/status/2067216066905088237"
         }
       ]
     },

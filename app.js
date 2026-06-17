@@ -8,24 +8,24 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 继续把 SIVE 放在最高信心的欧洲 AI / photonics 主线中。6 月 16 日她新增 AMD 正在争抢 CW laser 供应的角度，并把 SIVE 列为最直接受益者之一，理由是 AMD 走 GFS CPO，而 Sivers 处在 reference laser 层级。",
-    whyItMatters: "这次 SIVE 更新的重点从机构持股和历史涨幅，转到 CW laser 需求紧迫性。如果 AMD、hyperscaler 和光模块厂都要锁定 CW laser，而 Lumentum / Coherent 产能排到 2028，SIVE 的瓶颈弹性会继续被放大；但 AMD-SIVE 直接订单仍未确认。",
+    thesis: "Serenity 继续把 SIVE 放在最高信心的欧洲 AI / photonics 主线中。6 月 17 日她进一步把 AMD CW laser 采购理解成 hyperscaler 锁产能博弈的第一张牌：Nvidia 已锁住 Lumentum / Coherent，多数西方独立产能所剩不多，SIVE 与 AAOI、可能的 Macom 成为稀缺选择。",
+    whyItMatters: "这次更新让 SIVE 逻辑从单一 AMD 订单传闻，升级为 CW laser 产能博弈。如果 AMD、Nvidia 和其他 CSP 都要提前锁容量，独立激光器产能的战略价值会继续上升；但 SIVE 仍需要公司级订单、LTA 或客户披露来确认。",
     catalysts: [
-      "AMD 据称正在争抢 CW laser 供应并谈大规模采购",
-      "Serenity 点名 SIVE 是直接受益者，因为 AMD 走 GFS CPO 且 Sivers 是 reference laser 层级",
-      "Lumentum / Coherent 被描述为产能排到 2028，Lumentum 还受 EML 合约约束",
-      "Serenity 将 SIVE 列为欧洲核心多头中上行空间最高的名字",
-      "AAOI/LITE/AXTI 2025 光学重估被用作当前 SIVE 的类比"
+      "AMD 据称正在用多笔大采购锁定 CW laser 供应",
+      "Serenity 认为这可能是 hyperscaler 锁产能博弈的第一张牌",
+      "Lumentum / Coherent 被描述为已被 Nvidia 多年协议锁住",
+      "西方独立 CW laser 产能被她压缩到 SIVE、AAOI、可能的 Macom",
+      "Lumentum 可能还要从 Sumitomo / Furukawa 等日本公司买产能，显示链条 spare capacity 有限"
     ],
     risks: [
-      "AMD CW laser 采购目前仍是报告和 Serenity 框架下的 read-through，不是 SIVE 已披露订单",
-      "GFS reference laser 逻辑需要落到客户采购、产能和收入时间",
-      "AAOI/LITE/AXTI 类比不等于 SIVE 会复制同样路径"
+      "AMD 采购逻辑仍是 TrendForce / Serenity read-through，不是 SIVE 已披露订单",
+      "如果其他供应商扩产更快，CW laser scarcity 可能先被消化",
+      "SIVE 需要把 reference laser 和 GFS 关系转成收入、LTA 或客户确认"
     ],
     nextChecks: [
-      "查 TrendForce 关于 AMD CW laser 采购的原始报道",
-      "跟踪 AMD、GFS、Sivers 或光模块厂是否披露 LTA / 订单 / 产能预留",
-      "把 SIVE 当前估值和客户证据与早期 AAOI/LITE/AXTI 做对比"
+      "跟踪 AMD、GFS、Sivers、AAOI、Macom 是否披露 CW laser LTA 或产能预留",
+      "比较 SIVE 产能路线与 Lumentum、Coherent、Sumitomo、Furukawa 的紧张程度",
+      "查 TrendForce 原文和后续产业链确认"
     ]
   },
   foci: {
@@ -46,20 +46,24 @@ const zhCopy = {
   },
   xfab: {
     theme: "欧洲硅光代工平台",
-    thesis: "Serenity 继续认为 XFAB 可能是欧洲 silicon photonics foundry 错配：她称 Nvidia 是其硅光 foundry 的直接评估方，而 XFAB 仍低于 replacement P/B。",
-    whyItMatters: "这次复盘强化的是估值错配。如果 Nvidia evaluation 最终转向量产，XFAB 可能成为更早期但弹性较强的 foundry-stage photonics 卡片。",
+    thesis: "Serenity 继续认为 XFAB 是欧洲 silicon photonics foundry 的潜在错配，但 6 月 17 日她明确说没有新的公司新闻。她的重点是市场没有把 XFAB 和 optical AI datacenter / power semi adjacent exposure、PhotonixFab、EU sovereign AI supply-chain 连接起来。",
+    whyItMatters: "这次更新更像认知差和政策框架提醒。如果 Fable 出口管制后欧洲继续强化 sovereign AI supply chain，XFAB 可能和 IMEC、Ligentec 一起被重新理解；但如果缺少客户、项目里程碑或订单，市场可能继续把它当普通周期 foundry。",
     catalysts: [
-      "Serenity 将 XFAB 列为欧洲核心多头",
-      "Nvidia 被描述为 XFAB silicon photonics foundry 的直接评估方",
-      "低于 replacement P/B 被她视为潜在市场错配"
+      "Serenity 称 XFAB 没有新新闻，但公司营销材料做得不好",
+      "她认为市场低估 XFAB 的 optical AI datacenter / power semi adjacent exposure",
+      "PhotonixFab 与欧洲 silicon photonics value chain 仍是核心线索",
+      "Fable 出口管制后 EU sovereign AI supply-chain 讨论升温",
+      "潜在与 IMEC、Ligentec 等欧洲 sovereign AI 供应链节点同框"
     ],
     risks: [
-      "evaluation 不等于 production order",
-      "replacement P/B 需要结合资产质量、产能利用率和汽车/工业周期验证"
+      "这条更新明确不是新公司新闻，短期仍可能只是 narrative",
+      "公司营销和信息披露弱会拖慢市场认知",
+      "sovereign AI policy 必须转化为订单、grant 或客户 milestone 才能验证"
     ],
     nextChecks: [
-      "核实 Nvidia evaluation 细节和是否有生产时间线",
-      "计算 replacement P/B，并和 utilization、debt、segment margin 对照"
+      "跟踪 PhotonixFab 里程碑和 XFAB silicon photonics 客户披露",
+      "核实 EU sovereign AI supply-chain 文件是否点名 XFAB、IMEC、Ligentec",
+      "把 XFAB 的硅光暴露和汽车 / 工业周期拖累分开估值"
     ]
   },
   mrvl: {
@@ -94,23 +98,50 @@ const zhCopy = {
     risks: ["Serenity 承认公开披露中 Xintec 承接 COUPE volume 的数字有限", "帖子中 COUPE 关联仍需原始资料确认", "主题较窄且公开披露有限", "需要独立映射收入来源"],
     nextChecks: ["找到 TSMC 通过 Xintec 等子公司追求 CPO 机会的原始资料", "核实 COUPE H2 2026 量产时间线", "比较 Xintec 与 VisEra 的业务暴露、估值和收入敏感性", "找到她提到的那份报告", "确认 Xintech 股权关系与对 TSM 的收入依赖", "判断 COUPE 是否会带来测试量增长"],
   },
-  aaoi: {
-    theme: "800G / 1.6T 光模块 / 美国光学产能",
-    thesis: "Serenity 继续把 AAOI 放在 AI 光学主线中；6 月 16 日新增 CW laser 角度：如果 AMD 为避免被 NVDA 限制而锁定 CW laser 产能，她认为 AAOI 与 SIVE 都是明显受益者，并提到 Rosenblatt checks。",
-    whyItMatters: "AAOI 仍是 AI 数据中心带宽需求的流动性表达。新增重点是 CW laser 采购紧迫性可能前置需求、维持光学供应紧张，但 AMD / NVDA 相关线索仍需公司级确认。",
+  "wus-pcb": {
+    theme: "AI switch PCB / activist NAV discount",
+    thesis: "Subs 新增 WUS / 2316：Serenity 读了 Palliser activist report 后认为很有说服力，并表示自己跟随买入；她同时强调这不是自己的原创 idea。核心是 WUS Taiwan 持有 WUS Kunshan 11.3%，后者据报告估算在 Nvidia AI switch PCB 份额约 45%，因此 WUS Taiwan 可能存在明显 NAV discount。",
+    whyItMatters: "这是今天新的 AI 基建非光学线索：PCB 暴露叠加 activist unlock。她认为 Kunshan 持股税后价值可能是当前 WUS Taiwan 业务价值的数倍，但能否兑现取决于管理层、Palliser 推动和资本动作。",
     catalysts: [
-      "Serenity 点名 AAOI 是 AMD 锁定 CW laser 供应的明显受益者",
-      "Rosenblatt checks 被她作为 AAOI 角度的支持",
-      "AAOI 被放进 2025 optical idea 成功重估的回顾里",
-      "她称 memory 到 photonics 这些旧想法仍在兑现"
+      "Palliser activist report 被 Serenity 认为很有说服力",
+      "Serenity 表示自己已跟随买入，但不是原创 idea",
+      "WUS Taiwan 持有 WUS Kunshan 11.3% 的 look-through 价值",
+      "Palliser 估算 WUS Kunshan 在 Nvidia AI switch PCB 份额约 45%",
+      "潜在出售部分 Kunshan stake 或其他价值释放方案"
     ],
     risks: [
-      "AAOI 受益者说法仍依赖 analyst checks 和板块 read-through",
-      "CW laser 紧张支持价格，但也提高产能和客户 allocation 的执行压力"
+      "该 thesis 高度依赖 Palliser 报告，需要原文核实",
+      "管理层可能完全无视 activist，NAV discount 可长期存在",
+      "Kunshan 估值、Nvidia PCB 份额、税后价值和股权结构都要用 filings 验证",
+      "台湾 / 中国 PCB 标的有流动性、治理、汇率和地缘风险"
     ],
     nextChecks: [
-      "核实 Rosenblatt checks 及 AAOI 是否直接暴露 AMD CW laser 采购",
-      "跟踪 AAOI 是否在公告或电话会中提到 CW laser、AMD/NVDA 需求或产能紧张"
+      "阅读 Palliser WUS 报告原文",
+      "核实 WUS Taiwan 对 WUS Kunshan 的持股和税后价值假设",
+      "验证 Kunshan 的 Nvidia AI switch PCB 份额",
+      "跟踪管理层是否回应 Palliser 或披露资本动作",
+      "拆分 standalone PCB 业务价值与 Kunshan stake 价值"
+    ]
+  },
+  aaoi: {
+    theme: "800G / 1.6T 光模块 / 美国光学产能",
+    thesis: "Serenity 继续把 AAOI 放在 AI 光学主线中；6 月 17 日她把 AAOI 与 SIVE、可能的 Macom 一起放进稀缺西方独立 CW laser 产能框架。如果 AMD 和其他 hyperscaler 都开始抢容量，AAOI 可能受益于 Lumentum / Coherent 被 Nvidia 锁住后的替代需求。",
+    whyItMatters: "AAOI 仍是 AI 数据中心带宽需求里更流动的美国光学表达。新重点是 capacity scarcity：如果 CW laser 采购从 AMD 扩散到其他 CSP，AAOI 的战略价值可能提升；但它仍需要公司级需求、产能和客户确认。",
+    catalysts: [
+      "Serenity 点名 AAOI 是少数西方独立 CW laser 产能候选之一",
+      "AMD 锁定 CW laser 可能带动其他 hyperscaler 跟进",
+      "Lumentum / Coherent 被 Nvidia 多年协议锁住，使替代供应商更重要",
+      "AAOI 继续与 SIVE 一起被她放在 optical bottleneck 框架里"
+    ],
+    risks: [
+      "AAOI 受益逻辑仍是 read-through，不是直接客户披露",
+      "如果 AAOI 不能扩产或拿到客户 allocation，板块紧张不一定转成业绩",
+      "高 beta 光学股仍容易受报告、宏观和 timing 情绪拖累"
+    ],
+    nextChecks: [
+      "看 AAOI 是否披露 CW laser、AMD/CSP 需求或产能预留",
+      "比较 AAOI 与 SIVE、Macom、Lumentum / Coherent 的产能和 margin",
+      "继续核实 Rosenblatt / TrendForce 对 AAOI 的 read-through"
     ]
   },
   rpi: {
@@ -314,24 +345,26 @@ const zhCopy = {
     nextChecks: ["区分 WOLF 自身资产负债表 / 补贴风险和整个 800VDC power semi basket", "阅读 Morgan Stanley 与 SemiAnalysis 对 NVDA 800V DC / CPO 时间线的原始表述", "逐一映射名单公司真实 800V DC 数据中心供电暴露", "确认哪些公司有 AI 数据中心客户，而不只是 EV / 工业电源暴露"],
   },
   "lpk-spacex": {
-    theme: "LPK Laser / 玻璃核心基板设备 / SpaceX 供应商线索",
-    thesis: "Serenity 现在给 LPK 增加了比 SpaceX import log 更重要的欧洲 AI 角度：她称 LPK Laser 通过 LIDE 在 glass core substrate 设备上近似 monopoly，并引用“80%+ 主要全球玩家选择其设备做验证、学习和量产扩展”的说法。",
-    whyItMatters: "LPK 不再只是 SpaceX 供应商线索，也可能是 AI advanced packaging / glass core substrate 设备卡片。关键在于 LIDE 从验证设备走向量产订单的速度。",
+    theme: "LPK Laser / 玻璃核心基板设备 / LIDE advanced packaging",
+    thesis: "Serenity 现在主要把 LPK 看作 glass-core-substrate 设备和 AI advanced packaging 线索，而不只是 SpaceX import-log 供应商。6 月 17 日她再次引用 80% 主要全球玩家选择 LPKF equipment 的说法，并把 Absolics H2 2026、Samsung Electro Mechanics 2027、TSM CoPoS 2028 潜在上游暴露作为 HVM 时间线观察点。",
+    whyItMatters: "LPK 的逻辑已经从单一 SpaceX 线索升级到下一代封装设备。关键是 LIDE 工具能不能从 validation 进入 HVM，并转化为 backlog、订单和收入；TSM CoPoS 暴露她也明确说仍未确认。",
     catalysts: [
-      "Serenity 将 LPK 列为欧洲核心多头",
-      "LPK Laser 被描述为 LIDE glass-core-substrate monopoly",
-      "80%+ 主要全球玩家选择其设备用于验证和 scale-up",
-      "她认为 LPK 虽有 monopoly-like 地位但仍被低估"
+      "80% 主要全球玩家选择 LPKF equipment 的说法被 Serenity 继续强化",
+      "glass substrate 被她称为下一代 packaging shift",
+      "Absolics H2 2026 ramp 与 Samsung Electro Mechanics 2027 被列为时间线",
+      "TSM CoPoS 2028 潜在上游暴露仍是未确认但值得跟踪的线索",
+      "她认为市场可能只是随着 HVM 时间线接近而逐渐定价"
     ],
     risks: [
-      "80%+ 表述需要 LPK 原始材料和客户语境验证",
-      "验证设备选择不等于量产订单规模或时间",
-      "新 glass-substrate 角度要和旧 SpaceX import-log 线索分开"
+      "TSM CoPoS 上游暴露仍未确认",
+      "80% validation 不等于量产订单规模或时间",
+      "LPK 股价已动，市场可能先于基本面确认定价"
     ],
     nextChecks: [
-      "找到 LPK / LIDE 关于 80%+ 验证的原始来源",
-      "映射 LPK glass-core-substrate 设备到 AI advanced packaging 客户",
-      "考虑是否后续拆成独立 glass-substrate 卡片"
+      "找 LPK / LIDE 关于 80% validation 的原始来源",
+      "核实 Absolics H2 2026 和 Samsung Electro Mechanics 2027 ramp 时间线",
+      "确认 TSM CoPoS 是否有 LPKF / LIDE 工具连接",
+      "跟踪 validation 是否转成 backlog、客户名和收入指引"
     ]
   },
   "axti-inp": {
