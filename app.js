@@ -8,24 +8,24 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 继续把 SIVE 放在最高信心的欧洲 AI / photonics 主线中。6 月 17 日她进一步把 AMD CW laser 采购理解成 hyperscaler 锁产能博弈的第一张牌：Nvidia 已锁住 Lumentum / Coherent，多数西方独立产能所剩不多，SIVE 与 AAOI、可能的 Macom 成为稀缺选择。",
-    whyItMatters: "这次更新让 SIVE 逻辑从单一 AMD 订单传闻，升级为 CW laser 产能博弈。如果 AMD、Nvidia 和其他 CSP 都要提前锁容量，独立激光器产能的战略价值会继续上升；但 SIVE 仍需要公司级订单、LTA 或客户披露来确认。",
+    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。6 月 18 日她用中文再次强调，AAOI 和 SIVE 这类激光公司是她最喜欢的方向，因为收入空间可以从单纯激光器扩展到完整光模块、光引擎和 ELS 外部光源组件。",
+    whyItMatters: "这次更新把 SIVE / AAOI 逻辑从 CW laser 稀缺进一步扩展到 photonics TAM expansion：不仅是产能紧张，也包括向更高价值 optical subsystem 延伸。她还提醒多数收入放量可能要到 2027 年上半年甚至下半年，短期仍要等订单、LTA、产能和客户披露。",
     catalysts: [
-      "AMD 据称正在用多笔大采购锁定 CW laser 供应",
-      "Serenity 认为这可能是 hyperscaler 锁产能博弈的第一张牌",
-      "Lumentum / Coherent 被描述为已被 Nvidia 多年协议锁住",
-      "西方独立 CW laser 产能被她压缩到 SIVE、AAOI、可能的 Macom",
-      "Lumentum 可能还要从 Sumitomo / Furukawa 等日本公司买产能，显示链条 spare capacity 有限"
+      "Serenity 再次说 AAOI 与 SIVE 是她最喜欢的激光公司",
+      "收入空间可从激光器扩展到完整光模块、光引擎和 ELS 组件",
+      "她认为 photonics 主题仍处极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始",
+      "COHR 式上游衬底整合被她用作提升毛利率和 TAM 的参考路径",
+      "此前 AMD / CSP 锁定 CW laser 产能的 scarcity 框架仍保留"
     ],
     risks: [
-      "AMD 采购逻辑仍是 TrendForce / Serenity read-through，不是 SIVE 已披露订单",
-      "如果其他供应商扩产更快，CW laser scarcity 可能先被消化",
-      "SIVE 需要把 reference laser 和 GFS 关系转成收入、LTA 或客户确认"
+      "6 月 18 日更新是主题强化，不是 SIVE 新订单披露",
+      "2027 ramp 时间线意味着市场预期可能领先收入几个季度",
+      "仍需要看到 SIVE 具体订单、光模块 / 光引擎收入或 margin 证据"
     ],
     nextChecks: [
-      "跟踪 AMD、GFS、Sivers、AAOI、Macom 是否披露 CW laser LTA 或产能预留",
-      "比较 SIVE 产能路线与 Lumentum、Coherent、Sumitomo、Furukawa 的紧张程度",
-      "查 TrendForce 原文和后续产业链确认"
+      "跟踪 SIVE 是否披露光模块、光引擎或 ELS 组件收入",
+      "核实 2027 H1/H2 ramp 是否被客户项目、产能指引或 filings 支持",
+      "继续追踪 AMD / CSP 的 CW laser LTA 与产能预留"
     ]
   },
   foci: {
@@ -100,18 +100,18 @@ const zhCopy = {
   },
   "wus-pcb": {
     theme: "AI switch PCB / activist NAV discount",
-    thesis: "Subs 新增 WUS / 2316：Serenity 读了 Palliser activist report 后认为很有说服力，并表示自己跟随买入；她同时强调这不是自己的原创 idea。核心是 WUS Taiwan 持有 WUS Kunshan 11.3%，后者据报告估算在 Nvidia AI switch PCB 份额约 45%，因此 WUS Taiwan 可能存在明显 NAV discount。",
-    whyItMatters: "这是今天新的 AI 基建非光学线索：PCB 暴露叠加 activist unlock。她认为 Kunshan 持股税后价值可能是当前 WUS Taiwan 业务价值的数倍，但能否兑现取决于管理层、Palliser 推动和资本动作。",
+    thesis: "WUS / 2316 从 Subs 线索变成公开强化的 activist / NAV discount idea。Serenity 认同 Palliser 的观点：WUS Taiwan 约 10 亿美元市值，却持有 WUS Kunshan 11.26%，按她引用的口径税前价值约 44.2 亿美元；如果出售一部分 stake，可能给 AI PCB 增长提供大量现金。",
+    whyItMatters: "这条线索不只看 AI switch PCB，也看管理层是否愿意释放被锁住的资产价值。即使没有新的 AI 订单，只要 partial stake sale 或资本动作被市场相信，也可能触发重估；但治理风险是核心。",
     catalysts: [
-      "Palliser activist report 被 Serenity 认为很有说服力",
-      "Serenity 表示自己已跟随买入，但不是原创 idea",
-      "WUS Taiwan 持有 WUS Kunshan 11.3% 的 look-through 价值",
-      "Palliser 估算 WUS Kunshan 在 Nvidia AI switch PCB 份额约 45%",
-      "潜在出售部分 Kunshan stake 或其他价值释放方案"
+      "6 月 18 日公开帖继续认同 Palliser 对 WUS 的 NAV discount 框架",
+      "Serenity 称出售四分之一左右 Kunshan stake 可能带来约 11 亿美元税前现金",
+      "AI PCB 增长拐点下，现金可用于扩大 PCB growth",
+      "管理层愿意处理 locked-up assets 本身可能带来重估",
+      "Subs 中已提到 Serenity 跟随买入，但不是原创 idea"
     ],
     risks: [
       "该 thesis 高度依赖 Palliser 报告，需要原文核实",
-      "管理层可能完全无视 activist，NAV discount 可长期存在",
+      "家族或管理层可能继续抵抗 activist，NAV discount 可长期存在",
       "Kunshan 估值、Nvidia PCB 份额、税后价值和股权结构都要用 filings 验证",
       "台湾 / 中国 PCB 标的有流动性、治理、汇率和地缘风险"
     ],
@@ -120,28 +120,29 @@ const zhCopy = {
       "核实 WUS Taiwan 对 WUS Kunshan 的持股和税后价值假设",
       "验证 Kunshan 的 Nvidia AI switch PCB 份额",
       "跟踪管理层是否回应 Palliser 或披露资本动作",
-      "拆分 standalone PCB 业务价值与 Kunshan stake 价值"
+      "建模出售 1/4 或 1/5 stake 后的现金、税务和 NAV 变化"
     ]
   },
   aaoi: {
     theme: "800G / 1.6T 光模块 / 美国光学产能",
-    thesis: "Serenity 继续把 AAOI 放在 AI 光学主线中；6 月 17 日她把 AAOI 与 SIVE、可能的 Macom 一起放进稀缺西方独立 CW laser 产能框架。如果 AMD 和其他 hyperscaler 都开始抢容量，AAOI 可能受益于 Lumentum / Coherent 被 Nvidia 锁住后的替代需求。",
-    whyItMatters: "AAOI 仍是 AI 数据中心带宽需求里更流动的美国光学表达。新重点是 capacity scarcity：如果 CW laser 采购从 AMD 扩散到其他 CSP，AAOI 的战略价值可能提升；但它仍需要公司级需求、产能和客户确认。",
+    thesis: "Serenity 继续把 AAOI 放在高信心 AI optical 主线中。6 月 18 日她再次用中文强调 AAOI 与 SIVE 是她最喜欢的激光公司，因为它们不只能卖激光器，还可能扩展到完整光模块、光引擎和 ELS 组件。",
+    whyItMatters: "AAOI 仍是 AI 数据中心带宽需求里更流动的美国光学表达。新增重点是 subsystem expansion 和 2027 ramp：如果公司能从激光器走向更完整的 optical stack，TAM 与 margin 想象会高于普通 transceiver / laser 供应商。",
     catalysts: [
-      "Serenity 点名 AAOI 是少数西方独立 CW laser 产能候选之一",
-      "AMD 锁定 CW laser 可能带动其他 hyperscaler 跟进",
-      "Lumentum / Coherent 被 Nvidia 多年协议锁住，使替代供应商更重要",
-      "AAOI 继续与 SIVE 一起被她放在 optical bottleneck 框架里"
+      "Serenity 再次说 AAOI 与 SIVE 是她最喜欢的激光公司",
+      "可从激光器扩展到完整光模块、光引擎和 ELS 组件",
+      "她认为大部分 photonics 收入放量仍在 2027 H1/H2 之后",
+      "COHR 式上游整合被用作 margin / TAM 提升参照",
+      "此前 AAOI 仍在稀缺西方 CW laser 产能框架里"
     ],
     risks: [
-      "AAOI 受益逻辑仍是 read-through，不是直接客户披露",
-      "如果 AAOI 不能扩产或拿到客户 allocation，板块紧张不一定转成业绩",
+      "6 月 18 日更新是主题强化，不是 AAOI 新客户披露",
+      "如果 2027 ramp 延后，当前 optical 预期可能太早",
       "高 beta 光学股仍容易受报告、宏观和 timing 情绪拖累"
     ],
     nextChecks: [
-      "看 AAOI 是否披露 CW laser、AMD/CSP 需求或产能预留",
-      "比较 AAOI 与 SIVE、Macom、Lumentum / Coherent 的产能和 margin",
-      "继续核实 Rosenblatt / TrendForce 对 AAOI 的 read-through"
+      "看 AAOI 是否披露 module、engine 或 ELS component 收入",
+      "核实公司指引是否支持 2027 H1/H2 ramp",
+      "继续跟踪 CW laser 产能、客户 allocation 与 margin"
     ]
   },
   rpi: {
@@ -191,11 +192,11 @@ const zhCopy = {
   },
   aehr: {
     theme: "AI ASIC 测试 / 批量订单弹性",
-    thesis: "Serenity 在 AEHR 涨到约 35 亿美元市值后重新提到它，并表示下一步主要是等待 AEHR、LPK 等同类玩家的批量订单。",
-    whyItMatters: "AEHR 是 AI ASIC 测试设备方向的表达，但 Serenity 明确说最新没有太多新东西，核心在订单兑现。",
-    catalysts: ["AI ASIC 相关测试设备潜在批量订单", "从约 11 亿美元到 35 亿美元市值的重估", "LPK 等测试设备同业关注"],
-    risks: ["已从此前 call 大幅重估", "最新帖子没有新的基本面细节", "升级信心前需要看到真实批量订单"],
-    nextChecks: ["核实 AEHR 订单积压与 AI ASIC 客户暴露", "跟踪送样 / 试产后是否转成批量订单", "与 LPK 和其他测试设备同业估值比较"],
+    thesis: "Serenity 此前等待 AEHR 的批量订单兑现；6 月 17 日 AEHR 收到 major silicon photonics customer 的 wafer-level burn-in systems follow-on production order，她把它视作此前 mass-order timeline 的验证。",
+    whyItMatters: "AEHR 从单纯等待量产订单，变成 silicon photonics 测试设备订单转换的跟踪标的。若后续订单继续出现，wafer-level burn-in 可能成为 AI optical / silicon photonics 放量的一条设备链。",
+    catalysts: ["主要 silicon photonics 客户的 wafer-level burn-in follow-on production order", "Serenity 认为这符合此前 AEHR mass-order timeline", "silicon photonics 客户从 pilot / initial order 转向 production system demand"],
+    risks: ["需要核实订单金额、客户身份、系统数量、毛利率和收入确认节奏", "股价已大幅重估，可能提前反映一部分订单转换"],
+    nextChecks: ["阅读 AEHR 原始订单公告", "跟踪下一次财报中 silicon photonics backlog 和 follow-on order cadence", "与 LPK 和其他测试设备同业估值比较"],
   },
   alchip: {
     theme: "AI ASIC 设计服务 / M&A TAM 扩张",
@@ -441,26 +442,26 @@ const zhCopy = {
   },
   alrib: {
     theme: "MBE 设备 / quantum dot 与硅光工具链",
-    thesis: "Serenity 新把 ALRIB / Riber 列入欧洲核心多头，称其在 MBE 设备上近似 monopoly，并暴露于 quantum、quantum dot 和 silicon photonics。",
-    whyItMatters: "这是本次新增的早期欧洲硬件卡片。如果 MBE 在量子点或硅光产能中变得关键，低关注度的设备供应商可能被重估；但公司级证据还很薄。",
+    thesis: "ALRIB / Riber 从早期 OSINT 线索升级为更具体的跟踪项。6 月 18 日 Serenity 提到股东会纪要：第二套 ROSIE system 预计很快交付给美国 leading quantum computing player，同时公司正加强 BTO / STO photonics 产品 BD，并记录到 strong interest。",
+    whyItMatters: "这给 Riber thesis 增加了公司级进展。如果 Riber 与 Veeco 构成 MBE duopoly，ROSIE 交付美国量子客户、BTO/STO photonics BD 升温，都可能把它接到 quantum、quantum dot laser 和 silicon photonics capex 周期上。",
     catalysts: [
-      "Serenity 将 ALRIB 列为欧洲核心多头",
-      "她称 Riber 在 MBE 领域近似 monopoly",
-      "暴露于 quantum / quantum dot / silicon photonics",
-      "她称该线索来自 Microsoft Quantum 采购机器的 OSINT",
-      "她认为当前市值下相对 de-risked"
+      "第二套 ROSIE system 预计近期交付美国 leading quantum computing player",
+      "BTO / STO photonics 产品 BD 正在加强，并记录到 strong interest",
+      "Serenity 将 Riber 与 Veeco 放在 MBE duopoly 框架里",
+      "Veeco 已大幅重估，成为 Riber 的可比参照",
+      "quantum、quantum dot 与 silicon photonics capex 周期可选性"
     ],
     risks: [
-      "新线索，证据仍薄",
-      "Riber 市占率、产品角色和客户集中度需要验证",
-      "Microsoft Quantum 采购线索来自 OSINT，需独立确认",
-      "quantum 和 silicon photonics 需求转化为设备订单可能较慢"
+      "需要阅读 Riber 股东会纪要原文确认交付时间和客户表述",
+      "US quantum customer 身份仍未公开确认",
+      "BD strong interest 不等于订单和收入",
+      "Veeco 可比估值和 duopoly 框架需要 backlog / margin 对比"
     ],
     nextChecks: [
-      "核实 Riber ticker、市值和 MBE 产品线",
-      "检查订单、客户和市场份额原始披露",
-      "验证 Microsoft Quantum 或其他 hyperscaler 采购线索",
-      "映射 MBE 工具与 quantum dot / silicon photonics 生产关系"
+      "阅读 Riber 股东会纪要和 ROSIE 交付相关原文",
+      "用 filings、LinkedIn 或 procurement 线索验证 US quantum player",
+      "跟踪 BTO / STO photonics interest 是否转成 backlog",
+      "对比 Riber 与 Veeco 的 MBE 市占率、订单和估值"
     ]
   },
 };

@@ -1,8 +1,83 @@
 {
-  "generatedAt": "2026-06-17T22:10:00+08:00",
-  "sourceWindow": "X profile Posts + Subs: @aleabitoreddit; latest refresh 2026-06-17 22:10 Beijing. Read public Posts and subscriber-only Subs; no Replies scanned. Subs newest visible post was the Jun 17 WUS / 2316 Palliser activist-report note; next Subs item was the Jun 12 WF6 / Peric note.",
-  "summary": "June 17 refresh added five main updates: XFAB sovereign-AI / PhotonixFab framing with no new company news; LPK glass-core-substrate HVM timeline and 80% customer-validation claim; AMD CW-laser bottleneck deepening with SIVE/AAOI/Macom as scarce Western capacity; a Kioxia/INTC analyst-report risk lesson; and a new subscriber-only WUS / 2316 activist / AI switch PCB idea based on Palliser research. LatestUpdates now keep the rolling Jun 15-17 window.",
+  "generatedAt": "2026-06-18T19:15:00+08:00",
+  "sourceWindow": "X Posts + public mirror cross-check: @aleabitoreddit; latest refresh 2026-06-18 19:15 Beijing. Read non-reply public Posts after the Jun 17 22:10 boundary via X profile / AI Chain Map mirror; Replies were excluded. Direct Chrome Subs re-check was blocked by macOS Keychain / automation permission, so no new subscriber-only post was added beyond the Jun 17 WUS item already captured.",
+  "summary": "June 18 refresh added public Posts around AAOI/SIVE/COHR photonics optionality, ALRIB / Riber shareholder-meeting progress, WUS / 2316 NAV-discount activism, AEHR silicon-photonics wafer-level burn-in follow-on production order, plus smaller SPCX and Finance-X context. Existing WUS subscriber line was reinforced by a later public post; no fresh Subs-only item could be independently re-read in this run.",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-06-18T17:38:11+08:00",
+      "type": "AAOI-SIVE-COHR / photonics TAM expansion / 2027 revenue ramp still early",
+      "headline": "Serenity thanked the Chinese community and reiterated that AAOI and SIVE remain her favorite laser / photonics exposure because they can move beyond lasers into modules, optical engines and ELS components, while COHR-style upstream integration could expand margins and TAM.",
+      "tickers": [
+        "$AAOI",
+        "$SIVE",
+        "$COHR"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2067542382523122001"
+    },
+    {
+      "publishedAt": "2026-06-18T15:43:15+08:00",
+      "type": "ALRIB / Riber shareholder meeting / ROSIE quantum delivery and BTO-STO photonics BD",
+      "headline": "Riber meeting notes said the second ROSIE system should be delivered shortly to a leading US quantum-computing player and that BD is intensifying for BTO/STO photonics products; Serenity frames this as positive validation for the MBE-duopoly / quantum-photonics tool thesis.",
+      "tickers": [
+        "$ALRIB",
+        "$VECO"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2067513458812473533"
+    },
+    {
+      "publishedAt": "2026-06-18T10:10:26+08:00",
+      "type": "Finance X wealth poll / audience context / not market thesis",
+      "headline": "Serenity shared results from a 6,000+ response Finance X wealth poll. This is more audience-context than investment thesis, but it helps explain why her posts can move niche AI supply-chain names quickly.",
+      "tickers": [
+        "$RDDT"
+      ],
+      "severity": "low",
+      "url": "https://x.com/aleabitoreddit/status/2067429702319673542"
+    },
+    {
+      "publishedAt": "2026-06-18T09:01:57+08:00",
+      "type": "WUS 2316 / Palliser NAV discount / partial stake-sale pressure",
+      "headline": "Serenity publicly reinforced the WUS thesis: WUS Taiwan is about $1B market cap while its 11.26% WUS Kunshan stake is worth about $4.42B pre-tax in her Palliser-based framing; she argues even a partial stake sale could fund AI PCB growth and force a rerating.",
+      "tickers": [
+        "2316",
+        "WUS"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2067412467404398942"
+    },
+    {
+      "publishedAt": "2026-06-17T23:46:21+08:00",
+      "type": "SPCX / Cramer mention / SpaceX sentiment marker",
+      "headline": "Serenity noted Jim Cramer giving SPCX a blessing. This is a light sentiment marker rather than a new thesis change.",
+      "tickers": [
+        "$SPCX"
+      ],
+      "severity": "low",
+      "url": "https://x.com/aleabitoreddit/status/2067272647545930045"
+    },
+    {
+      "publishedAt": "2026-06-17T23:24:06+08:00",
+      "type": "AEHR / silicon photonics wafer-level burn-in / follow-on production order",
+      "headline": "AEHR received a follow-on production order from a major silicon-photonics customer for wafer-level burn-in systems; Serenity framed the move as validation of her earlier AEHR mass-order timeline.",
+      "tickers": [
+        "$AEHR"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2067267047781015579"
+    },
+    {
+      "publishedAt": "2026-06-17T22:57:10+08:00",
+      "type": "NBIS vs IREN / thesis validation and dilution contrast",
+      "headline": "Serenity contrasted NBIS at all-time highs with IREN still funding a large ATM. This is mainly retrospective thesis validation and dilution-risk framing.",
+      "tickers": [
+        "$NBIS",
+        "$IREN"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2067260268166713561"
+    },
     {
       "date": "2026-06-17",
       "publishedAt": "2026-06-17T21:18:00+08:00",
@@ -243,133 +318,6 @@
       "batch": "2026-06-16T22:20:00+08:00",
       "importance": "high",
       "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-15",
-      "publishedAt": "2026-06-15T22:56:00+08:00",
-      "type": "European core longs recap / SIVE-LPK-SOI-RPI-IQE-ALRIB-XFAB",
-      "impactZh": "Serenity 复盘自己的欧洲核心多头：SIVE、LPK、SOI、RPI、IQE、ALRIB、XFAB。她仍认为 SIVE 上行空间最高，因为激光公司有纵向整合和向下游收购的能力；LPK 和 ALRIB 虽有近似 monopoly 特征但仍被低估；IQE 因 Tower LTA 和 Macom 相关供应链仍有长路；XFAB 则有 NVDA 直接评估和低于 replacement P/B 的错配。",
-      "original": "Serenity listed SIVE, LPK, SOI, RPI, IQE, ALRIB and XFAB as her core European longs, with SIVE highest upside and LPK/ALRIB still undervalued despite monopoly-like positions.",
-      "related": [
-        "$SIVE",
-        "$LPK",
-        "$SOI",
-        "$RPI",
-        "$IQE",
-        "$ALRIB",
-        "$XFAB",
-        "European AI supply chain",
-        "photonics",
-        "glass core substrate",
-        "MBE"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066535221554733278",
-      "batch": "2026-06-16T22:20:00+08:00",
-      "importance": "high",
-      "importanceLabel": "组合复盘"
-    },
-    {
-      "date": "2026-06-15",
-      "publishedAt": "2026-06-15T16:18:22+08:00",
-      "type": "IQE / relationship-map thesis validation",
-      "impactZh": "Serenity 用 IQE 年内大涨来回顾她此前的光子供应链映射：LITE 是 GOOGL 供应商、IQE 是 LITE 供应商、AXTI 是 IQE 供应商。她的重点不是新增订单，而是强调 hyperscaler ASIC / Google TPU BOM 保密时，可以通过上下游关系图寻找间接受益者。",
-      "original": "Serenity said “Ur welcome with IQE” while quoting her February relationship map: LITE is a known GOOGL supplier, IQE supplies LITE, and AXTI supplies IQE.",
-      "related": [
-        "$IQE",
-        "$LITE",
-        "$GOOGL",
-        "$AXTI",
-        "Google TPU",
-        "hyperscaler ASIC",
-        "relationship mapping"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066435132471513578",
-      "batch": "2026-06-15T19:51:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "验证更新"
-    },
-    {
-      "date": "2026-06-15",
-      "publishedAt": "2026-06-15T15:25:28+08:00",
-      "type": "IQE / TSEM multi-year InP epiwafer deal",
-      "impactZh": "Serenity 强调 IQE 与 Tower Semi / TSEM 签署多年 InP epiwafer 协议，是她此前“Western optical supply chain 需要 IQE”的新验证。她还提到 MTSI 之前也需要专门锁定 IQE 供应，说明 InP epiwafer 产能安全正在变成关键变量。",
-      "original": "IQE and TSEM signed a multi-year InP epiwafer deal; Serenity says this validates IQE as important to Western optical supply chains, after MTSI also secured IQE supply.",
-      "related": [
-        "$IQE",
-        "$TSEM",
-        "Tower Semiconductor",
-        "$MTSI",
-        "InP epiwafers",
-        "Western optical supply chain"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066421816793714938",
-      "batch": "2026-06-15T19:51:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
-    },
-    {
-      "date": "2026-06-15",
-      "publishedAt": "2026-06-15T14:15:51+08:00",
-      "type": "Foosung 093370 / WF6 bottleneck price validation",
-      "impactZh": "Serenity 回顾 Foosung（093370）是中国对日本出口管制造成 WF6 瓶颈的主要受益者，并提到该线索一天出现约 21% 的价格反应。这里更像是早期 thesis 的市场验证，而不是新的基本面披露。",
-      "original": "Serenity said she had flagged Foosung as a major winner from the bottleneck created by Chinese export controls on Japan, noting a roughly 21% one-day move.",
-      "related": [
-        "Foosung",
-        "093370",
-        "WF6",
-        "tungsten export controls",
-        "Japan",
-        "SK Hynix",
-        "Samsung"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066404298163154976",
-      "batch": "2026-06-15T19:51:00+08:00",
-      "importance": "high",
-      "importanceLabel": "验证更新"
-    },
-    {
-      "date": "2026-06-15",
-      "publishedAt": "2026-06-15T11:21:12+08:00",
-      "type": "Risk-on macro / WOLF 800VDC / LITE InP / SPCX",
-      "impactZh": "Serenity 把特朗普推动市场、地缘风险降温、2026 加息概率下降与多个主题连接起来：WOLF 所在 power semi basket 受益 800VDC，LITE 光学篮子受益 InP 缓解，SPCX 成功 IPO 则提升太空和 futurism 主题的 risk-on appetite。",
-      "original": "Serenity linked a risk-on macro setup with WOLF/800VDC, LITE/InP easing, SPCX IPO appetite, lower rate-hike odds and lower crude futures.",
-      "related": [
-        "$WOLF",
-        "800VDC",
-        "$LITE",
-        "InP easing",
-        "$SPCX",
-        "Space sector",
-        "rate-hike odds",
-        "crude futures",
-        "Europe"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066360345774764496",
-      "batch": "2026-06-15T19:51:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "主题扩散"
-    },
-    {
-      "date": "2026-06-15",
-      "publishedAt": "2026-06-15T10:02:59+08:00",
-      "type": "InP substrate exports eased / photonics capacity relief",
-      "impactZh": "Serenity 提到 Digitimes 报道中国放松 InP substrate 出口，预计缓解 photonics 量产瓶颈。她点名 AXTI（substrates）、IQE（epiwafers）、AAOI（lasers）、LITE、SIVE，以及台湾 VPEC、Landmark 等，核心判断是光子/激光链条更缺产能而不是缺需求。",
-      "original": "China eased InP substrate exports, which Serenity says should relieve photonics mass-production bottlenecks across AXTI, IQE, AAOI, LITE, SIVE, VPEC and Landmark.",
-      "related": [
-        "$AXTI",
-        "$IQE",
-        "$AAOI",
-        "$LITE",
-        "$SIVE",
-        "VPEC",
-        "Landmark",
-        "InP substrates",
-        "photonics bottleneck"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066340661633372452",
-      "batch": "2026-06-15T19:51:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
     }
   ],
   "ideas": [
@@ -379,8 +327,8 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity continues to frame SIVE as her highest-upside European AI / photonics long and a core laser chokepoint. On June 17 she deepened the AMD CW-laser read-through: if AMD and later other hyperscalers try to secure capacity after Nvidia locked Lumentum/Coherent into multi-year agreements, SIVE remains one of the scarce Western independent CW-laser capacity cards alongside AAOI and maybe Macom.",
-      "whyItMatters": "The update makes the SIVE thesis less about one AMD order rumor and more about capacity game theory. If CW lasers become a chokepoint that AMD, Nvidia and other CSPs all try to lock up, the value of independent laser capacity could rise sharply; the key risk is still that SIVE-specific orders or LTAs have not yet been disclosed.",
+      "thesis": "Serenity continues to frame SIVE as a core laser / silicon-photonics chokepoint and reinforced it on June 18 in Chinese: AAOI and SIVE are her favorite laser companies because revenue can expand beyond standalone lasers into optical modules, optical engines and ELS components. She also argued most of the revenue ramp is still early, with major scaling more likely in 2027 H1/H2.",
+      "whyItMatters": "The June 18 post turns the SIVE/AAOI line into a broader photonics TAM-expansion thesis: not just scarce CW-laser capacity, but vertical expansion into higher-value optical subsystems and potentially COHR-like upstream integration. The key still remains company-specific order conversion and disclosed capacity/revenue timing.",
       "catalysts": [
         "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
         "Serenity expects the ALL.SPACE/YSS relationship may create follow-on space and defense volume orders",
@@ -430,7 +378,10 @@
         "AAOI/LITE/AXTI 2025 rerating used as a deja-vu analogy for current smaller optical longs such as SIVE",
         "Serenity says AMD actively trying to secure CW laser supply may be the first domino in a capacity-locking game among hyperscalers",
         "Western independent CW-laser capacity is framed as scarce, with SIVE, AAOI and maybe Macom called out after Lumentum/Coherent were locked by Nvidia multi-year agreements",
-        "Lumentum is described as already constrained and likely sourcing from Sumitomo/Furukawa, suggesting limited spare capacity across the chain"
+        "Lumentum is described as already constrained and likely sourcing from Sumitomo/Furukawa, suggesting limited spare capacity across the chain",
+        "Serenity reiterated in Chinese that SIVE and AAOI are her favorite laser companies because they can expand from lasers into full optical modules, optical engines and ELS components",
+        "She says the photonics theme is still extremely early and most revenue ramp may not start until 2027 H1/H2",
+        "COHR-style upstream substrate integration is cited as a possible playbook for margin and TAM expansion across photonics leaders"
       ],
       "risks": [
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
@@ -465,7 +416,9 @@
         "Reference-laser status and GFS linkage still need to be tied to actual customer purchase orders and revenue timing",
         "Analogies to AAOI/LITE/AXTI are useful context but do not prove the same rerating path for SIVE",
         "June 17 AMD CW-laser logic remains a TrendForce / Serenity read-through and still needs SIVE-specific order, LTA or customer evidence",
-        "If other suppliers add capacity faster than expected, scarcity economics could normalize before SIVE captures meaningful revenue"
+        "If other suppliers add capacity faster than expected, scarcity economics could normalize before SIVE captures meaningful revenue",
+        "June 18 photonics upside framing is thematic and still needs SIVE-specific orders, module/engine revenue and margin evidence",
+        "A 2027 ramp timeline means market expectations may run ahead of disclosed revenue for several quarters"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -506,10 +459,17 @@
         "Track whether AMD, GFS, Sivers or module makers disclose CW laser LTAs, purchase orders or capacity reservations",
         "Compare SIVE valuation and customer evidence against AAOI/LITE/AXTI at comparable early optical-cycle stages",
         "Track whether AMD, CSPs, GFS, Sivers, AAOI or Macom disclose CW laser LTAs or capacity reservations",
-        "Compare SIVE capacity roadmap with Lumentum, Coherent, Sumitomo and Furukawa capacity constraints"
+        "Compare SIVE capacity roadmap with Lumentum, Coherent, Sumitomo and Furukawa capacity constraints",
+        "Track whether SIVE discloses optical-module, optical-engine or ELS component revenue beyond laser supply",
+        "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings"
       ],
-      "lastUpdated": "2026-06-17",
+      "lastUpdated": "2026-06-18",
       "evidence": [
+        {
+          "date": "2026-06-18",
+          "quote": "Serenity said AAOI and SIVE are her favorite laser companies because they can expand revenue beyond lasers into full optical modules, optical engines and ELS components, with most ramp still likely in 2027.",
+          "url": "https://x.com/aleabitoreddit/status/2067542382523122001"
+        },
         {
           "date": "2026-06-12",
           "quote": "Serenity said past ideas such as AAOI, LITE, NBIS and RKLB aged well, and suggested smaller names today such as SIVE may deserve more attention.",
@@ -912,8 +872,8 @@
       "name": "WUS Printed Circuit / WUS Taiwan",
       "tier": "watch",
       "theme": "AI switch PCB / activist NAV discount",
-      "thesis": "Subscriber-only: Serenity introduced WUS (2316) after reading Palliser’s activist report and said she followed along by buying shares, while stressing it was not her original idea. The core thesis is that WUS Taiwan owns 11.3% of WUS Kunshan, which Palliser estimates has about 45% share in Nvidia AI switch PCB, creating a large NAV discount relative to WUS Taiwan’s market value and standalone PCB business.",
-      "whyItMatters": "This is a new AI infrastructure angle outside opticals: PCB exposure to Nvidia AI switch demand plus activist pressure to unlock a holding-company discount. Serenity frames the Kunshan stake as potentially worth several times WUS Taiwan’s current business value after tax, but the catalyst depends on management response and activist execution.",
+      "thesis": "Serenity first introduced WUS (2316) through Palliser’s activist report and then publicly reinforced the thesis on June 18. The line is now a public activist/NAV-discount idea: WUS Taiwan has about $1B market cap while holding 11.26% of WUS Kunshan, which she frames at about $4.42B pre-tax value, creating a large disconnect that could be addressed by trimming part of the stake to fund AI PCB growth.",
+      "whyItMatters": "The idea now has both subscriber-origin and public reinforcement. The catalyst is not only AI switch PCB exposure, but also whether management can be pushed to unlock value through partial stake sale or other capital action. This can re-rate without a new AI order, but governance risk is central.",
       "catalysts": [
         "Palliser activist report on WUS / 2316 highlighted by Serenity",
         "Serenity said she bought shares after reading the report, while noting it was not her original idea",
@@ -921,14 +881,19 @@
         "Palliser estimates WUS Kunshan has about 45% Nvidia AI switch PCB share",
         "Serenity says the WUS Kunshan stake could be worth around $4.0-4.3B before tax and about $3.2B after tax",
         "Underlying WUS Taiwan PCB business is said to have AI growth ahead, around $120M revenue in her summary",
-        "Potential activist push for value unlock, including a possible middle-ground partial stake sale"
+        "Potential activist push for value unlock, including a possible middle-ground partial stake sale",
+        "June 18 public post agreed with Palliser and argued WUS Taiwan should consider trimming part of its WUS Kunshan stake",
+        "Serenity says selling even one-quarter of the Kunshan stake could produce about $1.1B pre-tax cash for AI PCB growth",
+        "A willingness to unlock locked-up assets could itself trigger market revaluation"
       ],
       "risks": [
         "This is explicitly not Serenity’s original idea and relies heavily on Palliser’s activist report",
         "Management may ignore activists or refuse to unlock value",
         "NAV discount can persist for a long time in family-controlled or holding-company structures",
         "WUS Kunshan value, Nvidia AI switch PCB share and tax assumptions need primary verification",
-        "Taiwan/China PCB exposure adds governance, liquidity, FX and geopolitical risk"
+        "Taiwan/China PCB exposure adds governance, liquidity, FX and geopolitical risk",
+        "The June 18 valuation math remains based on Palliser/Serenity framing and needs primary filing verification",
+        "Even if the NAV discount is real, family or management resistance can keep the discount unresolved"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -936,10 +901,17 @@
         "Confirm WUS Taiwan’s ownership in WUS Kunshan from filings",
         "Verify WUS Kunshan’s Nvidia AI switch PCB share and customer concentration",
         "Track whether management responds to Palliser or announces capital actions",
-        "Separate standalone PCB business value from look-through Kunshan stake value"
+        "Separate standalone PCB business value from look-through Kunshan stake value",
+        "Track whether WUS Taiwan management responds publicly to Palliser or shareholders",
+        "Model one-quarter and one-fifth stake-sale scenarios after tax and compare with current market cap"
       ],
-      "lastUpdated": "2026-06-17",
+      "lastUpdated": "2026-06-18",
       "evidence": [
+        {
+          "date": "2026-06-18",
+          "quote": "Serenity said WUS Taiwan should reconsider the NAV disconnect and suggested even a partial WUS Kunshan stake sale could produce cash greater than current market cap for AI PCB growth.",
+          "url": "https://x.com/aleabitoreddit/status/2067412467404398942"
+        },
         {
           "date": "2026-06-17",
           "quote": "Subscriber-only: Serenity said Palliser’s WUS activist report was compelling enough that she followed along and bought shares, with the thesis centered on WUS Taiwan’s Kunshan stake and AI switch PCB exposure.",
@@ -1151,8 +1123,8 @@
       "name": "Applied Optoelectronics",
       "tier": "focus",
       "theme": "800G / 1.6T optical transceivers / US optical capacity",
-      "thesis": "Serenity keeps AAOI in the high-conviction AI optical line and now frames it as one of the few remaining Western independent CW-laser capacity cards if AMD and other hyperscalers rush to secure supply. She still pairs AAOI with SIVE as an obvious beneficiary of the AMD CW-laser procurement read-through.",
-      "whyItMatters": "AAOI remains a liquid US optical expression of AI datacenter bandwidth demand. June 17 strengthened the capacity-scarcity narrative: Lumentum/Coherent are described as locked by Nvidia, leaving fewer alternatives if AMD and CSPs need independent CW laser capacity.",
+      "thesis": "Serenity keeps AAOI as a high-conviction AI optical line and on June 18 reiterated in Chinese that AAOI and SIVE are her favorite laser companies because their revenue opportunity can expand from lasers into full optical modules, optical engines and ELS components. She also says the sector is still very early, with most revenue ramp likely in 2027 H1/H2.",
+      "whyItMatters": "The update reinforces AAOI as more than a transceiver or laser-capacity trade: Serenity is pointing to subsystem expansion, vertical integration and delayed-but-large 2027 revenue scaling. This supports patience around timing, but also raises the need to verify ramp, customer allocation and margins.",
       "catalysts": [
         "Serenity says she remains long company projections through market corrections instead of trading Fed probabilities",
         "She cites AAOI H1 2027 projection around $471M as an example of company-specific projection to stay focused on",
@@ -1175,7 +1147,10 @@
         "Serenity says memory-to-photonics ideas like AAOI are still playing out, so she does not need a new US stock position",
         "Serenity says there is little independent Western CW-laser capacity left beyond SIVE, AAOI and maybe Macom",
         "AMD securing CW laser supply may pressure other hyperscalers and CSPs to lock capacity next",
-        "Lumentum/Coherent multi-year Nvidia agreements may improve the strategic value of independent alternatives"
+        "Lumentum/Coherent multi-year Nvidia agreements may improve the strategic value of independent alternatives",
+        "Serenity reiterated AAOI and SIVE as favorite laser companies due to expansion into modules, optical engines and ELS components",
+        "She says the photonics theme remains extremely early and most revenue ramp should start in 2027 H1/H2",
+        "COHR-style vertical integration is cited as a potential margin/TAM expansion template for optical winners"
       ],
       "risks": [
         "Higher rate-hike probabilities can still pressure high-beta optical names even if the AI buildout thesis is intact",
@@ -1194,7 +1169,9 @@
         "AAOI beneficiary language depends on analyst checks and sector read-through rather than direct customer disclosure",
         "CW laser tightness can support pricing but also increases execution pressure around capacity and customer allocation",
         "June 17 AAOI read-through is still not a direct AAOI customer disclosure",
-        "If AAOI cannot scale capacity or win customer allocation, sector scarcity may not translate into company-specific upside"
+        "If AAOI cannot scale capacity or win customer allocation, sector scarcity may not translate into company-specific upside",
+        "The June 18 post is a thematic reinforcement rather than a new AAOI customer announcement",
+        "If 2027 ramp slips, current optical expectations may be too early"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -1215,10 +1192,17 @@
         "Verify Rosenblatt checks and whether AAOI has direct exposure to AMD CW laser procurement",
         "Track whether AAOI mentions CW lasers, AMD/NVDA demand or capacity tightness in filings or calls",
         "Watch AAOI disclosures for CW laser capacity, hyperscaler allocation and AMD/CSP order evidence",
-        "Compare AAOI capacity and margins against SIVE/Macom and incumbent Lumentum/Coherent constraints"
+        "Compare AAOI capacity and margins against SIVE/Macom and incumbent Lumentum/Coherent constraints",
+        "Watch AAOI disclosures for module, engine or ELS component revenue and customer allocation",
+        "Track whether management guidance supports the 2027 H1/H2 ramp framing"
       ],
-      "lastUpdated": "2026-06-17",
+      "lastUpdated": "2026-06-18",
       "evidence": [
+        {
+          "date": "2026-06-18",
+          "quote": "Serenity said AAOI and SIVE are her favorite laser companies because they can expand revenue beyond lasers into full optical modules, optical engines and ELS components, with most ramp still likely in 2027.",
+          "url": "https://x.com/aleabitoreddit/status/2067542382523122001"
+        },
         {
           "date": "2026-06-12",
           "quote": "Serenity said markets should cheer domestic champions like AAOI because critical AI infrastructure should be supported from laser fab to production in the US.",
@@ -1480,26 +1464,38 @@
       "name": "Aehr Test Systems",
       "tier": "watch",
       "theme": "AI ASIC testing / volume-order optionality",
-      "thesis": "Serenity revisits AEHR after a large move to about $3.5B market cap and says the next step is waiting for volume orders for AEHR, LPK and similar players.",
-      "whyItMatters": "AEHR is a testing-equipment expression of the AI ASIC supply chain, but Serenity explicitly says there is not much new beyond waiting for order conversion.",
+      "thesis": "Serenity’s earlier AEHR volume-order waiting game received a concrete follow-up: AEHR announced a follow-on production order from a major silicon-photonics customer for wafer-level burn-in systems. She framed the move as validation of the AI / silicon-photonics testing-equipment ramp and noted how far the stock had moved from the $30s.",
+      "whyItMatters": "AEHR is now less of a purely speculative waiting line and more of an order-conversion tracker. Follow-on production orders from a major silicon-photonics customer strengthen the case that wafer-level burn-in tools can participate in AI optical / silicon-photonics scaling.",
       "catalysts": [
         "Potential volume orders for AI ASIC-related testing players",
         "Prior thesis re-rating from about $1.1B to $3.5B market cap",
-        "Peer attention around LPK and AI ASIC testing infrastructure"
+        "Peer attention around LPK and AI ASIC testing infrastructure",
+        "Follow-on production order from a major silicon-photonics customer for wafer-level burn-in systems",
+        "Serenity says the update fits her earlier mass-order timeline for AEHR",
+        "Silicon-photonics customer conversion can turn pilot wins into production-system demand"
       ],
       "risks": [
         "Already materially re-rated from Serenity's earlier call",
         "No fresh fundamental update in the latest post",
-        "Needs actual volume-order evidence before upgrading conviction"
+        "Needs actual volume-order evidence before upgrading conviction",
+        "Need to verify order size, customer identity, margin and whether this is recurring volume rather than one follow-on order",
+        "After the stock move, valuation may already price in a large share of silicon-photonics order conversion"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Verify AEHR order backlog and AI ASIC customer exposure",
         "Track whether volume orders arrive after sampling or pilot wins",
-        "Compare AEHR valuation with LPK and other testing-equipment peers"
+        "Compare AEHR valuation with LPK and other testing-equipment peers",
+        "Read AEHR primary order announcement and identify system count, timing and revenue recognition if disclosed",
+        "Watch the next earnings call for silicon-photonics backlog and follow-on order cadence"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-17",
       "evidence": [
+        {
+          "date": "2026-06-17",
+          "quote": "Serenity noted AEHR received a follow-on production order from a major silicon-photonics customer for wafer-level burn-in systems, connecting it back to her earlier mass-order thesis.",
+          "url": "https://x.com/aleabitoreddit/status/2067267047781015579"
+        },
         {
           "date": "2026-06-03",
           "quote": "Good times with AEHR, it's now ~$3.5B MC... Just waiting on volume orders for these types of players like LPK, and others.",
@@ -2648,32 +2644,46 @@
       "id": "alrib",
       "ticker": "$ALRIB",
       "name": "Riber",
-      "tier": "speculative",
+      "tier": "watch",
       "theme": "MBE equipment / quantum dot and silicon photonics toolchain",
-      "thesis": "Serenity introduced ALRIB / Riber as one of her core European longs and frames it as a near-monopoly in MBE equipment with exposure to quantum, quantum-dot and silicon-photonics supply chains.",
-      "whyItMatters": "Riber is a new early European hardware card in the tracker. If MBE tools become strategically important for quantum-dot or silicon-photonics capacity, an underfollowed monopoly-like equipment supplier could rerate, but this line still needs company-level validation.",
+      "thesis": "ALRIB / Riber moved from a thin OSINT-derived European-long line to a more concrete watch item after shareholder-meeting notes. Serenity says the second ROSIE system is expected to be delivered shortly to a leading US quantum-computing player, and that Riber is intensifying BD for BTO/STO products used in photonics with strong interest recorded.",
+      "whyItMatters": "The update adds company-level progress to the Riber thesis. If Riber and Veeco are the MBE duopoly, ROSIE deliveries into US quantum and photonics BD for BTO/STO could connect the company to quantum, quantum-dot lasers and silicon-photonics capex cycles. Still early, but less purely speculative than before.",
       "catalysts": [
         "Serenity lists ALRIB as one of her core European longs",
         "She calls Riber a kind of monopoly in the MBE space",
         "Exposure to quantum, quantum-dot and silicon photonics",
         "Serenity says she found the idea from OSINT around Microsoft Quantum buying the machines",
-        "She views the line as de-risked at current market capitalization"
+        "She views the line as de-risked at current market capitalization",
+        "June 18 shareholder-meeting notes: second ROSIE system expected shortly for a leading US quantum-computing player",
+        "Riber is intensifying BD for BTO/STO products used in photonics and recorded strong interest",
+        "Serenity frames Riber as an MBE duopoly with Veeco, which has already re-rated heavily"
       ],
       "risks": [
         "New and thinly documented tracker line",
         "Need to verify Riber market share, MBE product role and customer concentration",
         "Microsoft Quantum linkage comes from OSINT and must be independently confirmed",
-        "Quantum and silicon-photonics demand may take longer to translate into tool orders"
+        "Quantum and silicon-photonics demand may take longer to translate into tool orders",
+        "Need primary shareholder-meeting notes and exact customer/timing details",
+        "Quantum and photonics BD interest may not convert into near-term revenue",
+        "Duopoly framing and Veeco comp need valuation and backlog comparison"
       ],
-      "stance": "观望",
+      "stance": "跟踪观察",
       "nextChecks": [
         "Verify Riber ticker, market cap and main MBE product lines",
         "Check primary filings for MBE market share, order backlog and customer concentration",
         "Validate Microsoft Quantum or other hyperscaler machine purchases from source documents",
-        "Map how MBE tools connect to quantum dots and silicon photonics production"
+        "Map how MBE tools connect to quantum dots and silicon photonics production",
+        "Read Riber shareholder-meeting notes and confirm ROSIE delivery timing",
+        "Verify whether the leading US quantum player can be identified through filings, LinkedIn or procurement evidence",
+        "Track BTO/STO photonics orders and whether strong interest becomes backlog"
       ],
-      "lastUpdated": "2026-06-16",
+      "lastUpdated": "2026-06-18",
       "evidence": [
+        {
+          "date": "2026-06-18",
+          "quote": "Serenity said ALRIB meeting notes showed a second ROSIE system expected shortly for a leading US quantum-computing player and intensified BTO/STO photonics BD with strong interest.",
+          "url": "https://x.com/aleabitoreddit/status/2067513458812473533"
+        },
         {
           "date": "2026-06-15",
           "quote": "Serenity listed ALRIB / Riber as one of her core European longs, describing it as a kind of monopoly in MBE with quantum, quantum-dot and silicon-photonics exposure.",
