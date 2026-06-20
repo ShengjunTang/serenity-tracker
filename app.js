@@ -8,17 +8,18 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。6 月 18 日她用中文再次强调，AAOI 和 SIVE 这类激光公司是她最喜欢的方向，因为收入空间可以从单纯激光器扩展到完整光模块、光引擎和 ELS 外部光源组件。",
-    whyItMatters: "这次更新把 SIVE / AAOI 逻辑从 CW laser 稀缺进一步扩展到 photonics TAM expansion：不仅是产能紧张，也包括向更高价值 optical subsystem 延伸。她还提醒多数收入放量可能要到 2027 年上半年甚至下半年，短期仍要等订单、LTA、产能和客户披露。",
+    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。6 月 19 日她把 Photonics 列为三大核心主题之一，并把 SIVE 作为该主题里自己选中的 top performer；同时强调 optics 仍处在 supercycle 很早期，关键要看 2027 / 2028 projections。",
+    whyItMatters: "这次更新是组合框架验证，不是 SIVE 新订单。它强化了她对 photonics 的主线信心，但短期仍需要 SIVE 自身订单、LTA、产能、客户披露和收入节奏来支撑估值。",
     catalysts: [
       "Serenity 再次说 AAOI 与 SIVE 是她最喜欢的激光公司",
       "收入空间可从激光器扩展到完整光模块、光引擎和 ELS 组件",
       "她认为 photonics 主题仍处极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始",
       "COHR 式上游衬底整合被她用作提升毛利率和 TAM 的参考路径",
-      "此前 AMD / CSP 锁定 CW laser 产能的 scarcity 框架仍保留"
+      "6 月 19 日她把 Photonics 列为三大核心主题之一，并点名 SIVE 是该 segment 的 top performer"
     ],
     risks: [
       "6 月 18 日更新是主题强化，不是 SIVE 新订单披露",
+      "6 月 19 日提及是回顾性 portfolio validation，不是新的公司级 customer evidence",
       "2027 ramp 时间线意味着市场预期可能领先收入几个季度",
       "仍需要看到 SIVE 具体订单、光模块 / 光引擎收入或 margin 证据"
     ],
@@ -31,18 +32,18 @@ const zhCopy = {
   foci: {
     theme: "CPO FAU / 光学组件",
     thesis: "Serenity 将 FOCI 放在 TSM COUPE 与 CPO 光学组件链条中，具体角色是 FAU 与光学组件。",
-    whyItMatters: "这是用台股中小市值公司表达 CPO 光学组件供应链主题的一种方式。",
-    catalysts: ["TSM COUPE 与 AI 光学市场报道", "Serenity 称 FOCI 随台湾 CPO 多头启动，当日约涨 10%", "CPO 供应链放量", "光互连带动 FAU 需求"],
-    risks: ["实际 COUPE 暴露需要确认", "可能存在散户驱动的价格波动", "台股小盘流动性与估值风险"],
-    nextChecks: ["核实 FOCI 客户暴露与 FAU 收入占比", "阅读 UDN 报道和公司公告", "跟踪月营收是否加速"],
+    whyItMatters: "这是用台股中小市值公司表达 CPO 光学组件供应链主题的一种方式。6 月 19 日她也承认 FOCI 等台湾 CPO 多头在虚假 CPO delay 报告冲击后仍明显亏损，说明 timing 和流动性风险很大。",
+    catalysts: ["TSM COUPE 与 AI 光学市场报道", "Serenity 称 FOCI 随台湾 CPO 多头启动，当日约涨 10%", "CPO 供应链放量", "光互连带动 FAU 需求", "Nvidia 已反驳 CPO delay 说法，但相关台股仍受报告冲击"],
+    risks: ["实际 COUPE 暴露需要确认", "可能存在散户驱动的价格波动", "台股小盘流动性与估值风险", "Serenity 6 月 19 日确认 FOCI 等 Taiwan CPO longs 短期仍 heavily red"],
+    nextChecks: ["核实 FOCI 客户暴露与 FAU 收入占比", "阅读 UDN 报道和公司公告", "跟踪月营收是否加速", "观察公司级订单能否修复 CPO delay 报告造成的 drawdown"],
   },
   msscorp: {
     theme: "CPO 检测 / 良率",
     thesis: "Serenity 将 MSSCorp 描述为 CPO 供应链里的检测与良率控制环节，并表示自己曾继续摊低成本。",
-    whyItMatters: "如果 CPO 放量，检测与良率瓶颈可能成为关键环节，即使它不是最显眼的组件。",
-    catalysts: ["未来 18 个月 CPO 放量", "Serenity 称仍在等待 MSSCorp 跟随台湾 CPO 多头补涨", "专利 / 检测护城河叙事", "TSM COUPE 光学市场关注度"],
-    risks: ["专利护城河说法需要验证", "可能早于真实收入放量", "小盘流动性与社媒拥挤风险"],
-    nextChecks: ["检查专利组合与检测产品范围", "验证 TSM / COUPE 关联", "跟踪 CPO 样品放量后的收入和利润率变化"],
+    whyItMatters: "如果 CPO 放量，检测与良率瓶颈可能成为关键环节。6 月 19 日她把 MSSCorp 放入被虚假 CPO delay 报告重创的台湾 CPO longs，说明 thesis 未坏不等于短期价格能修复。",
+    catalysts: ["未来 18 个月 CPO 放量", "Serenity 称仍在等待 MSSCorp 跟随台湾 CPO 多头补涨", "专利 / 检测护城河叙事", "TSM COUPE 光学市场关注度", "Nvidia refuted CPO-delay report 后，若订单数据跟上可能修复估值"],
+    risks: ["专利护城河说法需要验证", "可能早于真实收入放量", "小盘流动性与社媒拥挤风险", "虚假报告和 timing 仍可造成较大 drawdown"],
+    nextChecks: ["检查专利组合与检测产品范围", "验证 TSM / COUPE 关联", "跟踪 CPO 样品放量后的收入和利润率变化", "观察是否有订单 / 月营收修复市场对 delay 的担忧"],
   },
   xfab: {
     theme: "欧洲硅光代工平台",
@@ -84,43 +85,64 @@ const zhCopy = {
   },
   nbis: {
     theme: "Neocloud / AI 基础设施融资结构",
-    thesis: "Serenity 重新强调 NBIS 是更干净的 Neocloud 表达，这次重点放在 financing structure 和 float dynamics：她批评 IREN 有大规模 ATM 和持续稀释风险，而 NBIS 的结构更好。",
-    whyItMatters: "这把 Neocloud 主题从单纯 AI 基础设施需求，进一步转成资本结构质量筛选。在她框架里，早期机会能否加大仓位，首先要避开持续稀释和融资 overhang。",
+    thesis: "Serenity 继续把 NBIS 放在 Neocloud / Energy 核心主题中。6 月 19 日她明确说三大核心主题是 Neoclouds(Energy)、Memory 和 Photonics，并把 NBIS 作为 Neocloud segment 里自己选中的 top performer。",
+    whyItMatters: "NBIS 仍是她 AI infrastructure 主题里更干净的资本结构表达，但这次提及主要是回顾性验证，不是新的公司级催化。后续仍要看融资结构、租赁需求、电力和客户落地。",
     catalysts: ["Serenity 将 toxic financing structure / float dynamics 放在早期机会筛选第一位", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能", "AI 基础设施需求仍支撑 Neocloud 主题", "NBIS 与 ALAB、RKLB 一起被加入 Nasdaq 100，成为她早期成长框架的验证事件"],
-    risks: ["大涨后的回顾性验证不等于新的买入点", "Neocloud 标的对融资条件和 AI capex 情绪高度敏感", "IREN 这类大规模 ATM 可能在上涨中持续卖出，形成结构性 overhang", "Nasdaq 100 纳入提升流动性的同时也会增加指数资金波动", "子公司和持股价值需要独立核实"],
+    risks: ["大涨后的回顾性验证不等于新的买入点", "Neocloud 标的对融资条件和 AI capex 情绪高度敏感", "IREN 这类大规模 ATM 可能在上涨中持续卖出，形成结构性 overhang", "Nasdaq 100 纳入提升流动性的同时也会增加指数资金波动", "子公司和持股价值需要独立核实", "6 月 19 日提及是 portfolio validation，不是新 NBIS 订单或客户披露"],
     nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "跟踪 Nasdaq 100 纳入日期、被动资金需求和 float 变化", "量化 Avride 和 ClickHouse 持股 / 估值贡献"],
   },
   xintech: {
     theme: "TSM 测试子公司 / COUPE 供应商线索",
     thesis: "Serenity 称 Xintec 是 TSMC packaging / test 子公司，自己有持仓；6 月 5 日她进一步说 TSM COUPE H2 2026 量产，如果 TSMC 倾向垂直整合，量可能流向 Xintec。",
-    whyItMatters: "如果 COUPE 相关测试 / 封装需求真实，小型 TSM 关联公司可能提供更精准暴露。她短期认为 Xintec 比 VisEra 更有吸引力，但公开 volume 数据仍有限。",
+    whyItMatters: "如果 COUPE 相关测试 / 封装需求真实，小型 TSM 关联公司可能提供更精准暴露。6 月 19 日她承认 Xintec 与 FOCI、MSSCorp 一样仍被虚假 CPO delay 报告拖累，说明需要公司级数据修复市场信心。",
     catalysts: ["TSM COUPE H2 2026 量产时间线", "TSMC 通过子公司积极追求 CPO 机会的表述", "Serenity 认为未来几个月 Xintec 比 VisEra 更有吸引力", "报告确认 TSM / COUPE 关联", "Serenity 称 Xintec 随台湾 CPO 多头启动，当日约涨 10%", "TSM 先进封装 / 光学供应链建设", "测试需求扩张"],
-    risks: ["Serenity 承认公开披露中 Xintec 承接 COUPE volume 的数字有限", "帖子中 COUPE 关联仍需原始资料确认", "主题较窄且公开披露有限", "需要独立映射收入来源"],
-    nextChecks: ["找到 TSMC 通过 Xintec 等子公司追求 CPO 机会的原始资料", "核实 COUPE H2 2026 量产时间线", "比较 Xintec 与 VisEra 的业务暴露、估值和收入敏感性", "找到她提到的那份报告", "确认 Xintech 股权关系与对 TSM 的收入依赖", "判断 COUPE 是否会带来测试量增长"],
+    risks: ["Serenity 承认公开披露中 Xintec 承接 COUPE volume 的数字有限", "帖子中 COUPE 关联仍需原始资料确认", "主题较窄且公开披露有限", "需要独立映射收入来源", "虚假 CPO delay 报告仍可造成较大短期 drawdown"],
+    nextChecks: ["找到 TSMC 通过 Xintec 等子公司追求 CPO 机会的原始资料", "核实 COUPE H2 2026 量产时间线", "比较 Xintec 与 VisEra 的业务暴露、估值和收入敏感性", "找到她提到的那份报告", "确认 Xintech 股权关系与对 TSM 的收入依赖", "判断 COUPE 是否会带来测试量增长", "跟踪订单 / 月营收是否修复 delay 报告影响"],
   },
   "wus-pcb": {
     theme: "AI switch PCB / activist NAV discount",
-    thesis: "WUS / 2316 从 Subs 线索变成公开强化的 activist / NAV discount idea。Serenity 认同 Palliser 的观点：WUS Taiwan 约 10 亿美元市值，却持有 WUS Kunshan 11.26%，按她引用的口径税前价值约 44.2 亿美元；如果出售一部分 stake，可能给 AI PCB 增长提供大量现金。",
-    whyItMatters: "这条线索不只看 AI switch PCB，也看管理层是否愿意释放被锁住的资产价值。即使没有新的 AI 订单，只要 partial stake sale 或资本动作被市场相信，也可能触发重估；但治理风险是核心。",
+    thesis: "WUS / 2316 继续放在 activist / NAV discount idea 中。6 月 19 日 Serenity 进一步把它放进“有 NAV discount、同时有独立 AI growth”的筛选框架，并把 WUS 与 ACMR 一起列为比 SK Square 更极端的例子。",
+    whyItMatters: "这条线索不只看 AI switch PCB，也看管理层是否愿意释放被锁住的资产价值。新的变化是它从单一 WUS/Palliser idea 扩展成一类筛选框架：资产折价提供下行支撑，standalone AI growth 提供上行弹性。",
     catalysts: [
       "6 月 18 日公开帖继续认同 Palliser 对 WUS 的 NAV discount 框架",
       "Serenity 称出售四分之一左右 Kunshan stake 可能带来约 11 亿美元税前现金",
       "AI PCB 增长拐点下，现金可用于扩大 PCB growth",
       "管理层愿意处理 locked-up assets 本身可能带来重估",
-      "Subs 中已提到 Serenity 跟随买入，但不是原创 idea"
+      "6 月 19 日她继续筛选 NAV discount + standalone AI growth 标的，并点名 WUS 与 ACMR"
     ],
     risks: [
       "该 thesis 高度依赖 Palliser 报告，需要原文核实",
       "家族或管理层可能继续抵抗 activist，NAV discount 可长期存在",
       "Kunshan 估值、Nvidia PCB 份额、税后价值和股权结构都要用 filings 验证",
-      "台湾 / 中国 PCB 标的有流动性、治理、汇率和地缘风险"
+      "台湾 / 中国 PCB 标的有流动性、治理、汇率和地缘风险",
+      "NAV discount + AI growth 主题被更多人关注后可能变得拥挤"
     ],
     nextChecks: [
       "阅读 Palliser WUS 报告原文",
       "核实 WUS Taiwan 对 WUS Kunshan 的持股和税后价值假设",
       "验证 Kunshan 的 Nvidia AI switch PCB 份额",
       "跟踪管理层是否回应 Palliser 或披露资本动作",
-      "建模出售 1/4 或 1/5 stake 后的现金、税务和 NAV 变化"
+      "把 WUS 与 ACMR、SK Square 的 NAV discount、治理和 AI growth 暴露并排比较"
+    ]
+  },
+  "acmr-nav-ai": {
+    theme: "NAV discount / standalone AI growth screen",
+    thesis: "Serenity 新把 ACMR 放进一类筛选框架：寻找 NAV discount 很大、但自身又有独立 AI growth 的公司。主帖里她把 ACMR 和 WUS 作为比 SK Square 更极端的例子，并表示自己对上述标的有 exposure，想继续研究更多机会。",
+    whyItMatters: "这是 WUS 逻辑的扩展版，不是完整 ACMR 深度 thesis。吸引力在于资产折价可能提供某种 downside support，而 standalone AI growth 可以提供重估弹性；但 ACMR China 资产、可变现性、治理和税务都必须独立核实。",
+    catalysts: [
+      "Serenity 认为 NAV discount + standalone AI growth 主题正在被注意到",
+      "ACMR 与 WUS 被她列为较极端例子",
+      "如果独立 AI vertical 起量，市场可能重新评估 parent 估值"
+    ],
+    risks: [
+      "这是新的宽筛选线索，不是完整公司 thesis",
+      "ACMR China 资产、股权结构、流动性、法律和税务限制需要 filings 核实",
+      "NAV discount 即使真实，也可能因治理或资产无法变现而长期存在"
+    ],
+    nextChecks: [
+      "核实 ACMR corporate structure 与 ACMR China look-through value",
+      "评估 parent 是否有独立 AI growth，而不是只有持股折价",
+      "比较 ACMR、WUS、SK Square 的 NAV discount、资产变现路径和治理风险"
     ]
   },
   aaoi: {
@@ -165,11 +187,11 @@ const zhCopy = {
   },
   shunsin: {
     theme: "台湾光学 / CPO 相邻暴露",
-    thesis: "Serenity 将 Shunsin 放在当前光学风险收益名单中，并称它在自己的台湾多头标的里开始走强。",
-    whyItMatters: "它属于她的台湾 CPO / 光学组合，但具体供应链角色还需要进一步拆解。",
-    catalysts: ["台湾光学供应链动量", "Serenity 称 Shunsin 随台湾 CPO 多头启动，当日约涨 10%", "CPO 相关关注", "与 FOCI / MSSCorp 的联动重估"],
-    risks: ["已观察帖子中角色归因不够细", "需要公司层面的具体证据", "小盘流动性风险"],
-    nextChecks: ["确认其具体 CPO / 光学角色", "检查近期月营收", "与 FOCI / MSSCorp 估值比较"],
+    thesis: "Serenity 将 Shunsin 放在台湾 CPO / 光学组合中。6 月 19 日她提到，虽然 FOCI、MSSCorp、Xintec 等 Taiwan CPO longs 因虚假 CPO delay 报告仍明显亏损，但 Shunsin 与 Win Semi 表现相对更抗跌。",
+    whyItMatters: "Shunsin 仍需要拆具体供应链角色，但相对抗跌说明市场可能区分不同台湾光学 / CPO 环节。它不是公司级订单验证，但有助于排序 Taiwan CPO basket 内部强弱。",
+    catalysts: ["台湾光学供应链动量", "Serenity 称 Shunsin 随台湾 CPO 多头启动，当日约涨 10%", "CPO 相关关注", "与 FOCI / MSSCorp 的联动重估", "6 月 19 日被她列为较抗跌的 Taiwan CPO / optical names"],
+    risks: ["已观察帖子中角色归因不够细", "需要公司层面的具体证据", "小盘流动性风险", "相对抗跌不等于订单或 revenue 已验证"],
+    nextChecks: ["确认其具体 CPO / 光学角色", "检查近期月营收", "与 FOCI / MSSCorp / Xintec 的估值和价格强弱比较"],
   },
   lite: {
     theme: "光学周期历史类比 / CPO 激光器供应商",
@@ -224,11 +246,11 @@ const zhCopy = {
   },
   "win-semi": {
     theme: "激光器扩产瓶颈",
-    thesis: "Serenity 称 Win Semi 很少出现在光子分析报告里，但明年可能成为激光器扩产的重要瓶颈。",
-    whyItMatters: "这是二阶激光制造瓶颈线索，比 SIVE / GFS 逻辑更早期、确定性更低。",
-    catalysts: ["2027 年激光器扩产需求", "Serenity 称仍在等待 Win Semi 跟随台湾 CPO 多头补涨", "台湾光学链关注", "潜在分析师覆盖补涨"],
-    risks: ["观察到的讨论较少", "具体角色和收入需要确认", "可能仍然太早"],
-    nextChecks: ["梳理 Win Semi 与激光相关的制程角色", "检查客户是否与 SIVE / LITE 生态重叠", "监控分析师提及与资本开支"],
+    thesis: "Serenity 称 Win Semi 很少出现在光子分析报告里，但可能成为激光器扩产的重要瓶颈。6 月 19 日她补充说，在台湾 CPO longs 中，Win Semi 与 Shunsin 比 FOCI、MSSCorp、Xintec 等受虚假 CPO delay 报告冲击的标的更抗跌。",
+    whyItMatters: "这是二阶激光制造瓶颈线索，比 SIVE / GFS 逻辑更早期、确定性更低。相对强势可以作为跟踪信号，但最终仍要看产能、客户和 revenue。",
+    catalysts: ["2027 年激光器扩产需求", "Serenity 称仍在等待 Win Semi 跟随台湾 CPO 多头补涨", "台湾光学链关注", "潜在分析师覆盖补涨", "6 月 19 日她称 Win Semi 在 Taiwan CPO basket 中表现相对更好"],
+    risks: ["观察到的讨论较少", "具体角色和收入需要确认", "可能仍然太早", "相对抗跌不能替代公司级订单和产能证据"],
+    nextChecks: ["梳理 Win Semi 与激光相关的制程角色", "检查客户是否与 SIVE / LITE 生态重叠", "监控分析师提及与资本开支", "比较 Win Semi 与其他台湾 CPO 标的在 false-delay report 后的修复速度"],
   },
   iqe: {
     theme: "西方光学供应链 / InP epiwafer",
@@ -317,24 +339,27 @@ const zhCopy = {
   },
   "ai-memory": {
     theme: "AI 存储短缺 / HBM 周期",
-    thesis: "Serenity 把 MU / AI memory 从短缺观察进一步提升为验证线：她称 MU 像下一个 NVDA，现在市值约 1.23T；同时把 Samsung、SK Hynix、SNDK、EWY 放在同一条 memory theme 里。",
-    whyItMatters: "这强化了她“AI 打破传统存储周期”的判断。如果 hyperscaler capex 延续到 2028，高端 DRAM / HBM 的盈利假设可能继续上修。",
+    thesis: "Serenity 现在明确把 Memory 与 Photonics 并列为两大 top themes。6 月 19 日她用过去三个月 MU、SNDK、EWY、SK Hynix、Samsung 的强势表现，说明当市场叙事过度悲观时，应独立思考 2027 / 2028 projections。",
+    whyItMatters: "这把 memory 从单纯涨幅回顾，提升成一套研究纪律：不要只跟随当时流行叙事，而要自己建模供需、利润率和上游 capex。对当前 optical names，她认为也应采用类似 projection discipline。",
     catalysts: [
       "Serenity 称 Micron + memory 预测正在兑现",
       "Samsung / SK Hynix 是她 2025 年开始跟踪的 memory 主线",
       "SNDK 是今年 1 月以来更集中表达 memory theme 的名字",
       "EWY 多头受韩国 memory 走强带动",
-      "AI capex 框架中她认为 SK Hynix 等上游半导体不像泡沫"
+      "AI capex 框架中她认为 SK Hynix 等上游半导体不像泡沫",
+      "6 月 19 日她称 Memory 与 Photonics 是两大 top themes"
     ],
     risks: [
       "大幅上涨后估值和拥挤度风险增加",
       "如果供给扩张快于需求，存储仍可能回到周期波动",
-      "EWY 不是纯 memory 暴露"
+      "EWY 不是纯 memory 暴露",
+      "这条更新主要是回顾性验证，不保证 memory 后续仍有同样弹性"
     ],
     nextChecks: [
       "核实 MU 市值、盈利修正和 HBM / DRAM 产能计划",
       "比较 Samsung / SK Hynix 存储价格和 capex 与 2028 hyperscaler 需求",
-      "量化 SNDK 和 EWY 对 AI memory 的纯度"
+      "量化 SNDK 和 EWY 对 AI memory 的纯度",
+      "把 memory 的 2027 / 2028 projections 与 optical projections 放在同一框架比较"
     ]
   },
   "power-800v-dc": {

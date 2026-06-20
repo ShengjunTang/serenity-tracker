@@ -1,8 +1,101 @@
 {
-  "generatedAt": "2026-06-18T19:15:00+08:00",
-  "sourceWindow": "X Posts + public mirror cross-check: @aleabitoreddit; latest refresh 2026-06-18 19:15 Beijing. Read non-reply public Posts after the Jun 17 22:10 boundary via X profile / AI Chain Map mirror; Replies were excluded. Direct Chrome Subs re-check was blocked by macOS Keychain / automation permission, so no new subscriber-only post was added beyond the Jun 17 WUS item already captured.",
-  "summary": "June 18 refresh added public Posts around AAOI/SIVE/COHR photonics optionality, ALRIB / Riber shareholder-meeting progress, WUS / 2316 NAV-discount activism, AEHR silicon-photonics wafer-level burn-in follow-on production order, plus smaller SPCX and Finance-X context. Existing WUS subscriber line was reinforced by a later public post; no fresh Subs-only item could be independently re-read in this run.",
+  "generatedAt": "2026-06-19T20:55:00+08:00",
+  "sourceWindow": "X Posts + public mirror cross-check: @aleabitoreddit; latest refresh 2026-06-19 20:55 Beijing. Read non-reply public Posts after the Jun 18 19:15 boundary via AI Chain Map / Serenity webhook feed; Replies were excluded by workflow. Direct Chrome Subs reading was not available in this run, so no new Subs-only item was added.",
+  "summary": "June 19 refresh added the NAV-discount + standalone AI growth screen around ACMR/WUS, memory + photonics as Serenity's top themes, a portfolio/risk review naming Neoclouds, Memory and Photonics as core themes, Kioxia/Bernstein analyst-report validation, INTC/AAPL political-marketing event, and an AI retrieval pollution / content-farm risk note. Taiwan CPO names were updated with the false CPO-delay report drawdown context.",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-06-19T20:19:38+08:00",
+      "type": "Portfolio framework / core themes / CPO delay false-report drawdown",
+      "headline": "Serenity said her core three themes are Neoclouds/Energy, Memory and Photonics; she highlighted NBIS, EWY and SIVE as top performers by segment, while noting Taiwan CPO longs such as Foci, MSSCorp and Xintec are still heavily red after the false CPO-delay analyst report that Nvidia refuted.",
+      "tickers": [
+        "$NBIS",
+        "$EWY",
+        "$SIVE",
+        "FOCI",
+        "MSSCorp",
+        "Xintec",
+        "Shunsin",
+        "Win Semi"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2067945397923037693"
+    },
+    {
+      "publishedAt": "2026-06-19T17:04:06+08:00",
+      "type": "Kioxia / Bernstein negative report whipsaw / retail-facing institutional-report risk",
+      "headline": "Serenity again used Kioxia to criticize retail-facing institutional reports: after Bernstein called for a major decline, the stock rose sharply, including another strong move today. This reinforces her warning to model independently rather than follow distributed sellside narratives.",
+      "tickers": [
+        "Kioxia",
+        "$INTC"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2067896191338311750"
+    },
+    {
+      "publishedAt": "2026-06-19T12:15:52+08:00",
+      "type": "AI retrieval pollution / content-farm spam / technical nuance risk",
+      "headline": "Serenity flagged a feedback loop where content-farm sites and AI-written low-quality research can pollute LLM retrieval/training, creating technical misunderstandings in areas like CW DFB laser arrays versus high-power laser outputs.",
+      "tickers": [],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2067823653883113578"
+    },
+    {
+      "publishedAt": "2026-06-19T10:22:27+08:00",
+      "type": "ASML / China smuggling headline / export-control absurdity marker",
+      "headline": "Serenity reacted to an ASML smuggling headline by emphasizing the scale and absurdity of moving such equipment. This is a light export-control / semiconductor geopolitics note rather than a fresh long thesis.",
+      "tickers": [
+        "$ASML"
+      ],
+      "severity": "low",
+      "url": "https://x.com/aleabitoreddit/status/2067795114211340290"
+    },
+    {
+      "publishedAt": "2026-06-19T01:18:34+08:00",
+      "type": "ACMR-WUS / NAV discount plus standalone AI growth screen",
+      "headline": "Serenity asked for the biggest NAV-discount ideas that also have independent AI growth, citing more extreme examples such as ACMR and WUS versus SK Square. She said she has exposure to the names above and wants to research more opportunities as the theme gets noticed.",
+      "tickers": [
+        "$ACMR",
+        "2316 / WUS",
+        "SK Square"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2067658240612262198"
+    },
+    {
+      "publishedAt": "2026-06-18T23:06:08+08:00",
+      "type": "INTC / Apple partnership political-marketing event",
+      "headline": "Serenity noted Trump announcing an Intel + Apple partnership, sending INTC higher, and framed the event as unusually strong political marketing support for Intel rather than a detailed new operating thesis.",
+      "tickers": [
+        "$INTC",
+        "$AAPL"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2067624913834549685"
+    },
+    {
+      "publishedAt": "2026-06-18T22:54:06+08:00",
+      "type": "Memory and photonics / top themes / 2027-2028 projection discipline",
+      "headline": "Serenity reminded readers that most of X was bearish on memory three months ago, then MU, SNDK, EWY, SK Hynix and Samsung rallied hard. She says photonics and memory are the two top themes, with optics still very early in the supercycle.",
+      "tickers": [
+        "$MU",
+        "$SNDK",
+        "$EWY",
+        "SK Hynix",
+        "Samsung"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2067621883525394768"
+    },
+    {
+      "publishedAt": "2026-06-18T21:45:08+08:00",
+      "type": "SPCX / Cramer-law sentiment reversal",
+      "headline": "Serenity joked that even SPCX could not withstand Jim Cramer’s blessing. This remains a light sentiment marker rather than a thesis change.",
+      "tickers": [
+        "$SPCX"
+      ],
+      "severity": "low",
+      "url": "https://x.com/aleabitoreddit/status/2067604528959238272"
+    },
     {
       "publishedAt": "2026-06-18T17:38:11+08:00",
       "type": "AAOI-SIVE-COHR / photonics TAM expansion / 2027 revenue ramp still early",
@@ -187,137 +280,6 @@
       "batch": "2026-06-17T22:10:00+08:00",
       "importance": "high",
       "importanceLabel": "Subs新增"
-    },
-    {
-      "date": "2026-06-16",
-      "publishedAt": "2026-06-16T21:00:15+08:00",
-      "type": "AI capex / bubble-risk framework / upstream semis",
-      "impactZh": "Serenity 认为 AI 是接近农业或工业革命级别的技术，OpenAI、Anthropic、xAI 等继续追逐 superintelligence。她承认 CRWV、CBRS、OpenAI backlog、NVDA/AMD 与 neocloud 的循环估值可能有局部泡沫，但认为真正要盯的是 OpenAI 传染风险、hyperscaler capex 下降和 Fed tightening；目前没有明显红灯。她尤其强调从 LITE 到 SK Hynix 的上游半导体还不像泡沫。",
-      "original": "Serenity said she sees some bubbles around debt interest and circular backlog agreements, but no glaring signs yet in OpenAI contagion, hyperscaler capex decline or Fed tightening; upstream semis from LITE to SK Hynix do not look like a bubble to her.",
-      "related": [
-        "$LITE",
-        "$MU",
-        "$AMD",
-        "$AVGO",
-        "$CRWV",
-        "$CBRS",
-        "$GOOGL",
-        "$AMZN",
-        "$MSFT",
-        "$META",
-        "$ORCL",
-        "OpenAI",
-        "Anthropic",
-        "xAI",
-        "hyperscaler capex"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066868456457416871",
-      "batch": "2026-06-16T22:20:00+08:00",
-      "importance": "high",
-      "importanceLabel": "框架更新"
-    },
-    {
-      "date": "2026-06-16",
-      "publishedAt": "2026-06-16T19:01:48+08:00",
-      "type": "SPCX / Cursor acquisition / futuristic-asset valuation",
-      "impactZh": "Serenity 提到 SPCX 收购 Cursor 的 600 亿美元新闻，并把它理解为 AI coding 网络效应或训练数据价值可能被高估值定价。结合她早些时候说 SPCX 市值到约 2.5T，这继续强化 SPCX 是未来感资产、流动性和市场情绪的观察点，而不是传统基本面供应链 thesis。",
-      "original": "Serenity reacted to SPCX acquiring Cursor for $60B and wondered whether network effects or data for improving models became invaluable; earlier she also noted SPCX around a $2.5T market cap.",
-      "related": [
-        "$SPCX",
-        "SpaceX",
-        "Cursor",
-        "AI coding",
-        "network effects",
-        "data value",
-        "futuristic assets"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066838650193949091",
-      "batch": "2026-06-16T22:20:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "流动性观察"
-    },
-    {
-      "date": "2026-06-16",
-      "publishedAt": "2026-06-16T18:00:19+08:00",
-      "type": "AXTI / InP substrate thesis validation / still holding",
-      "impactZh": "Serenity 回顾 AXTI thesis：她说自己仍持有 AXTI，并强调当初是通过 InP substrate 供应链、市场份额、high-purity indium 定价、出口管制和光学公司收购等资料做出的判断。她认为 Reuters 后来确认 InP substrates 可能影响 AI buildout，是对她上游瓶颈研究方法的验证。",
-      "original": "Serenity said she is still holding AXTI and reviewed the work behind the thesis: InP substrate supply-chain mapping, market-share sources, indium pricing, bottleneck game theory and export-control documents.",
-      "related": [
-        "$AXTI",
-        "InP substrates",
-        "Reuters",
-        "high-purity indium",
-        "export controls",
-        "AI optical supply chain"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066823176785457323",
-      "batch": "2026-06-16T22:20:00+08:00",
-      "importance": "high",
-      "importanceLabel": "验证更新"
-    },
-    {
-      "date": "2026-06-16",
-      "publishedAt": "2026-06-16T15:54:44+08:00",
-      "type": "MU / AI memory thesis validation",
-      "impactZh": "Serenity 再次回顾自己把 MU 类比下一个 NVDA 的观点，提到 Micron 当前市值约 1.23T；她说从 2025 年开始谈 Samsung / SK Hynix，今年 1 月把更多仓位集中到 memory theme，包括 SNDK，并认为 Micron + memory 预测正在兑现，EWY 多头也表现强。",
-      "original": "Serenity said MU looked like the next NVDA, with Micron now around $1.23T market cap; she also highlighted Samsung, SK Hynix, SNDK and EWY as part of the memory theme.",
-      "related": [
-        "$MU",
-        "$NVDA",
-        "$SNDK",
-        "$EWY",
-        "Samsung Electronics",
-        "SK Hynix",
-        "AI memory",
-        "HBM"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066791570569916832",
-      "batch": "2026-06-16T22:20:00+08:00",
-      "importance": "high",
-      "importanceLabel": "验证更新"
-    },
-    {
-      "date": "2026-06-16",
-      "publishedAt": "2026-06-16T15:28:51+08:00",
-      "type": "AAOI / LITE / AXTI 2025 optical thesis validation and SIVE analogy",
-      "impactZh": "Serenity 回顾 2025 年的 optical ideas：AAOI、LITE、AXTI 当时市值分别约 2B、26B、0.5B，现在已大幅重估。她承认当时信息更少、ASIC 细节有 nuance，但认为方向性和供应链主题正确，并把当前约 3B 市值的 SIVE 视为类似 deja vu 的 optical long。",
-      "original": "Serenity compared 2025 AAOI/LITE/AXTI market caps with today and said the direction of the optical supply-chain theme was correct; she sees current $3B optical longs such as SIVE as deja vu.",
-      "related": [
-        "$AAOI",
-        "$LITE",
-        "$AXTI",
-        "$SIVE",
-        "optical supply chain",
-        "ASIC programs",
-        "CPO"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066785056031670657",
-      "batch": "2026-06-16T22:20:00+08:00",
-      "importance": "medium",
-      "importanceLabel": "主题验证"
-    },
-    {
-      "date": "2026-06-16",
-      "publishedAt": "2026-06-16T10:20:57+08:00",
-      "type": "AMD CW laser supply scramble / SIVE-AAOI beneficiaries",
-      "impactZh": "Serenity 引用 TrendForce 相关报道，称 AMD 正在争取 CW laser 供应并谈大规模采购，以免产能被 NVDA 限制。她点名最直接受益者是 SIVE（AMD 走 GFS CPO、Sivers 是 reference laser 级别）和 AAOI（Rosenblatt checks），同时提醒 Lumentum / Coherent 产能已排到 2028，Lumentum 尤其受 EML 合约约束。",
-      "original": "Serenity said AMD is scrambling for CW laser supply and negotiating large purchase orders; she named SIVE and AAOI as obvious beneficiaries, with Lumentum/Coherent booked out into 2028.",
-      "related": [
-        "$AMD",
-        "$NVDA",
-        "$SIVE",
-        "$AAOI",
-        "$LITE",
-        "Coherent",
-        "CW lasers",
-        "CPO",
-        "GFS",
-        "TrendForce"
-      ],
-      "url": "https://x.com/aleabitoreddit/status/2066707573139763211",
-      "batch": "2026-06-16T22:20:00+08:00",
-      "importance": "high",
-      "importanceLabel": "重点更新"
     }
   ],
   "ideas": [
@@ -381,7 +343,9 @@
         "Lumentum is described as already constrained and likely sourcing from Sumitomo/Furukawa, suggesting limited spare capacity across the chain",
         "Serenity reiterated in Chinese that SIVE and AAOI are her favorite laser companies because they can expand from lasers into full optical modules, optical engines and ELS components",
         "She says the photonics theme is still extremely early and most revenue ramp may not start until 2027 H1/H2",
-        "COHR-style upstream substrate integration is cited as a possible playbook for margin and TAM expansion across photonics leaders"
+        "COHR-style upstream substrate integration is cited as a possible playbook for margin and TAM expansion across photonics leaders",
+        "Serenity named Photonics as one of her core three themes and SIVE as the top performer she selected for that segment",
+        "She says opticals are still very early in the supercycle and should be evaluated against 2027/2028 projections"
       ],
       "risks": [
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
@@ -418,7 +382,8 @@
         "June 17 AMD CW-laser logic remains a TrendForce / Serenity read-through and still needs SIVE-specific order, LTA or customer evidence",
         "If other suppliers add capacity faster than expected, scarcity economics could normalize before SIVE captures meaningful revenue",
         "June 18 photonics upside framing is thematic and still needs SIVE-specific orders, module/engine revenue and margin evidence",
-        "A 2027 ramp timeline means market expectations may run ahead of disclosed revenue for several quarters"
+        "A 2027 ramp timeline means market expectations may run ahead of disclosed revenue for several quarters",
+        "June 19 SIVE mention is portfolio/thematic validation rather than new Sivers-specific customer evidence"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -463,8 +428,13 @@
         "Track whether SIVE discloses optical-module, optical-engine or ELS component revenue beyond laser supply",
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings"
       ],
-      "lastUpdated": "2026-06-18",
+      "lastUpdated": "2026-06-19",
       "evidence": [
+        {
+          "date": "2026-06-19",
+          "quote": "Serenity named Photonics as a core theme and cited SIVE as the top performer she selected for that segment, while saying optics remains very early in the supercycle.",
+          "url": "https://x.com/aleabitoreddit/status/2067945397923037693"
+        },
         {
           "date": "2026-06-18",
           "quote": "Serenity said AAOI and SIVE are her favorite laser companies because they can expand revenue beyond lasers into full optical modules, optical engines and ELS components, with most ramp still likely in 2027.",
@@ -664,23 +634,32 @@
         "TSM COUPE + AI optical market articles",
         "Serenity says Taiwan CPO longs including FOCI were finally taking off, with FOCI up about 10%",
         "CPO supply-chain ramp",
-        "FAU demand from optical interconnect buildout"
+        "FAU demand from optical interconnect buildout",
+        "Serenity said the false CPO-delay analyst report that Nvidia refuted caused large drawdowns in Taiwan CPO longs such as Foci, MSSCorp and Xintec"
       ],
       "risks": [
         "Needs confirmation of actual COUPE exposure",
         "Potential retail-driven price action",
         "Taiwan small-cap liquidity and valuation risk",
-        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility"
+        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility",
+        "The June 19 portfolio review confirms these Taiwan CPO names can remain heavily red even when Serenity believes the underlying report was false",
+        "Timing risk and analyst-report-driven drawdowns remain material for Taiwan CPO small caps"
       ],
       "stance": "重点关注",
       "nextChecks": [
         "Verify FOCI customer exposure and FAU revenue contribution",
         "Read UDN article and company disclosures",
         "Track monthly revenue acceleration",
-        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage"
+        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage",
+        "Track whether company-level orders or Nvidia/CPO data repair the drawdown caused by the false CPO-delay report"
       ],
-      "lastUpdated": "2026-06-11 20:29",
+      "lastUpdated": "2026-06-19",
       "evidence": [
+        {
+          "date": "2026-06-19",
+          "quote": "Serenity said a false analyst report on CPO delays, later refuted by Nvidia, still left Foci, MSSCorp and Xintec heavily red in the short term.",
+          "url": "https://x.com/aleabitoreddit/status/2067945397923037693"
+        },
         {
           "date": "2026-06-11",
           "quote": "Serenity said her own portfolio also experienced drawdowns in Foci/Shunsin/SOI, AAOI and other CPO related names, and framed it as learning how markets price supply-chain segments.",
@@ -715,21 +694,30 @@
         "CPO ramp over the next 18 months",
         "Serenity says she is waiting for MSSCorp to catch up with other Taiwan CPO longs",
         "Patent / inspection moat narrative",
-        "TSM COUPE optical-market attention"
+        "TSM COUPE optical-market attention",
+        "Serenity said the false CPO-delay analyst report that Nvidia refuted caused large drawdowns in Taiwan CPO longs such as Foci, MSSCorp and Xintec"
       ],
       "risks": [
         "Patent moat claim needs verification",
         "May be earlier than revenue ramp",
-        "Small-cap liquidity and social-media crowding"
+        "Small-cap liquidity and social-media crowding",
+        "The June 19 portfolio review confirms these Taiwan CPO names can remain heavily red even when Serenity believes the underlying report was false",
+        "Timing risk and analyst-report-driven drawdowns remain material for Taiwan CPO small caps"
       ],
       "stance": "重点关注",
       "nextChecks": [
         "Check patent portfolio and inspection product scope",
         "Verify TSM/COUPE linkage",
-        "Track revenue and margin change as CPO samples scale"
+        "Track revenue and margin change as CPO samples scale",
+        "Track whether company-level orders or Nvidia/CPO data repair the drawdown caused by the false CPO-delay report"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-19",
       "evidence": [
+        {
+          "date": "2026-06-19",
+          "quote": "Serenity said a false analyst report on CPO delays, later refuted by Nvidia, still left Foci, MSSCorp and Xintec heavily red in the short term.",
+          "url": "https://x.com/aleabitoreddit/status/2067945397923037693"
+        },
         {
           "date": "2026-06-03",
           "quote": "Just waiting on Win Semi, Msscorp, and Nextronics to catch up.",
@@ -884,7 +872,9 @@
         "Potential activist push for value unlock, including a possible middle-ground partial stake sale",
         "June 18 public post agreed with Palliser and argued WUS Taiwan should consider trimming part of its WUS Kunshan stake",
         "Serenity says selling even one-quarter of the Kunshan stake could produce about $1.1B pre-tax cash for AI PCB growth",
-        "A willingness to unlock locked-up assets could itself trigger market revaluation"
+        "A willingness to unlock locked-up assets could itself trigger market revaluation",
+        "Serenity is now actively screening for more NAV-discount ideas with standalone AI growth and cited WUS as an extreme example alongside ACMR",
+        "She said she has exposure to the names above and the theme seems to be getting noticed"
       ],
       "risks": [
         "This is explicitly not Serenity’s original idea and relies heavily on Palliser’s activist report",
@@ -893,7 +883,8 @@
         "WUS Kunshan value, Nvidia AI switch PCB share and tax assumptions need primary verification",
         "Taiwan/China PCB exposure adds governance, liquidity, FX and geopolitical risk",
         "The June 18 valuation math remains based on Palliser/Serenity framing and needs primary filing verification",
-        "Even if the NAV discount is real, family or management resistance can keep the discount unresolved"
+        "Even if the NAV discount is real, family or management resistance can keep the discount unresolved",
+        "NAV-discount + AI-growth screening can become a crowded theme before management action materializes"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -903,10 +894,16 @@
         "Track whether management responds to Palliser or announces capital actions",
         "Separate standalone PCB business value from look-through Kunshan stake value",
         "Track whether WUS Taiwan management responds publicly to Palliser or shareholders",
-        "Model one-quarter and one-fifth stake-sale scenarios after tax and compare with current market cap"
+        "Model one-quarter and one-fifth stake-sale scenarios after tax and compare with current market cap",
+        "Compare WUS with ACMR and SK Square under the NAV-discount plus standalone AI-growth screen"
       ],
-      "lastUpdated": "2026-06-18",
+      "lastUpdated": "2026-06-19",
       "evidence": [
+        {
+          "date": "2026-06-19",
+          "quote": "Serenity asked for the biggest NAV-discount ideas with independent AI growth, citing ACMR and WUS as more extreme examples compared with SK Square.",
+          "url": "https://x.com/aleabitoreddit/status/2067658240612262198"
+        },
         {
           "date": "2026-06-18",
           "quote": "Serenity said WUS Taiwan should reconsider the NAV disconnect and suggested even a partial WUS Kunshan stake sale could produce cash greater than current market cap for AI PCB growth.",
@@ -916,6 +913,39 @@
           "date": "2026-06-17",
           "quote": "Subscriber-only: Serenity said Palliser’s WUS activist report was compelling enough that she followed along and bought shares, with the thesis centered on WUS Taiwan’s Kunshan stake and AI switch PCB exposure.",
           "url": "https://x.com/aleabitoreddit/status/2067100222778704207"
+        }
+      ]
+    },
+    {
+      "id": "acmr-nav-ai",
+      "ticker": "$ACMR",
+      "name": "ACM Research / ACMR China look-through NAV",
+      "tier": "speculative",
+      "theme": "NAV discount / standalone AI growth screen",
+      "stance": "观望",
+      "lastUpdated": "2026-06-19",
+      "thesis": "Serenity introduced ACMR as part of a broader screen for companies with large NAV discounts but also independent AI growth. In the main post she cited ACMR and WUS as more extreme examples versus SK Square and said she has exposure to the names above while researching more opportunities.",
+      "whyItMatters": "This extends the WUS activist/NAV-discount idea into a broader basket screen. The attraction is asset downside support plus a standalone AI growth vertical, but the ACMR details still need primary verification and the main-post evidence is only a starting point.",
+      "catalysts": [
+        "NAV-discount theme is getting noticed according to Serenity",
+        "ACMR cited alongside WUS as an extreme example of NAV discount plus AI growth",
+        "Potential independent AI growth in the standalone business could narrow holding-company discount"
+      ],
+      "risks": [
+        "New and thin tracker line based on a broad screen post, not a full ACMR thesis",
+        "Need to verify ACMR China assets, ownership, liquidity and legal/tax constraints",
+        "NAV discounts can persist if assets cannot be monetized or governance remains weak"
+      ],
+      "nextChecks": [
+        "Verify ACMR corporate structure and look-through value of ACMR China assets",
+        "Assess whether ACMR parent has standalone AI growth independent of the held assets",
+        "Compare ACMR, WUS and SK Square NAV discount, monetization path and governance risk"
+      ],
+      "evidence": [
+        {
+          "date": "2026-06-19",
+          "quote": "Serenity asked for the biggest NAV-discount ideas with independent AI growth, citing ACMR and WUS as more extreme examples compared with SK Square.",
+          "url": "https://x.com/aleabitoreddit/status/2067658240612262198"
         }
       ]
     },
@@ -1024,14 +1054,16 @@
         "Better financing structure versus CRWV debt burden and IREN ATM dilution in her view",
         "Sum-of-parts upside from Avride and ClickHouse exposure",
         "Serenity identifies toxic financing structure and float dynamics as the top early-opportunity screen",
-        "NBIS was added to Nasdaq 100 alongside ALAB and RKLB in Serenity's latest validation framing"
+        "NBIS was added to Nasdaq 100 alongside ALAB and RKLB in Serenity's latest validation framing",
+        "Serenity named Neoclouds / Energy as one of her core three themes and NBIS as the top performer she selected for that segment"
       ],
       "risks": [
         "Post-validation mention after a large move is not a fresh entry signal",
         "Neocloud names can be highly sensitive to financing terms and AI capex sentiment",
         "Subsidiary and ownership valuation needs independent verification",
         "Peers with large ATM programs can sell into rallies and create structural overhang",
-        "Nasdaq 100 inclusion validates scale and liquidity but can also increase index-flow volatility"
+        "Nasdaq 100 inclusion validates scale and liquidity but can also increase index-flow volatility",
+        "The June 19 mention is retrospective performance validation, not a new NBIS company catalyst"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -1042,8 +1074,13 @@
         "Review current ATM authorizations, share issuance and float changes for IREN, CRWV and NBIS",
         "Track index inclusion date, passive demand and whether it changes NBIS float/liquidity dynamics"
       ],
-      "lastUpdated": "2026-06-12 16:51",
+      "lastUpdated": "2026-06-19",
       "evidence": [
+        {
+          "date": "2026-06-19",
+          "quote": "Serenity said her core themes are Neoclouds/Energy, Memory and Photonics, and cited NBIS as the top performer she selected in the Neocloud segment.",
+          "url": "https://x.com/aleabitoreddit/status/2067945397923037693"
+        },
         {
           "date": "2026-06-12",
           "quote": "Serenity said NBIS, ALAB and RKLB were added to Nasdaq 100, describing small companies growing into major Nasdaq constituents.",
@@ -1081,13 +1118,16 @@
         "Report confirming TSM/COUPE linkage",
         "Serenity says Xintec was up about 10% alongside other Taiwan CPO longs",
         "TSM advanced packaging / optical supply-chain buildout",
-        "Testing demand expansion"
+        "Testing demand expansion",
+        "Serenity said the false CPO-delay analyst report that Nvidia refuted caused large drawdowns in Taiwan CPO longs such as Foci, MSSCorp and Xintec"
       ],
       "risks": [
         "Serenity says public figures on COUPE volume flowing to Xintec are limited",
         "COUPE linkage is not fully visible in the post",
         "May be a narrow thesis with limited public disclosure",
-        "Needs independent revenue mapping"
+        "Needs independent revenue mapping",
+        "The June 19 portfolio review confirms these Taiwan CPO names can remain heavily red even when Serenity believes the underlying report was false",
+        "Timing risk and analyst-report-driven drawdowns remain material for Taiwan CPO small caps"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -1096,10 +1136,16 @@
         "Compare Xintec versus VisEra exposure, valuation and revenue sensitivity",
         "Find the referenced report",
         "Confirm Xintech ownership and revenue dependence on TSM",
-        "Map whether COUPE affects testing volume"
+        "Map whether COUPE affects testing volume",
+        "Track whether company-level orders or Nvidia/CPO data repair the drawdown caused by the false CPO-delay report"
       ],
-      "lastUpdated": "2026-06-06 10:30",
+      "lastUpdated": "2026-06-19",
       "evidence": [
+        {
+          "date": "2026-06-19",
+          "quote": "Serenity said a false analyst report on CPO delays, later refuted by Nvidia, still left Foci, MSSCorp and Xintec heavily red in the short term.",
+          "url": "https://x.com/aleabitoreddit/status/2067945397923037693"
+        },
         {
           "date": "2026-06-05 23:15",
           "quote": "Xintec also looks like an interesting idea; TSM COUPE mass production starts H2 2026 and Xintec looks more compelling than VisEra for the next few months.",
@@ -1316,23 +1362,31 @@
         "Taiwan optical supply-chain momentum",
         "Serenity says Shunsin was up about 10% as Taiwan CPO longs started taking off",
         "CPO-related attention",
-        "Potential re-rating with Foci/MSSCorp"
+        "Potential re-rating with Foci/MSSCorp",
+        "Serenity said Shunsin and Win Semi are holding up better than the Taiwan CPO longs hit hardest by the false CPO-delay report"
       ],
       "risks": [
         "Less detailed role attribution in observed posts",
         "Needs company-specific evidence",
         "Small-cap liquidity risk",
-        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility"
+        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility",
+        "Relative resilience does not replace company-level revenue, order or capacity evidence"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Identify exact CPO/optical role",
         "Check recent monthly revenue",
         "Compare valuation with Foci/MSSCorp",
-        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage"
+        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage",
+        "Compare Shunsin and Win Semi price/action and company evidence against Foci, MSSCorp and Xintec after the CPO-delay scare"
       ],
-      "lastUpdated": "2026-06-11 20:29",
+      "lastUpdated": "2026-06-19",
       "evidence": [
+        {
+          "date": "2026-06-19",
+          "quote": "Serenity said Shunsin and Win Semi are holding up much better than Foci, MSSCorp, Xintec and other Taiwan CPO longs after the false CPO-delay report.",
+          "url": "https://x.com/aleabitoreddit/status/2067945397923037693"
+        },
         {
           "date": "2026-06-11",
           "quote": "Serenity said her own portfolio also experienced drawdowns in Foci/Shunsin/SOI, AAOI and other CPO related names, and framed it as learning how markets price supply-chain segments.",
@@ -1614,21 +1668,29 @@
         "Laser scaling needs in 2027",
         "Serenity says she is waiting for Win Semi to catch up with other Taiwan CPO longs",
         "Taiwan optical-chain attention",
-        "Potential analyst coverage catch-up"
+        "Potential analyst coverage catch-up",
+        "Serenity said Shunsin and Win Semi are holding up better than the Taiwan CPO longs hit hardest by the false CPO-delay report"
       ],
       "risks": [
         "Only lightly discussed in observed posts",
         "Needs detailed role and revenue confirmation",
-        "May be too early"
+        "May be too early",
+        "Relative resilience does not replace company-level revenue, order or capacity evidence"
       ],
       "stance": "观望",
       "nextChecks": [
         "Map Win Semi laser-related process role",
         "Check whether customers overlap with SIVE/LITE ecosystem",
-        "Monitor analyst mentions and capex"
+        "Monitor analyst mentions and capex",
+        "Compare Shunsin and Win Semi price/action and company evidence against Foci, MSSCorp and Xintec after the CPO-delay scare"
       ],
-      "lastUpdated": "2026-06-03",
+      "lastUpdated": "2026-06-19",
       "evidence": [
+        {
+          "date": "2026-06-19",
+          "quote": "Serenity said Shunsin and Win Semi are holding up much better than Foci, MSSCorp, Xintec and other Taiwan CPO longs after the false CPO-delay report.",
+          "url": "https://x.com/aleabitoreddit/status/2067945397923037693"
+        },
         {
           "date": "2026-06-03",
           "quote": "Just waiting on Win Semi, Msscorp, and Nextronics to catch up.",
@@ -2092,8 +2154,8 @@
       "name": "AI memory shortage / Samsung / SK Hynix",
       "tier": "watch",
       "theme": "AI memory shortage / HBM cycle",
-      "thesis": "Serenity now treats MU / AI memory as a major validated line rather than only a shortage watch. She says MU looked like the next NVDA and is now around a $1.23T market cap, while her broader memory exposure included Samsung Electronics, SK Hynix, SNDK and EWY longs.",
-      "whyItMatters": "The update reinforces her view that AI has broken the traditional memory cycle. If memory demand remains structurally tight into 2028 alongside hyperscaler capex, MU, Samsung, SK Hynix and related exposures may deserve earnings assumptions that look extreme under old-cycle frameworks.",
+      "thesis": "Serenity now explicitly pairs Memory with Photonics as her two top themes. She used the memory rally from prior bearish consensus as a template for why investors should think independently about 2027-2028 projections rather than follow current narratives.",
+      "whyItMatters": "The June 19 update reframes memory as not just a past winner but a discipline lesson for opticals: when projections and supply/demand setup diverge from consensus, the key is independent modeling. The risk is that retrospective winner framing can hide valuation and cycle timing risk.",
       "catalysts": [
         "NVDA CEO warning that memory shortage may persist for many years",
         "AI infrastructure scaling demand continues to pressure memory supply",
@@ -2104,7 +2166,10 @@
         "Samsung Electronics and SK Hynix were part of her memory theme from 2025",
         "SNDK was added as a concentrated memory-theme expression in January",
         "EWY long exposure benefited from Korean memory strength",
-        "AI capex framework says upstream semiconductors such as SK Hynix do not look like a bubble"
+        "AI capex framework says upstream semiconductors such as SK Hynix do not look like a bubble",
+        "Serenity says memory and photonics are her two top themes",
+        "She cited strong moves in MU, SNDK, EWY, SK Hynix and Samsung after broad bearishness three months earlier",
+        "She suggests current optical projections into 2027/2028 may deserve similar independent thinking"
       ],
       "risks": [
         "Memory remains cyclical if supply catches up faster than expected",
@@ -2114,7 +2179,9 @@
         "Interpreting negative research as a liquidity motive is speculative and should not replace supply-demand analysis",
         "Large prior moves increase valuation and crowding risk even if the structural memory thesis remains intact",
         "Memory upcycle can still reverse if supply growth catches demand faster than expected",
-        "EWY remains a broad Korea ETF and includes non-memory exposures"
+        "EWY remains a broad Korea ETF and includes non-memory exposures",
+        "The post is retrospective and does not guarantee further memory upside",
+        "Large post-rally moves raise valuation and cycle-timing risk"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -2125,10 +2192,17 @@
         "Compare the March Bank of America KOSPI note with subsequent earnings revisions and memory pricing",
         "Check MU market cap, earnings revisions and HBM/DRAM supply plans after the latest move",
         "Compare Samsung/SK Hynix memory pricing and capex with hyperscaler demand projections into 2028",
-        "Quantify SNDK and EWY purity to the AI memory thesis"
+        "Quantify SNDK and EWY purity to the AI memory thesis",
+        "Compare current memory earnings estimates with Serenity-style independent projections",
+        "Track whether 2027/2028 memory profitability assumptions are already priced in"
       ],
-      "lastUpdated": "2026-06-16",
+      "lastUpdated": "2026-06-19",
       "evidence": [
+        {
+          "date": "2026-06-18",
+          "quote": "Serenity said photonics and memory are the two top themes, using the memory rally after bearish consensus as a reason to think independently about 2027/2028 projections.",
+          "url": "https://x.com/aleabitoreddit/status/2067621883525394768"
+        },
         {
           "date": "2026-06-09 08:25",
           "quote": "Serenity noted that Korean memory rallied to new highs after an earlier extreme-bubble warning and cautioned against relying on institutional sell calls without checking fundamentals.",
@@ -2587,7 +2661,8 @@
         "SPCX appetite is sentiment and liquidity transmission, not proof of fundamentals for every space or futurism-related asset",
         "Cursor acquisition and $60B valuation need primary-source confirmation",
         "SPCX market cap and trading structure need verification from market data",
-        "Futuristic-asset enthusiasm can amplify both upside and drawdown risk without company-level cash-flow support"
+        "Futuristic-asset enthusiasm can amplify both upside and drawdown risk without company-level cash-flow support",
+        "Serenity treated Cramer attention as a negative sentiment joke rather than new SPCX fundamentals"
       ],
       "stance": "观望",
       "nextChecks": [
@@ -2601,8 +2676,13 @@
         "Verify SPCX market cap, float and liquidity from primary market data",
         "Track whether SPCX sentiment spills into AI software, space and other high-beta futurism trades"
       ],
-      "lastUpdated": "2026-06-16",
+      "lastUpdated": "2026-06-18",
       "evidence": [
+        {
+          "date": "2026-06-18",
+          "quote": "Serenity joked that even SPCX could not withstand Jim Cramer's blessing, a sentiment marker rather than a thesis change.",
+          "url": "https://x.com/aleabitoreddit/status/2067604528959238272"
+        },
         {
           "date": "2026-06-11",
           "quote": "Serenity cited Frankfurt Bank strategists saying overseas demand for SpaceX shares could refinance 8% of the US current-account deficit in one day.",
