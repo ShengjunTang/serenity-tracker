@@ -101,48 +101,76 @@ const zhCopy = {
   },
   "wus-pcb": {
     theme: "AI switch PCB / activist NAV discount",
-    thesis: "WUS / 2316 继续放在 activist / NAV discount idea 中。6 月 19 日 Serenity 进一步把它放进“有 NAV discount、同时有独立 AI growth”的筛选框架，并把 WUS 与 ACMR 一起列为比 SK Square 更极端的例子。",
-    whyItMatters: "这条线索不只看 AI switch PCB，也看管理层是否愿意释放被锁住的资产价值。新的变化是它从单一 WUS/Palliser idea 扩展成一类筛选框架：资产折价提供下行支撑，standalone AI growth 提供上行弹性。",
+    thesis: "WUS / 2316 继续放在 activist / NAV discount idea 中。6 月 20 日 Serenity 在个人研究笔记里再次把 WUS 与 ACMR 放在一起，称二者可能有 H-share 子公司上市催化，是她看到的最大 NAV discount + independent growth 组合之一。",
+    whyItMatters: "这条线索不只看 AI switch PCB，也看管理层是否愿意释放被锁住的资产价值。新增重点是 possible H-share subsidiary listing 和 activist middle-ground：如果上市或部分解锁发生，WUS parent 的 NAV discount 可能被重新定价。",
     catalysts: [
       "6 月 18 日公开帖继续认同 Palliser 对 WUS 的 NAV discount 框架",
       "Serenity 称出售四分之一左右 Kunshan stake 可能带来约 11 亿美元税前现金",
       "AI PCB 增长拐点下，现金可用于扩大 PCB growth",
       "管理层愿意处理 locked-up assets 本身可能带来重估",
-      "6 月 19 日她继续筛选 NAV discount + standalone AI growth 标的，并点名 WUS 与 ACMR"
+      "6 月 20 日她再次把 WUS 与 ACMR 列为最大 NAV discount + independent growth 线索之一",
+      "她提到可能的 H-share subsidiary listing，并认为 WUS activist 可能推动某种 middle ground"
     ],
     risks: [
       "该 thesis 高度依赖 Palliser 报告，需要原文核实",
       "家族或管理层可能继续抵抗 activist，NAV discount 可长期存在",
       "Kunshan 估值、Nvidia PCB 份额、税后价值和股权结构都要用 filings 验证",
       "台湾 / 中国 PCB 标的有流动性、治理、汇率和地缘风险",
-      "NAV discount + AI growth 主题被更多人关注后可能变得拥挤"
+      "H-share listing 和 activist compromise 都是 catalyst watch，不是已确认公司行动"
     ],
     nextChecks: [
       "阅读 Palliser WUS 报告原文",
       "核实 WUS Taiwan 对 WUS Kunshan 的持股和税后价值假设",
       "验证 Kunshan 的 Nvidia AI switch PCB 份额",
       "跟踪管理层是否回应 Palliser 或披露资本动作",
-      "把 WUS 与 ACMR、SK Square 的 NAV discount、治理和 AI growth 暴露并排比较"
+      "核实可能 H-share subsidiary listing 是否真实存在时间表",
+      "跟踪 activist 是否推动 partial sale、资本动作或治理 compromise"
     ]
   },
   "acmr-nav-ai": {
     theme: "NAV discount / standalone AI growth screen",
-    thesis: "Serenity 新把 ACMR 放进一类筛选框架：寻找 NAV discount 很大、但自身又有独立 AI growth 的公司。主帖里她把 ACMR 和 WUS 作为比 SK Square 更极端的例子，并表示自己对上述标的有 exposure，想继续研究更多机会。",
-    whyItMatters: "这是 WUS 逻辑的扩展版，不是完整 ACMR 深度 thesis。吸引力在于资产折价可能提供某种 downside support，而 standalone AI growth 可以提供重估弹性；但 ACMR China 资产、可变现性、治理和税务都必须独立核实。",
+    thesis: "ACMR 继续作为 NAV discount + standalone AI growth 的代表线索。6 月 20 日 Serenity 说 ACMR 与 WUS 可能都有 H-share 子公司上市催化，是她看到的最大 NAV discount + independent growth 组合之一，并可能考虑增加集中度。",
+    whyItMatters: "这是 WUS 逻辑的扩展版。吸引力在于资产折价可能提供 downside support，而 standalone AI growth 与潜在 H-share catalyst 提供重估弹性；但 ACMR China 资产、可变现性、治理和税务都必须独立核实。",
     catalysts: [
       "Serenity 认为 NAV discount + standalone AI growth 主题正在被注意到",
       "ACMR 与 WUS 被她列为较极端例子",
-      "如果独立 AI vertical 起量，市场可能重新评估 parent 估值"
+      "如果独立 AI vertical 起量，市场可能重新评估 parent 估值",
+      "她提到 ACMR / WUS 可能有 H-share subsidiary listing",
+      "她表示可能在继续研究后增加已有 exposure 的集中度"
     ],
     risks: [
       "这是新的宽筛选线索，不是完整公司 thesis",
       "ACMR China 资产、股权结构、流动性、法律和税务限制需要 filings 核实",
-      "NAV discount 即使真实，也可能因治理或资产无法变现而长期存在"
+      "NAV discount 即使真实，也可能因治理或资产无法变现而长期存在",
+      "H-share listing 仍需确认，不应直接当成已发生催化"
     ],
     nextChecks: [
       "核实 ACMR corporate structure 与 ACMR China look-through value",
       "评估 parent 是否有独立 AI growth，而不是只有持股折价",
-      "比较 ACMR、WUS、SK Square 的 NAV discount、资产变现路径和治理风险"
+      "比较 ACMR、WUS、SK Square 的 NAV discount、资产变现路径和治理风险",
+      "验证 H-share subsidiary listing 时间表和对 parent NAV discount 的影响"
+    ]
+  },
+  "wistron-wiwynn": {
+    theme: "NAV discount / AI server growth / Wiwynn stake",
+    thesis: "Serenity 在 6 月 20 日个人笔记中把 Wistron 作为当前看到的最好 NAV discount + AI growth 线索之一。她提到 Wistron 持有 Wiwynn 35.46%，Q1 revenue growth 很强，并把 SIVE + Ayar + Wiwynn 称为自己喜欢的 trio。",
+    whyItMatters: "Wistron 可能同时具备 parent discount、AI server growth、Wiwynn look-through value 三层逻辑。它把 ACMR / WUS 的 NAV-discount screen 延伸到台湾 AI server infrastructure，但目前仍是研究笔记，不是 formal conclusion。",
+    catalysts: [
+      "Serenity 称 Wistron 是当前 research set 里最好的 NAV discount idea",
+      "她提到 Wistron 持有 Wiwynn 35.46%",
+      "Q1 revenue growth 很强，且她预计 Wiwynn 继续增长",
+      "SIVE + Ayar + Wiwynn 被她称为 favorite trio"
+    ],
+    risks: [
+      "这是个人研究笔记，不是正式 thesis",
+      "Wistron market cap、Wiwynn stake value、Q1 growth 和客户暴露需要 filings 核实",
+      "市场可能继续把 Wistron 当 EMS / holding company 而不是 AI server growth 标的"
+    ],
+    nextChecks: [
+      "核实 Wistron 对 Wiwynn 的持股比例和 stake value",
+      "检查 Wistron Q1 revenue growth、AI server exposure 与 margin trend",
+      "比较 Wistron parent market cap、standalone business 和 Wiwynn look-through value",
+      "验证 SIVE + Ayar + Wiwynn 关系是否有 primary-source 支撑"
     ]
   },
   aaoi: {
@@ -372,25 +400,29 @@ const zhCopy = {
   },
   "lpk-spacex": {
     theme: "LPK Laser / 玻璃核心基板设备 / LIDE advanced packaging",
-    thesis: "Serenity 现在主要把 LPK 看作 glass-core-substrate 设备和 AI advanced packaging 线索，而不只是 SpaceX import-log 供应商。6 月 17 日她再次引用 80% 主要全球玩家选择 LPKF equipment 的说法，并把 Absolics H2 2026、Samsung Electro Mechanics 2027、TSM CoPoS 2028 潜在上游暴露作为 HVM 时间线观察点。",
-    whyItMatters: "LPK 的逻辑已经从单一 SpaceX 线索升级到下一代封装设备。关键是 LIDE 工具能不能从 validation 进入 HVM，并转化为 backlog、订单和收入；TSM CoPoS 暴露她也明确说仍未确认。",
+    thesis: "LPK 现在是更明确的 glass-core-substrate / LIDE advanced-packaging equipment 线索。6 月 19 日 Serenity 补充 LPK meeting notes：NASDAQ listing 已在讨论和 radar 上，目标 70% market share，TAM 大幅超过此前预期，今年 base case 可能有 4-5 个 players 下单，industry ready for HVM ramps。",
+    whyItMatters: "这把 LPK 从 validation 线索推进到 volume-production / market-structure 线索。如果 qualification 转成 HVM orders，并叠加 Nasdaq listing 预期，估值可能重估；关键仍是 meeting notes 原文、订单客户和 revenue timing。",
     catalysts: [
       "80% 主要全球玩家选择 LPKF equipment 的说法被 Serenity 继续强化",
       "glass substrate 被她称为下一代 packaging shift",
       "Absolics H2 2026 ramp 与 Samsung Electro Mechanics 2027 被列为时间线",
       "TSM CoPoS 2028 潜在上游暴露仍是未确认但值得跟踪的线索",
-      "她认为市场可能只是随着 HVM 时间线接近而逐渐定价"
+      "LPK meeting notes 显示 Nasdaq listing 正在讨论 / radar 上",
+      "Serenity 提到 70% targeted market share 和 TAM 超过旧预测",
+      "她称今年 base case 可能有 4-5 个 players 下单，industry 已 ready for high-volume ramps"
     ],
     risks: [
       "TSM CoPoS 上游暴露仍未确认",
       "80% validation 不等于量产订单规模或时间",
-      "LPK 股价已动，市场可能先于基本面确认定价"
+      "LPK 股价已动，市场可能先于基本面确认定价",
+      "Nasdaq listing、70% share、4-5 orders 等 meeting-note 信息需要原文验证"
     ],
     nextChecks: [
       "找 LPK / LIDE 关于 80% validation 的原始来源",
       "核实 Absolics H2 2026 和 Samsung Electro Mechanics 2027 ramp 时间线",
       "确认 TSM CoPoS 是否有 LPKF / LIDE 工具连接",
-      "跟踪 validation 是否转成 backlog、客户名和收入指引"
+      "跟踪 validation 是否转成 backlog、客户名和收入指引",
+      "找到 LPK meeting notes / transcript，核实 Nasdaq、70% share、TAM 和 4-5 order-player 表述"
     ]
   },
   "axti-inp": {
