@@ -624,10 +624,18 @@ function relatedLatestText(idea) {
     .filter(Boolean);
   return state.latestUpdates
     .filter((item) => {
-      const related = (item.related ?? []).map(normalizeSearch);
+      const related = [...(item.related ?? []), ...(item.tickers ?? [])].map(normalizeSearch);
       return tokens.some((token) => related.some((tag) => tag.includes(token) || token.includes(tag)));
     })
-    .flatMap((item) => [item.type, item.impactZh, item.original, ...(item.related ?? [])]);
+    .flatMap((item) => [
+      item.type,
+      item.headline,
+      item.impactZh,
+      item.original,
+      item.severity,
+      ...(item.related ?? []),
+      ...(item.tickers ?? []),
+    ]);
 }
 
 function ideaMatches(idea) {
@@ -702,6 +710,28 @@ function formatDateTime(value) {
   })
     .format(date)
     .replaceAll("/", "-");
+}
+
+function latestImpact(item) {
+  return item.impactZh ?? item.headline ?? item.summary ?? "";
+}
+
+function latestOriginal(item) {
+  return item.original ?? item.note ?? "";
+}
+
+function latestTags(item) {
+  return [...(item.related ?? []), ...(item.tickers ?? [])].filter(Boolean);
+}
+
+function latestImportance(item) {
+  const level = item.importance ?? item.severity;
+  const label = item.importanceLabel ?? {
+    high: "重点",
+    medium: "关注",
+    low: "轻量",
+  }[level];
+  return { level: level ?? "medium", label };
 }
 
 function isMobileView() {
@@ -792,26 +822,30 @@ function renderLatestUpdates() {
 
   els.latestList.innerHTML =
     visibleUpdates
-    .map(
-      (item) => `
+    .map((item) => {
+      const impact = latestImpact(item);
+      const original = latestOriginal(item);
+      const tags = latestTags(item);
+      const importance = latestImportance(item);
+      return `
         <article class="latest-card">
           <div class="latest-meta">
             <time class="latest-date" datetime="${escapeHtml(item.publishedAt ?? item.date)}">${escapeHtml(formatDateTime(item.publishedAt ?? item.date))}</time>
             <span class="latest-zone">北京时间</span>
-            ${item.importanceLabel ? `<span class="importance-badge ${escapeHtml(item.importance ?? "medium")}">${escapeHtml(item.importanceLabel)}</span>` : ""}
+            ${importance.label ? `<span class="importance-badge ${escapeHtml(importance.level)}">${escapeHtml(importance.label)}</span>` : ""}
             <span class="latest-type">${escapeHtml(item.type)}</span>
           </div>
           <div>
-            <p class="latest-impact">${escapeHtml(item.impactZh)}</p>
-            <p class="latest-original">${escapeHtml(item.original)}</p>
+            ${impact ? `<p class="latest-impact">${escapeHtml(impact)}</p>` : ""}
+            ${original ? `<p class="latest-original">${escapeHtml(original)}</p>` : ""}
             <div class="latest-tags">
-              ${(item.related ?? []).map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}
-              <a class="latest-link" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">打开来源</a>
+              ${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}
+              ${item.url ? `<a class="latest-link" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">打开来源</a>` : ""}
             </div>
           </div>
         </article>
-      `,
-    )
+      `;
+    })
       .join("") +
     (updates.length > 3
       ? `
