@@ -1,8 +1,76 @@
 {
-  "generatedAt": "2026-06-22T21:39:47+08:00",
-  "sourceWindow": "X Posts + Subs via logged-in Chrome profile where visible; latest refresh 2026-06-22 21:39 Beijing. Read normal Posts and a visible subscriber-marked item from @aleabitoreddit. Replies/comment threads were excluded. Some individual status pages did not expand full tweet DOM, so long posts with Show more were summarized conservatively from visible timeline text.",
-  "summary": "6 月 22 日刷新新增中文“最新消息”流：LPK 玻璃基板设备线继续被强化，Serenity 给出 full-ramp 后更高估值想象；SIVE 被重新定位为不只服务 scale-up CPO，而是覆盖 pluggable、scale-out CPO、scale-up CPO、NPO 等下一代架构的激光供应商；WUS Taiwan 连续涨停后，NAV 折价加独立 AI PCB 增长逻辑继续被验证；日本机器人/半导体供应链如 Furukawa、Towa、Harmonic Drive、Ibiden 的市场反应也被纳入观察。订阅者帖仅保留高层摘要。",
+  "generatedAt": "2026-06-24T17:14:15+08:00",
+  "sourceWindow": "X Posts + Subs via logged-in Chrome profile where visible; latest refresh 2026-06-24 17:14 Beijing. Read normal Posts and the visible subscriber-only Subs timeline from @aleabitoreddit. Replies/comment threads were excluded. Some individual status pages did not expand full tweet DOM, so long posts with Show more were summarized conservatively from visible timeline text.",
+  "summary": "6 月 24 日刷新新增中文“最新消息”流：Serenity 将 OpenLight 的公开生态延伸到 $JBL/$SIVE、$MRVL/$MXL、$TSEM 与 TFC Optical，强化硅光子量产测试后的供应链跟踪框架；她仍将 AI 资本开支视为未来收入或利润率扩张的投入，并把 $AMZN 作为偏好的 hyperscaler 例子。$XFAB 获得 1.274 亿欧元 Chips Act 资金、计划 2028 年启动 Erfurt MEMS/光子产能，成为欧洲制造补贴的新观察点。订阅者帖仅保留高层的超跌/修复交易观察，不公开付费内容细节。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-06-24T14:52:41+08:00",
+      "type": "OpenLight / 硅光子量产测试 / 公开生态",
+      "headline": "Serenity 认为私有公司 OpenLight 的公开生态仍在扩大：除 Advantest 外，她点到 $JBL（$SIVE 的合作伙伴）用于 PIC 扩产、$MRVL 与 $MXL 用于 DSP、$TSEM 作为晶圆厂，以及 TFC Optical（$300394.SZ）作为 OSAT/子组件方向。该帖用于跟踪硅光子 HVM 测试后的供应链映射，并非客户订单确认。",
+      "tickers": [
+        "$JBL",
+        "$SIVE",
+        "$MRVL",
+        "$MXL",
+        "$TSEM",
+        "$300394.SZ"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2069675057300082728",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-24T13:36:52+08:00",
+      "type": "AI 资本开支 / hyperscaler / $AMZN",
+      "headline": "Serenity 反驳“半导体吸走 hyperscaler 利润”会削弱资本开支的观点：她将相关投入理解为未来大幅收入或利润率提升的前置资本开支，并称 $AMZN 是当前偏好的 hyperscaler 案例。该判断仍需以云业务收入、效率与资本开支回报验证。",
+      "tickers": [
+        "$AMZN"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2069655980456149142",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-24T02:10:40+08:00",
+      "type": "订阅者帖 / 超跌修复观察",
+      "headline": "Serenity 在订阅者帖中把超跌/修复交易称为副线兴趣，并以 $CRCL 与 $NFLX 等为例列出她当下的初步观察。此条只保留公开可见的高层框架，不展开付费帖后续名单或论证。",
+      "tickers": [
+        "$CRCL",
+        "$NFLX"
+      ],
+      "severity": "low",
+      "url": "https://x.com/aleabitoreddit/status/2069483291158385112",
+      "source": "Subs-visible"
+    },
+    {
+      "publishedAt": "2026-06-23T23:42:09+08:00",
+      "type": "半导体与光互连 / 单日回撤监测",
+      "headline": "Serenity 汇总了 $SIVE、$TSEM、$MU、$MRVL、$LITE、$AAOI、$AXTI、$IQE 等多只半导体和光互连相关标的的单日大幅回撤。这是风险与波动率记录，不构成新增买入催化。",
+      "tickers": [
+        "$SIVE",
+        "$TSEM",
+        "$MU",
+        "$MRVL",
+        "$LITE",
+        "$AAOI",
+        "$AXTI",
+        "$IQE"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2069445918114697463",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-23T22:39:35+08:00",
+      "type": "$XFAB / 欧洲 Chips Act / MEMS 与光子制造",
+      "headline": "Serenity 提到 $XFAB 获得 1.274 亿欧元 Chips Act 资金，用于 Erfurt 的 MEMS/光子制造扩张，公开表述的投产目标为 2028 年。补贴金额相对约 12.3 亿美元市值显著，但实际产能、执行节奏与回报仍需跟踪。",
+      "tickers": [
+        "$XFAB"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2069430169300070612",
+      "source": "Posts"
+    },
     {
       "publishedAt": "2026-06-22T21:07:11+08:00",
       "type": "订阅者帖 / 台湾 IC 高成长筛选",
@@ -58,84 +126,6 @@
       ],
       "severity": "medium",
       "url": "https://x.com/aleabitoreddit/status/2068860355393290703"
-    },
-    {
-      "publishedAt": "2026-06-21T19:04:51+08:00",
-      "type": "SIVE / 下一代光互连架构 / 激光供应商定位",
-      "headline": "Serenity 反驳 SIVE 只适用于 CPO scale-up 的理解，强调 SIVE 是下一代架构的激光供应商，覆盖 pluggable、scale-out CPO、scale-up CPO、NPO 等方向；她还提到 Sivers 与 JBL 已围绕 1.6T 光收发器和 CW laser 做出设计验证。",
-      "tickers": [
-        "$SIVE",
-        "$JBL"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2068651355422814294"
-    },
-    {
-      "publishedAt": "2026-06-21T13:32:42+08:00",
-      "type": "预测市场 / 付费推广透明度 / 研究独立性",
-      "headline": "Serenity 认为预测市场可能面临更多监管审查，并批评通过未披露付费评论操纵 X 算法的做法；她表示自己也收到过类似报价，但拒绝付费推广以保持研究独立。",
-      "tickers": [
-        "Polymarket"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2068567767951749467"
-    },
-    {
-      "publishedAt": "2026-06-21T11:32:21+08:00",
-      "type": "贸易战策略 / 前沿供应链瓶颈",
-      "headline": "Serenity 认为真正决定贸易战胜负的是量子、AI、机器人等前沿供应链，而不是低附加值出口；她点到 ASML、TOWA、LPK、味之素，以及日本、欧洲、台湾、韩国伙伴掌握的关键垄断和瓶颈。",
-      "tickers": [
-        "$ASML",
-        "$TOWA",
-        "$LPK",
-        "Ajinomoto"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2068537478131118438"
-    },
-    {
-      "publishedAt": "2026-06-20T19:52:49+08:00",
-      "type": "原创想法 / 早期反对到后续验证",
-      "headline": "Serenity 回顾 AXTI、RPI、SIVE、AAOI、LITE、RKLB、HOOD、IQE、SOI 等原创线索早期都经历强烈质疑，随后通过业绩、机构持仓、合作或重估得到验证。",
-      "tickers": [
-        "$AXTI",
-        "$RPI",
-        "$SIVE",
-        "$AAOI",
-        "$LITE",
-        "$RKLB",
-        "$HOOD",
-        "$IQE",
-        "$SOI"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2068301039946887269"
-    },
-    {
-      "publishedAt": "2026-06-20T17:46:52+08:00",
-      "type": "X 收入分成 / 创作者语境 / 非投资主线",
-      "headline": "Serenity 分享 X 收入分成和发帖动机，表示即使没有收入也会继续以同样方式发帖。这主要是信任和创作者经济语境，不是新的市场 thesis。",
-      "tickers": [
-        "$RDDT"
-      ],
-      "severity": "low",
-      "url": "https://x.com/aleabitoreddit/status/2068269343033655490"
-    },
-    {
-      "publishedAt": "2026-06-20T11:52:23+08:00",
-      "type": "NAV 折价 / Wistron-Wiwynn / ACMR-WUS",
-      "headline": "Serenity 分享个人 NAV 折价研究：Wistron 是她看到的较好线索之一，持有 Wiwynn 35.46% 且 Q1 增长强；她也列出 Priortech/CAMT、Sin-American Silicon/GlobalWafers、Iljin、Simmtech，并称 ACMR 与 WUS 仍是 NAV 折价加独立增长里的重要观察对象。",
-      "tickers": [
-        "3231",
-        "Wiwynn",
-        "$ACMR",
-        "WUS",
-        "$CAMT",
-        "5483",
-        "6488"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2068180134667182470"
     }
   ],
   "ideas": [
