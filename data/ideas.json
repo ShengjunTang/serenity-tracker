@@ -1,8 +1,162 @@
 {
-  "generatedAt": "2026-06-24T17:14:15+08:00",
-  "sourceWindow": "X Posts + Subs via logged-in Chrome profile where visible; latest refresh 2026-06-24 17:14 Beijing. Read normal Posts and the visible subscriber-only Subs timeline from @aleabitoreddit. Replies/comment threads were excluded. Some individual status pages did not expand full tweet DOM, so long posts with Show more were summarized conservatively from visible timeline text.",
-  "summary": "6 月 24 日刷新新增中文“最新消息”流：Serenity 将 OpenLight 的公开生态延伸到 $JBL/$SIVE、$MRVL/$MXL、$TSEM 与 TFC Optical，强化硅光子量产测试后的供应链跟踪框架；她仍将 AI 资本开支视为未来收入或利润率扩张的投入，并把 $AMZN 作为偏好的 hyperscaler 例子。$XFAB 获得 1.274 亿欧元 Chips Act 资金、计划 2028 年启动 Erfurt MEMS/光子产能，成为欧洲制造补贴的新观察点。订阅者帖仅保留高层的超跌/修复交易观察，不公开付费内容细节。",
+  "generatedAt": "2026-06-26T21:40:00+08:00",
+  "sourceWindow": "Latest refresh 2026-06-26 21:40 Beijing. Collection used Serenity main Posts plus visible subscriber-only Subs in logged-in X/Chrome; Replies were not scanned. Truncated posts were opened on their status pages where possible. Subscriber-only content is summarized at high level only.",
+  "summary": "6 月 26 日刷新继续使用中文“最新消息”流：Serenity 在市场剧烈回撤中强化 $SIVE / $AAOI / 光互连的 2027-2028 放量框架，同时承认 photonics 与高 beta AI 资产最近遭遇集中回撤；她把内存链从 $MU、SK Hynix、Samsung 延伸到 humanoid/edge AI 的长期需求，并借 Elon Musk 供需评论继续强调 memory bottleneck。新增功率半导体价格上涨线索，指向 $AOSL、$POWI 等美国 power semi 的 800V DC 之前的主题性验证；订阅者帖仅保留“约 8 个月提前定价”的高层节奏框架，不公开付费细节。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-06-26T21:06:00+08:00",
+      "type": "AI 模型蒸馏 / 推理成本 / KYC 访问控制",
+      "headline": "Serenity 认为 UBS 关于美国公司使用中国低成本模型的观察有现实基础，并把 Anthropic/Qwen 等蒸馏争议放进“便宜推理 vs 前沿模型保护”的框架：美国需要更便宜的优化推理模型，同时对接近前沿能力的模型访问引入银行级身份验证、短期权限与更强监管。该帖偏 AI 产业政策和模型商业化，不是单一股票催化。",
+      "tickers": [
+        "$BABA",
+        "$HOOD",
+        "$IBKR"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2070493783804813451",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-26T17:50:52+08:00",
+      "type": "$SIVE / hyperscaler mapping / 硅光子仓位",
+      "headline": "Serenity 在 $SIVE 下跌中再次确认自己仍持有百万股级仓位，并称她对 hyperscaler mapping 研究仍有信心。她把争议点集中在 4-6 英寸 InP、员工数、客户是谁、放量时间表等未充分验证环节，个人等待 2027 年 volume ramp 与潜在 Nasdaq listing/M&A 路径；这强化了长期 thesis，也再次提醒该线对验证节奏和市场波动高度敏感。",
+      "tickers": [
+        "$SIVE",
+        "$EWY",
+        "$NBIS",
+        "$IREN",
+        "$LITE"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2070444675337503166",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-26T15:47:43+08:00",
+      "type": "Memory bottleneck / $MU / SK Hynix / Samsung",
+      "headline": "Serenity 引用 Elon Musk 对产能短缺的评论，继续强调 $MU、SK Hynix、Samsung 等内存链在 AI 需求与价格上涨中的瓶颈地位。她认为特斯拉/AI 基建需求侧视角可能比普通市场参与者更接近真实供需压力。",
+      "tickers": [
+        "$MU",
+        "$TSLA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2070413682996347069",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-26T11:51:47+08:00",
+      "type": "全球回撤 / 高 beta AI 资产 / 风险控制",
+      "headline": "Serenity 记录全球市场同步回撤：KOSPI、Nikkei、TWSE 均大跌，$SOI、$RKLB 等高 beta 名字 30-40% 回撤。她表示不确定何时结束，经验上高 beta 往往跌得更重但也可能领先指数恢复；这条更像风险框架，不是新增买入催化。",
+      "tickers": [
+        "$SOI",
+        "$RKLB"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2070354308965728519",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-26T08:34:45+08:00",
+      "type": "Power semis / 800V DC / 中国功率半导体涨价",
+      "headline": "Serenity 认为中国功率半导体厂商的新一轮涨价对美国 power semi 主题有正面读-through：扬杰科技二次调价，华润微、士兰微、NCE Power 等也涨价，需求来自 AI 数据中心、能源系统和新能源车。她把这视为 800V DC 完全落地前，$AOSL 到 $POWI 等 power semi 交易的主题性验证。",
+      "tickers": [
+        "$AOSL",
+        "$POWI"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2070304723262210194",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-26T00:15:27+08:00",
+      "type": "$SIVE / $AAOI / photonics 放量框架",
+      "headline": "Serenity 在 photonics 大跌后称自己“比以往更 bullish”：她把 $SIVE 连接到 $GFS reference laser、Ayar/$NVDA NVLink scale-up、$POET scale-out、$JBL 1.6T+ pluggables 与 O-Net ELS，并将 $AAOI 视为美国端到端 laser/design/assembly 产能。核心还是等待 2027-2028 放量，风险是短期波动、融资/可转债、Nasdaq listing 与客户订单验证。",
+      "tickers": [
+        "$SIVE",
+        "$AAOI",
+        "$GFS",
+        "$NVDA",
+        "$POET",
+        "$JBL",
+        "$AMD",
+        "$NBIS"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-25T22:51:04+08:00",
+      "type": "AI 上游资产回撤 / photonics vs memory",
+      "headline": "Serenity 对比各类 AI/高 beta 资产回撤：photonics 从 $AXTI 到 $SIVE 约 40% 回撤，space、AI software、部分 popular AI names 也明显回落，而 memory、指数和大型半导体相对抗跌。她仍看多 AI buildout 和 upstream capex beneficiary，但承认利率与流动性冲击会放大短线压力。",
+      "tickers": [
+        "$AXTI",
+        "$SIVE",
+        "$ASTS",
+        "$RKLB",
+        "$PLTR",
+        "$CRM",
+        "$MU"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2070157835137434015",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-25T12:56:18+08:00",
+      "type": "日本小市值瓶颈 / hyperscaler AI buildout",
+      "headline": "Serenity 用一句话概括当前错配：部分日本公司掌握 hyperscaler AI buildout 的冷门瓶颈，估值只有约 1.5-3.5 亿美元，而硅谷 seed round 可以轻松融到 2 亿美元。该帖是继续提示日本/亚洲小型供应链瓶颈的研究方向，并非明确点名新标的。",
+      "tickers": [],
+      "severity": "low",
+      "url": "https://x.com/aleabitoreddit/status/2070008157892751624",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-25T11:45:23+08:00",
+      "type": "$MU / humanoid robots / 长周期内存需求",
+      "headline": "Serenity 引用 $MU CEO 对 humanoid robots 的判断：人形机器人可能需要约当前 L2+ 自动驾驶汽车 10 倍内存，且需求浪潮可能在本十年结束前开始。她把 $TSM、$TSLA、$MU 等行业领袖对 physical AI 的表态并列，继续把 memory 看作长期 AI/机器人瓶颈。",
+      "tickers": [
+        "$MU",
+        "$TSM",
+        "$TSLA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2069990311296975133",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-25T11:11:40+08:00",
+      "type": "订阅者帖 / 主题提前定价节奏 / 资产配置框架",
+      "headline": "Serenity 在订阅者帖中提出个人经验框架：多数主题可能提前约 8 个月被市场定价，但 Space、Robotics、Quantum 等例外更早；她将关注重心放在 memory、neoclouds、photonics、robotics，并把 $SIVE 作为横跨 pluggable、NPO、CPO 等架构的例子。此处只保留高层框架，不公开付费帖完整细节。",
+      "tickers": [
+        "$LITE",
+        "$COHR",
+        "$AAOI",
+        "$JBL",
+        "$POET",
+        "$AXTI",
+        "$MU",
+        "$NBIS",
+        "$SIVE",
+        "$LPK"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2069981824885887060",
+      "source": "Subs-visible"
+    },
+    {
+      "publishedAt": "2026-06-25T10:15:43+08:00",
+      "type": "CPO/photonics 回撤复盘 / 仓位集中风险",
+      "headline": "Serenity 承认近期 CPO/photonics 与相邻名字回撤很重，个人教训是 photonics 暴露相对 memory/其他板块过于集中且缺少权重或对冲。她仍认为 photonics supercycle 处在早期，$AXTI、$SOI、$AAOI 等若 thesis 正确，中期关键 inflection 仍在 2027-2028，但需要建立自己的 conviction。",
+      "tickers": [
+        "$AXTI",
+        "$SOI",
+        "$AAOI"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2069967746377662587",
+      "source": "Posts"
+    },
     {
       "publishedAt": "2026-06-24T14:52:41+08:00",
       "type": "OpenLight / 硅光子量产测试 / 公开生态",
@@ -41,91 +195,6 @@
       "severity": "low",
       "url": "https://x.com/aleabitoreddit/status/2069483291158385112",
       "source": "Subs-visible"
-    },
-    {
-      "publishedAt": "2026-06-23T23:42:09+08:00",
-      "type": "半导体与光互连 / 单日回撤监测",
-      "headline": "Serenity 汇总了 $SIVE、$TSEM、$MU、$MRVL、$LITE、$AAOI、$AXTI、$IQE 等多只半导体和光互连相关标的的单日大幅回撤。这是风险与波动率记录，不构成新增买入催化。",
-      "tickers": [
-        "$SIVE",
-        "$TSEM",
-        "$MU",
-        "$MRVL",
-        "$LITE",
-        "$AAOI",
-        "$AXTI",
-        "$IQE"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2069445918114697463",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-23T22:39:35+08:00",
-      "type": "$XFAB / 欧洲 Chips Act / MEMS 与光子制造",
-      "headline": "Serenity 提到 $XFAB 获得 1.274 亿欧元 Chips Act 资金，用于 Erfurt 的 MEMS/光子制造扩张，公开表述的投产目标为 2028 年。补贴金额相对约 12.3 亿美元市值显著，但实际产能、执行节奏与回报仍需跟踪。",
-      "tickers": [
-        "$XFAB"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2069430169300070612",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-22T21:07:11+08:00",
-      "type": "订阅者帖 / 台湾 IC 高成长筛选",
-      "headline": "Serenity 在订阅者帖中提示，台湾 IC 公司高成长榜里有值得继续深挖的线索，并点到 Etron 相关的 DRAM、DDR4、KGD/KGDM 与 networking memory 方向。此条只作为研究线索，不在公开页展开付费帖细节。",
-      "tickers": [
-        "Etron",
-        "TW IC"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2069044528435318979",
-      "source": "Subs-visible"
-    },
-    {
-      "publishedAt": "2026-06-22T18:33:46+08:00",
-      "type": "LPK / 玻璃基板设备 / full-ramp 估值想象",
-      "headline": "Serenity 回应 LPK 时表示，如果玻璃基板相关业务进入 full volume ramp，约 30-50 亿美元市值区间在她看来可能合理；她继续把 LPK 看作客户已在手、等待放量的非对称玻璃基板设备线索。",
-      "tickers": [
-        "$LPK"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2069005921318281566"
-    },
-    {
-      "publishedAt": "2026-06-22T10:14:41+08:00",
-      "type": "日本供应链 / SIVE 情绪 / 轻量市场反馈",
-      "headline": "Serenity 用玩笑方式把日本队和 SIVE 情绪联系起来，延续她对瑞典市场低估 SIVE 的叙事。这条更偏情绪和社区语境，不作为新的公司级催化。",
-      "tickers": [
-        "$SIVE"
-      ],
-      "severity": "low",
-      "url": "https://x.com/aleabitoreddit/status/2068880324202008964"
-    },
-    {
-      "publishedAt": "2026-06-22T09:20:35+08:00",
-      "type": "WUS Taiwan / NAV 折价 / AI PCB 独立增长",
-      "headline": "Serenity 说 WUS Taiwan 已连续三个涨停，并再次把它列为 NAV 折价加独立增长的核心交易之一：母公司持有 WUS Kunshan 股权，同时自身还有 AI 数据中心 PCB 增长线。",
-      "tickers": [
-        "2316",
-        "WUS"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2068866709667406286"
-    },
-    {
-      "publishedAt": "2026-06-22T08:55:20+08:00",
-      "type": "日本半导体 / 机器人供应链市场反馈",
-      "headline": "Serenity 观察到日本市场中 Furukawa、Towa、Harmonic Drive、Ibiden 等标的同步走强，这与她此前偏好的西方/日本机器人和先进封装供应链框架一致，但本条主要是市场反馈。",
-      "tickers": [
-        "Furukawa",
-        "Towa",
-        "Harmonic Drive",
-        "Ibiden"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2068860355393290703"
     }
   ],
   "ideas": [
@@ -135,8 +204,8 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity continues to frame SIVE as a core laser / silicon-photonics chokepoint and reinforced it on June 18 in Chinese: AAOI and SIVE are her favorite laser companies because revenue can expand beyond standalone lasers into optical modules, optical engines and ELS components. She also argued most of the revenue ramp is still early, with major scaling more likely in 2027 H1/H2.",
-      "whyItMatters": "The June 18 post turns the SIVE/AAOI line into a broader photonics TAM-expansion thesis: not just scarce CW-laser capacity, but vertical expansion into higher-value optical subsystems and potentially COHR-like upstream integration. The key still remains company-specific order conversion and disclosed capacity/revenue timing.",
+      "thesis": "Serenity continues to frame SIVE as a core laser / silicon-photonics chokepoint. On June 26, during a sharp photonics drawdown, she said she remains comfortable with her hyperscaler mapping research, still holds a million+ share position, and is waiting for 2027 volume ramp plus a potential NASDAQ listing / M&A path.",
+      "whyItMatters": "The June 26 update is both conviction and risk disclosure: Serenity ties SIVE to GFS reference laser, Ayar / NVDA NVLink scale-up, POET scale-out, JBL 1.6T+ pluggables and O-Net ELS, but the market is still debating customer mapping, InP/foundry capacity, dilution/convertible financing, listing timing and volume-ramp proof.",
       "catalysts": [
         "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
         "Serenity expects the ALL.SPACE/YSS relationship may create follow-on space and defense volume orders",
@@ -192,7 +261,10 @@
         "COHR-style upstream substrate integration is cited as a possible playbook for margin and TAM expansion across photonics leaders",
         "Serenity named Photonics as one of her core three themes and SIVE as the top performer she selected for that segment",
         "She says opticals are still very early in the supercycle and should be evaluated against 2027/2028 projections",
-        "Serenity used this idea as part of her backlash-to-validation framework, arguing original supply-chain ideas often face early skepticism before later earnings, institutions, partnerships or rerating validate them"
+        "Serenity used this idea as part of her backlash-to-validation framework, arguing original supply-chain ideas often face early skepticism before later earnings, institutions, partnerships or rerating validate them",
+        "Serenity said she still has a million+ share SIVE position and is waiting for 2027 volume ramp plus NASDAQ listing support for potential M&A",
+        "Serenity mapped SIVE across GFS reference laser, Ayar / NVDA NVLink scale-up, POET scale-out, JBL 1.6T+ pluggables and O-Net ELS",
+        "Serenity says SIVE is fabless for mass production and relies on Win Semi / foundry partners rather than needing heavy in-house capex"
       ],
       "risks": [
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
@@ -231,7 +303,10 @@
         "June 18 photonics upside framing is thematic and still needs SIVE-specific orders, module/engine revenue and margin evidence",
         "A 2027 ramp timeline means market expectations may run ahead of disclosed revenue for several quarters",
         "June 19 SIVE mention is portfolio/thematic validation rather than new Sivers-specific customer evidence",
-        "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks"
+        "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks",
+        "Recent photonics drawdown shows SIVE remains highly sensitive to macro, liquidity, short-side narratives and validation timing",
+        "Convertible note, share authorization, NASDAQ listing path and institutional ownership need verification from filings rather than social-media framing",
+        "Hyperscaler customer mapping remains OSINT-based until customer orders or revenue conversion are disclosed"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -276,8 +351,18 @@
         "Track whether SIVE discloses optical-module, optical-engine or ELS component revenue beyond laser supply",
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings"
       ],
-      "lastUpdated": "2026-06-22 21:39",
+      "lastUpdated": "2026-06-26 21:40",
       "evidence": [
+        {
+          "date": "2026-06-25",
+          "quote": "Serenity said she is more bullish as SIVE falls, mapping SIVE to GFS, Ayar/NVDA scale-up, POET scale-out, JBL pluggables and O-Net ELS while acknowledging financing/listing noise.",
+          "url": "https://x.com/aleabitoreddit/status/2070179074048409662"
+        },
+        {
+          "date": "2026-06-26",
+          "quote": "Serenity said she remains comfortable with her SIVE hyperscaler mapping research, still has a million+ share position, and is waiting for 2027 volume ramp plus NASDAQ listing support.",
+          "url": "https://x.com/aleabitoreddit/status/2070444675337503166"
+        },
         {
           "date": "2026-06-21 19:04",
           "quote": "Serenity said SIVE is a laser supplier for next-generation architectures beyond only CPO scale-up, including pluggable, scale-out CPO, scale-up CPO and NPO.",
@@ -1117,7 +1202,8 @@
         "Serenity reiterated AAOI and SIVE as favorite laser companies due to expansion into modules, optical engines and ELS components",
         "She says the photonics theme remains extremely early and most revenue ramp should start in 2027 H1/H2",
         "COHR-style vertical integration is cited as a potential margin/TAM expansion template for optical winners",
-        "Serenity used this idea as part of her backlash-to-validation framework, arguing original supply-chain ideas often face early skepticism before later earnings, institutions, partnerships or rerating validate them"
+        "Serenity used this idea as part of her backlash-to-validation framework, arguing original supply-chain ideas often face early skepticism before later earnings, institutions, partnerships or rerating validate them",
+        "Serenity reiterated AAOI as an end-to-end US laser/design/assembly player and cited potential 2027 monthly revenue projection upside if management executes"
       ],
       "risks": [
         "Higher rate-hike probabilities can still pressure high-beta optical names even if the AI buildout thesis is intact",
@@ -1139,7 +1225,8 @@
         "If AAOI cannot scale capacity or win customer allocation, sector scarcity may not translate into company-specific upside",
         "The June 18 post is a thematic reinforcement rather than a new AAOI customer announcement",
         "If 2027 ramp slips, current optical expectations may be too early",
-        "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks"
+        "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks",
+        "AAOI was pulled down with the photonics theme and remains exposed to high-beta optical volatility even if Serenity keeps conviction in AMD CW LTA reports and 2027 projections"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -1164,8 +1251,18 @@
         "Watch AAOI disclosures for module, engine or ELS component revenue and customer allocation",
         "Track whether management guidance supports the 2027 H1/H2 ramp framing"
       ],
-      "lastUpdated": "2026-06-20",
+      "lastUpdated": "2026-06-26 21:40",
       "evidence": [
+        {
+          "date": "2026-06-26",
+          "quote": "In a reply, Serenity said AAOI looked hit by a photonics-theme selloff plus macro drop, while she remains personally confident from AMD CW LTA reports and next-year projections.",
+          "url": "https://x.com/aleabitoreddit/status/2070308614829728045"
+        },
+        {
+          "date": "2026-06-25",
+          "quote": "Serenity grouped AAOI with SIVE in the photonics drawdown, citing AAOI as an end-to-end US laser/design/assembly player and saying she is waiting for volume ramps to hit.",
+          "url": "https://x.com/aleabitoreddit/status/2070179074048409662"
+        },
         {
           "date": "2026-06-20",
           "quote": "Serenity reviewed multiple ideas that faced intense early backlash before later validation, including AXTI, RPI, SIVE, AAOI, LITE, IQE and SOI.",
@@ -2121,8 +2218,8 @@
       "name": "AI memory shortage / Samsung / SK Hynix",
       "tier": "watch",
       "theme": "AI memory shortage / HBM cycle",
-      "thesis": "Serenity now explicitly pairs Memory with Photonics as her two top themes. She used the memory rally from prior bearish consensus as a template for why investors should think independently about 2027-2028 projections rather than follow current narratives.",
-      "whyItMatters": "The June 19 update reframes memory as not just a past winner but a discipline lesson for opticals: when projections and supply/demand setup diverge from consensus, the key is independent modeling. The risk is that retrospective winner framing can hide valuation and cycle timing risk.",
+      "thesis": "Serenity now explicitly pairs Memory with Photonics as a top AI-buildout theme and reinforced the memory bottleneck again on June 25-26 through MU CEO humanoid-robot commentary and Elon Musk supply-shortfall comments around MU / SK Hynix / Samsung.",
+      "whyItMatters": "The update extends the memory thesis beyond near-term HBM into physical AI, humanoids and edge/on-device AI demand. It also explains why memory held up better than many high-beta AI optical names during the drawdown, but valuation and cycle risk remain central.",
       "catalysts": [
         "NVDA CEO warning that memory shortage may persist for many years",
         "AI infrastructure scaling demand continues to pressure memory supply",
@@ -2136,7 +2233,10 @@
         "AI capex framework says upstream semiconductors such as SK Hynix do not look like a bubble",
         "Serenity says memory and photonics are her two top themes",
         "She cited strong moves in MU, SNDK, EWY, SK Hynix and Samsung after broad bearishness three months earlier",
-        "She suggests current optical projections into 2027/2028 may deserve similar independent thinking"
+        "She suggests current optical projections into 2027/2028 may deserve similar independent thinking",
+        "MU CEO said humanoid robots may need roughly 10x the memory of today’s L2+ autonomous vehicles, according to Serenity’s cited post",
+        "Elon Musk commented that production shortfall relative to demand is severe, which Serenity reads as support for MU / SK Hynix / Samsung memory tightness",
+        "Memory held up better than photonics/software/space during the late-June high-beta drawdown in Serenity’s framing"
       ],
       "risks": [
         "Memory remains cyclical if supply catches up faster than expected",
@@ -2148,7 +2248,9 @@
         "Memory upcycle can still reverse if supply growth catches demand faster than expected",
         "EWY remains a broad Korea ETF and includes non-memory exposures",
         "The post is retrospective and does not guarantee further memory upside",
-        "Large post-rally moves raise valuation and cycle-timing risk"
+        "Large post-rally moves raise valuation and cycle-timing risk",
+        "Humanoid and physical-AI memory demand is still a long-horizon forecast and can be over-discounted before revenue arrives",
+        "Memory outperformance during an optical drawdown can increase crowding and valuation risk"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -2163,8 +2265,18 @@
         "Compare current memory earnings estimates with Serenity-style independent projections",
         "Track whether 2027/2028 memory profitability assumptions are already priced in"
       ],
-      "lastUpdated": "2026-06-19",
+      "lastUpdated": "2026-06-26 21:40",
       "evidence": [
+        {
+          "date": "2026-06-25",
+          "quote": "Serenity highlighted MU CEO commentary that humanoid robots could require roughly ten times more memory than today’s Level 2+ autonomous vehicles, tying memory demand to physical AI.",
+          "url": "https://x.com/aleabitoreddit/status/2069990311296975133"
+        },
+        {
+          "date": "2026-06-26",
+          "quote": "Serenity cited Elon Musk sounding the alarm on demand and price hikes for MU / SK Hynix / Samsung memory relative to supply.",
+          "url": "https://x.com/aleabitoreddit/status/2070413682996347069"
+        },
         {
           "date": "2026-06-18",
           "quote": "Serenity said photonics and memory are the two top themes, using the memory rally after bearish consensus as a reason to think independently about 2027/2028 projections.",
@@ -2198,8 +2310,8 @@
       "name": "800V DC power semiconductor basket",
       "tier": "speculative",
       "theme": "800V DC / power semiconductor crowdsourced ideas",
-      "thesis": "Serenity compiled a community-sourced list of 800V DC and power-semiconductor related names after earlier asking for high-conviction power semi ideas linked to NVDA pushing a shift toward 800 VDC. She explicitly reminded readers that the list is crowdsourced rather than her own direct recommendation.",
-      "whyItMatters": "800V DC is one of the broader AI power-infrastructure themes adjacent to data-center power delivery. The list is useful as a discovery map, but it should be treated as an idea-generation basket rather than a vetted Serenity thesis.",
+      "thesis": "Serenity now adds a pricing signal to the earlier 800V DC / power-semiconductor discovery basket: Chinese power semiconductor makers are raising prices, which she sees as thematically bullish for US power semi names such as AOSL and POWI before the 800V DC data-center shift fully hits.",
+      "whyItMatters": "The June 26 update is stronger than the earlier crowdsourced list because it adds a demand/pricing read-through from China power semis across AI data centers, energy systems and EVs. It still needs company-level exposure mapping for each US name.",
       "catalysts": [
         "NVDA pushing data-center power architecture toward 800 VDC in Serenity's framework",
         "Crowdsourced list includes large and mid-cap power semiconductor names such as IFNNY, ON, Lite-On, VICR, LFUS, VSH, ENPH, NVTS, POWI, AEHR, WOLF and XFAB",
@@ -2207,7 +2319,11 @@
         "Morgan Stanley said NVDA denied reports that 800V DC shipments were pushed back, according to Serenity's cited post",
         "Serenity frames 800V DC and CPO investing as support for NVDA and Western AI supply-chain security",
         "She highlights upstream FAU, InP, SiC/GaN and laser-capacity investment as part of making difficult AI supply chains possible",
-        "Serenity said the WOLF power semiconductor basket should benefit from 800 VDC acceleration in a broader risk-on setup"
+        "Serenity said the WOLF power semiconductor basket should benefit from 800 VDC acceleration in a broader risk-on setup",
+        "Yangjie Technology announced a second 2026 price increase across its full product range by 10%-15% from July 1, according to Serenity’s cited Digitimes read-through",
+        "Chongqing China Resources Micro, Silan Microelectronics and NCE Power also reportedly raised prices",
+        "Serenity says demand, not only costs, appears to be driving power semiconductor price increases across AI data centers, energy systems and EVs",
+        "Serenity identifies AOSL to POWI as US power semi thematic beneficiaries before 800V DC fully hits"
       ],
       "risks": [
         "Serenity again clarified that 300376 and the broader list were follower-recommended ideas, not her own picks",
@@ -2217,7 +2333,9 @@
         "The list mixes power semis, energy storage, fuel cells, equipment and adjacent names, so purity is low",
         "800V DC remains vulnerable to report-driven volatility and conflicting supply-chain checks",
         "National-champion framing can broaden the theme too much; each 800V DC or power name still needs direct exposure verification",
-        "Serenity also clarified she currently has no WOLF position and still views its financials as toxic, so WOLF is a thematic cheer rather than a personal position"
+        "Serenity also clarified she currently has no WOLF position and still views its financials as toxic, so WOLF is a thematic cheer rather than a personal position",
+        "Power semiconductor price hikes are sector read-throughs and do not prove direct 800V DC exposure for AOSL, POWI or other US names",
+        "Need to separate China domestic pricing dynamics from US-listed company revenue and margin effects"
       ],
       "stance": "观望",
       "nextChecks": [
@@ -2229,8 +2347,13 @@
         "Map which 800V DC names directly support NVDA/AI supply-chain security versus broad policy adjacency",
         "Separate WOLF-specific balance-sheet/subsidy risk from the broader 800VDC power-semiconductor basket"
       ],
-      "lastUpdated": "2026-06-15",
+      "lastUpdated": "2026-06-26 21:40",
       "evidence": [
+        {
+          "date": "2026-06-26",
+          "quote": "Serenity said Chinese power semiconductor price hikes are bullish thematically for US power semi trades from AOSL to POWI before the 800V DC shift fully hits.",
+          "url": "https://x.com/aleabitoreddit/status/2070304723262210194"
+        },
         {
           "date": "2026-06-12",
           "quote": "Serenity said 800V DC and CPO themes are about investing in NVDA and securing Western AI supply chains across FAU, InP, SiC/GaN and laser capacity.",
@@ -2383,7 +2506,8 @@
         "AXTI dilution and China exposure remain separate company-level risks",
         "This is retrospective process validation and not necessarily a fresh company-level catalyst",
         "Still-holding language signals conviction but does not remove valuation, dilution, China exposure or cycle risk",
-        "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks"
+        "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks",
+        "Serenity noted AXTI and other photonics names were hit hard in the late-June drawdown, partly exposing concentration, dilution and high-beta risk even where the upstream bottleneck thesis remains intact"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -2398,8 +2522,13 @@
         "Re-read Reuters InP substrate article and compare with AXTI filings, shipments and pricing",
         "Track high-purity indium pricing and whether it changes AXTI substrate margins or demand"
       ],
-      "lastUpdated": "2026-06-20",
+      "lastUpdated": "2026-06-26 21:40",
       "evidence": [
+        {
+          "date": "2026-06-25",
+          "quote": "Serenity said she had too much concentration in photonics versus memory/other sectors, with AXTI, SOI, AAOI and CPO-adjacent names hit hard in the drawdown.",
+          "url": "https://x.com/aleabitoreddit/status/2069967746377662587"
+        },
         {
           "date": "2026-06-20",
           "quote": "Serenity reviewed multiple ideas that faced intense early backlash before later validation, including AXTI, RPI, SIVE, AAOI, LITE, IQE and SOI.",
