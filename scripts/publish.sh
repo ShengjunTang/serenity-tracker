@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_URL="${SERENITY_REPO_URL:-https://github.com/shengjuntang/serenity-tracker.git}"
-RAW_URL="https://raw.githubusercontent.com/shengjuntang/serenity-tracker/main/data/ideas.json"
-PAGES_URL="https://shengjuntang.github.io/serenity-tracker/data/ideas.json"
+REPO_URL="${SERENITY_REPO_URL:-https://github.com/ShengjunTang/serenity-tracker.git}"
+RAW_URL="https://raw.githubusercontent.com/ShengjunTang/serenity-tracker/main/data/ideas.json"
+PAGES_URL="https://ShengjunTang.github.io/serenity-tracker/data/ideas.json"
 CLOUDFLARE_URL="https://serenity-tracker.tangshengjun19910801.workers.dev/data/ideas.json"
 COMMIT_MESSAGE="Update Serenity tracker"
 PUSH=false
