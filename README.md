@@ -35,3 +35,23 @@ Recommended flow:
 4. GitHub Pages serves the refreshed dashboard. No local deployment is needed for readers.
 
 The X collection step is best run from a logged-in local browser or Codex automation because X content may depend on login/session state.
+
+## Publish Command
+
+The workspace copy does not need to be a Git checkout. The publish script validates
+the data, creates a clean temporary clone, copies only tracker files, pushes `main`,
+and waits until raw GitHub and GitHub Pages expose the expected `generatedAt` value.
+
+```bash
+# Validate without publishing
+scripts/publish.sh
+
+# Validate, commit, push, and verify GitHub Pages
+scripts/publish.sh --push --message "Update Serenity tracker latest feed"
+
+# Also deploy the Cloudflare Worker (requires a token in the environment)
+CLOUDFLARE_API_TOKEN=... scripts/publish.sh --push --cloudflare
+```
+
+Cloudflare is optional and isolated from the primary GitHub Pages path. A missing
+token no longer makes a successful GitHub publication look like a failed update.
