@@ -497,6 +497,22 @@ const zhCopy = {
       "观察 SPCX 情绪是否外溢到 AI 软件、space 和高 beta futurism 交易"
     ]
   },
+  cbrs: {
+    theme: "AI 推理加速 / OpenAI 部署",
+    thesis: "Serenity 在 OpenAI 选择 Cerebras 承载 GPT-5.6 Sol 后建立了 $CBRS 起始仓位，并把最高约 750 tokens/s 的推理速度视为技术验证。她同时承认，相比盈利硬件公司，Cerebras 当前估值带有明显溢价。",
+    whyItMatters: "前沿模型部署可验证 Cerebras 架构，并提供稀缺的公开市场 OpenAI 基础设施暴露。不过 thesis 高度依赖 benchmark 可复现性、客户集中度、商业经济性和 OpenAI 的持续领先。",
+    catalysts: ["OpenAI GPT-5.6 Sol 部署在 Cerebras 基础设施", "最高约 750 tokens/s 的推理性能声明", "公开市场 OpenAI 基础设施暴露的稀缺性溢价"],
+    risks: ["相对 JBL 等盈利硬件同行估值偏高", "厂商 benchmark 和吞吐声明需要真实工作负载验证", "客户集中度与 OpenAI 领先地位是主要依赖", "个人起始仓位不等于公司收入指引"],
+    nextChecks: ["核实 OpenAI 部署范围、合同周期与商业条款", "比较真实延迟、吞吐和成本与 GPU 方案", "检查收入集中度、毛利率及相对估值"],
+  },
+  "ccxi-aglt": {
+    theme: "人形机器人 IPO / 仓储自动化",
+    thesis: "Serenity 已投资预计在 Agility Robotics 交易后更名为 $AGLT 的 $CCXI 载体。她更看重应用型仓储与物流路径、已有运行时长和客户 pipeline，而不是纯粹的预商业化人形机器人叙事。",
+    whyItMatters: "Agility 可能成为稀缺的美国上市纯人形机器人公司，提供机器人商业化直接暴露。但当前估值、SPAC 完成、量产经济性与订单兑现仍有很大不确定性。",
+    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "多年订单与 30 多家客户 pipeline 线索", "Robofab 量产设施及物流制造客户测试", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持"],
+    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实"],
+    nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "跟踪 BOM 降本、年产能和单机毛利"],
+  },
   alrib: {
     theme: "MBE 设备 / quantum dot 与硅光工具链",
     thesis: "ALRIB / Riber 从早期 OSINT 线索升级为更具体的跟踪项。6 月 18 日 Serenity 提到股东会纪要：第二套 ROSIE system 预计很快交付给美国 leading quantum computing player，同时公司正加强 BTO / STO photonics 产品 BD，并记录到 strong interest。",
@@ -528,7 +544,6 @@ const state = {
   latestUpdates: [],
   selectedId: null,
   detailOpen: false,
-  latestExpanded: false,
   tier: "all",
   query: "",
   sortDesc: true,
@@ -808,8 +823,7 @@ function renderLatestUpdates() {
   const latestBatch = state.latestUpdates.find((item) => item.batch)?.batch;
   const scopedUpdates = latestBatch ? state.latestUpdates.filter((item) => item.batch === latestBatch) : state.latestUpdates;
   const updates = [...scopedUpdates].sort((a, b) => new Date(b.publishedAt ?? b.date) - new Date(a.publishedAt ?? a.date));
-  const visibleUpdates = state.latestExpanded ? updates : updates.slice(0, 3);
-  els.latestCount.textContent = state.latestExpanded ? `${updates.length} 条` : `显示 ${visibleUpdates.length}/${updates.length} 条`;
+  els.latestCount.textContent = `${updates.length} 条`;
   if (!updates.length) {
     els.latestList.innerHTML = `
       <div class="empty-state">
@@ -820,8 +834,7 @@ function renderLatestUpdates() {
     return;
   }
 
-  els.latestList.innerHTML =
-    visibleUpdates
+  els.latestList.innerHTML = updates
     .map((item) => {
       const impact = latestImpact(item);
       const original = latestOriginal(item);
@@ -846,18 +859,7 @@ function renderLatestUpdates() {
         </article>
       `;
     })
-      .join("") +
-    (updates.length > 3
-      ? `
-        <button class="latest-toggle" id="latest-toggle" type="button">
-          ${state.latestExpanded ? "收起最新消息" : `展开全部 ${updates.length} 条最新消息`}
-        </button>
-      `
-      : "");
-  document.querySelector("#latest-toggle")?.addEventListener("click", () => {
-    state.latestExpanded = !state.latestExpanded;
-    renderLatestUpdates();
-  });
+    .join("");
 }
 
 function renderList(title, items) {
