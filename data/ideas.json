@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-06-28T17:30:00+08:00",
-  "sourceWindow": "Latest refresh 2026-06-28 17:30 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. Truncated posts were opened on their status pages. Subscriber-only content is summarized at high level only.",
-  "summary": "6 月 28 日刷新覆盖 Posts + Subs。新增主线包括：Google Cloud 算力约束对 $META、$NBIS 与 AI 数据中心资本开支的正面映射；中国模型与 Anthropic 之间的蒸馏和网络安全竞争；MLCC 上游粉体、电极材料、稀土添加剂与铟供应链；人形机器人融资与 IPO 周期，以及 Agility Robotics 的 $CCXI/$AGLT 路径；OpenAI GPT-5.6 Sol 在 $CBRS 上部署带来的技术验证；SpaceX 收购 Mesh 对 1.6T 光互连、$SIVE、$LITE、$MTSI 的 read-through。最新消息保留 6 月 26-28 日滚动窗口，订阅者内容仅保留高层研究结论。",
+  "generatedAt": "2026-06-29T21:00:00+08:00",
+  "sourceWindow": "Latest refresh 2026-06-29 21:00 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. Truncated posts were opened on their status pages. No new Subs item appeared after the prior refresh boundary.",
+  "summary": "6 月 29 日刷新覆盖 Posts + Subs，新增 4 条实质性线索：Rakuten 与 $ASTS 拟在日本建立 LEO 卫星网络合资公司，以应对 $SPCX Starlink；$GM 以机器人替代部分工厂岗位并与 $NVDA 探索工厂机器人合作，强化工业自动化拐点；$POET AGM 将激光器短缺和光学关键组件约束延伸到 2028-2029，并提供 H2 2026 量产与 2027 扩产线索；Schaeffler $SHA0 被作为汽车供应链向人形机器人迁移的代表。最新消息保留 6 月 27-29 日滚动窗口，本次 Subs 没有晚于上次边界的新帖。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-06-29T18:43:13+08:00",
+      "type": "$ASTS / Rakuten / 日本 LEO 卫星网络",
+      "headline": "Serenity 引用 Digitimes/Nikkei 消息称，日本 Rakuten 将与 $ASTS 成立合资公司建设日本 LEO 卫星网络，市场普遍把它视为应对 $SPCX Starlink 在日本影响力上升的战略动作。该线索为 AST SpaceMobile 的区域商业化和卫星直连竞争提供新验证，但合资结构、资本投入、牌照、时间表与收入贡献仍需官方文件确认。",
+      "tickers": ["$ASTS", "$SPCX"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-29T17:54:00+08:00",
+      "type": "$GM / $NVDA / 工厂机器人自动化",
+      "headline": "Serenity 引用报道指出，$GM 裁减约 1,000 个岗位并以约 50 台机器人替代部分工作，同时 GM 据称正与 $NVDA 探索工厂机器人合作。她把这视为机器人提高运营效率和利润率的产业验证，并认为汽车装配、仓储与物流已经从技术验证进入预规模化阶段；报道数字、合作范围和实际节省仍需一手来源核实。",
+      "tickers": ["$GM", "$NVDA", "$AMZN"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2071532870859149617",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-29T14:57:45+08:00",
+      "type": "$POET AGM / 激光器短缺 / 光引擎扩产",
+      "headline": "Serenity 从 $POET AGM 提炼出多条光学市场 read-through：前三大激光供应商控制约 68% 市场且未来两年售罄，她据此把激光短缺推演到 2029；POET 预计 H2 2026 量产，并称现有年产约 100 万个 optical engines、2027 年末需求可能接近每月 100 万个。她同时把新客户 ELS NRE 映射到 $SIVE，但明确提醒 POET 的 hyperscaler 客户与产能收入证据不如 $AAOI 透明。",
+      "tickers": ["$POET", "$LITE", "$SIVE", "$AAOI"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2071488272245944399",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-28T17:32:25+08:00",
+      "type": "$SHA0 Schaeffler / 汽车供应链转向人形机器人",
+      "headline": "Serenity 将 Schaeffler $SHA0 作为汽车零部件公司向人形机器人扩张的代表：公司覆盖轴承、齿轮箱、传感器/ECU、执行器与功率电子，据称正与约 45 家 humanoid 玩家合作，相关部件可覆盖较高 BOM 比例。她认为 2027 年后 humanoid 与 AI 汽车可成为传统汽车供应链催化，但当前机器人收入占比仍低、公司负债较高，市场短期仍更关注 memory 与 MLCC 等即时瓶颈。",
+      "tickers": ["$SHA0", "$TSLA", "$TSM"],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+      "source": "Posts"
+    },
     {
       "publishedAt": "2026-06-28T15:37:26+08:00",
       "type": "$META / $NBIS / $GOOGL 算力约束",
@@ -83,88 +119,6 @@
       "severity": "medium",
       "url": "https://x.com/aleabitoreddit/status/2070559154352353724",
       "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-26T21:06:00+08:00",
-      "type": "AI 模型蒸馏 / 推理成本 / KYC 访问控制",
-      "headline": "Serenity 认为 UBS 关于美国公司使用中国低成本模型的观察有现实基础，并把 Anthropic/Qwen 等蒸馏争议放进“便宜推理 vs 前沿模型保护”的框架：美国需要更便宜的优化推理模型，同时对接近前沿能力的模型访问引入银行级身份验证、短期权限与更强监管。该帖偏 AI 产业政策和模型商业化，不是单一股票催化。",
-      "tickers": [
-        "$BABA",
-        "$HOOD",
-        "$IBKR"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2070493783804813451",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-26T17:50:52+08:00",
-      "type": "$SIVE / hyperscaler mapping / 硅光子仓位",
-      "headline": "Serenity 在 $SIVE 下跌中再次确认自己仍持有百万股级仓位，并称她对 hyperscaler mapping 研究仍有信心。她把争议点集中在 4-6 英寸 InP、员工数、客户是谁、放量时间表等未充分验证环节，个人等待 2027 年 volume ramp 与潜在 Nasdaq listing/M&A 路径；这强化了长期 thesis，也再次提醒该线对验证节奏和市场波动高度敏感。",
-      "tickers": [
-        "$SIVE",
-        "$EWY",
-        "$NBIS",
-        "$IREN",
-        "$LITE"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070444675337503166",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-26T15:47:43+08:00",
-      "type": "Memory bottleneck / $MU / SK Hynix / Samsung",
-      "headline": "Serenity 引用 Elon Musk 对产能短缺的评论，继续强调 $MU、SK Hynix、Samsung 等内存链在 AI 需求与价格上涨中的瓶颈地位。她认为特斯拉/AI 基建需求侧视角可能比普通市场参与者更接近真实供需压力。",
-      "tickers": [
-        "$MU",
-        "$TSLA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070413682996347069",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-26T11:51:47+08:00",
-      "type": "全球回撤 / 高 beta AI 资产 / 风险控制",
-      "headline": "Serenity 记录全球市场同步回撤：KOSPI、Nikkei、TWSE 均大跌，$SOI、$RKLB 等高 beta 名字 30-40% 回撤。她表示不确定何时结束，经验上高 beta 往往跌得更重但也可能领先指数恢复；这条更像风险框架，不是新增买入催化。",
-      "tickers": [
-        "$SOI",
-        "$RKLB"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2070354308965728519",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-26T08:34:45+08:00",
-      "type": "Power semis / 800V DC / 中国功率半导体涨价",
-      "headline": "Serenity 认为中国功率半导体厂商的新一轮涨价对美国 power semi 主题有正面读-through：扬杰科技二次调价，华润微、士兰微、NCE Power 等也涨价，需求来自 AI 数据中心、能源系统和新能源车。她把这视为 800V DC 完全落地前，$AOSL 到 $POWI 等 power semi 交易的主题性验证。",
-      "tickers": [
-        "$AOSL",
-        "$POWI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070304723262210194",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-26T00:15:27+08:00",
-      "type": "$SIVE / $AAOI / photonics 放量框架",
-      "headline": "Serenity 在 photonics 大跌后称自己“比以往更 bullish”：她把 $SIVE 连接到 $GFS reference laser、Ayar/$NVDA NVLink scale-up、$POET scale-out、$JBL 1.6T+ pluggables 与 O-Net ELS，并将 $AAOI 视为美国端到端 laser/design/assembly 产能。核心还是等待 2027-2028 放量，风险是短期波动、融资/可转债、Nasdaq listing 与客户订单验证。",
-      "tickers": [
-        "$SIVE",
-        "$AAOI",
-        "$GFS",
-        "$NVDA",
-        "$POET",
-        "$JBL",
-        "$AMD",
-        "$NBIS"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070179074048409662",
-      "source": "Posts"
     }
   ],
   "ideas": [
@@ -174,8 +128,8 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity continues to frame SIVE as a core laser / silicon-photonics chokepoint. On June 26, during a sharp photonics drawdown, she said she remains comfortable with her hyperscaler mapping research, still holds a million+ share position, and is waiting for 2027 volume ramp plus a potential NASDAQ listing / M&A path.",
-      "whyItMatters": "The June 26 update is both conviction and risk disclosure: Serenity ties SIVE to GFS reference laser, Ayar / NVDA NVLink scale-up, POET scale-out, JBL 1.6T+ pluggables and O-Net ELS, but the market is still debating customer mapping, InP/foundry capacity, dilution/convertible financing, listing timing and volume-ramp proof.",
+      "thesis": "Serenity continues to frame SIVE as a core laser / silicon-photonics chokepoint. On June 29 she used POET AGM commentary to extend the laser-supply shortage into 2028-2029 and mapped a new-customer external-light-source NRE back to SIVE's disclosed ELS relationship, while still treating customer qualification and volume conversion as the key proof points.",
+      "whyItMatters": "The POET read-through adds a new demand and scarcity signal to SIVE's existing GFS, Ayar/NVDA, POET, JBL and O-Net ecosystem mapping. It is not a disclosed SIVE purchase order: the new customer, qualification status, volume timing, revenue and supplier identity still require primary confirmation.",
       "catalysts": [
         "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
         "Serenity expects the ALL.SPACE/YSS relationship may create follow-on space and defense volume orders",
@@ -234,7 +188,9 @@
         "Serenity used this idea as part of her backlash-to-validation framework, arguing original supply-chain ideas often face early skepticism before later earnings, institutions, partnerships or rerating validate them",
         "Serenity said she still has a million+ share SIVE position and is waiting for 2027 volume ramp plus NASDAQ listing support for potential M&A",
         "Serenity mapped SIVE across GFS reference laser, Ayar / NVDA NVLink scale-up, POET scale-out, JBL 1.6T+ pluggables and O-Net ELS",
-        "Serenity says SIVE is fabless for mass production and relies on Win Semi / foundry partners rather than needing heavy in-house capex"
+        "Serenity says SIVE is fabless for mass production and relies on Win Semi / foundry partners rather than needing heavy in-house capex",
+        "POET AGM commentary said the top three laser suppliers control about 68% of the market and are sold out for two years, which Serenity reads as laser scarcity extending toward 2029",
+        "POET disclosed a new-customer NRE around a high-power external light source, which Serenity maps to SIVE based on the September 2025 ELS release"
       ],
       "risks": [
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
@@ -276,7 +232,8 @@
         "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks",
         "Recent photonics drawdown shows SIVE remains highly sensitive to macro, liquidity, short-side narratives and validation timing",
         "Convertible note, share authorization, NASDAQ listing path and institutional ownership need verification from filings rather than social-media framing",
-        "Hyperscaler customer mapping remains OSINT-based until customer orders or revenue conversion are disclosed"
+        "Hyperscaler customer mapping remains OSINT-based until customer orders or revenue conversion are disclosed",
+        "The June 29 POET ELS supplier mapping is inference-based and must not be treated as a confirmed SIVE order"
       ],
       "stance": "重点关注",
       "nextChecks": [
@@ -319,10 +276,16 @@
         "Track whether AMD, CSPs, GFS, Sivers, AAOI or Macom disclose CW laser LTAs or capacity reservations",
         "Compare SIVE capacity roadmap with Lumentum, Coherent, Sumitomo and Furukawa capacity constraints",
         "Track whether SIVE discloses optical-module, optical-engine or ELS component revenue beyond laser supply",
-        "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings"
+        "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings",
+        "Read POET AGM materials and the September 2025 ELS release to verify whether SIVE is explicitly tied to the new-customer NRE and volume ramp"
       ],
-      "lastUpdated": "2026-06-26 21:40",
+      "lastUpdated": "2026-06-29 21:00",
       "evidence": [
+        {
+          "date": "2026-06-29 14:57",
+          "quote": "Serenity used POET AGM laser-shortage commentary and a new-customer ELS NRE to reinforce SIVE scarcity and supplier mapping, while noting customer evidence remains incomplete.",
+          "url": "https://x.com/aleabitoreddit/status/2071488272245944399"
+        },
         {
           "date": "2026-06-25",
           "quote": "Serenity said she is more bullish as SIVE falls, mapping SIVE to GFS, Ayar/NVDA scale-up, POET scale-out, JBL pluggables and O-Net ELS while acknowledging financing/listing noise.",
@@ -2936,6 +2899,76 @@
           "date": "2026-06-27 12:49",
           "quote": "Serenity summarized Digit V5 specifications, Robofab capacity and the Google DeepMind/NVIDIA ecosystem from investor materials.",
           "url": "https://x.com/aleabitoreddit/status/2070731304241606694"
+        }
+      ]
+    },
+    {
+      "id": "asts-rakuten",
+      "ticker": "$ASTS",
+      "name": "AST SpaceMobile / Rakuten Japan JV",
+      "tier": "watch",
+      "theme": "LEO satellite direct-to-device network in Japan",
+      "thesis": "Serenity highlighted reports that Rakuten plans a joint venture with AST SpaceMobile to build a Japanese LEO satellite network. She frames the move as a strategic response to Starlink's growing influence in Japan and a fresh regional-commercialization signal for ASTS.",
+      "whyItMatters": "A Rakuten-backed Japanese network could validate ASTS distribution, spectrum and market access in a major developed market. The investment case still depends on official JV terms, regulatory approvals, funding, deployment timing, satellite capacity and revenue economics.",
+      "catalysts": [
+        "Official Rakuten and AST SpaceMobile joint-venture announcement",
+        "Japanese spectrum, telecom and satellite-network approvals",
+        "Commercial service milestones and Rakuten subscriber integration",
+        "Competitive demand created by Starlink expansion in Japan"
+      ],
+      "risks": [
+        "Current report needs confirmation from the companies and regulators",
+        "JV ownership, capital commitments and economics are not yet clear",
+        "Satellite deployment, coverage and service timing may slip",
+        "Competition with Starlink and terrestrial carriers can pressure economics"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Find the Rakuten and AST SpaceMobile primary announcement or filing",
+        "Verify JV ownership, funding, spectrum rights and deployment schedule",
+        "Model potential subscribers, capacity, pricing and revenue contribution"
+      ],
+      "lastUpdated": "2026-06-29 21:00",
+      "evidence": [
+        {
+          "date": "2026-06-29 18:43",
+          "quote": "Serenity cited reports that Rakuten and AST SpaceMobile plan a Japanese LEO network joint venture in response to Starlink's growing influence.",
+          "url": "https://x.com/aleabitoreddit/status/2071545016007467486"
+        }
+      ]
+    },
+    {
+      "id": "schaeffler-robotics",
+      "ticker": "$SHA0",
+      "name": "Schaeffler",
+      "tier": "watch",
+      "theme": "Automotive components migrating into humanoid robotics",
+      "thesis": "Serenity presents Schaeffler as an automotive-supply-chain example with broad humanoid optionality. She cites exposure across bearings, gearboxes, sensors and ECUs, actuators and power electronics, plus work with roughly 45 humanoid players, while noting robotics is still a very small share of current revenue.",
+      "whyItMatters": "Traditional automotive suppliers may offer lower-valuation access to humanoid BOM and manufacturing scale before robotics revenue becomes material. Schaeffler's breadth could capture multiple components, but debt, auto-cycle drag and slow near-term robotics revenue limit the immediacy of the thesis.",
+      "catalysts": [
+        "Humanoid customer programs converting into disclosed orders",
+        "Bearings, gearboxes, sensors, actuators and power-electronics BOM exposure",
+        "Humanoid and AI-vehicle demand accelerating after 2027",
+        "Potential rerating if robotics becomes a visible reporting segment"
+      ],
+      "risks": [
+        "Robotics is currently a small share of revenue",
+        "High debt and automotive-cycle exposure can offset robotics upside",
+        "The claimed 45 humanoid relationships and BOM share require primary verification",
+        "Management's 2030 revenue outlook may remain modest despite large TAM narratives"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Verify humanoid customer count and component scope in company materials",
+        "Separate confirmed orders from development partnerships",
+        "Review debt, automotive exposure and 2030 robotics revenue targets"
+      ],
+      "lastUpdated": "2026-06-29 21:00",
+      "evidence": [
+        {
+          "date": "2026-06-28 17:32",
+          "quote": "Serenity described Schaeffler as an automotive supplier with broad humanoid component exposure and many development relationships, but low current robotics revenue and meaningful debt.",
+          "url": "https://x.com/aleabitoreddit/status/2071164721299112316"
         }
       ]
     }

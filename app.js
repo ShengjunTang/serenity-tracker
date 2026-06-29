@@ -8,8 +8,8 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。6 月 19 日她把 Photonics 列为三大核心主题之一，并把 SIVE 作为该主题里自己选中的 top performer；同时强调 optics 仍处在 supercycle 很早期，关键要看 2027 / 2028 projections。",
-    whyItMatters: "这次更新是组合框架验证，不是 SIVE 新订单。它强化了她对 photonics 的主线信心，但短期仍需要 SIVE 自身订单、LTA、产能、客户披露和收入节奏来支撑估值。",
+    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。6 月 29 日她借 POET AGM 的表述把激光器短缺延伸到 2028-2029，并把新客户 ELS NRE 映射到 SIVE 已披露的 ELS 关系，但仍把客户资格认证和量产转化视为关键验证。",
+    whyItMatters: "POET 的 read-through 为 SIVE 现有的 GFS、Ayar/NVDA、POET、JBL 与 O-Net 生态映射增加了需求和稀缺性信号，但这不是 SIVE 已披露订单；新客户、认证、量产时间、收入和供应商身份都需要一手确认。",
     catalysts: [
       "Serenity 再次说 AAOI 与 SIVE 是她最喜欢的激光公司",
       "收入空间可从激光器扩展到完整光模块、光引擎和 ELS 组件",
@@ -512,6 +512,22 @@ const zhCopy = {
     catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "多年订单与 30 多家客户 pipeline 线索", "Robofab 量产设施及物流制造客户测试", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持"],
     risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实"],
     nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "跟踪 BOM 降本、年产能和单机毛利"],
+  },
+  "asts-rakuten": {
+    theme: "日本 LEO 卫星直连网络",
+    thesis: "Serenity 关注 Rakuten 与 AST SpaceMobile 拟在日本建立 LEO 卫星网络合资公司的报道，并把它视为应对 Starlink 在日本影响力上升的战略动作，以及 ASTS 区域商业化的新验证。",
+    whyItMatters: "Rakuten 支持的日本网络可验证 ASTS 在成熟市场的渠道、频谱和准入能力，但仍取决于正式合资条款、监管审批、资金、部署时间、卫星容量和收入经济性。",
+    catalysts: ["Rakuten 与 AST SpaceMobile 正式公布合资公司", "日本频谱、通信与卫星网络审批", "商业服务与 Rakuten 用户接入", "Starlink 扩张带来的竞争需求"],
+    risks: ["报道仍需公司和监管机构确认", "合资股权、资本承诺与经济性尚不清楚", "卫星部署、覆盖和服务时间可能延迟", "Starlink 与地面运营商竞争可能压缩回报"],
+    nextChecks: ["查找 Rakuten 与 ASTS 一手公告或 filing", "核实股权、资金、频谱权利和部署计划", "估算用户、容量、定价与收入贡献"],
+  },
+  "schaeffler-robotics": {
+    theme: "汽车零部件向人形机器人迁移",
+    thesis: "Serenity 把 Schaeffler 作为汽车供应链拥有广泛 humanoid 可选性的代表，覆盖轴承、齿轮箱、传感器/ECU、执行器和功率电子，并称公司与约 45 家 humanoid 玩家合作；同时承认机器人目前只占很小收入比例。",
+    whyItMatters: "传统汽车供应商可能在机器人收入真正放量前，以相对较低估值提供 humanoid BOM 和制造规模暴露。Schaeffler 部件覆盖广，但负债、汽车周期拖累和近期机器人收入偏低会限制 thesis 的即时性。",
+    catalysts: ["humanoid 客户项目转为正式订单", "多类机器人 BOM 暴露", "2027 年后 humanoid 与 AI 汽车需求加速", "机器人业务成为可见报告分部"],
+    risks: ["机器人当前收入占比很低", "高负债和汽车周期可抵消机器人上行", "45 家合作关系和 BOM 占比需要一手核实", "2030 年收入指引可能仍较温和"],
+    nextChecks: ["核实 humanoid 客户数量与部件范围", "区分正式订单与开发合作", "检查负债、汽车业务暴露和 2030 机器人目标"],
   },
   alrib: {
     theme: "MBE 设备 / quantum dot 与硅光工具链",
