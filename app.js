@@ -8,8 +8,8 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。6 月 29 日她借 POET AGM 的表述把激光器短缺延伸到 2028-2029，并把新客户 ELS NRE 映射到 SIVE 已披露的 ELS 关系，但仍把客户资格认证和量产转化视为关键验证。",
-    whyItMatters: "POET 的 read-through 为 SIVE 现有的 GFS、Ayar/NVDA、POET、JBL 与 O-Net 生态映射增加了需求和稀缺性信号，但这不是 SIVE 已披露订单；新客户、认证、量产时间、收入和供应商身份都需要一手确认。",
+    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。7 月 1 日她把约 6 亿瑞典克朗的 InP 激光器与光放大器融资视为 fab-lite 模式下的潜在量产扩容信号，可能用于代工产能分配以及 Jabil 等伙伴的 CW DFB laser ramp。",
+    whyItMatters: "这次融资把 SIVE 从主题性稀缺推进到具体的资本与产能事件。只有在定价、投资者质量、资金用途和制造转化都理想时才真正偏正面；若折价很重、以套利资金为主或治理不佳，稀释风险可能压过扩产信号。",
     catalysts: [
       "Serenity 再次说 AAOI 与 SIVE 是她最喜欢的激光公司",
       "收入空间可从激光器扩展到完整光模块、光引擎和 ELS 组件",
@@ -499,16 +499,16 @@ const zhCopy = {
   },
   cbrs: {
     theme: "AI 推理加速 / OpenAI 部署",
-    thesis: "Serenity 在 OpenAI 选择 Cerebras 承载 GPT-5.6 Sol 后建立了 $CBRS 起始仓位，并把最高约 750 tokens/s 的推理速度视为技术验证。她同时承认，相比盈利硬件公司，Cerebras 当前估值带有明显溢价。",
-    whyItMatters: "前沿模型部署可验证 Cerebras 架构，并提供稀缺的公开市场 OpenAI 基础设施暴露。不过 thesis 高度依赖 benchmark 可复现性、客户集中度、商业经济性和 OpenAI 的持续领先。",
+    thesis: "Serenity 在 OpenAI 选择 Cerebras 承载 GPT-5.6 Sol 后建立了 $CBRS 起始仓位。6 月 30 日她又引用社区个案，称 OpenAI 可能锁定了大量高速推理产能，令需要 1-2K tokens/s 的较小客户面临很长等待。",
+    whyItMatters: "前沿模型部署加上产能稀缺，进一步支持 Cerebras 的技术和需求，但也暴露客户集中风险。社区反馈仍需用 backlog、利用率、合同期限、定价和扩产经济性来验证。",
     catalysts: ["OpenAI GPT-5.6 Sol 部署在 Cerebras 基础设施", "最高约 750 tokens/s 的推理性能声明", "公开市场 OpenAI 基础设施暴露的稀缺性溢价"],
     risks: ["相对 JBL 等盈利硬件同行估值偏高", "厂商 benchmark 和吞吐声明需要真实工作负载验证", "客户集中度与 OpenAI 领先地位是主要依赖", "个人起始仓位不等于公司收入指引"],
     nextChecks: ["核实 OpenAI 部署范围、合同周期与商业条款", "比较真实延迟、吞吐和成本与 GPU 方案", "检查收入集中度、毛利率及相对估值"],
   },
   "ccxi-aglt": {
     theme: "人形机器人 IPO / 仓储自动化",
-    thesis: "Serenity 已投资预计在 Agility Robotics 交易后更名为 $AGLT 的 $CCXI 载体。她更看重应用型仓储与物流路径、已有运行时长和客户 pipeline，而不是纯粹的预商业化人形机器人叙事。",
-    whyItMatters: "Agility 可能成为稀缺的美国上市纯人形机器人公司，提供机器人商业化直接暴露。但当前估值、SPAC 完成、量产经济性与订单兑现仍有很大不确定性。",
+    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。她预计最早 9 月通过 $CCXI 登陆 Nasdaq，并强调 V4 已在 Amazon 场景运行、V5 计划量产及年产能超过 1 万台。",
+    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并已有运行场景和美国本土供应链角度。关键仍是 SPAC 完成、V5 量产、客户转化、BOM 降本和美国零部件扩产经济性。",
     catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "多年订单与 30 多家客户 pipeline 线索", "Robofab 量产设施及物流制造客户测试", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持"],
     risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实"],
     nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "跟踪 BOM 降本、年产能和单机毛利"],
@@ -528,6 +528,14 @@ const zhCopy = {
     catalysts: ["humanoid 客户项目转为正式订单", "多类机器人 BOM 暴露", "2027 年后 humanoid 与 AI 汽车需求加速", "机器人业务成为可见报告分部"],
     risks: ["机器人当前收入占比很低", "高负债和汽车周期可抵消机器人上行", "45 家合作关系和 BOM 占比需要一手核实", "2030 年收入指引可能仍较温和"],
     nextChecks: ["核实 humanoid 客户数量与部件范围", "区分正式订单与开发合作", "检查负债、汽车业务暴露和 2030 机器人目标"],
+  },
+  "rf-materials-pump-laser": {
+    theme: "泵浦激光封装瓶颈 / 韩国光学材料",
+    thesis: "Serenity 将泵浦激光与封装列为潜在光学瓶颈，并称韩国 RF Materials 可能在特定受限部件上是 Lumentum 的单一来源供应商，部分背景来自中国供应链排除。",
+    whyItMatters: "受限泵浦激光封装材料若确有 sole-source 地位，可能在光学需求放量中获得价格和销量杠杆。但 Serenity 也提醒，只服务一两个客户的窄瓶颈未必获得大幅重估，而且她因韩国市场波动没有持仓。",
+    catalysts: ["确认与 Lumentum 的单一来源关系", "泵浦激光和封装短缺反映在交期或价格", "客户扩展到更多光学供应商", "AI 光学需求推动收入和利润率加速"],
+    risks: ["单一来源和客户说法尚未独立确认", "窄瓶颈可能只带来有限收入而非大幅重估", "韩国小盘股波动与流动性风险较高", "Serenity 明确没有持仓"],
+    nextChecks: ["从 filings 核实产品、客户和 sole-source 说法", "确认具体泵浦激光封装部件及竞争供应商", "跟踪光学收入、产能利用率、毛利与客户集中度"],
   },
   alrib: {
     theme: "MBE 设备 / quantum dot 与硅光工具链",

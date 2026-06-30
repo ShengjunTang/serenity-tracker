@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-06-29T21:00:00+08:00",
-  "sourceWindow": "Latest refresh 2026-06-29 21:00 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. Truncated posts were opened on their status pages. No new Subs item appeared after the prior refresh boundary.",
-  "summary": "6 月 29 日刷新覆盖 Posts + Subs，新增 4 条实质性线索：Rakuten 与 $ASTS 拟在日本建立 LEO 卫星网络合资公司，以应对 $SPCX Starlink；$GM 以机器人替代部分工厂岗位并与 $NVDA 探索工厂机器人合作，强化工业自动化拐点；$POET AGM 将激光器短缺和光学关键组件约束延伸到 2028-2029，并提供 H2 2026 量产与 2027 扩产线索；Schaeffler $SHA0 被作为汽车供应链向人形机器人迁移的代表。最新消息保留 6 月 27-29 日滚动窗口，本次 Subs 没有晚于上次边界的新帖。",
+  "generatedAt": "2026-07-01T07:50:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-01 07:50 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. Truncated posts were opened on their status pages. Subscriber-only content is summarized at high level only.",
+  "summary": "7 月 1 日刷新覆盖 Posts + Subs。新增主线包括：$SIVE 拟融资约 6 亿瑞典克朗扩充 InP 激光器和光放大器产能，Serenity 将其解读为 fab-lite 模式下的量产/代工扩容信号，但投资者结构与折价仍待披露；Agility Robotics 继续成为她最大机器人仓位和最偏好的人形机器人标的；$CBRS 的高速推理产能据社区反馈被 OpenAI 大量锁定，显示快推理供给稀缺；中美 AI 网络安全竞争继续支撑 $GOOGL/$META 等 hyperscaler capex；Subs 新增韩国 RF Materials 327260 的泵浦激光封装瓶颈线索。最新消息保留 6 月 29 日至 7 月 1 日。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-01T01:21:44+08:00",
+      "type": "$SIVE 融资 / InP 激光器与光放大器扩产",
+      "headline": "Serenity 关注 $SIVE 拟融资约 6 亿瑞典克朗（约 6100 万美元），用于扩充 InP lasers 与 optical amplifiers 制造能力。由于 Sivers 采用 fab-lite 模式，她将其解读为 CW DFB laser 量产所需的 foundry allocation 与合作伙伴扩容信号，并认为若引入长期机构或 $GFS 等战略投资者且折价不重，偏正面；若主要是套利或短线资金，则需要重新评估。",
+      "tickers": ["$SIVE", "$GFS", "$JBL", "$POET"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-01T00:34:00+08:00",
+      "type": "$CCXI / Agility Robotics 仓位强化",
+      "headline": "Serenity 再次明确 Agility Robotics 是她当前最喜欢的人形机器人仓位，并称其可能最早于 9 月通过 $CCXI 登陆 Nasdaq。她强调 V4 已在 Amazon 等场景运行、V5 计划明年量产、现有年产能超过 1 万台，投资者包括 Foxconn、$NVDA、$AMZN 与 SoftBank；同时继续提示 SPAC 延期或取消风险。",
+      "tickers": ["$CCXI", "$AGLT", "$NVDA", "$AMZN"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-30T22:17:18+08:00",
+      "type": "$CBRS / OpenAI / 高速推理产能稀缺",
+      "headline": "Serenity 引用机器学习社区的个案反馈：用户因需要 1-2K tokens/s 尝试 Cerebras，但据称 OpenAI 已预留大量 $CBRS 产能，其他非 hyperscaler 客户面临极长等待，Groq API 等替代方案也不易获得。她把它视为高速推理参与者少、产能有限的需求信号；该证据来自社区个案，需要用公司 backlog、利用率和合同数据验证。",
+      "tickers": ["$CBRS", "$RDDT"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2071961279380791729",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-30T18:27:55+08:00",
+      "type": "$GOOGL / $META / AI 网络安全与资本开支",
+      "headline": "Serenity 认为在中美 AI 网络安全竞争升级的背景下，美国 hyperscaler 很难大幅削减资本开支。她把前沿模型、进攻与防御能力、稀土与半导体设备/材料出口控制放进现代科技冷战框架，并强调美国仍依赖中国原料、欧洲 $ASML 与日本设备瓶颈；该帖强化长期 capex 逻辑，也提醒供应链相互依赖的缓冲正在减弱。",
+      "tickers": ["$GOOGL", "$META", "$ASML", "$NVDA", "$AMD"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2071903552608362500",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-06-30T16:15:20+08:00",
+      "type": "订阅者帖 / 泵浦激光封装 / RF Materials 327260",
+      "headline": "Serenity 新增泵浦激光与封装瓶颈观察，并称韩国 RF Materials（327260）在特定环节可能是 $LITE 的单一来源供应商，部分原因与中国供应链排除有关。她同时提醒，这类只服务一两个客户的小型上游瓶颈未必获得市场重估，自己也因韩国市场高波动而没有持仓；此处仅保留高层结论，不公开付费帖完整细节。",
+      "tickers": ["327260", "$LITE", "$COHR", "$AXTI", "$KLAC"],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2071870184047198575",
+      "source": "Subs-visible"
+    },
+    {
+      "publishedAt": "2026-06-30T07:01:00+08:00",
+      "type": "机器人持仓 / Agility / Harmonic Drive / Vishay Precision",
+      "headline": "Serenity 披露机器人组合：最看好 Unitree 与 Agility Robotics，并将最大机器人仓位放在 Agility；上游持有 Harmonic Drive（6324）和 Vishay Precision，分别对应减速器 BOM 与传感器/潜在 Optimus 暴露。她对 LeaderDrive 688017 和 Schaeffler 仍持正面观点但未持有，并强调全球 humanoid 供应链参与者众多。",
+      "tickers": ["$CCXI", "$AGLT", "6324", "688017", "$SHA0", "$TSLA"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
+      "source": "Posts"
+    },
     {
       "publishedAt": "2026-06-29T18:43:13+08:00",
       "type": "$ASTS / Rakuten / 日本 LEO 卫星网络",
@@ -29,96 +83,6 @@
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2071488272245944399",
       "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-28T17:32:25+08:00",
-      "type": "$SHA0 Schaeffler / 汽车供应链转向人形机器人",
-      "headline": "Serenity 将 Schaeffler $SHA0 作为汽车零部件公司向人形机器人扩张的代表：公司覆盖轴承、齿轮箱、传感器/ECU、执行器与功率电子，据称正与约 45 家 humanoid 玩家合作，相关部件可覆盖较高 BOM 比例。她认为 2027 年后 humanoid 与 AI 汽车可成为传统汽车供应链催化，但当前机器人收入占比仍低、公司负债较高，市场短期仍更关注 memory 与 MLCC 等即时瓶颈。",
-      "tickers": ["$SHA0", "$TSLA", "$TSM"],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-28T15:37:26+08:00",
-      "type": "$META / $NBIS / $GOOGL 算力约束",
-      "headline": "Serenity 将 Google Cloud 的算力约束与 $META 早前签下 Neocloud 大单联系起来：Google 据报道在 2026 年 3 月限制了 Meta 可用容量，而 Google 管理层也提到算力不足令 Cloud 无法承接更多需求、backlog 接近环比翻倍。她认为 hyperscaler 彼此都难以互相补位，反而继续验证 AI 数据中心资本开支与 Neocloud 容量需求。",
-      "tickers": ["$META", "$NBIS", "$GOOGL"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2071135874100990438",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-28T11:34:17+08:00",
-      "type": "中国 AI 模型 / Anthropic / 网络安全竞争",
-      "headline": "Serenity 引用报道讨论智谱模型在部分网络安全 benchmark 上接近 Anthropic，并把风险归因于前沿模型防蒸馏和访问护栏不足。她的核心判断是，美国一边用大规模资本开支维持 AI moat，另一边也必须避免前沿能力通过低成本 API 调用被复制；这属于模型安全与产业政策线索，不是单一股票催化。",
-      "tickers": [],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2071074680253911267",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-27T20:49:09+08:00",
-      "type": "订阅者帖 / MLCC 材料 / 铟供应链",
-      "headline": "Serenity 梳理 MLCC 上游的介电粉体、高纯镍粉与内电极浆料、稀土掺杂剂，并延伸到 PMIC、BMC 与中国铟出口管制的潜在影响。她点到日本和韩国材料公司、$AXTI 以及西方锗/铟替代供应链，但明确表示仍在研究阶段；这里仅保留高层方向，不公开付费帖完整清单。",
-      "tickers": ["$AXTI", "$VNP.TO"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070851932147880042",
-      "source": "Subs-visible"
-    },
-    {
-      "publishedAt": "2026-06-27T16:42:45+08:00",
-      "type": "Robotics / humanoid IPO 周期 / AI 上游交叉暴露",
-      "headline": "Serenity 认为 robotics 是 AI 之后的重要扩散方向，融资笔数与金额正在上升。她强调现有 AI 数据中心上游经常同时具备人形机器人暴露，例如 DRAM/NAND 对机器人推理与存储、DFB laser 对 FMCW LiDAR 感知；当前纯标的仍少，H2 2026 到 2027 的机器人 IPO 周期值得跟踪。",
-      "tickers": ["$AMZN", "$TSLA", "$MU", "$SIVE"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-27T14:22:00+08:00",
-      "type": "$CBRS / OpenAI GPT-5.6 Sol / 高速推理",
-      "headline": "Serenity 首次披露在约 170 美元附近建立 $CBRS 起始仓位，理由是 OpenAI 将 GPT-5.6 Sol 部署在 Cerebras、推理速度据称可达约 750 tokens/s，为其技术路线提供验证。她同时认为估值相对同市值且盈利的 $JBL 偏贵，投资逻辑依赖 OpenAI 继续保持领先，属于高估值高波动的新线索。",
-      "tickers": ["$CBRS", "$JBL"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070754658868687086",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-27T12:49:00+08:00",
-      "type": "订阅者帖 / Agility Robotics 产品与量产框架",
-      "headline": "Serenity 从投资者材料概括 Agility Robotics 的产品、产能与商业化进度：Digit V5 的负载、续航和触达能力升级，Robofab 当前规划年产约 1 万台，并与 $GOOGL DeepMind、$NVDA 形成智能与安全生态合作。她认为其已有量产设施和早期客户验证，但 BOM 降本目标、订单兑现与 SPAC 文件仍需核实；此处不公开付费帖完整参数。",
-      "tickers": ["$CCXI", "$AGLT", "$GOOGL", "$NVDA"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070731304241606694",
-      "source": "Subs-visible"
-    },
-    {
-      "publishedAt": "2026-06-27T10:26:50+08:00",
-      "type": "$CCXI / $AGLT / Agility Robotics IPO",
-      "headline": "Serenity 表示已投资 Agility Robotics 的上市载体 $CCXI，预计 IPO 后代码变更为 $AGLT，并把它视为美国首个纯人形机器人上市公司候选。她看重仓储与物流等应用型商业化、已有客户和约 3 亿美元多年订单线索，也提醒当前估值、约 12.5 万美元 BOM、美国供应链成本、SPAC 取消或延期都是核心风险。",
-      "tickers": ["$CCXI", "$AGLT", "$NVDA", "$AMZN"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070695321060188540",
-      "source": "Subs-visible"
-    },
-    {
-      "publishedAt": "2026-06-27T10:11:30+08:00",
-      "type": "$SPCX / Mesh 收购 / 1.6T 光互连",
-      "headline": "Serenity 将 SpaceX 收购光网络初创公司 Mesh 视为 1.6T OSFP 与光互连方向的产业验证。她推测 Mesh 自有 optical engine/packaging、可能向第三方采购 CW DFB lasers，并把 $SIVE、$LITE、$MTSI 列为可能的 merchant supplier 候选；供应关系尚未被公开确认，但并购需求有利于光器件初创生态和相关资产估值。",
-      "tickers": ["$SPCX", "$SIVE", "$LITE", "$MTSI", "$POET"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-27T01:25:46+08:00",
-      "type": "OpenAI GPT-5.6 Sol / frontier model 竞争",
-      "headline": "Serenity 对 OpenAI 公布 GPT-5.6 Sol 表示重新转为乐观，关注其在 coding/workflow、生物与网络安全 benchmark 上相对 Anthropic 的领先声明。该判断主要来自厂商 benchmark，仍需第三方评测、真实工作负载和成本数据验证。",
-      "tickers": ["$CBRS"],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2070559154352353724",
-      "source": "Posts"
     }
   ],
   "ideas": [
@@ -128,8 +92,8 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity continues to frame SIVE as a core laser / silicon-photonics chokepoint. On June 29 she used POET AGM commentary to extend the laser-supply shortage into 2028-2029 and mapped a new-customer external-light-source NRE back to SIVE's disclosed ELS relationship, while still treating customer qualification and volume conversion as the key proof points.",
-      "whyItMatters": "The POET read-through adds a new demand and scarcity signal to SIVE's existing GFS, Ayar/NVDA, POET, JBL and O-Net ecosystem mapping. It is not a disclosed SIVE purchase order: the new customer, qualification status, volume timing, revenue and supplier identity still require primary confirmation.",
+      "thesis": "Serenity continues to frame SIVE as a core laser and silicon-photonics chokepoint. On July 1 she treated the proposed SEK 600M financing for InP lasers and optical amplifiers as a positive mass-production signal under Sivers' fab-lite model, potentially funding foundry allocation and scaling across Jabil and other partners.",
+      "whyItMatters": "The financing moves SIVE from thematic scarcity toward a concrete capacity and capital-allocation event. The read-through is positive only if pricing, investor quality, use of proceeds and manufacturing conversion are favorable; a heavy discount, arbitrage capital or weak governance could make dilution outweigh the ramp signal.",
       "catalysts": [
         "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
         "Serenity expects the ALL.SPACE/YSS relationship may create follow-on space and defense volume orders",
@@ -279,8 +243,13 @@
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings",
         "Read POET AGM materials and the September 2025 ELS release to verify whether SIVE is explicitly tied to the new-customer NRE and volume ramp"
       ],
-      "lastUpdated": "2026-06-29 21:00",
+      "lastUpdated": "2026-07-01 07:50",
       "evidence": [
+        {
+          "date": "2026-07-01 01:21",
+          "quote": "Serenity interpreted Sivers' proposed SEK 600M financing for InP lasers and optical amplifiers as a potentially positive fab-lite capacity-ramp signal, subject to investor quality and pricing.",
+          "url": "https://x.com/aleabitoreddit/status/2072007692684837039"
+        },
         {
           "date": "2026-06-29 14:57",
           "quote": "Serenity used POET AGM laser-shortage commentary and a new-customer ELS NRE to reinforce SIVE scarcity and supplier mapping, while noting customer evidence remains incomplete.",
@@ -2834,8 +2803,8 @@
       "name": "Cerebras Systems",
       "tier": "speculative",
       "theme": "AI inference acceleration / OpenAI deployment",
-      "thesis": "Serenity initiated a starter position in Cerebras after OpenAI selected its platform for GPT-5.6 Sol and cited inference throughput of up to roughly 750 tokens per second. She treats the deployment as technical validation, while acknowledging a premium valuation relative to profitable hardware names.",
-      "whyItMatters": "A frontier-model deployment can validate Cerebras architecture and create scarce public-market OpenAI exposure. The thesis remains dependent on benchmark reproducibility, customer concentration, economics and OpenAI retaining model leadership.",
+      "thesis": "Serenity initiated a starter position in Cerebras after OpenAI selected its platform for GPT-5.6 Sol. On June 30 she added anecdotal demand evidence that OpenAI may have reserved substantial high-speed inference capacity, leaving long waits for smaller customers seeking 1-2K tokens per second.",
+      "whyItMatters": "The combination of a frontier-model deployment and capacity scarcity supports Cerebras technology and demand, but also highlights customer concentration. Community anecdotes must be verified against backlog, utilization, contract duration, pricing and the ability to add capacity economically.",
       "catalysts": [
         "OpenAI GPT-5.6 Sol deployment on Cerebras infrastructure",
         "Claimed inference performance of up to roughly 750 tokens per second",
@@ -2853,8 +2822,13 @@
         "Compare real-world latency, throughput and cost with GPU alternatives",
         "Review revenue concentration, gross margin and valuation versus JBL and AI accelerators"
       ],
-      "lastUpdated": "2026-06-28 17:30",
+      "lastUpdated": "2026-07-01 07:50",
       "evidence": [
+        {
+          "date": "2026-06-30 22:17",
+          "quote": "Serenity cited an ML community anecdote claiming OpenAI reserved Cerebras capacity and smaller customers faced very long waits, reading it as a fast-inference scarcity signal.",
+          "url": "https://x.com/aleabitoreddit/status/2071961279380791729"
+        },
         {
           "date": "2026-06-27 14:22",
           "quote": "Serenity said she initiated a starter position after OpenAI's GPT-5.6 Sol deployment on Cerebras, while flagging valuation risk.",
@@ -2868,8 +2842,8 @@
       "name": "Agility Robotics",
       "tier": "speculative",
       "theme": "Humanoid robotics IPO / warehouse automation",
-      "thesis": "Serenity invested in the CCXI vehicle expected to become AGLT after the Agility Robotics transaction. She favors its application-specific warehouse and logistics path, existing operating history and customer pipeline over purely pre-commercial humanoid narratives.",
-      "whyItMatters": "Agility could become a rare US-listed pure-play humanoid company. The proposed transaction offers direct exposure to robotics commercialization, but current valuation, SPAC completion, production economics and order conversion remain uncertain.",
+      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. She expects the CCXI route to a possible Nasdaq listing as early as September, pointing to V4 deployments at Amazon, V5 mass-production plans and more than 10,000 units of annual capacity.",
+      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments and a domestic supply-chain angle. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and the economics of scaling US-sourced components.",
       "catalysts": [
         "Expected CCXI to AGLT ticker transition after the proposed transaction",
         "Reported multi-year orders and a pipeline of more than 30 customers",
@@ -2888,8 +2862,18 @@
         "Verify the reported order value, customer commitments and revenue recognition",
         "Track BOM reduction, annual production capacity and unit-level gross margin"
       ],
-      "lastUpdated": "2026-06-28 17:30",
+      "lastUpdated": "2026-07-01 07:50",
       "evidence": [
+        {
+          "date": "2026-07-01 00:34",
+          "quote": "Serenity reiterated Agility as her favorite humanoid position, citing a possible September listing, Amazon V4 deployments, V5 production plans and 10,000-plus annual capacity.",
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695"
+        },
+        {
+          "date": "2026-06-30 07:01",
+          "quote": "Serenity described Agility as her largest robotics concentration and listed Harmonic Drive and Vishay Precision as owned upstream component exposures.",
+          "url": "https://x.com/aleabitoreddit/status/2071730699363881241"
+        },
         {
           "date": "2026-06-27 10:26",
           "quote": "Serenity disclosed an Agility Robotics investment through CCXI and outlined the commercialization, customer and SPAC risks she is tracking.",
@@ -2969,6 +2953,41 @@
           "date": "2026-06-28 17:32",
           "quote": "Serenity described Schaeffler as an automotive supplier with broad humanoid component exposure and many development relationships, but low current robotics revenue and meaningful debt.",
           "url": "https://x.com/aleabitoreddit/status/2071164721299112316"
+        }
+      ]
+    },
+    {
+      "id": "rf-materials-pump-laser",
+      "ticker": "327260",
+      "name": "RF Materials",
+      "tier": "speculative",
+      "theme": "Pump-laser packaging bottleneck / Korean optical materials",
+      "thesis": "Serenity identified pump lasers and packaging as a possible optical bottleneck that may be more severe than EML in some paths. She says Korea-listed RF Materials may be a sole-source supplier to Lumentum in a specific constrained component following Chinese supply-chain exclusion.",
+      "whyItMatters": "A sole-source position in a constrained pump-laser packaging input could create pricing and volume leverage as optical demand ramps. Serenity also warns that narrow upstream bottlenecks serving only one or two customers may not receive a large market rerating, and she holds no position due to Korean-market volatility.",
+      "catalysts": [
+        "Primary confirmation of a sole-source relationship with Lumentum",
+        "Pump-laser and packaging shortages becoming visible in lead times or pricing",
+        "Customer expansion beyond one or two optical suppliers",
+        "Revenue and margin acceleration tied to AI optical demand"
+      ],
+      "risks": [
+        "Sole-source and customer claims are not yet independently verified",
+        "A narrow bottleneck may produce only modest revenue rather than a major rerating",
+        "Korean small-cap volatility and liquidity are high",
+        "Serenity explicitly said she has no position and is not adding Korean assets"
+      ],
+      "stance": "早期观望",
+      "nextChecks": [
+        "Verify RF Materials product, customer and sole-source claims in filings",
+        "Map the exact pump-laser packaging component and competing suppliers",
+        "Track optical revenue, utilization, margins and customer concentration"
+      ],
+      "lastUpdated": "2026-07-01 07:50",
+      "evidence": [
+        {
+          "date": "2026-06-30 16:15",
+          "quote": "Serenity described RF Materials as a possible sole-source Lumentum supplier in a pump-laser packaging bottleneck, while warning about narrow customer exposure and Korean-market volatility.",
+          "url": "https://x.com/aleabitoreddit/status/2071870184047198575"
         }
       ]
     }
