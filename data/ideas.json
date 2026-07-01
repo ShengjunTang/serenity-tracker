@@ -1,8 +1,52 @@
 {
-  "generatedAt": "2026-07-01T07:50:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-01 07:50 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. Truncated posts were opened on their status pages. Subscriber-only content is summarized at high level only.",
-  "summary": "7 月 1 日刷新覆盖 Posts + Subs。新增主线包括：$SIVE 拟融资约 6 亿瑞典克朗扩充 InP 激光器和光放大器产能，Serenity 将其解读为 fab-lite 模式下的量产/代工扩容信号，但投资者结构与折价仍待披露；Agility Robotics 继续成为她最大机器人仓位和最偏好的人形机器人标的；$CBRS 的高速推理产能据社区反馈被 OpenAI 大量锁定，显示快推理供给稀缺；中美 AI 网络安全竞争继续支撑 $GOOGL/$META 等 hyperscaler capex；Subs 新增韩国 RF Materials 327260 的泵浦激光封装瓶颈线索。最新消息保留 6 月 29 日至 7 月 1 日。",
+  "generatedAt": "2026-07-01T20:04:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-01 20:04 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. New items after the prior 07:50 boundary came from Posts only; the Subs tab showed no newer subscriber-only posts. Truncated posts were opened on their status pages. Subscriber-only content is summarized at high level only.",
+  "summary": "7 月 1 日 20:04 刷新覆盖 Posts + Subs。相较早上 07:50 边界，公开 Posts 新增五条值得入库的信息：$SIVE 完成 7 亿 SEK 超额认购融资，并出现未来数季度完成 Nasdaq 上市流程的更正式时间线，意味着 thesis 从“拟融资”升级为“已完成机构融资 + 更清晰上市路径”；Agility / $CCXI 被进一步强化为 Serenity 最偏好的 humanoid 仓位，并被她类比为机器人里的 Anthropic，强调 enterprise commercialization 与 $AMZN/$NVDA/$GOOGL 生态位置；一条综合贴补充了中国 humanoid 出货、探针卡/测试 socket、电容以及台湾 OSAT / 测试环节瓶颈；另有一条主题帖指出市场过度追逐 physical AI / energy，而 memory / photonics 在 2028 后瓶颈约束下被错杀。Subs 页本轮无比 6 月 30 日更新更晚的新付费帖，最新消息保留 6 月 29 日至 7 月 1 日。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-01T19:07:07+08:00",
+      "type": "Agility / Figure / Tesla / $NVDA humanoid 格局类比",
+      "headline": "Serenity 用 LLM 格局类比美国 humanoid 玩家：Agility / $CCXI 像 Anthropic，依托 $AMZN、$NVDA 与 $GOOGL DeepMind、强调 enterprise commercialization；Optimus 更像 xAI，Figure 更像拿到 OpenAI / Microsoft 支持后又自建 VLA 的 ChatGPT；$NVDA 则像默默供能整个人形机器人生态的底层平台。她借此继续强化 Agility 的企业落地路径和生态位置。",
+      "tickers": ["$CCXI", "$AMZN", "$NVDA", "$GOOGL"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072275805330362648",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-01T16:54:04+08:00",
+      "type": "Physical AI / 能源拥挤 vs memory / photonics 回调",
+      "headline": "Serenity 认为市场现在像“只有 5 秒注意力的金鱼”，过度交易 physical AI 与 energy 热门主题，却把 memory 与 photonics 这些 2028 年后仍受瓶颈约束的链条卖得过头。该帖没有新增公司级证据，但强化了她对 memory / photonics 中长期供需错配仍在的看法。",
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2072242322688057579",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-01T15:22:39+08:00",
+      "type": "$SIVE / Nasdaq 上市时间线明确化",
+      "headline": "Serenity 引述 $SIVE 相关表述称，公司“计划在未来数个季度内完成 Nasdaq 上市流程”，并强调这比此前“评估中”的说法更实质，意味着美国上市路径从模糊预期推进到更正式的时间线。对她而言，这既关系流动性与估值重估，也关系机构资金能否更顺畅进入。",
+      "tickers": ["$SIVE"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072219315760488615",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-01T12:40:02+08:00",
+      "type": "中国 humanoid / 测试封装 / 被动元件瓶颈 digest",
+      "headline": "Serenity 汇总多条产业链笔记：Morgan Stanley 将 2026 年中国 humanoid 出货预期上修至 5 万台；探针卡与 test socket 因贵金属涨价和 test pin 产能紧张面临提价；Yageo 上调多类电容价格；台湾 OSAT、测试接口与封装基板环节继续偏紧，且相关厂商出现涨价；她还点到 $META 的 Vistara 使用旧 DDR4 + CXL memory expansion，以及 Brookfield 为 $BE 燃料电池项目大幅加码融资。",
+      "tickers": ["$META", "$BE", "$ASX"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072178393878290789",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-01T10:56:04+08:00",
+      "type": "$SIVE 7 亿 SEK 超额认购融资",
+      "headline": "Serenity 跟进称 $SIVE 最终完成 7 亿瑞典克朗增发，较原先约 6 亿 SEK 计划上修，且“超额多倍认购”。她把这视为机构资金在接近现价水平对 InP lasers 与 optical amplifiers 扩产的更明确背书，并强调这笔钱用于扩容后，Sivers 向高量产阶段过渡的资金约束被明显缓解；但稀释、定价与产能兑现仍需继续核实。",
+      "tickers": ["$SIVE"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072152226169331776",
+      "source": "Posts"
+    },
     {
       "publishedAt": "2026-07-01T01:21:44+08:00",
       "type": "$SIVE 融资 / InP 激光器与光放大器扩产",
@@ -92,9 +136,11 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity continues to frame SIVE as a core laser and silicon-photonics chokepoint. On July 1 she treated the proposed SEK 600M financing for InP lasers and optical amplifiers as a positive mass-production signal under Sivers' fab-lite model, potentially funding foundry allocation and scaling across Jabil and other partners.",
-      "whyItMatters": "The financing moves SIVE from thematic scarcity toward a concrete capacity and capital-allocation event. The read-through is positive only if pricing, investor quality, use of proceeds and manufacturing conversion are favorable; a heavy discount, arbitrage capital or weak governance could make dilution outweigh the ramp signal.",
+      "thesis": "Serenity continues to frame SIVE as a core laser and silicon-photonics chokepoint. On July 1 she moved from the proposed SEK 600M financing idea to an upsized, multiple-times-oversubscribed SEK 700M institutional round for InP lasers and optical amplifiers, then highlighted a more formal intent to complete a NASDAQ listing over the next few quarters. She reads both as signs that Sivers is moving from scarcity narrative toward funded HVM scale and a clearer US-market rerating path.",
+      "whyItMatters": "The update shifts SIVE from a possible financing story to a completed institutional capital raise plus a more explicit listing timeline. If the proceeds really convert into laser/amplifier output, foundry allocation and customer ramps, SIVE gets both balance-sheet de-risking and a cleaner path to broader institutional ownership; if dilution, execution or customer conversion disappoint, the financing itself does not guarantee the thesis.",
       "catalysts": [
+        "Upsized SEK 700M institutional financing completed at 57 SEK and described as multiple times oversubscribed",
+        "Intent to complete the NASDAQ listing process over the next few quarters",
         "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
         "Serenity expects the ALL.SPACE/YSS relationship may create follow-on space and defense volume orders",
         "Potential photonics volume ramps from Jabil and other pluggable-transceiver makers",
@@ -157,6 +203,8 @@
         "POET disclosed a new-customer NRE around a high-power external light source, which Serenity maps to SIVE based on the September 2025 ELS release"
       ],
       "risks": [
+        "The 57 SEK financing still creates dilution and must translate into real laser/amplifier output and customer revenue",
+        "NASDAQ-listing intent is still management-guidance language until formal milestones, filings and exchange steps are disclosed",
         "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
         "Space and defense customer concentration, delivery timing and margin contribution need verification",
         "JP Morgan ownership change must be confirmed through primary ownership filings",
@@ -201,6 +249,8 @@
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Read the final financing release, share-count impact, pricing terms and use-of-proceeds detail",
+        "Track formal NASDAQ-listing milestones, advisors and company disclosures over the next few quarters",
         "Read the Sivers/ALL.SPACE primary release and map delivery schedule, revenue recognition and gross-margin implications",
         "Verify the YSS acquisition relationship and whether additional programs are disclosed",
         "Verify JP Morgan's latest Sivers ownership percentage and filing date",
@@ -243,8 +293,18 @@
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings",
         "Read POET AGM materials and the September 2025 ELS release to verify whether SIVE is explicitly tied to the new-customer NRE and volume ramp"
       ],
-      "lastUpdated": "2026-07-01 07:50",
+      "lastUpdated": "2026-07-01 20:04",
       "evidence": [
+        {
+          "date": "2026-07-01 15:22",
+          "quote": "Serenity highlighted SIVE's stated intent to complete the NASDAQ listing process over the next few quarters and treated it as a material shift from vague evaluation to a clearer timeline.",
+          "url": "https://x.com/aleabitoreddit/status/2072219315760488615"
+        },
+        {
+          "date": "2026-07-01 10:56",
+          "quote": "Serenity said SIVE completed an upsized SEK 700M round that was multiple times oversubscribed, reading it as institutional validation and funding for higher-volume manufacturing.",
+          "url": "https://x.com/aleabitoreddit/status/2072152226169331776"
+        },
         {
           "date": "2026-07-01 01:21",
           "quote": "Serenity interpreted Sivers' proposed SEK 600M financing for InP lasers and optical amplifiers as a potentially positive fab-lite capacity-ramp signal, subject to investor quality and pricing.",
@@ -2842,28 +2902,36 @@
       "name": "Agility Robotics",
       "tier": "speculative",
       "theme": "Humanoid robotics IPO / warehouse automation",
-      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. She expects the CCXI route to a possible Nasdaq listing as early as September, pointing to V4 deployments at Amazon, V5 mass-production plans and more than 10,000 units of annual capacity.",
-      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments and a domestic supply-chain angle. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and the economics of scaling US-sourced components.",
+      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. Beyond the possible September CCXI route to Nasdaq, she now frames Agility as the Anthropic-like enterprise-commercialization path inside US humanoids, contrasted with Tesla/Optimus and Figure, and tied to an ecosystem around Amazon, NVIDIA and Google DeepMind.",
+      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments, a domestic supply-chain angle and a clearer enterprise go-to-market narrative than some higher-profile peers. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and whether ecosystem prestige turns into actual revenue and margin scale.",
       "catalysts": [
         "Expected CCXI to AGLT ticker transition after the proposed transaction",
         "Reported multi-year orders and a pipeline of more than 30 customers",
         "Robofab production setup and customer trials across logistics and manufacturing",
-        "NVIDIA, Amazon, Foxconn and SoftBank appear in the broader investor or ecosystem set"
+        "NVIDIA, Amazon, Foxconn and SoftBank appear in the broader investor or ecosystem set",
+        "Serenity now frames Agility as the enterprise-commercialization leader relative to other US humanoid contenders"
       ],
       "risks": [
         "SPAC transaction can be delayed, repriced or cancelled",
         "Current robot BOM is high and projected cost reductions are unproven",
         "Order pipeline must convert into deliveries, revenue and sustainable margins",
-        "Pro forma valuation and dilution require primary filing review"
+        "Pro forma valuation and dilution require primary filing review",
+        "Narrative analogies to Anthropic, Figure or xAI do not substitute for disclosed orders, unit economics or deployment data"
       ],
       "stance": "高波动观察",
       "nextChecks": [
         "Read the merger filing, lockup terms, dilution schedule and transaction timetable",
         "Verify the reported order value, customer commitments and revenue recognition",
-        "Track BOM reduction, annual production capacity and unit-level gross margin"
+        "Track BOM reduction, annual production capacity and unit-level gross margin",
+        "Check whether Amazon, NVIDIA or Google ecosystem claims appear in primary partner materials or filings"
       ],
-      "lastUpdated": "2026-07-01 07:50",
+      "lastUpdated": "2026-07-01 20:04",
       "evidence": [
+        {
+          "date": "2026-07-01 19:07",
+          "quote": "Serenity compared Agility to Anthropic within US humanoids, emphasizing enterprise commercialization and an ecosystem around Amazon, NVIDIA and Google DeepMind.",
+          "url": "https://x.com/aleabitoreddit/status/2072275805330362648"
+        },
         {
           "date": "2026-07-01 00:34",
           "quote": "Serenity reiterated Agility as her favorite humanoid position, citing a possible September listing, Amazon V4 deployments, V5 production plans and 10,000-plus annual capacity.",

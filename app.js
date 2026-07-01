@@ -8,9 +8,11 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。7 月 1 日她把约 6 亿瑞典克朗的 InP 激光器与光放大器融资视为 fab-lite 模式下的潜在量产扩容信号，可能用于代工产能分配以及 Jabil 等伙伴的 CW DFB laser ramp。",
-    whyItMatters: "这次融资把 SIVE 从主题性稀缺推进到具体的资本与产能事件。只有在定价、投资者质量、资金用途和制造转化都理想时才真正偏正面；若折价很重、以套利资金为主或治理不佳，稀释风险可能压过扩产信号。",
+    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。7 月 1 日，这条线从“拟融资约 6 亿 SEK”升级为“完成 7 亿 SEK 超额认购机构融资”，同时她还强调公司已给出未来数个季度内完成 Nasdaq 上市流程的更正式时间线。",
+    whyItMatters: "这意味着 SIVE 不再只是主题性稀缺，而是进入“已拿到机构资金 + 更清晰美国上市路径”的阶段。若融资资金真能转成 InP lasers / optical amplifiers 的量产扩容、foundry allocation 与客户放量，SIVE 的 balance sheet 与 rerating 逻辑都会更完整；反之，稀释和执行风险仍在。",
     catalysts: [
+      "完成 7 亿 SEK、57 SEK 定价且超额多倍认购的机构融资",
+      "未来数个季度内完成 Nasdaq 上市流程的正式时间线",
       "Serenity 再次说 AAOI 与 SIVE 是她最喜欢的激光公司",
       "收入空间可从激光器扩展到完整光模块、光引擎和 ELS 组件",
       "她认为 photonics 主题仍处极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始",
@@ -18,12 +20,16 @@ const zhCopy = {
       "6 月 19 日她把 Photonics 列为三大核心主题之一，并点名 SIVE 是该 segment 的 top performer"
     ],
     risks: [
+      "融资虽然超额认购，但仍有稀释，且必须转成真实激光器/放大器产能与收入",
+      "Nasdaq 时间线仍需正式 milestones、filings 和交易所步骤确认",
       "6 月 18 日更新是主题强化，不是 SIVE 新订单披露",
       "6 月 19 日提及是回顾性 portfolio validation，不是新的公司级 customer evidence",
       "2027 ramp 时间线意味着市场预期可能领先收入几个季度",
       "仍需要看到 SIVE 具体订单、光模块 / 光引擎收入或 margin 证据"
     ],
     nextChecks: [
+      "阅读最终融资公告，核实新增股本、定价条款与资金用途",
+      "跟踪 Nasdaq 上市的正式时间点、顾问和公司披露",
       "跟踪 SIVE 是否披露光模块、光引擎或 ELS 组件收入",
       "核实 2027 H1/H2 ramp 是否被客户项目、产能指引或 filings 支持",
       "继续追踪 AMD / CSP 的 CW laser LTA 与产能预留"
@@ -507,11 +513,11 @@ const zhCopy = {
   },
   "ccxi-aglt": {
     theme: "人形机器人 IPO / 仓储自动化",
-    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。她预计最早 9 月通过 $CCXI 登陆 Nasdaq，并强调 V4 已在 Amazon 场景运行、V5 计划量产及年产能超过 1 万台。",
-    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并已有运行场景和美国本土供应链角度。关键仍是 SPAC 完成、V5 量产、客户转化、BOM 降本和美国零部件扩产经济性。",
-    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "多年订单与 30 多家客户 pipeline 线索", "Robofab 量产设施及物流制造客户测试", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持"],
-    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实"],
-    nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "跟踪 BOM 降本、年产能和单机毛利"],
+    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。除了最早 9 月通过 $CCXI 登陆 Nasdaq 的路径，她现在还把 Agility 类比为 humanoid 里的 Anthropic，强调其 enterprise commercialization 方向以及与 Amazon、NVIDIA、Google DeepMind 的生态位置。",
+    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并拥有比一些更高曝光同行更清晰的企业落地叙事。关键仍是 SPAC 完成、V5 量产、客户转化、BOM 降本，以及生态背书能否转成真实收入和毛利。",
+    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "多年订单与 30 多家客户 pipeline 线索", "Robofab 量产设施及物流制造客户测试", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持", "Serenity 进一步强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表"],
+    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "Anthropic / Figure / xAI 式类比不等于正式订单、部署和单位经济性验证"],
+    nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "跟踪 BOM 降本、年产能和单机毛利", "检查 Amazon、NVIDIA、Google 相关生态说法是否在一手合作材料中出现"],
   },
   "asts-rakuten": {
     theme: "日本 LEO 卫星直连网络",
