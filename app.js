@@ -91,11 +91,11 @@ const zhCopy = {
   },
   nbis: {
     theme: "Neocloud / AI 基础设施融资结构",
-    thesis: "Serenity 继续把 NBIS 放在 Neocloud / Energy 核心主题中。6 月 19 日她明确说三大核心主题是 Neoclouds(Energy)、Memory 和 Photonics，并把 NBIS 作为 Neocloud segment 里自己选中的 top performer。",
-    whyItMatters: "NBIS 仍是她 AI infrastructure 主题里更干净的资本结构表达，但这次提及主要是回顾性验证，不是新的公司级催化。后续仍要看融资结构、租赁需求、电力和客户落地。",
-    catalysts: ["Serenity 将 toxic financing structure / float dynamics 放在早期机会筛选第一位", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能", "AI 基础设施需求仍支撑 Neocloud 主题", "NBIS 与 ALAB、RKLB 一起被加入 Nasdaq 100，成为她早期成长框架的验证事件"],
-    risks: ["大涨后的回顾性验证不等于新的买入点", "Neocloud 标的对融资条件和 AI capex 情绪高度敏感", "IREN 这类大规模 ATM 可能在上涨中持续卖出，形成结构性 overhang", "Nasdaq 100 纳入提升流动性的同时也会增加指数资金波动", "子公司和持股价值需要独立核实", "6 月 19 日提及是 portfolio validation，不是新 NBIS 订单或客户披露"],
-    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "跟踪 Nasdaq 100 纳入日期、被动资金需求和 float 变化", "量化 Avride 和 ClickHouse 持股 / 估值贡献"],
+    thesis: "Serenity 现在把 NBIS 放进 Meta excess compute 争议的中心：她认为 Meta 对外卖算力并不意味着 Neocloud 被证伪，反而可能说明 overflow demand、转售需求和 take-or-pay 合同仍然很大。这个新框架叠加了她原有的资本结构偏好，即 NBIS 相比 IREN、CRWV 更干净。",
+    whyItMatters: "NBIS 不再只是“融资结构较好”的对照组，也成了一个判断 hyperscaler overflow compute 是否会扩大 AI 云市场的 read-through。若 Meta 一边继续 capex、一边对外卖算力，资本结构更干净的 Neocloud 玩家可能更值得重估；反之，若 hyperscaler 自己吃掉更多利润池，这条线也可能迅速降温。",
+    catalysts: ["Meta 拟建立云业务、出售 excess AI compute，为 AI capacity intermediation 提供新叙事", "Serenity 认为 Meta 已签下 480 亿美元以上 neocloud 合同，说明 overflow demand 仍在", "Wells Fargo 也把 Meta 卖算力解读为 AI infra 需求与 Neocloud 并购机会的正面信号", "Serenity 将 toxic financing structure / float dynamics 放在早期机会筛选第一位", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
+    risks: ["大涨后的回顾性验证不等于新的买入点", "Neocloud 标的对融资条件和 AI capex 情绪高度敏感", "即便总需求增长，Meta 等 hyperscaler 也可能压缩 reseller / neocloud 的利润空间", "IREN 这类大规模 ATM 可能在上涨中持续卖出，形成结构性 overhang", "子公司和持股价值需要独立核实", "Serenity 所说 Meta 合同规模、对 NBIS 的直接受益路径仍需一手资料核实"],
+    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "核实 Meta 云业务方案、480 亿美元以上合同说法以及 NBIS 是否直接受益", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "量化 Avride 和 ClickHouse 持股 / 估值贡献"],
   },
   xintech: {
     theme: "TSM 测试子公司 / COUPE 供应商线索",
@@ -513,11 +513,11 @@ const zhCopy = {
   },
   "ccxi-aglt": {
     theme: "人形机器人 IPO / 仓储自动化",
-    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。除了最早 9 月通过 $CCXI 登陆 Nasdaq 的路径，她现在还把 Agility 类比为 humanoid 里的 Anthropic，强调其 enterprise commercialization 方向以及与 Amazon、NVIDIA、Google DeepMind 的生态位置。",
-    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并拥有比一些更高曝光同行更清晰的企业落地叙事。关键仍是 SPAC 完成、V5 量产、客户转化、BOM 降本，以及生态背书能否转成真实收入和毛利。",
-    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "多年订单与 30 多家客户 pipeline 线索", "Robofab 量产设施及物流制造客户测试", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持", "Serenity 进一步强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表"],
-    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "Anthropic / Figure / xAI 式类比不等于正式订单、部署和单位经济性验证"],
-    nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "跟踪 BOM 降本、年产能和单机毛利", "检查 Amazon、NVIDIA、Google 相关生态说法是否在一手合作材料中出现"],
+    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。除了最早 9 月通过 $CCXI 登陆 Nasdaq 的路径，她现在不仅把 Agility 类比为 humanoid 里的 Anthropic，还新增强调其美国本土供应链属性：约 75% 零部件来自美国、RoboFab 年产能约 1 万台、量产阶段 BOM 目标可能低于 3 万美元。",
+    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并拥有比一些更高曝光同行更清晰的企业落地叙事。现在这条线又叠加了“美国机器人国家战略”的框架：如果 Agility 真能在本土供应链中实现降本与量产，它的估值逻辑就不只是机器人 beta，而是美国制造与政策安全的交叉口。",
+    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "约 75% 零部件来自美国的 deck 说法", "Serenity 认为量产 BOM 目标可能低于 3 万美元，而非外界只盯着约 14.5 万美元单机成本", "RoboFab 年产能约 1 万台、Salem / Pittsburgh / Fremont 的美国制造足迹", "多年订单与 30 多家客户 pipeline 线索", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持", "Serenity 进一步强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表"],
+    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "75% 美国零部件与低于 3 万美元 BOM 的说法仍需一手 deck / filing 核实", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "Anthropic / Figure / xAI 式类比不等于正式订单、部署和单位经济性验证"],
+    nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "核实 75% 美国零部件、低于 3 万美元 BOM 目标和 1 万台 RoboFab 产能", "跟踪 BOM 降本、年产能和单机毛利", "检查 Amazon、NVIDIA、Google 相关生态说法是否在一手合作材料中出现", "跟踪美国机器人政策或补贴是否明确利好本土供应链玩家"],
   },
   "asts-rakuten": {
     theme: "日本 LEO 卫星直连网络",

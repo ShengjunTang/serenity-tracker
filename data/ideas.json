@@ -1,8 +1,71 @@
 {
-  "generatedAt": "2026-07-01T20:04:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-01 20:04 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. New items after the prior 07:50 boundary came from Posts only; the Subs tab showed no newer subscriber-only posts. Truncated posts were opened on their status pages. Subscriber-only content is summarized at high level only.",
-  "summary": "7 月 1 日 20:04 刷新覆盖 Posts + Subs。相较早上 07:50 边界，公开 Posts 新增五条值得入库的信息：$SIVE 完成 7 亿 SEK 超额认购融资，并出现未来数季度完成 Nasdaq 上市流程的更正式时间线，意味着 thesis 从“拟融资”升级为“已完成机构融资 + 更清晰上市路径”；Agility / $CCXI 被进一步强化为 Serenity 最偏好的 humanoid 仓位，并被她类比为机器人里的 Anthropic，强调 enterprise commercialization 与 $AMZN/$NVDA/$GOOGL 生态位置；一条综合贴补充了中国 humanoid 出货、探针卡/测试 socket、电容以及台湾 OSAT / 测试环节瓶颈；另有一条主题帖指出市场过度追逐 physical AI / energy，而 memory / photonics 在 2028 后瓶颈约束下被错杀。Subs 页本轮无比 6 月 30 日更新更晚的新付费帖，最新消息保留 6 月 29 日至 7 月 1 日。",
+  "generatedAt": "2026-07-02T20:12:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-02 20:12 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. New items after the prior 2026-07-01 20:04 boundary came from Posts only; the Subs tab still showed no newer subscriber-only posts beyond the June 30 paid update. Truncated posts were opened on their status pages. Subscriber-only content is summarized at high level only.",
+  "summary": "7 月 2 日 20:12 刷新覆盖 Posts + Subs。相较 7 月 1 日 20:04 边界，公开 Posts 新增的有效信息主要集中在三条主线：一是 $META / Neocloud 叙事明显强化，先有 Bloomberg 提到 Meta 拟出售 excess AI compute、再有 Serenity 与 Wells Fargo 共同强调这不代表 capex 见顶，反而可能验证 $NBIS / $CRWV 等 neocloud 需求与 take-or-pay 合同仍在扩张；二是 Agility / $CCXI 被进一步升级为“美国机器人国家战略 + 美国本土供应链”线索，新增 75% 零部件美国采购、量产 BOM 可能低于 3 万美元、Robofab 年产能 1 万台等细节；三是她再次用 $IREN 的 11.4 亿美元股权激励与 60 亿美元 ATM 对比 NBIS 的资本结构优势。另有一条关于 OpenAI 讨论给予美国政府 5% 股权的政策化猜想，偏主题观察。Subs 页本轮仍无 6 月 30 日之后的新付费帖，最新消息流按两日滚动保留 6 月 30 日至 7 月 2 日。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-02T18:34:42+08:00",
+      "type": "美国机器人国家战略 / Agility 国产化供应链",
+      "headline": "Serenity 从 Boston Dynamics CEO 对“机器人将塑造美国下一个 250 年”的表述出发，进一步把 humanoid 上升到国家战略视角，并再次强调美国机器人供应链本土化的重要性。她点名 Agility / $CCXI 目前约 75% 零部件来自美国，认为这比单纯追求低 BOM 更关键，因为未来补贴、稀土与零部件来源都可能成为美国 humanoid 竞争力的核心约束。",
+      "tickers": ["$CCXI", "$TSLA"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072630036600103340",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-02T17:16:50+08:00",
+      "type": "$IREN 创始人激励 / $6B ATM 稀释压力",
+      "headline": "Serenity 点出 $IREN 创始人获得逾 11.4 亿美元、4 年归属的股权激励，而公司同时仍在推进 60 亿美元 ATM。她没有展开长论，但明显把这当作 neocloud 板块里治理与融资结构风险的反面教材，也间接强化了她此前对 NBIS 资本结构更干净的偏好。",
+      "tickers": ["$IREN", "$NBIS"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072610437817078056",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-02T14:53:53+08:00",
+      "type": "$META excess compute / Neocloud 机会再确认",
+      "headline": "Serenity 转述 Wells Fargo 观点称，$META 拟出售 excess compute 反而是 AI 需求与单位经济性改善的正面信号，不应被误读为资本开支见顶。她尤其认同 sell-side 对 neocloud 的解读：即使 Meta 自己卖算力，也更像在验证 AI infra 市场巨大、并购与转售机会仍在，而不是直接推翻 $NBIS、$CRWV 这类中间层的存在价值。",
+      "tickers": ["$META", "$NBIS", "$CRWV"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072574465763111166",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-02T14:38:51+08:00",
+      "type": "OpenAI / 美国政府 5% 持股讨论",
+      "headline": "Serenity 注意到 FT 所称 OpenAI 曾讨论给予美国政府 5% 股权，并把它类比为一种潜在的“软背书”结构：若美国政府未来在政策上更深度绑定 OpenAI，理论上可能为其超大规模 capex 与义务提供某种隐性支撑。该帖更偏宏观政策猜想，目前没有新增可交易标的的公司级验证。",
+      "tickers": ["$INTC"],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2072570681586553112",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-02T01:09:49+08:00",
+      "type": "$CCXI / Agility 美国供应链与 BOM 降本",
+      "headline": "Serenity 贴出 Agility Robotics 演示材料并提炼出三条关键信息：约 75% 零部件来自美国、本土 RoboFab 产能约 1 万台、以及量产阶段 BOM 看起来有机会降到 3 万美元以下。她把这些信息和 Amazon、$NVDA、Foxconn、SoftBank 等生态支持放在一起，认为如果 Agility 真能在美国体系内实现降本与量产，对“Made in USA humanoid”将是很强验证。",
+      "tickers": ["$CCXI", "$AGLT", "$AMZN", "$NVDA", "$TSLA"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-01T21:42:30+08:00",
+      "type": "$META / $NBIS / $CRWV capex 误读修正",
+      "headline": "Serenity 反驳市场把 $META “出售 excess capacity”解读成“过度建设、准备砍 capex”的逻辑。她称目前更像是 Meta 仍明显受算力约束，甚至曾因内部项目占用过高而与 $GOOGL 资源分配冲突，并因此签下超过 480 亿美元的 neocloud 合同。她据此认为，Meta 若出售部分算力更像是溢出需求管理，而不是 AI 基建周期结束。",
+      "tickers": ["$META", "$GOOGL", "$NBIS", "$CRWV"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072314906729455876",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-01T20:49:56+08:00",
+      "type": "$META 云业务 / excess AI compute 变现",
+      "headline": "Serenity 跟进 Bloomberg 线索称，$META 正计划建立云业务，对外出售 excess AI compute，与 GCP、Azure、AWS 正面竞争。她把它看成 Meta 在前沿模型之外尝试打开新收入流的动作，也让 neocloud / overflow compute 主题从单纯租赁过渡到更复杂的 resale 与 capacity marketplace 叙事。",
+      "tickers": ["$META", "$AMZN", "$MSFT", "$GOOGL"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2072301677211009426",
+      "source": "Posts"
+    },
     {
       "publishedAt": "2026-07-01T19:07:07+08:00",
       "type": "Agility / Figure / Tesla / $NVDA humanoid 格局类比",
@@ -99,33 +162,6 @@
       "tickers": ["$CCXI", "$AGLT", "6324", "688017", "$SHA0", "$TSLA"],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-29T18:43:13+08:00",
-      "type": "$ASTS / Rakuten / 日本 LEO 卫星网络",
-      "headline": "Serenity 引用 Digitimes/Nikkei 消息称，日本 Rakuten 将与 $ASTS 成立合资公司建设日本 LEO 卫星网络，市场普遍把它视为应对 $SPCX Starlink 在日本影响力上升的战略动作。该线索为 AST SpaceMobile 的区域商业化和卫星直连竞争提供新验证，但合资结构、资本投入、牌照、时间表与收入贡献仍需官方文件确认。",
-      "tickers": ["$ASTS", "$SPCX"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-29T17:54:00+08:00",
-      "type": "$GM / $NVDA / 工厂机器人自动化",
-      "headline": "Serenity 引用报道指出，$GM 裁减约 1,000 个岗位并以约 50 台机器人替代部分工作，同时 GM 据称正与 $NVDA 探索工厂机器人合作。她把这视为机器人提高运营效率和利润率的产业验证，并认为汽车装配、仓储与物流已经从技术验证进入预规模化阶段；报道数字、合作范围和实际节省仍需一手来源核实。",
-      "tickers": ["$GM", "$NVDA", "$AMZN"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2071532870859149617",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-06-29T14:57:45+08:00",
-      "type": "$POET AGM / 激光器短缺 / 光引擎扩产",
-      "headline": "Serenity 从 $POET AGM 提炼出多条光学市场 read-through：前三大激光供应商控制约 68% 市场且未来两年售罄，她据此把激光短缺推演到 2029；POET 预计 H2 2026 量产，并称现有年产约 100 万个 optical engines、2027 年末需求可能接近每月 100 万个。她同时把新客户 ELS NRE 映射到 $SIVE，但明确提醒 POET 的 hyperscaler 客户与产能收入证据不如 $AAOI 透明。",
-      "tickers": ["$POET", "$LITE", "$SIVE", "$AAOI"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2071488272245944399",
       "source": "Posts"
     }
   ],
@@ -1013,9 +1049,12 @@
       "name": "Nebius Group",
       "tier": "watch",
       "theme": "Neocloud / AI infrastructure financing structure",
-      "thesis": "Serenity revisits NBIS as her cleaner Neocloud expression, emphasizing financing structure and float dynamics: NBIS contrasts with IREN, which she criticizes for large ATMs and recurring dilution risk.",
-      "whyItMatters": "This reframes the Neocloud theme around capital structure quality, not just AI infrastructure demand. In her framework, avoiding structural dilution and financing overhang is a core screen before sizing early opportunities.",
+      "thesis": "Serenity now uses NBIS as her cleaner Neocloud expression inside the Meta excess-compute debate. Her latest framing is that Meta selling spare AI capacity does not kill the intermediary layer; instead it can validate how large overflow demand, resale demand and take-or-pay contracts still are. That sits on top of her older capital-structure preference for NBIS versus IREN, which she again attacks over a huge ATM and founder stock compensation.",
+      "whyItMatters": "This shifts NBIS from a pure balance-sheet quality screen toward a broader read-through on whether hyperscaler overflow compute can expand the AI cloud market rather than collapse it. If Meta keeps spending while reselling capacity, cleaner Neocloud balance sheets may deserve a higher multiple; if hyperscalers internalize demand or financing quality deteriorates, the theme can unwind quickly.",
       "catalysts": [
+        "Meta's planned cloud business and excess-compute resale add a fresh market-expansion narrative around AI capacity intermediation",
+        "Serenity says Meta's more than $48B of Neocloud contracts suggest overflow demand is still real rather than disappearing",
+        "Wells Fargo's view that Meta selling excess compute is positive for AI infra demand and potentially supportive for Neocloud M&A",
         "NBIS price strength around the $260 pre-market area",
         "Serenity says NBIS is the best-performing Neocloud name from IREN to CRWV",
         "Better financing structure versus CRWV debt burden and IREN ATM dilution in her view",
@@ -1027,22 +1066,40 @@
       "risks": [
         "Post-validation mention after a large move is not a fresh entry signal",
         "Neocloud names can be highly sensitive to financing terms and AI capex sentiment",
+        "Meta or other hyperscalers could internalize more capacity economics and pressure reseller margins even if total demand is growing",
         "Subsidiary and ownership valuation needs independent verification",
         "Peers with large ATM programs can sell into rallies and create structural overhang",
         "Nasdaq 100 inclusion validates scale and liquidity but can also increase index-flow volatility",
-        "The June 19 mention is retrospective performance validation, not a new NBIS company catalyst"
+        "The June 19 mention is retrospective performance validation, not a new NBIS company catalyst",
+        "Serenity's >$48B Meta contract framing needs primary-source verification on counterparties, duration and economics"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Verify NBIS current debt, cash and financing structure",
         "Compare CRWV interest burden and IREN ATM dilution with NBIS capital structure",
+        "Verify Meta's cloud-business plan, the reported Neocloud contract scale and whether NBIS is a direct or indirect beneficiary",
         "Quantify Avride and ClickHouse ownership / valuation contribution",
         "Track pre-market and open reaction in NBIS and related Neocloud names",
         "Review current ATM authorizations, share issuance and float changes for IREN, CRWV and NBIS",
         "Track index inclusion date, passive demand and whether it changes NBIS float/liquidity dynamics"
       ],
-      "lastUpdated": "2026-06-19",
+      "lastUpdated": "2026-07-02 20:12",
       "evidence": [
+        {
+          "date": "2026-07-02 14:53",
+          "quote": "Serenity agreed with Wells Fargo that Meta selling excess compute is a positive signal for AI infra demand and does not invalidate the Neocloud opportunity.",
+          "url": "https://x.com/aleabitoreddit/status/2072574465763111166"
+        },
+        {
+          "date": "2026-07-02 17:16",
+          "quote": "Serenity highlighted IREN's $1.14B-plus founder stock compensation while the company still has an active $6B ATM, reinforcing her capital-structure screen.",
+          "url": "https://x.com/aleabitoreddit/status/2072610437817078056"
+        },
+        {
+          "date": "2026-07-01 21:42",
+          "quote": "Serenity said Meta looked capacity constrained rather than overbuilt and claimed the company had already signed more than $48B of Neocloud contracts.",
+          "url": "https://x.com/aleabitoreddit/status/2072314906729455876"
+        },
         {
           "date": "2026-06-19",
           "quote": "Serenity said her core themes are Neoclouds/Energy, Memory and Photonics, and cited NBIS as the top performer she selected in the Neocloud segment.",
@@ -2902,18 +2959,23 @@
       "name": "Agility Robotics",
       "tier": "speculative",
       "theme": "Humanoid robotics IPO / warehouse automation",
-      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. Beyond the possible September CCXI route to Nasdaq, she now frames Agility as the Anthropic-like enterprise-commercialization path inside US humanoids, contrasted with Tesla/Optimus and Figure, and tied to an ecosystem around Amazon, NVIDIA and Google DeepMind.",
-      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments, a domestic supply-chain angle and a clearer enterprise go-to-market narrative than some higher-profile peers. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and whether ecosystem prestige turns into actual revenue and margin scale.",
+      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. Beyond the possible September CCXI route to Nasdaq, she now frames Agility as the Anthropic-like enterprise-commercialization path inside US humanoids, but with a newer emphasis on a Made-in-USA supply chain: roughly 75% of parts sourced from the US, a 10,000-unit RoboFab footprint and a possible sub-$30K mass-production BOM target.",
+      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments, a domestic supply-chain angle and a clearer enterprise go-to-market narrative than some higher-profile peers. The newer domestic-sourcing and BOM claims matter because Serenity increasingly views humanoids through a national-strategy lens, not just a pure cost curve. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and whether ecosystem prestige turns into actual revenue and margin scale.",
       "catalysts": [
         "Expected CCXI to AGLT ticker transition after the proposed transaction",
+        "Deck claims that roughly 75% of Agility parts are sourced from the US",
+        "Serenity thinks the mass-production BOM target may be below $30K rather than the headline ~$145K robot cost",
+        "10,000-unit RoboFab capacity and US manufacturing footprint across Salem, Pittsburgh and Fremont",
         "Reported multi-year orders and a pipeline of more than 30 customers",
         "Robofab production setup and customer trials across logistics and manufacturing",
         "NVIDIA, Amazon, Foxconn and SoftBank appear in the broader investor or ecosystem set",
-        "Serenity now frames Agility as the enterprise-commercialization leader relative to other US humanoid contenders"
+        "Serenity now frames Agility as the enterprise-commercialization leader relative to other US humanoid contenders",
+        "US robotics policy, rare-earth sourcing and domestic-component subsidies could make Agility's supply-chain positioning more valuable"
       ],
       "risks": [
         "SPAC transaction can be delayed, repriced or cancelled",
         "Current robot BOM is high and projected cost reductions are unproven",
+        "The 75%-US-parts and sub-$30K mass-production targets need primary deck and filing confirmation",
         "Order pipeline must convert into deliveries, revenue and sustainable margins",
         "Pro forma valuation and dilution require primary filing review",
         "Narrative analogies to Anthropic, Figure or xAI do not substitute for disclosed orders, unit economics or deployment data"
@@ -2922,11 +2984,23 @@
       "nextChecks": [
         "Read the merger filing, lockup terms, dilution schedule and transaction timetable",
         "Verify the reported order value, customer commitments and revenue recognition",
+        "Verify the 75%-US-parts claim, sub-$30K BOM target and 10,000-unit RoboFab capacity in primary materials",
         "Track BOM reduction, annual production capacity and unit-level gross margin",
-        "Check whether Amazon, NVIDIA or Google ecosystem claims appear in primary partner materials or filings"
+        "Check whether Amazon, NVIDIA or Google ecosystem claims appear in primary partner materials or filings",
+        "Track whether US robotics policy or sourcing incentives explicitly benefit domestic-supply-chain players like Agility"
       ],
-      "lastUpdated": "2026-07-01 20:04",
+      "lastUpdated": "2026-07-02 20:12",
       "evidence": [
+        {
+          "date": "2026-07-02 18:34",
+          "quote": "Serenity tied US robotics policy and domestic-component sourcing back to Agility, again highlighting that about 75% of parts are sourced from the US.",
+          "url": "https://x.com/aleabitoreddit/status/2072630036600103340"
+        },
+        {
+          "date": "2026-07-02 01:09",
+          "quote": "Serenity cited Agility deck slides suggesting roughly 75% US sourcing, about 10,000 RoboFab capacity and a possible sub-$30K mass-production BOM.",
+          "url": "https://x.com/aleabitoreddit/status/2072367082248040621"
+        },
         {
           "date": "2026-07-01 19:07",
           "quote": "Serenity compared Agility to Anthropic within US humanoids, emphasizing enterprise commercialization and an ecosystem around Amazon, NVIDIA and Google DeepMind.",
