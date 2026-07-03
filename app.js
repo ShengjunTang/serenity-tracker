@@ -75,11 +75,11 @@ const zhCopy = {
   },
   mrvl: {
     theme: "AI ASIC / CPO 大盘股验证",
-    thesis: "Serenity 仍把 MRVL 作为 AI interconnect / ASIC 大盘验证标的；新增 AVGO 电话会 read-through 强化了 AI networking 需求、利润率和 2028 年可见度，同时 MRVL 仍与 SIVE 的 Celestial 激光器推演有关。",
-    whyItMatters: "MRVL 既是流动性较好的 AI 基建表达，也可能通过 Celestial 激光器链条验证 SIVE。",
-    catalysts: ["AVGO 电话会显示 AI networking demand 强、订单可见度延伸到 2028", "OpenAI custom silicon late-2026 production 与 Meta H2 2027 项目时间线支持 ASIC 周期", "Jensen Huang 公开背书", "AI ASIC / Celestial 叙事", "潜在 SIVE 激光器供应商关系"],
-    risks: ["AVGO 需求强不等于 MRVL 自动拿到份额", "35% 快速上涨后短期可能透支", "大盘股上行依赖执行与估值", "SIVE 供应关系仍需验证"],
-    nextChecks: ["比较 AVGO 客户时间线与 MRVL AI ASIC pipeline 披露", "确认 Jensen 引述与活动语境", "验证 MRVL / Celestial 供应链", "区分 AI ASIC 增长与光学 / CPO 逻辑"],
+    thesis: "Serenity 仍把 MRVL 作为流动性较好的 AI interconnect / ASIC 验证标的，但 7 月 3 日订阅者帖把逻辑从 Jensen 的口号推进到“份额迁移”框架：她认为 MRVL、Mediatek、Alchip、GUC 这类更贴近 Nvidia 生态的 challengers，未来两年可能逐步蚕食 Broadcom 在部分 hyperscaler-adjacent ASIC 项目里的份额。与此同时，MRVL 仍和 SIVE 的 Celestial 激光器推演相连。",
+    whyItMatters: "这让 MRVL 不再只是情绪代理，而更像一个可能受益于 Nvidia 生态重新分配 ASIC 经济性的标的。但这条新逻辑本身带有明显推断色彩，仍需要 design win 和收入证据。",
+    catalysts: ["7 月 3 日订阅者帖提出 MRVL 等 Nvidia 盟友型 ASIC 挑战者可能逐步蚕食 AVGO 份额", "AVGO 电话会显示 AI networking demand 强、订单可见度延伸到 2028", "OpenAI custom silicon late-2026 production 与 Meta H2 2027 项目时间线支持 ASIC 周期", "Jensen Huang 公开背书", "AI ASIC / Celestial 叙事", "潜在 SIVE 激光器供应商关系"],
+    risks: ["7 月 3 日这条 AVGO 份额受压逻辑被 Serenity 自己称为 conspiracy theory，仍需一手验证", "AVGO 需求强不等于 MRVL 自动拿到份额", "35% 快速上涨后短期可能透支", "大盘股上行依赖执行与估值", "SIVE 供应关系仍需验证"],
+    nextChecks: ["比较 MRVL、AVGO、Alchip、GUC 的 custom-ASIC design wins", "比较 AVGO 客户时间线与 MRVL AI ASIC pipeline 披露", "确认 Jensen 引述与活动语境", "验证 MRVL / Celestial 供应链", "区分 AI ASIC 增长与光学 / CPO 逻辑"],
   },
   jbl: {
     theme: "1.6T LRO 可插拔光模块 / 美国光学制造",
@@ -91,9 +91,9 @@ const zhCopy = {
   },
   nbis: {
     theme: "Neocloud / AI 基础设施融资结构",
-    thesis: "Serenity 现在把 NBIS 放进 Meta excess compute 争议的中心：她认为 Meta 对外卖算力并不意味着 Neocloud 被证伪，反而可能说明 overflow demand、转售需求和 take-or-pay 合同仍然很大。这个新框架叠加了她原有的资本结构偏好，即 NBIS 相比 IREN、CRWV 更干净。",
-    whyItMatters: "NBIS 不再只是“融资结构较好”的对照组，也成了一个判断 hyperscaler overflow compute 是否会扩大 AI 云市场的 read-through。若 Meta 一边继续 capex、一边对外卖算力，资本结构更干净的 Neocloud 玩家可能更值得重估；反之，若 hyperscaler 自己吃掉更多利润池，这条线也可能迅速降温。",
-    catalysts: ["Meta 拟建立云业务、出售 excess AI compute，为 AI capacity intermediation 提供新叙事", "Serenity 认为 Meta 已签下 480 亿美元以上 neocloud 合同，说明 overflow demand 仍在", "Wells Fargo 也把 Meta 卖算力解读为 AI infra 需求与 Neocloud 并购机会的正面信号", "Serenity 将 toxic financing structure / float dynamics 放在早期机会筛选第一位", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
+    thesis: "Serenity 现在把 NBIS 放进 Meta capex 争议的中心。7 月 3 日她继续强调 Meta 并没有退出 AI 竞赛：Wang 关于 Watermelon 的说法意味着算力需求相较 Avocado 提升了一个数量级，SemiAnalysis 也转向认为 Meta datacenter 与 compute 投入会继续加速、2027 capex 仍可能非常高。在她看来，这让最近 photonics / neocloud 的暴跌更像是叙事误读，而不是对 NBIS 这类 cleaner neocloud 的终局否定。",
+    whyItMatters: "NBIS 不再只是“融资结构较好”的对照组，也成了一个判断 hyperscaler overflow compute 与 AI demand duration 是否仍在扩大的 read-through。若 Meta 一边继续 capex、一边卖算力，资本结构更干净的 neocloud 玩家可能更值得重估；反之，若加速逻辑被证伪，这条修复线也会迅速降温。",
+    catalysts: ["Meta 拟建立云业务、出售 excess AI compute，为 AI capacity intermediation 提供新叙事", "Serenity 认为 Meta 已签下 480 亿美元以上 neocloud 合同，说明 overflow demand 仍在", "Wells Fargo 也把 Meta 卖算力解读为 AI infra 需求与 Neocloud 并购机会的正面信号", "Watermelon 据称追上 GPT 5.5，且算力消耗相对 Avocado 高一个数量级", "Wang 澄清近期关于 agent 进展的评论并不等于 Meta 自己放缓", "SemiAnalysis 转而认为 Meta datacenter / compute 会继续加速，2027 capex 仍可能很高", "Serenity 预期部分因 overcapacity 叙事暴跌 50%+ 的名字可能 sharp V recovery", "Serenity 将 toxic financing structure / float dynamics 放在早期机会筛选第一位", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
     risks: ["大涨后的回顾性验证不等于新的买入点", "Neocloud 标的对融资条件和 AI capex 情绪高度敏感", "即便总需求增长，Meta 等 hyperscaler 也可能压缩 reseller / neocloud 的利润空间", "IREN 这类大规模 ATM 可能在上涨中持续卖出，形成结构性 overhang", "子公司和持股价值需要独立核实", "Serenity 所说 Meta 合同规模、对 NBIS 的直接受益路径仍需一手资料核实"],
     nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "核实 Meta 云业务方案、480 亿美元以上合同说法以及 NBIS 是否直接受益", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "量化 Avride 和 ClickHouse 持股 / 估值贡献"],
   },
@@ -341,9 +341,9 @@ const zhCopy = {
   },
   leaderdrive: {
     theme: "人形机器人 / 谐波减速器 / Physical AI 零部件",
-    thesis: "Serenity 再次称绿的谐波是中国人形机器人里突出的 component leader，不只是谐波减速器公司；她强调其覆盖高壁垒减速器、行星滚柱丝杠、电机 / 关节等高 BOM 价值部件，并明确 688017 是长线持有框架，不是几天内完成的短线交易。",
-    whyItMatters: "这是一个直接的 Physical AI 硬件零部件 thesis。如果人形机器人从原型走向数百万台量产，绿的谐波可能通过多个运动控制核心部件获得可观 BOM 份额，而中国供应链可能主导低成本量产。",
-    catalysts: ["Serenity 称绿的谐波是中国机器人板块突出的 component leader", "她提到 Goldman 等西方机构也多次提及其高技术壁垒和 BOM 价值捕获", "暴露于谐波减速器、旋转关节减速器、直线执行器、电机 / 关节和行星滚柱丝杠", "她框架中潜在相关客户包括优必选、智元机器人、Tesla、Figure 等", "Physical AI 与人形机器人规模化量产", "中国证券报报道提升机构关注度"],
+    thesis: "Serenity 再次称绿的谐波是中国人形机器人里突出的 component leader，不只是谐波减速器公司；她强调其覆盖高壁垒减速器、行星滚柱丝杠、电机 / 关节等高 BOM 价值部件，并明确 688017 是长线持有框架，不是几天内完成的短线交易。7 月 3 日的历史新高与涨停，也让这条更长期的 BOM thesis 再次被市场连接到当前 Agility 与 Unitree 驱动的人形机器人热度上。",
+    whyItMatters: "这是一个直接的 Physical AI 硬件零部件 thesis，而且现在出现了新的市场确认。如果人形机器人从原型走向数百万台量产，绿的谐波可能通过多个运动控制核心部件获得可观 BOM 份额，而中国供应链可能主导低成本量产。",
+    catalysts: ["Serenity 称绿的谐波是中国机器人板块突出的 component leader", "她提到 Goldman 等西方机构也多次提及其高技术壁垒和 BOM 价值捕获", "暴露于谐波减速器、旋转关节减速器、直线执行器、电机 / 关节和行星滚柱丝杠", "她框架中潜在相关客户包括优必选、智元机器人、Tesla、Figure 等", "Physical AI 与人形机器人规模化量产", "7 月 3 日再创历史新高并涨停，Serenity 将其归因于 Agility + Unitree 驱动的人形机器人情绪扩散", "中国证券报报道提升机构关注度"],
     risks: ["市场份额和客户数量需要原始资料确认", "人形机器人量产节奏高度不确定，难以精确建模", "新兴中国公司可能抢占单一零部件份额", "量产后零部件价格和利润率可能下降", "A 股估值和流动性与美股 AI 硬件标的不同", "Tesla / Figure 只是潜在客户框架，不是确认供应关系"],
     nextChecks: ["核实 60% 国内份额和 1800+ 客户说法", "查找 Goldman 等机构对 LeaderDrive 技术壁垒和 BOM 捕获的原文", "估算每台人形机器人中减速器 / 执行器 / 电机的 BOM 价值", "核对 Universal Robots、优必选、智元机器人以及 Tesla / Figure 证据", "查看 688017 估值、收入结构和扩产计划", "跟踪媒体关注是否转化为订单、机构持仓或公司披露"],
   },
@@ -357,9 +357,9 @@ const zhCopy = {
   },
   "glass-substrate": {
     theme: "先进封装玻璃基板 / AI 加速器材料",
-    thesis: "Serenity 引用 TrendForce 时间线，把 glass substrate 作为新的先进封装材料线索：SKC Absolics 预计 H2 2026 first mover，Samsung Electro-Mechanics 预计 H2 2027 进入。",
-    whyItMatters: "玻璃基板是 AI 加速器先进封装的相邻瓶颈。如果从 pilot 走向客户 ramp，上游基板与设备公司可能成为除 CPO 之外的另一条 AI 硬件供应链表达。",
-    catalysts: ["SKC Absolics H2 2026 first mover 时间线", "Serenity 提到 AMAT / AMD customers 相关线索", "Samsung Electro-Mechanics H2 2027 与 Sumitomo Chemical 合作", "潜在关联 Apple、AVGO 与 hyperscalers"],
+    thesis: "Serenity 仍把 glass substrate 视为先进封装的新材料瓶颈，但 7 月 3 日的新帖把 Samsung 这条线从时间表推进到更具体的执行框架：Sumitomo Chemical 与 Samsung Electro-Mechanics 正式设立 GlaSSEM JV，并给出约 4821 亿韩元资本开支与 2027 年下半年 full scale commercialization 目标。",
+    whyItMatters: "玻璃基板是 AI 加速器先进封装的相邻瓶颈。一旦时间线、资金和 JV 结构都更明确，这个主题就不再只是远期材料故事，也会更快传导到良率工具、TGV/LIDE 设备和可能提前下单的供应商。",
+    catalysts: ["SKC Absolics H2 2026 first mover 时间线", "Serenity 提到 AMAT / AMD customers 相关线索", "GlaSSEM JV 正式落地", "Samsung Electro-Mechanics 给出 H2 2027 full-scale commercialization 与约 4821 亿韩元资本开支框架", "潜在关联 Apple、AVGO 与 hyperscalers", "Serenity 点名 $LPK、E&R、Onto 可能因订单前置而提前受益"],
     risks: ["时间线来自报告解读，需要原始来源确认", "客户关系可能是潜在或间接暴露，不一定是确认收入", "INTC 2030 路径在她表述中不够确定", "玻璃基板量产可能受良率、成本和封装认证拖累"],
     nextChecks: ["阅读 Serenity 引用的 TrendForce 报告或图表", "确认 SKC Absolics H2 2026 ramp 与 AMAT 设备关系", "核实 Samsung Electro-Mechanics / Sumitomo Chemical 的 H2 2027 计划", "区分 AMD、Apple、AVGO、hyperscaler 线索是披露还是推断"],
   },
@@ -406,8 +406,8 @@ const zhCopy = {
   },
   "lpk-spacex": {
     theme: "LPK Laser / 玻璃核心基板设备 / LIDE advanced packaging",
-    thesis: "LPK 现在是更明确的 glass-core-substrate / LIDE advanced-packaging equipment 线索。6 月 19 日 Serenity 补充 LPK meeting notes：NASDAQ listing 已在讨论和 radar 上，目标 70% market share，TAM 大幅超过此前预期，今年 base case 可能有 4-5 个 players 下单，industry ready for HVM ramps。",
-    whyItMatters: "这把 LPK 从 validation 线索推进到 volume-production / market-structure 线索。如果 qualification 转成 HVM orders，并叠加 Nasdaq listing 预期，估值可能重估；关键仍是 meeting notes 原文、订单客户和 revenue timing。",
+    thesis: "LPK 现在仍是 Serenity 最偏好的 glass-core-substrate / LIDE advanced-packaging equipment 线索。7 月 3 日她把 GlaSSEM 正式落地、4821 亿韩元资本开支和 H2 2027 full-scale commercialization 视为外部 read-through：若 Samsung 这条线真的开始加速，那么 LPK 先前关于 80% validation、70% 目标份额和 HVM readiness 的说法就不再只是孤立 meeting notes，而更像是产业链真实推进的一部分。",
+    whyItMatters: "这把 LPK 从 validation 线索进一步推进到 volume-production / market-structure 线索，而且多了新的时间锚点。如果 qualification 转成 HVM orders，并叠加 Nasdaq listing 预期，估值可能重估；关键仍是 meeting notes 原文、订单客户和 revenue timing。",
     catalysts: [
       "80% 主要全球玩家选择 LPKF equipment 的说法被 Serenity 继续强化",
       "glass substrate 被她称为下一代 packaging shift",
@@ -415,7 +415,8 @@ const zhCopy = {
       "TSM CoPoS 2028 潜在上游暴露仍是未确认但值得跟踪的线索",
       "LPK meeting notes 显示 Nasdaq listing 正在讨论 / radar 上",
       "Serenity 提到 70% targeted market share 和 TAM 超过旧预测",
-      "她称今年 base case 可能有 4-5 个 players 下单，industry 已 ready for high-volume ramps"
+      "她称今年 base case 可能有 4-5 个 players 下单，industry 已 ready for high-volume ramps",
+      "GlaSSEM JV 正式落地并配套资本开支与 H2 2027 商业化目标，强化了 LPK 订单时点的想象空间"
     ],
     risks: [
       "TSM CoPoS 上游暴露仍未确认",
@@ -433,22 +434,20 @@ const zhCopy = {
   },
   "axti-inp": {
     theme: "InP substrate / AI 光互连上游瓶颈",
-    thesis: "AXTI 仍是 Serenity 上游 InP substrate 方法论的代表案例。6 月 16 日她说自己仍持有 AXTI，并回顾当初如何通过供应链映射、市占率资料、高纯铟价格、出口管制和瓶颈博弈推导该 thesis。",
-    whyItMatters: "这条更新不是新的 AXTI 买点，而是验证她寻找上游 chokepoint 的研究方法：很多 AI 供应链机会会先出现在 substrate、epiwafer、laser 这类冷门环节，而不是主流 AI 叙事里。",
+    thesis: "AXTI 仍是 Serenity 上游 InP substrate 方法论的代表案例，但 7 月 3 日终于出现了更明确的公司级 datapoint：AXTI 与 Coherent 签署 3 年晶圆供货协议，并由 Coherent 向 AXT-Tongmei 预付 2228.85 万美元以换取承诺产能。这样一来，这张卡不再只是“上游瓶颈研究方法正确”的回顾，也开始具备真实合同和产能锁定信号。",
+    whyItMatters: "这条更新不再只是方法论验证。预付款加 committed capacity 的结构，至少说明下游光学客户愿意提前锁供，这比单纯社媒叙事更接近 Serenity 所强调的 chokepoint economics。",
     catalysts: [
+      "AXTI 与 Coherent 的 3 年晶圆供货协议，以及 2228.85 万美元预付款锁定承诺产能",
       "Serenity 称自己仍持有 AXTI",
       "Reuters 后续报道 InP substrates 可能影响 AI buildout，被她视为 thesis 验证",
       "研究输入包括 InP 供应链、市占率、高纯铟价格、出口管制和光学公司收购",
       "AAOI/LITE/AXTI 被一起作为 2025 optical rerating 成功案例"
     ],
     risks: [
-      "这是回顾性研究验证，不是新的公司级催化",
+      "Coherent 预付款和 committed capacity 仍需转化为持续收入、利润率和发货节奏", "这是回顾性研究验证向公司级催化过渡，但不等于风险消失",
       "still holding 增加信心色彩，但不消除估值、稀释、中国暴露和材料周期风险"
     ],
-    nextChecks: [
-      "重读 Reuters InP substrate 报道，并和 AXTI filing、出货、价格对应",
-      "继续跟踪高纯铟价格对 AXTI substrate 毛利和需求的影响"
-    ]
+    nextChecks: ["重读 Reuters InP substrate 报道，并和 AXTI filing、出货、价格对应", "继续跟踪高纯铟价格对 AXTI substrate 毛利和需求的影响", "阅读 AXTI 与 Coherent 的正式协议或披露，区分预付款叙事和实际出货节奏"]
   },
   "starlink-suppliers": {
     theme: "Starlink 供应商 / trade records 研究",
@@ -513,9 +512,9 @@ const zhCopy = {
   },
   "ccxi-aglt": {
     theme: "人形机器人 IPO / 仓储自动化",
-    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。除了最早 9 月通过 $CCXI 登陆 Nasdaq 的路径，她现在不仅把 Agility 类比为 humanoid 里的 Anthropic，还新增强调其美国本土供应链属性：约 75% 零部件来自美国、RoboFab 年产能约 1 万台、量产阶段 BOM 目标可能低于 3 万美元。",
-    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并拥有比一些更高曝光同行更清晰的企业落地叙事。现在这条线又叠加了“美国机器人国家战略”的框架：如果 Agility 真能在本土供应链中实现降本与量产，它的估值逻辑就不只是机器人 beta，而是美国制造与政策安全的交叉口。",
-    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "约 75% 零部件来自美国的 deck 说法", "Serenity 认为量产 BOM 目标可能低于 3 万美元，而非外界只盯着约 14.5 万美元单机成本", "RoboFab 年产能约 1 万台、Salem / Pittsburgh / Fremont 的美国制造足迹", "多年订单与 30 多家客户 pipeline 线索", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持", "Serenity 进一步强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表"],
+    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。除了最早 9 月通过 $CCXI 登陆 Nasdaq 的路径，她现在不仅把 Agility 类比为 humanoid 里的 Anthropic，还新增强调其美国本土供应链属性：约 75% 零部件来自美国、RoboFab 年产能约 1 万台、量产阶段 BOM 目标可能低于 3 万美元。7 月 3 日 BlueCrest 披露持股 5.6%，又给这条线增加了一个成熟资金开始关注的旁证。",
+    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并拥有比一些更高曝光同行更清晰的企业落地叙事。现在这条线又叠加了“美国机器人国家战略”的框架，以及 BlueCrest 这类外部资金的验证：如果 Agility 真能在本土供应链中实现降本与量产，它的估值逻辑就不只是机器人 beta，而是美国制造与政策安全的交叉口。",
+    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "BlueCrest Capital Management 披露持有 CCXI 5.6%", "约 75% 零部件来自美国的 deck 说法", "Serenity 认为量产 BOM 目标可能低于 3 万美元，而非外界只盯着约 14.5 万美元单机成本", "RoboFab 年产能约 1 万台、Salem / Pittsburgh / Fremont 的美国制造足迹", "多年订单与 30 多家客户 pipeline 线索", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持", "Serenity 进一步强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表"],
     risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "75% 美国零部件与低于 3 万美元 BOM 的说法仍需一手 deck / filing 核实", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "Anthropic / Figure / xAI 式类比不等于正式订单、部署和单位经济性验证"],
     nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "核实 75% 美国零部件、低于 3 万美元 BOM 目标和 1 万台 RoboFab 产能", "跟踪 BOM 降本、年产能和单机毛利", "检查 Amazon、NVIDIA、Google 相关生态说法是否在一手合作材料中出现", "跟踪美国机器人政策或补贴是否明确利好本土供应链玩家"],
   },
