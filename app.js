@@ -512,10 +512,10 @@ const zhCopy = {
   },
   "ccxi-aglt": {
     theme: "人形机器人 IPO / 仓储自动化",
-    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。除了最早 9 月通过 $CCXI 登陆 Nasdaq 的路径，她现在不仅把 Agility 类比为 humanoid 里的 Anthropic，还新增强调其美国本土供应链属性：约 75% 零部件来自美国、RoboFab 年产能约 1 万台、量产阶段 BOM 目标可能低于 3 万美元。7 月 3 日 BlueCrest 披露持股 5.6%，又给这条线增加了一个成熟资金开始关注的旁证。",
-    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并拥有比一些更高曝光同行更清晰的企业落地叙事。现在这条线又叠加了“美国机器人国家战略”的框架，以及 BlueCrest 这类外部资金的验证：如果 Agility 真能在本土供应链中实现降本与量产，它的估值逻辑就不只是机器人 beta，而是美国制造与政策安全的交叉口。",
-    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "BlueCrest Capital Management 披露持有 CCXI 5.6%", "约 75% 零部件来自美国的 deck 说法", "Serenity 认为量产 BOM 目标可能低于 3 万美元，而非外界只盯着约 14.5 万美元单机成本", "RoboFab 年产能约 1 万台、Salem / Pittsburgh / Fremont 的美国制造足迹", "多年订单与 30 多家客户 pipeline 线索", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持", "Serenity 进一步强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表"],
-    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "75% 美国零部件与低于 3 万美元 BOM 的说法仍需一手 deck / filing 核实", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "Anthropic / Figure / xAI 式类比不等于正式订单、部署和单位经济性验证"],
+    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。除了最早 9 月通过 $CCXI 登陆 Nasdaq 的路径，她现在不仅把 Agility 类比为 humanoid 里的 Anthropic，还持续强调其美国本土供应链属性：约 75% 零部件来自美国、RoboFab 年产能约 1 万台、量产阶段 BOM 目标可能低于 3 万美元。7 月 4 日的新帖又把这条逻辑从供应链可选性进一步推到劳动力替代层面：她明确把 Agility 一类机器人与 Amazon 仓储自动化联系起来，并认为一旦 humanoid 接近低于 1.5 万美元量产，劳动力被替代的速度可能远快于市场预期。",
+    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并拥有比一些更高曝光同行更清晰的企业落地叙事。现在这条线不只叠加了“美国机器人国家战略”和 BlueCrest 这类外部资金验证，还叠加了更直接的劳动经济学想象：如果 Agility 既能服务美国政策偏好的本土供应链，又能帮助客户显著减少招聘和人工成本，它的估值逻辑就不只是机器人 beta，而会扩展到制造、仓储和就业结构重塑。",
+    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "BlueCrest Capital Management 披露持有 CCXI 5.6%", "约 75% 零部件来自美国的 deck 说法", "Serenity 认为量产 BOM 目标可能低于 3 万美元，而非外界只盯着约 14.5 万美元单机成本", "Serenity 进一步提出：若 humanoid 量产成本降到 1.5 万美元以下，劳动力替代会明显加速", "她引用一份泄露的 Amazon 策略，称其曾计划借助类似 CCXI / Agility 的机器人少招约 60 万名员工", "RoboFab 年产能约 1 万台、Salem / Pittsburgh / Fremont 的美国制造足迹", "多年订单与 30 多家客户 pipeline 线索", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持", "Serenity 进一步强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表"],
+    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "75% 美国零部件与低于 3 万美元 BOM 的说法仍需一手 deck / filing 核实", "“劳动力大替代”更多是主题外推，不等于部署经济性和客户采用速度已经被证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "Anthropic / Figure / xAI 式类比不等于正式订单、部署和单位经济性验证"],
     nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "核实 75% 美国零部件、低于 3 万美元 BOM 目标和 1 万台 RoboFab 产能", "跟踪 BOM 降本、年产能和单机毛利", "检查 Amazon、NVIDIA、Google 相关生态说法是否在一手合作材料中出现", "跟踪美国机器人政策或补贴是否明确利好本土供应链玩家"],
   },
   "asts-rakuten": {

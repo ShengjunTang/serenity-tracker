@@ -1,13 +1,57 @@
 {
-  "generatedAt": "2026-07-03T20:04:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-03 20:04 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. New items after the prior 2026-07-02 20:12 boundary included late July 2 Posts, July 3 Posts and one July 3 subscriber-only post from the Subs tab. Truncated posts were opened on their status pages. Subscriber-only content is summarized at high level only.",
-  "summary": "7 月 3 日 20:04 刷新覆盖 Posts + Subs。相较 7 月 2 日 20:12 边界，这轮新增主线集中在四块：一是 $META / NBIS / neocloud 叙事继续强化，Serenity 连续用 Watermelon compute、Wang 澄清和 SemiAnalysis 的 2027 capex 表述反驳“Meta 掉队 / 砍 capex”叙事；二是 optical / glass substrate 方向同时出现边际改善，既有 $AXTI / $COHR 的 3 年晶圆供货协议，也有 Sumitomo Chemical 与 Samsung Electro-Mechanics 正式落地 GlaSSEM JV、把 glass-core substrate 的 H2 2027 商业化时间与资金安排说得更清楚；三是人形机器人继续扩散到 $CCXI / Agility、LeaderDrive 688017 与 Unitree/BlueCrest 相关线索；四是新增一条 7 月 3 日订阅者帖，主题是 $AVGO 面临 $MRVL 等 Nvidia 盟友型 ASIC 挑战者的份额侵蚀框架。最新消息流按两日滚动保留 7 月 1 日至 7 月 3 日。",
+  "generatedAt": "2026-07-04T20:05:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-04 20:05 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. New items after the prior 2026-07-03 20:04 boundary included four July 3-4 main Posts and no new subscriber-only post after the July 3 paid note. Truncated posts were opened on their status pages.",
+  "summary": "7 月 4 日 20:05 刷新覆盖 Posts + Subs。相较 7 月 3 日 20:04 边界，这轮没有新增 Subs，新增主线集中在四块：一是人形机器人继续从题材热度走向劳动力替代叙事，Serenity 连续强调 <$15K 量产价格带、24/7 替代能力，以及美国/中国之间的国家安全竞赛；二是她再次把 $CCXI / Agility 与 Amazon 仓储自动化联系起来，提到 leaked strategy 中用机器人减少 60 万招聘的 read-through；三是中国 VC 资金流继续向 physical AI、world models 与 AI infrastructure 集中，但她也承认 world model 暂无理想纯公开市场映射；四是 AI infra 侧新增一个偏想象空间的“floating / ocean compute”角度，点到 $NBIS 或 Samsung 浮动式数据中心的可能性。最新消息流按两日滚动保留 7 月 2 日至 7 月 4 日。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-04T18:23:27+08:00",
+      "type": "人形机器人替代劳动 / $AMZN 招聘替代 read-through",
+      "headline": "Serenity 认为 humanoids 正逼近真正的劳动力替代拐点：她称未来几年大量原本被视为“只能由人完成”的工作都可能被机器人接管，并点名一份泄露的 Amazon 内部策略曾计划借助类似 $CCXI / Agility 的机器人少招约 60 万名员工。她同时强调，当这条赛道升级为中美国家安全竞赛后，变化速度可能比市场想象更快。",
+      "tickers": [
+        "$AMZN",
+        "$CCXI"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2073351980131754203",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-04T15:18:16+08:00",
+      "type": "浮动式 AI 数据中心 / $NBIS 海上算力想象",
+      "headline": "Serenity 新抛出一个偏概念性的 AI infra 观察：海上或浮动式数据中心可能同时享受 free cooling 与特定地理位置优势。她据此想象未来甚至可能出现 $NBIS 或 Samsung 的 floating AI datacenter，但目前仍属于早期主题联想，不是公司级验证。",
+      "tickers": [
+        "$NBIS"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2073305375957541013",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-04T08:07:23+08:00",
+      "type": "人形机器人 <$15K 量产与就业替代",
+      "headline": "Serenity 直白表示，只要 humanoids 真能做到低于 1.5 万美元的 mass production，传统就业市场会面临非常激进的替代压力，因为机器人可以 24/7 工作、没有保险和 HR 成本。该帖没有新增公司级证据，但明显强化了她把 physical AI 当作跨行业资本迁移主线的态度。",
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2073196939785711796",
+      "source": "Posts"
+    },
+    {
+      "publishedAt": "2026-07-03T22:00:07+08:00",
+      "type": "中国 VC 资金流向 / physical AI 与 world models",
+      "headline": "Serenity 汇总中国一级市场 read-through：LLM 融资约 235.6 亿美元，AI infrastructure/technical layer 约 157.4 亿美元，embodied intelligence/physical AI 约 133.6 亿美元，AIGC 应用约 87.9 亿美元。她据此判断早期纯 foundation-model 融资窗口正在关闭，资金更集中于既有龙头与 world model 方向；公开市场里她只把 $AEVA 视为一种边缘暴露，但仍认为缺少真正纯粹的 world model 标的。",
+      "tickers": [
+        "$AEVA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2073044119287722024",
+      "source": "Posts"
+    },
     {
       "publishedAt": "2026-07-03T18:09:16+08:00",
       "type": "GlaSSEM / glass substrate H2 2027 商业化提速",
       "headline": "Serenity 认为上游 glass substrate 供应链出现积极 read-through：Sumitomo Chemical 与 Samsung Electro-Mechanics 已正式敲定韩国合资公司 GlaSSEM，并给出“2027 年下半年 full scale commercialization”与约 4821 亿韩元资本开支框架。她据此强调，若时间线比市场预想更靠前，$LPK、E&R、Onto 这类 TGV/LIDE 与良率设备链条可能先于真正量产就迎来订单前置。",
-      "tickers": ["$LPK"],
+      "tickers": [
+        "$LPK"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072986020640076052",
       "source": "Posts"
@@ -16,7 +60,9 @@
       "publishedAt": "2026-07-03T14:53:07+08:00",
       "type": "光子学回撤后的情绪反杀 / SemiAnalysis ETF 争议",
       "headline": "Serenity 讽刺 SemiAnalysis 一边通过对 CPO 延迟与 optical valuation 的负面表述引发板块大跌、随后又推出 institutional photonics ETF。她把这当作一个情绪信号：近期 optical names 的大回撤更像叙事和仓位挤压，而不是关键基本面被证伪。",
-      "tickers": ["$NVDA"],
+      "tickers": [
+        "$NVDA"
+      ],
       "severity": "medium",
       "url": "https://x.com/aleabitoreddit/status/2072936659369517341",
       "source": "Posts"
@@ -25,7 +71,11 @@
       "publishedAt": "2026-07-03T14:29:10+08:00",
       "type": "订阅者帖 / $AVGO 份额受压与 $MRVL 等 ASIC 挑战者",
       "headline": "Serenity 在订阅者帖中提出一个偏框架性的两年交易想法：即便 Broadcom 所处 ASIC 市场总体继续扩张，$MRVL、Mediatek、AlChip、GUC 等更靠近 Nvidia 生态的 challengers 也可能逐步切走部分 hyperscaler-adjacent 项目份额。该帖属于高层主题判断，这里只保留方向性结论，不公开付费帖完整细节。",
-      "tickers": ["$AVGO", "$MRVL", "$NVDA"],
+      "tickers": [
+        "$AVGO",
+        "$MRVL",
+        "$NVDA"
+      ],
       "severity": "medium",
       "url": "https://x.com/aleabitoreddit/status/2072930633811419601",
       "source": "Subs-visible"
@@ -34,7 +84,10 @@
       "publishedAt": "2026-07-03T13:58:44+08:00",
       "type": "$META / $NBIS overcapacity 误读与光子学修复预期",
       "headline": "Serenity 转述 SemiAnalysis 对 $META 的新表述，称 Meta datacenter 与 compute 投入仍会加速，2027 年 capex 甚至可能“shockingly high”。她据此认为，最近围绕 Meta 卖 excess compute 引发的 photonics / neocloud 暴跌是叙事误读，并直言那些因该叙事下跌 50% 以上的名字有 sharp V recovery 的可能。",
-      "tickers": ["$META", "$NBIS"],
+      "tickers": [
+        "$META",
+        "$NBIS"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072922974345445511",
       "source": "Posts"
@@ -43,7 +96,10 @@
       "publishedAt": "2026-07-03T13:22:33+08:00",
       "type": "LeaderDrive / $CCXI / Unitree 人形机器人情绪扩散",
       "headline": "Serenity 注意到 688017 LeaderDrive 在 7 月 3 日再创历史新高并触发 20% 涨停，认为这反映出市场正把中国和美国 frontier humanoid 的热度同时映射到零部件供应链上。她把这一轮情绪上行归因于 $CCXI / Agility Robotics 与 Unitree 获批科创板上市两条线共同催化。",
-      "tickers": ["688017", "$CCXI"],
+      "tickers": [
+        "688017",
+        "$CCXI"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072913865458004014",
       "source": "Posts"
@@ -52,7 +108,9 @@
       "publishedAt": "2026-07-03T12:54:11+08:00",
       "type": "$META Watermelon / capex 误读修正",
       "headline": "Serenity 继续反驳“Meta AI 掉队 / 要砍 capex”的媒体叙事。她援引 Wang 的说明称，行业过去几个月 agent 进展不及预期不代表 Meta 自身放缓；同时新的 Watermelon 模型据称已追上 OpenAI GPT 5.5，并使用比 Avocado 高一个数量级的算力，反而强化了 Meta 仍在 aggressively 加码 AI 的判断。",
-      "tickers": ["$META"],
+      "tickers": [
+        "$META"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072906728853881251",
       "source": "Posts"
@@ -61,7 +119,10 @@
       "publishedAt": "2026-07-03T05:30:57+08:00",
       "type": "$AXTI / $COHR 3 年晶圆供货与预付款",
       "headline": "Serenity 跟进称 $AXTI 与 $COHR 签署了 3 年晶圆供货协议，Coherent 将向 AXT-Tongmei 预付 2228.85 万美元以换取承诺供应产能。对她而言，这让 AXTI 从“上游 InP substrate 方法论案例”进一步转向有公司级合同和资金前置的验证线索。",
-      "tickers": ["$AXTI", "$COHR"],
+      "tickers": [
+        "$AXTI",
+        "$COHR"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
       "source": "Posts"
@@ -70,7 +131,9 @@
       "publishedAt": "2026-07-03T03:33:06+08:00",
       "type": "$CCXI / BlueCrest 5.6% stake",
       "headline": "Serenity 提到 BlueCrest Capital Management 及其创始人 Michael Platt 刚刚披露持有 $CCXI 5.6% 股份。她把这视为 Agility Robotics 主题开始吸引更成熟资金注意的又一个旁证，也强化了自己对 CCXI / Agility 人形机器人交易热度的判断。",
-      "tickers": ["$CCXI"],
+      "tickers": [
+        "$CCXI"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072765527764971642",
       "source": "Posts"
@@ -79,7 +142,10 @@
       "publishedAt": "2026-07-02T18:34:42+08:00",
       "type": "美国机器人国家战略 / Agility 国产化供应链",
       "headline": "Serenity 从 Boston Dynamics CEO 对“机器人将塑造美国下一个 250 年”的表述出发，进一步把 humanoid 上升到国家战略视角，并再次强调美国机器人供应链本土化的重要性。她点名 Agility / $CCXI 目前约 75% 零部件来自美国，认为这比单纯追求低 BOM 更关键，因为未来补贴、稀土与零部件来源都可能成为美国 humanoid 竞争力的核心约束。",
-      "tickers": ["$CCXI", "$TSLA"],
+      "tickers": [
+        "$CCXI",
+        "$TSLA"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072630036600103340",
       "source": "Posts"
@@ -88,7 +154,10 @@
       "publishedAt": "2026-07-02T17:16:50+08:00",
       "type": "$IREN 创始人激励 / $6B ATM 稀释压力",
       "headline": "Serenity 点出 $IREN 创始人获得逾 11.4 亿美元、4 年归属的股权激励，而公司同时仍在推进 60 亿美元 ATM。她没有展开长论，但明显把这当作 neocloud 板块里治理与融资结构风险的反面教材，也间接强化了她此前对 NBIS 资本结构更干净的偏好。",
-      "tickers": ["$IREN", "$NBIS"],
+      "tickers": [
+        "$IREN",
+        "$NBIS"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072610437817078056",
       "source": "Posts"
@@ -97,7 +166,11 @@
       "publishedAt": "2026-07-02T14:53:53+08:00",
       "type": "$META excess compute / Neocloud 机会再确认",
       "headline": "Serenity 转述 Wells Fargo 观点称，$META 拟出售 excess compute 反而是 AI 需求与单位经济性改善的正面信号，不应被误读为资本开支见顶。她尤其认同 sell-side 对 neocloud 的解读：即使 Meta 自己卖算力，也更像在验证 AI infra 市场巨大、并购与转售机会仍在，而不是直接推翻 $NBIS、$CRWV 这类中间层的存在价值。",
-      "tickers": ["$META", "$NBIS", "$CRWV"],
+      "tickers": [
+        "$META",
+        "$NBIS",
+        "$CRWV"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072574465763111166",
       "source": "Posts"
@@ -106,7 +179,9 @@
       "publishedAt": "2026-07-02T14:38:51+08:00",
       "type": "OpenAI / 美国政府 5% 持股讨论",
       "headline": "Serenity 注意到 FT 所称 OpenAI 曾讨论给予美国政府 5% 股权，并把它类比为一种潜在的“软背书”结构：若美国政府未来在政策上更深度绑定 OpenAI，理论上可能为其超大规模 capex 与义务提供某种隐性支撑。该帖更偏宏观政策猜想，目前没有新增可交易标的的公司级验证。",
-      "tickers": ["$INTC"],
+      "tickers": [
+        "$INTC"
+      ],
       "severity": "medium",
       "url": "https://x.com/aleabitoreddit/status/2072570681586553112",
       "source": "Posts"
@@ -115,89 +190,15 @@
       "publishedAt": "2026-07-02T01:09:49+08:00",
       "type": "$CCXI / Agility 美国供应链与 BOM 降本",
       "headline": "Serenity 贴出 Agility Robotics 演示材料并提炼出三条关键信息：约 75% 零部件来自美国、本土 RoboFab 产能约 1 万台、以及量产阶段 BOM 看起来有机会降到 3 万美元以下。她把这些信息和 Amazon、$NVDA、Foxconn、SoftBank 等生态支持放在一起，认为如果 Agility 真能在美国体系内实现降本与量产，对“Made in USA humanoid”将是很强验证。",
-      "tickers": ["$CCXI", "$AGLT", "$AMZN", "$NVDA", "$TSLA"],
+      "tickers": [
+        "$CCXI",
+        "$AGLT",
+        "$AMZN",
+        "$NVDA",
+        "$TSLA"
+      ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-01T21:42:30+08:00",
-      "type": "$META / $NBIS / $CRWV capex 误读修正",
-      "headline": "Serenity 反驳市场把 $META “出售 excess capacity”解读成“过度建设、准备砍 capex”的逻辑。她称目前更像是 Meta 仍明显受算力约束，甚至曾因内部项目占用过高而与 $GOOGL 资源分配冲突，并因此签下超过 480 亿美元的 neocloud 合同。她据此认为，Meta 若出售部分算力更像是溢出需求管理，而不是 AI 基建周期结束。",
-      "tickers": ["$META", "$GOOGL", "$NBIS", "$CRWV"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072314906729455876",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-01T20:49:56+08:00",
-      "type": "$META 云业务 / excess AI compute 变现",
-      "headline": "Serenity 跟进 Bloomberg 线索称，$META 正计划建立云业务，对外出售 excess AI compute，与 GCP、Azure、AWS 正面竞争。她把它看成 Meta 在前沿模型之外尝试打开新收入流的动作，也让 neocloud / overflow compute 主题从单纯租赁过渡到更复杂的 resale 与 capacity marketplace 叙事。",
-      "tickers": ["$META", "$AMZN", "$MSFT", "$GOOGL"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072301677211009426",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-01T19:07:07+08:00",
-      "type": "Agility / Figure / Tesla / $NVDA humanoid 格局类比",
-      "headline": "Serenity 用 LLM 格局类比美国 humanoid 玩家：Agility / $CCXI 像 Anthropic，依托 $AMZN、$NVDA 与 $GOOGL DeepMind、强调 enterprise commercialization；Optimus 更像 xAI，Figure 更像拿到 OpenAI / Microsoft 支持后又自建 VLA 的 ChatGPT；$NVDA 则像默默供能整个人形机器人生态的底层平台。她借此继续强化 Agility 的企业落地路径和生态位置。",
-      "tickers": ["$CCXI", "$AMZN", "$NVDA", "$GOOGL"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072275805330362648",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-01T16:54:04+08:00",
-      "type": "Physical AI / 能源拥挤 vs memory / photonics 回调",
-      "headline": "Serenity 认为市场现在像“只有 5 秒注意力的金鱼”，过度交易 physical AI 与 energy 热门主题，却把 memory 与 photonics 这些 2028 年后仍受瓶颈约束的链条卖得过头。该帖没有新增公司级证据，但强化了她对 memory / photonics 中长期供需错配仍在的看法。",
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2072242322688057579",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-01T15:22:39+08:00",
-      "type": "$SIVE / Nasdaq 上市时间线明确化",
-      "headline": "Serenity 引述 $SIVE 相关表述称，公司“计划在未来数个季度内完成 Nasdaq 上市流程”，并强调这比此前“评估中”的说法更实质，意味着美国上市路径从模糊预期推进到更正式的时间线。对她而言，这既关系流动性与估值重估，也关系机构资金能否更顺畅进入。",
-      "tickers": ["$SIVE"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072219315760488615",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-01T12:40:02+08:00",
-      "type": "中国 humanoid / 测试封装 / 被动元件瓶颈 digest",
-      "headline": "Serenity 汇总多条产业链笔记：Morgan Stanley 将 2026 年中国 humanoid 出货预期上修至 5 万台；探针卡与 test socket 因贵金属涨价和 test pin 产能紧张面临提价；Yageo 上调多类电容价格；台湾 OSAT、测试接口与封装基板环节继续偏紧，且相关厂商出现涨价；她还点到 $META 的 Vistara 使用旧 DDR4 + CXL memory expansion，以及 Brookfield 为 $BE 燃料电池项目大幅加码融资。",
-      "tickers": ["$META", "$BE", "$ASX"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072178393878290789",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-01T10:56:04+08:00",
-      "type": "$SIVE 7 亿 SEK 超额认购融资",
-      "headline": "Serenity 跟进称 $SIVE 最终完成 7 亿瑞典克朗增发，较原先约 6 亿 SEK 计划上修，且“超额多倍认购”。她把这视为机构资金在接近现价水平对 InP lasers 与 optical amplifiers 扩产的更明确背书，并强调这笔钱用于扩容后，Sivers 向高量产阶段过渡的资金约束被明显缓解；但稀释、定价与产能兑现仍需继续核实。",
-      "tickers": ["$SIVE"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072152226169331776",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-01T01:21:44+08:00",
-      "type": "$SIVE 融资 / InP 激光器与光放大器扩产",
-      "headline": "Serenity 关注 $SIVE 拟融资约 6 亿瑞典克朗（约 6100 万美元），用于扩充 InP lasers 与 optical amplifiers 制造能力。由于 Sivers 采用 fab-lite 模式，她将其解读为 CW DFB laser 量产所需的 foundry allocation 与合作伙伴扩容信号，并认为若引入长期机构或 $GFS 等战略投资者且折价不重，偏正面；若主要是套利或短线资金，则需要重新评估。",
-      "tickers": ["$SIVE", "$GFS", "$JBL", "$POET"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-01T00:34:00+08:00",
-      "type": "$CCXI / Agility Robotics 仓位强化",
-      "headline": "Serenity 再次明确 Agility Robotics 是她当前最喜欢的人形机器人仓位，并称其可能最早于 9 月通过 $CCXI 登陆 Nasdaq。她强调 V4 已在 Amazon 等场景运行、V5 计划明年量产、现有年产能超过 1 万台，投资者包括 Foxconn、$NVDA、$AMZN 与 SoftBank；同时继续提示 SPAC 延期或取消风险。",
-      "tickers": ["$CCXI", "$AGLT", "$NVDA", "$AMZN"],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
       "source": "Posts"
     }
   ],
@@ -3050,13 +3051,15 @@
       "name": "Agility Robotics",
       "tier": "speculative",
       "theme": "Humanoid robotics IPO / warehouse automation",
-      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. Beyond the possible September CCXI route to Nasdaq, she now frames Agility as the Anthropic-like enterprise-commercialization path inside US humanoids, with a newer emphasis on a Made-in-USA supply chain, roughly 75% of parts sourced from the US, a 10,000-unit RoboFab footprint and a possible sub-$30K mass-production BOM target. The July 3 BlueCrest disclosure adds a fresh signal that more sophisticated outside capital is also paying attention to the theme.",
-      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments, a domestic supply-chain angle and a clearer enterprise go-to-market narrative than some higher-profile peers. The newer domestic-sourcing and BOM claims matter because Serenity increasingly views humanoids through a national-strategy lens, not just a pure cost curve, and the BlueCrest stake suggests the thesis is spreading beyond retail excitement. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and whether ecosystem prestige turns into actual revenue and margin scale.",
+      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. Beyond the possible September CCXI route to Nasdaq, she now frames Agility as the Anthropic-like enterprise-commercialization path inside US humanoids, with a newer emphasis on a Made-in-USA supply chain, roughly 75% of parts sourced from the US, a 10,000-unit RoboFab footprint and a possible sub-$30K mass-production BOM target. The July 4 posts extend that framing from supply-chain optionality into labor replacement: she explicitly ties Agility-like robots back to Amazon warehouse automation and argues that once humanoids approach sub-$15K mass production, broad categories of labor could be disrupted much faster than the market expects.",
+      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments, a domestic supply-chain angle and a clearer enterprise go-to-market narrative than some higher-profile peers. The newer domestic-sourcing and BOM claims matter because Serenity increasingly views humanoids through both a national-strategy and labor-economics lens, not just a pure cost curve: if Agility helps customers avoid large-scale hiring while still fitting a US-policy-preferred supply chain, the valuation logic broadens materially. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and whether ecosystem prestige turns into actual revenue and margin scale.",
       "catalysts": [
         "Expected CCXI to AGLT ticker transition after the proposed transaction",
         "BlueCrest Capital Management disclosed a 5.6% stake in CCXI",
         "Deck claims that roughly 75% of Agility parts are sourced from the US",
         "Serenity thinks the mass-production BOM target may be below $30K rather than the headline ~$145K robot cost",
+        "Serenity now argues that sub-$15K humanoid mass production would radically accelerate labor substitution",
+        "She cites a leaked Amazon strategy that aimed to avoid hiring roughly 600,000 workers through robots such as CCXI / Agility",
         "10,000-unit RoboFab capacity and US manufacturing footprint across Salem, Pittsburgh and Fremont",
         "Reported multi-year orders and a pipeline of more than 30 customers",
         "Robofab production setup and customer trials across logistics and manufacturing",
@@ -3068,6 +3071,7 @@
         "SPAC transaction can be delayed, repriced or cancelled",
         "Current robot BOM is high and projected cost reductions are unproven",
         "The 75%-US-parts and sub-$30K mass-production targets need primary deck and filing confirmation",
+        "Labor-replacement extrapolation is thematic and does not by itself prove deployment economics or customer adoption speed",
         "Order pipeline must convert into deliveries, revenue and sustainable margins",
         "Pro forma valuation and dilution require primary filing review",
         "Narrative analogies to Anthropic, Figure or xAI do not substitute for disclosed orders, unit economics or deployment data"
@@ -3081,8 +3085,18 @@
         "Check whether Amazon, NVIDIA or Google ecosystem claims appear in primary partner materials or filings",
         "Track whether US robotics policy or sourcing incentives explicitly benefit domestic-supply-chain players like Agility"
       ],
-      "lastUpdated": "2026-07-03 20:04",
+      "lastUpdated": "2026-07-04 20:05",
       "evidence": [
+        {
+          "date": "2026-07-04 18:23",
+          "quote": "Serenity tied humanoid labor substitution back to a leaked Amazon strategy that aimed to avoid hiring hundreds of thousands of workers through robots like CCXI / Agility, and argued the pace could accelerate in a US-China race.",
+          "url": "https://x.com/aleabitoreddit/status/2073351980131754203"
+        },
+        {
+          "date": "2026-07-04 08:07",
+          "quote": "Serenity said that if humanoids reach sub-$15K mass production, it becomes hard to see many human jobs remaining because robots can work 24/7 with lower frictional costs.",
+          "url": "https://x.com/aleabitoreddit/status/2073196939785711796"
+        },
         {
           "date": "2026-07-03 03:33",
           "quote": "Serenity highlighted BlueCrest and Michael Platt disclosing a 5.6% stake in CCXI as another sign Agility Robotics is attracting attention.",
