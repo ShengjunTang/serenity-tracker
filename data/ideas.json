@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-07-04T20:05:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-04 20:05 Beijing. Collection used Serenity main Posts plus the subscriber-only Subs tab in logged-in X/Chrome; Replies were not scanned. New items after the prior 2026-07-03 20:04 boundary included four July 3-4 main Posts and no new subscriber-only post after the July 3 paid note. Truncated posts were opened on their status pages.",
-  "summary": "7 月 4 日 20:05 刷新覆盖 Posts + Subs。相较 7 月 3 日 20:04 边界，这轮没有新增 Subs，新增主线集中在四块：一是人形机器人继续从题材热度走向劳动力替代叙事，Serenity 连续强调 <$15K 量产价格带、24/7 替代能力，以及美国/中国之间的国家安全竞赛；二是她再次把 $CCXI / Agility 与 Amazon 仓储自动化联系起来，提到 leaked strategy 中用机器人减少 60 万招聘的 read-through；三是中国 VC 资金流继续向 physical AI、world models 与 AI infrastructure 集中，但她也承认 world model 暂无理想纯公开市场映射；四是 AI infra 侧新增一个偏想象空间的“floating / ocean compute”角度，点到 $NBIS 或 Samsung 浮动式数据中心的可能性。最新消息流按两日滚动保留 7 月 2 日至 7 月 4 日。",
+  "generatedAt": "2026-07-05T20:06:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-05 20:06 Beijing. Logged-in X/Chrome access was unavailable, so collection fell back to public X status pages for main Posts only; Subs could not be verified and Replies were not scanned. New items after the prior 2026-07-04 20:05 boundary included three actionable July 5 public Posts; two reply-style statuses and one one-line personal post were excluded after review. Truncated posts were opened on their status pages.",
+  "summary": "7 月 5 日 20:06 刷新以公开 Posts 回退源完成；由于这轮没有已登录 X/Chrome，Subs 未能验证，Replies 也未扫描。相较 7 月 4 日 20:05 边界，新增主线集中在三块：一是 Anthropic 泄露文件把澳洲 1.4GW 算力需求与 $IREN、$SHAZ 等 sovereign DC / neocloud 建设联系起来，强化了 AI 租赁与主权算力 read-through；二是京东 CEO 关于 70 万配送岗位被机器人替代、并把员工转向机器人维护的表述，让 Serenity 进一步把 physical AI 从供应链叙事推进到电商平台 opex 重构；三是她转发 UDN 对 SemiAnalysis 先唱空 CPO、后联手推出 photonics ETF 的争议报道，把近期 optical 板块下跌继续归因为叙事与仓位挤压。最新消息流按两日滚动保留 7 月 3 日至 7 月 5 日。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-05T17:45:22+08:00",
+      "type": "Anthropic 澳洲 1.4GW / $IREN $SHAZ sovereign DC read-through",
+      "headline": "Serenity 引述泄露的 Anthropic 文件称，其计划从澳大利亚锁定约 1.4GW、约合 216 亿美元的算力容量。她据此把 Anthropic 的主权算力需求与近期 $IREN、$SHAZ 等 neocloud 在澳洲建设 sovereign DC 的动作联系起来，认为部分原本分散的 AI infra 线索开始在地理与供给侧重新对上。",
+      "tickers": [
+        "$IREN",
+        "$SHAZ"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2073704784398528599",
+      "source": "Posts-public-fallback"
+    },
+    {
+      "publishedAt": "2026-07-05T05:44:39+08:00",
+      "type": "$JD 机器人替代配送 / 电商平台 physical AI read-through",
+      "headline": "Serenity 转述 Nikkei 与 FT 关于京东的报道：公司管理层警告机器人将替代约 70 万配送岗位，并已与约 120 所学校签约，把部分劳动力转向机器人维修与维护等新角色。对她而言，这让 humanoid / robotics 不再只是供应链或概念热度，而是开始落到大型电商平台的 opex 重构与岗位迁移。",
+      "tickers": [
+        "$JD",
+        "$AMZN"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2073523410643366242",
+      "source": "Posts-public-fallback"
+    },
+    {
+      "publishedAt": "2026-07-05T02:02:28+08:00",
+      "type": "光子学情绪修复 / SemiAnalysis 与 photonics ETF 争议",
+      "headline": "Serenity 转发 UDN Money 对 SemiAnalysis 的争议报道，核心指控是其先以 low yield、CPO 延后等论点打压光子学板块，随后又与 Tema 合作推出 photonics ETF，并把此前被负面点名的部分 optical 标的纳入篮子。她借此继续强化一个观点：最近 photonics 板块的大跌更像叙事与仓位冲击，而不是基本面被一次性证伪。",
+      "tickers": [
+        "$HIMX",
+        "$LITE"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2073467493998555192",
+      "source": "Posts-public-fallback"
+    },
     {
       "publishedAt": "2026-07-04T18:23:27+08:00",
       "type": "人形机器人替代劳动 / $AMZN 招聘替代 read-through",
@@ -136,69 +172,6 @@
       ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2072765527764971642",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-02T18:34:42+08:00",
-      "type": "美国机器人国家战略 / Agility 国产化供应链",
-      "headline": "Serenity 从 Boston Dynamics CEO 对“机器人将塑造美国下一个 250 年”的表述出发，进一步把 humanoid 上升到国家战略视角，并再次强调美国机器人供应链本土化的重要性。她点名 Agility / $CCXI 目前约 75% 零部件来自美国，认为这比单纯追求低 BOM 更关键，因为未来补贴、稀土与零部件来源都可能成为美国 humanoid 竞争力的核心约束。",
-      "tickers": [
-        "$CCXI",
-        "$TSLA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072630036600103340",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-02T17:16:50+08:00",
-      "type": "$IREN 创始人激励 / $6B ATM 稀释压力",
-      "headline": "Serenity 点出 $IREN 创始人获得逾 11.4 亿美元、4 年归属的股权激励，而公司同时仍在推进 60 亿美元 ATM。她没有展开长论，但明显把这当作 neocloud 板块里治理与融资结构风险的反面教材，也间接强化了她此前对 NBIS 资本结构更干净的偏好。",
-      "tickers": [
-        "$IREN",
-        "$NBIS"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072610437817078056",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-02T14:53:53+08:00",
-      "type": "$META excess compute / Neocloud 机会再确认",
-      "headline": "Serenity 转述 Wells Fargo 观点称，$META 拟出售 excess compute 反而是 AI 需求与单位经济性改善的正面信号，不应被误读为资本开支见顶。她尤其认同 sell-side 对 neocloud 的解读：即使 Meta 自己卖算力，也更像在验证 AI infra 市场巨大、并购与转售机会仍在，而不是直接推翻 $NBIS、$CRWV 这类中间层的存在价值。",
-      "tickers": [
-        "$META",
-        "$NBIS",
-        "$CRWV"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072574465763111166",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-02T14:38:51+08:00",
-      "type": "OpenAI / 美国政府 5% 持股讨论",
-      "headline": "Serenity 注意到 FT 所称 OpenAI 曾讨论给予美国政府 5% 股权，并把它类比为一种潜在的“软背书”结构：若美国政府未来在政策上更深度绑定 OpenAI，理论上可能为其超大规模 capex 与义务提供某种隐性支撑。该帖更偏宏观政策猜想，目前没有新增可交易标的的公司级验证。",
-      "tickers": [
-        "$INTC"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2072570681586553112",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-02T01:09:49+08:00",
-      "type": "$CCXI / Agility 美国供应链与 BOM 降本",
-      "headline": "Serenity 贴出 Agility Robotics 演示材料并提炼出三条关键信息：约 75% 零部件来自美国、本土 RoboFab 产能约 1 万台、以及量产阶段 BOM 看起来有机会降到 3 万美元以下。她把这些信息和 Amazon、$NVDA、Foxconn、SoftBank 等生态支持放在一起，认为如果 Agility 真能在美国体系内实现降本与量产，对“Made in USA humanoid”将是很强验证。",
-      "tickers": [
-        "$CCXI",
-        "$AGLT",
-        "$AMZN",
-        "$NVDA",
-        "$TSLA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
       "source": "Posts"
     }
   ],
@@ -2834,35 +2807,46 @@
     },
     {
       "id": "anthropic-neocloud-colo",
-      "ticker": "$WULF / $CIFR / $WYFI / $HUT",
-      "name": "Anthropic neocloud colo basket",
+      "ticker": "$IREN / $SHAZ / $WULF / $CIFR / $WYFI / $HUT",
+      "name": "Anthropic neocloud / sovereign-DC basket",
       "tier": "speculative",
-      "theme": "AI data-center leases / neocloud colocation",
-      "thesis": "Serenity says new Anthropic data-center lease news may be a tailwind for neocloud colocation names such as WULF, CIFR, WYFI and HUT, after The Information reported Anthropic signed more than a dozen LOIs with US developers.",
-      "whyItMatters": "If frontier AI labs start leasing large data-center capacity directly, neocloud and power-rich colocation operators could receive demand validation beyond crypto or generic hosting narratives.",
+      "theme": "AI data-center leases / sovereign neocloud colocation",
+      "thesis": "Serenity's earlier Anthropic-lease read-through has widened from unnamed US developers to a more geographic sovereign-compute angle. On July 5 she tied leaked Anthropic documents showing roughly 1.4GW of planned Australian capacity, or about $21.6B, to the fact that $IREN, $SHAZ and other neocloud operators have been building sovereign data-center capacity in Australia. In her framing, Anthropic's leasing appetite and sovereign-buildout chatter are beginning to connect into one demand map rather than isolated anecdotes.",
+      "whyItMatters": "If frontier labs are not only leasing capacity but also clustering demand around sovereign or geopolitically useful sites, the beneficiary set may expand from generic colocation names to operators with the right power, geography and financing. The thesis remains indirect, but it is more concrete than the earlier US-LOI basket because the July 5 post adds a specific region, power scale and public-company read-through.",
       "catalysts": [
         "Anthropic pursuing its first data-center leases",
         "More than a dozen LOIs with US developers reported by The Information according to Serenity",
-        "Potential read-through to WULF, CIFR, WYFI, HUT and other unnamed colo players"
+        "Potential read-through to WULF, CIFR, WYFI, HUT and other unnamed colo players",
+        "Leaked Anthropic documents describe plans to secure about 1.4GW of Australian capacity, roughly $21.6B in value",
+        "Serenity connects that demand map to $IREN, $SHAZ and other neoclouds building sovereign DC capacity in Australia"
       ],
       "risks": [
         "Serenity says specific winners are not named yet",
         "LOIs are not final leases or revenue commitments",
         "Colo names can be heavily exposed to financing, power constraints and crypto beta",
-        "Need to distinguish Anthropic direct counterparties from broad sector sympathy"
+        "Need to distinguish Anthropic direct counterparties from broad sector sympathy",
+        "The Australian-capacity claim comes from leaked documents and still needs primary confirmation",
+        "Sovereign-DC buildout does not prove Anthropic or other frontier-lab contracts accrue to listed operators"
       ],
       "stance": "观望",
       "nextChecks": [
         "Read The Information report and identify named developers if any",
         "Check which public colo/neocloud companies have sites matching Anthropic requirements",
-        "Compare power capacity, financing and lease pipeline for WULF, CIFR, WYFI and HUT"
+        "Compare power capacity, financing and lease pipeline for WULF, CIFR, WYFI and HUT",
+        "Verify which Australian operators actually have sovereign-capable sites, power access and construction timelines that fit Anthropic-scale demand",
+        "Check whether IREN, SHAZ or peers explicitly mention sovereign AI, government-aligned compute or Australian frontier-lab counterparties"
       ],
-      "lastUpdated": "2026-06-12 16:51",
+      "lastUpdated": "2026-07-05 17:45",
       "evidence": [
         {
           "date": "2026-06-12",
           "quote": "Serenity said Anthropic pursuing first DC leases and signing more than a dozen LOIs could be a tailwind for neocloud colo names such as WULF, CIFR, WYFI and HUT.",
           "url": "https://x.com/aleabitoreddit/status/2065130589204992048"
+        },
+        {
+          "date": "2026-07-05 17:45",
+          "quote": "Serenity linked leaked Anthropic plans for about 1.4GW of Australian capacity to IREN, SHAZ and other neoclouds building sovereign DCs in Australia.",
+          "url": "https://x.com/aleabitoreddit/status/2073704784398528599"
         }
       ]
     },

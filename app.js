@@ -474,12 +474,12 @@ const zhCopy = {
     nextChecks: ["核实 Foosung 的 WF6 产品、产能和客户", "确认 SK Hynix、Samsung 是否依赖 Foosung 或相关特气", "检查 21% 价格反应后是否出现公司公告或行业验证", "对比 Foosung 与 Peric 的产能、原料、认证和定价权", "估算 WF6 价格上涨对 Foosung 收入和利润的敏感性"],
   },
   "anthropic-neocloud-colo": {
-    theme: "Anthropic 数据中心租赁 / Neocloud colocation",
-    thesis: "Serenity 认为 Anthropic 寻求首批数据中心 leases 的消息可能利好 Neocloud colo sector，并点名 WULF、CIFR、WYFI、HUT 等潜在相关标的。她引用 The Information 称 Anthropic 已与美国开发商签署十多份 LOI。",
-    whyItMatters: "如果 frontier AI lab 开始直接锁定大规模数据中心容量，具备电力和机房资源的 neocloud / colo 公司可能获得需求验证，不再只是 crypto 或泛 hosting 叙事。",
-    catalysts: ["Anthropic 正在寻求首批数据中心 leases", "据她引用，Anthropic 已与美国开发商签署十多份 LOI", "WULF、CIFR、WYFI、HUT 等可能获得 sector read-through"],
-    risks: ["她也说明具体受益公司尚未被点名", "LOI 不等于最终 lease 或收入确认", "colo 标的受融资、电力接入和 crypto beta 影响很大", "需要区分真正的 Anthropic 交易对手和板块情绪上涨"],
-    nextChecks: ["阅读 The Information 原文，看是否点名开发商或地点", "核实 WULF、CIFR、WYFI、HUT 的电力、机房、融资和租赁 pipeline", "判断哪些公司可能真正匹配 Anthropic 需求"],
+    theme: "Anthropic 数据中心租赁 / 主权 Neocloud colocation",
+    thesis: "Serenity 对 Anthropic 租赁算力的 read-through 已从“美国开发商 LOI”扩展到更具体的 sovereign compute 地理线索。7 月 5 日她把泄露文件中约 1.4GW、约合 216 亿美元的澳洲算力计划，与 $IREN、$SHAZ 等 neocloud 在澳洲建设 sovereign DC 的动作联系起来，认为前沿模型公司的租赁需求与主权算力布局开始在同一张需求地图上汇合。",
+    whyItMatters: "如果 frontier AI lab 不只是租算力，而且把需求集中到具备主权、地缘和电力条件的区域站点，那么受益者可能从泛 colo 篮子扩展到真正拥有合适 geography、power 与 financing 的 neocloud 运营商。这条线仍是间接 read-through，但比早先纯 LOI 叙事更具体。",
+    catalysts: ["Anthropic 正在寻求首批数据中心 leases", "据她引用，Anthropic 已与美国开发商签署十多份 LOI", "泄露文件显示 Anthropic 计划在澳洲锁定约 1.4GW、约合 216 亿美元算力", "Serenity 把这条需求与 $IREN、$SHAZ 等在澳洲建设 sovereign DC 的 neocloud 线索连接起来"],
+    risks: ["她也说明具体受益公司尚未被点名", "LOI 不等于最终 lease 或收入确认", "colo 标的受融资、电力接入和 crypto beta 影响很大", "需要区分真正的 Anthropic 交易对手和板块情绪上涨", "澳洲 1.4GW 说法来自泄露文件，仍需一手确认", "主权数据中心建设不等于上市公司一定拿到 Anthropic 或其他 frontier lab 合同"],
+    nextChecks: ["阅读 The Information 原文，看是否点名开发商或地点", "核实 WULF、CIFR、WYFI、HUT 的电力、机房、融资和租赁 pipeline", "核实 IREN、SHAZ 或其他澳洲运营商是否具备匹配 Anthropic 级别需求的站点、电力和时间表", "检查这些公司是否公开提到 sovereign AI、政府相关 compute 或 frontier lab 对手方"],
   },
   "spcx-liquidity": {
     theme: "SpaceX / SPCX mega-IPO 流动性与 AI 软件可选项",
