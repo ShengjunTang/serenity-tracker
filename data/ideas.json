@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-07-05T20:06:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-05 20:06 Beijing. Logged-in X/Chrome access was unavailable, so collection fell back to public X status pages for main Posts only; Subs could not be verified and Replies were not scanned. New items after the prior 2026-07-04 20:05 boundary included three actionable July 5 public Posts; two reply-style statuses and one one-line personal post were excluded after review. Truncated posts were opened on their status pages.",
-  "summary": "7 月 5 日 20:06 刷新以公开 Posts 回退源完成；由于这轮没有已登录 X/Chrome，Subs 未能验证，Replies 也未扫描。相较 7 月 4 日 20:05 边界，新增主线集中在三块：一是 Anthropic 泄露文件把澳洲 1.4GW 算力需求与 $IREN、$SHAZ 等 sovereign DC / neocloud 建设联系起来，强化了 AI 租赁与主权算力 read-through；二是京东 CEO 关于 70 万配送岗位被机器人替代、并把员工转向机器人维护的表述，让 Serenity 进一步把 physical AI 从供应链叙事推进到电商平台 opex 重构；三是她转发 UDN 对 SemiAnalysis 先唱空 CPO、后联手推出 photonics ETF 的争议报道，把近期 optical 板块下跌继续归因为叙事与仓位挤压。最新消息流按两日滚动保留 7 月 3 日至 7 月 5 日。",
+  "generatedAt": "2026-07-06T20:07:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-06 20:07 Beijing. Logged-in Chrome/X access was unavailable because the browser extension session could not be reached, so collection fell back to public X snippets plus a public mirror for main Posts only; Subs could not be verified and Replies were not scanned. New actionable public Posts after the prior 2026-07-05 20:06 boundary focused on robotics-national-champion framing, upstream photonics pricing / rerating confirmation, memory-capex tightening and a new BBU-cell bottleneck line. Two public reply-style statuses, one duplicate SIVE quote-thread copy and one image-only reinforcement post were reviewed but not promoted into latestUpdates.",
+  "summary": "7 月 6 日 20:07 刷新以公开 Posts 镜像回退源完成；由于这轮 Chrome 扩展不可用，Subs 仍未验证，Replies 也未扫描。相较 7 月 5 日 20:06 边界，新增主线集中在四块：一是 Serenity 把 Agility、Boston Dynamics、Amazon Robotics 等并入“美国机器人国家冠军”框架，继续强化 physical AI / humanoid 的国家级叙事；二是光子链出现更硬的上游与估值信号，既包括 Nomura 提到 $AXTI / $IQE 等 InP 关键玩家并伴随衬底与 epiwafer 涨价，也包括她把 $SIVE 进一步推向“next $LITE”路径、以及 $XFAB 获得更接近 sell-side rerating 的支持；三是 memory 线出现 Micron 广岛新投资、NAND 紧缺延续到 2027 和 DDR 合同价上修的集中验证；四是 Meta/Amazon 相关 BBU 高功率圆柱电芯短缺被她提炼成新的 data-center 上游瓶颈。最新消息流按两日滚动保留 7 月 4 日至 7 月 6 日。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-06T17:29:29+08:00",
+      "type": "$XFAB 估值重定 / photonics foundry rerating",
+      "headline": "Serenity 引述 Kepler 将 $XFAB 上调至 Buy，核心理由包括 Melexis 需求持续走强、AI 带来 SiC/GaN/photonics 的结构性增长腿，以及 X-FAB 2027 年 EV/EBITDA 仅约 4.8 倍、显著低于 specialty foundry 同业中位数约 14.5 倍。她同时补充，自己更看重的是 XFAB 通过 photonixFAB 与 silicon photonics 获得的长期可选性，而不只是传统 auto 周期修复。",
+      "tickers": [
+        "$XFAB",
+        "$SILEX",
+        "$NVDA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2074063175293809150",
+      "source": "Posts-public-mirror-fallback"
+    },
+    {
+      "publishedAt": "2026-07-06T16:25:00+08:00",
+      "type": "$SIVE 向 next $LITE 叙事推进",
+      "headline": "Serenity 用一条长帖把 $SIVE 的多段里程碑重新串起来：O-Net 与 Jabil 的量产 read-through、$GFS / Ayar / $AMD / $NVDA 等 hyperscaler 相关映射、TrendForce 所说 CW laser LTA 需求、超额认购融资后的 laser scaling，以及未来数个季度内完成 Nasdaq 上市并为 M&A 打开空间。她的核心结论是，SIVE 现阶段更像在等待 pluggables 到 CPO 的收入桥接，而不只是押注单一架构兑现。",
+      "tickers": [
+        "$SIVE",
+        "$LITE",
+        "$AMD",
+        "$NVDA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2074046947434860971",
+      "source": "Posts-public-mirror-fallback"
+    },
+    {
+      "publishedAt": "2026-07-06T13:48:43+08:00",
+      "type": "InP 上游涨价验证 / $AXTI $IQE read-through",
+      "headline": "Serenity 引述 Nomura 称 $AXTI 与 $IQE 属于 InP 关键玩家，并列出一组更硬的涨价线索：2 英寸 InP substrate 涨约 42-76%、3 英寸 InP substrate 涨约 78%、2 英寸 EML epiwafer 涨约 50-75%、3 英寸 CW epiwafer 涨约 40% 以上。对她而言，这相当于从价格、需求和供给短缺三个维度继续验证 AI optical 上游瓶颈。",
+      "tickers": [
+        "$AXTI",
+        "$IQE"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2074007618046345249",
+      "source": "Posts-public-mirror-fallback"
+    },
+    {
+      "publishedAt": "2026-07-06T04:32:55+08:00",
+      "type": "美国机器人国家冠军 / $CCXI $AMZN 框架强化",
+      "headline": "Serenity 转述 SVRC Research 的《State of Robotics 2026》，其中把 Figure AI、Agility Robotics、Apptronik、$TSLA、Boston Dynamics、Physical Intelligence、1X、$AMZN Robotics 等并列为“美国机器人国家冠军”。她借此把 Agility/CCXI 从单一交易标的进一步抬升为美国 robotics program 的一部分，强化了 physical AI 的国家级配置逻辑。",
+      "tickers": [
+        "$CCXI",
+        "$AMZN",
+        "$TSLA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
+      "source": "Posts-public-mirror-fallback"
+    },
+    {
+      "publishedAt": "2026-07-05T23:36:44+08:00",
+      "type": "Memory capex / DDR 合同价继续上修",
+      "headline": "Serenity 汇总 memory 新进展：$MU 牵头约 1.5 万亿日元广岛投资、Morgan Stanley 继续看 NAND 紧缺延续到 2027 并利好 $SNDK / Kioxia / $SIMO 等链条、UBS 预计 2026 年 Q3 / Q4 DDR 合同均价分别上调约 32% / 18%。这让她继续把 memory 与 photonics 并列为 AI buildout 的核心主线。",
+      "tickers": [
+        "$MU",
+        "$SNDK",
+        "$SIMO"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+      "source": "Posts-public-mirror-fallback"
+    },
+    {
+      "publishedAt": "2026-07-05T21:38:44+08:00",
+      "type": "BBU 圆柱电芯短缺 / $META $AMZN 数据中心瓶颈",
+      "headline": "Serenity 提出新的 data-center 上游瓶颈：高功率圆柱电芯 / BBU cell 可能出现短缺。她援引产业链表述称 Samsung SDI 向 Simplo 供货、下游再进入 $META 到 $AMZN 的 BBU 场景，而 Panasonic 与 Samsung 的相关电芯都面临供给紧张。她据此把 Samsung SDI、Panasonic 等视为更直接的受益方向。",
+      "tickers": [
+        "$META",
+        "$AMZN"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2073763512216899825",
+      "source": "Posts-public-mirror-fallback"
+    },
     {
       "publishedAt": "2026-07-05T17:45:22+08:00",
       "type": "Anthropic 澳洲 1.4GW / $IREN $SHAZ sovereign DC read-through",
@@ -68,110 +145,6 @@
       "headline": "Serenity 直白表示，只要 humanoids 真能做到低于 1.5 万美元的 mass production，传统就业市场会面临非常激进的替代压力，因为机器人可以 24/7 工作、没有保险和 HR 成本。该帖没有新增公司级证据，但明显强化了她把 physical AI 当作跨行业资本迁移主线的态度。",
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2073196939785711796",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-03T22:00:07+08:00",
-      "type": "中国 VC 资金流向 / physical AI 与 world models",
-      "headline": "Serenity 汇总中国一级市场 read-through：LLM 融资约 235.6 亿美元，AI infrastructure/technical layer 约 157.4 亿美元，embodied intelligence/physical AI 约 133.6 亿美元，AIGC 应用约 87.9 亿美元。她据此判断早期纯 foundation-model 融资窗口正在关闭，资金更集中于既有龙头与 world model 方向；公开市场里她只把 $AEVA 视为一种边缘暴露，但仍认为缺少真正纯粹的 world model 标的。",
-      "tickers": [
-        "$AEVA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2073044119287722024",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-03T18:09:16+08:00",
-      "type": "GlaSSEM / glass substrate H2 2027 商业化提速",
-      "headline": "Serenity 认为上游 glass substrate 供应链出现积极 read-through：Sumitomo Chemical 与 Samsung Electro-Mechanics 已正式敲定韩国合资公司 GlaSSEM，并给出“2027 年下半年 full scale commercialization”与约 4821 亿韩元资本开支框架。她据此强调，若时间线比市场预想更靠前，$LPK、E&R、Onto 这类 TGV/LIDE 与良率设备链条可能先于真正量产就迎来订单前置。",
-      "tickers": [
-        "$LPK"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072986020640076052",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-03T14:53:07+08:00",
-      "type": "光子学回撤后的情绪反杀 / SemiAnalysis ETF 争议",
-      "headline": "Serenity 讽刺 SemiAnalysis 一边通过对 CPO 延迟与 optical valuation 的负面表述引发板块大跌、随后又推出 institutional photonics ETF。她把这当作一个情绪信号：近期 optical names 的大回撤更像叙事和仓位挤压，而不是关键基本面被证伪。",
-      "tickers": [
-        "$NVDA"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2072936659369517341",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-03T14:29:10+08:00",
-      "type": "订阅者帖 / $AVGO 份额受压与 $MRVL 等 ASIC 挑战者",
-      "headline": "Serenity 在订阅者帖中提出一个偏框架性的两年交易想法：即便 Broadcom 所处 ASIC 市场总体继续扩张，$MRVL、Mediatek、AlChip、GUC 等更靠近 Nvidia 生态的 challengers 也可能逐步切走部分 hyperscaler-adjacent 项目份额。该帖属于高层主题判断，这里只保留方向性结论，不公开付费帖完整细节。",
-      "tickers": [
-        "$AVGO",
-        "$MRVL",
-        "$NVDA"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2072930633811419601",
-      "source": "Subs-visible"
-    },
-    {
-      "publishedAt": "2026-07-03T13:58:44+08:00",
-      "type": "$META / $NBIS overcapacity 误读与光子学修复预期",
-      "headline": "Serenity 转述 SemiAnalysis 对 $META 的新表述，称 Meta datacenter 与 compute 投入仍会加速，2027 年 capex 甚至可能“shockingly high”。她据此认为，最近围绕 Meta 卖 excess compute 引发的 photonics / neocloud 暴跌是叙事误读，并直言那些因该叙事下跌 50% 以上的名字有 sharp V recovery 的可能。",
-      "tickers": [
-        "$META",
-        "$NBIS"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072922974345445511",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-03T13:22:33+08:00",
-      "type": "LeaderDrive / $CCXI / Unitree 人形机器人情绪扩散",
-      "headline": "Serenity 注意到 688017 LeaderDrive 在 7 月 3 日再创历史新高并触发 20% 涨停，认为这反映出市场正把中国和美国 frontier humanoid 的热度同时映射到零部件供应链上。她把这一轮情绪上行归因于 $CCXI / Agility Robotics 与 Unitree 获批科创板上市两条线共同催化。",
-      "tickers": [
-        "688017",
-        "$CCXI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072913865458004014",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-03T12:54:11+08:00",
-      "type": "$META Watermelon / capex 误读修正",
-      "headline": "Serenity 继续反驳“Meta AI 掉队 / 要砍 capex”的媒体叙事。她援引 Wang 的说明称，行业过去几个月 agent 进展不及预期不代表 Meta 自身放缓；同时新的 Watermelon 模型据称已追上 OpenAI GPT 5.5，并使用比 Avocado 高一个数量级的算力，反而强化了 Meta 仍在 aggressively 加码 AI 的判断。",
-      "tickers": [
-        "$META"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072906728853881251",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-03T05:30:57+08:00",
-      "type": "$AXTI / $COHR 3 年晶圆供货与预付款",
-      "headline": "Serenity 跟进称 $AXTI 与 $COHR 签署了 3 年晶圆供货协议，Coherent 将向 AXT-Tongmei 预付 2228.85 万美元以换取承诺供应产能。对她而言，这让 AXTI 从“上游 InP substrate 方法论案例”进一步转向有公司级合同和资金前置的验证线索。",
-      "tickers": [
-        "$AXTI",
-        "$COHR"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-03T03:33:06+08:00",
-      "type": "$CCXI / BlueCrest 5.6% stake",
-      "headline": "Serenity 提到 BlueCrest Capital Management 及其创始人 Michael Platt 刚刚披露持有 $CCXI 5.6% 股份。她把这视为 Agility Robotics 主题开始吸引更成熟资金注意的又一个旁证，也强化了自己对 CCXI / Agility 人形机器人交易热度的判断。",
-      "tickers": [
-        "$CCXI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2072765527764971642",
       "source": "Posts"
     }
   ],
@@ -339,8 +312,13 @@
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings",
         "Read POET AGM materials and the September 2025 ELS release to verify whether SIVE is explicitly tied to the new-customer NRE and volume ramp"
       ],
-      "lastUpdated": "2026-07-01 20:04",
+      "lastUpdated": "2026-07-06 16:25",
       "evidence": [
+        {
+          "date": "2026-07-06 16:25",
+          "quote": "Serenity argued SIVE could become the next LITE if 1.6T pluggables, CW-laser LTAs, Nasdaq listing and M&A turn its hyperscaler supplier map into real revenue scale.",
+          "url": "https://x.com/aleabitoreddit/status/2074046947434860971"
+        },
         {
           "date": "2026-07-01 15:22",
           "quote": "Serenity highlighted SIVE's stated intent to complete the NASDAQ listing process over the next few quarters and treated it as a material shift from vague evaluation to a clearer timeline.",
@@ -692,62 +670,42 @@
       "name": "X-FAB",
       "tier": "focus",
       "theme": "European silicon photonics foundry",
-      "thesis": "Serenity still sees XFAB as a European silicon-photonics foundry mispricing, but the June 17 update is explicitly not new company news. Her point is that the market may be failing to connect XFAB to optical AI datacenter / power-semi-adjacent exposure, PhotonixFab, and the EU sovereign-AI supply-chain push after Fable-related export controls.",
-      "whyItMatters": "The update reframes XFAB as a perception and policy-recognition problem. If Europe prioritizes sovereign AI supply chains and silicon photonics, XFAB could matter alongside IMEC and Ligentec; if the market keeps treating it as a cyclical auto/industrial foundry, valuation may remain depressed until project milestones or customer evidence appear.",
+      "thesis": "Serenity now has a more concrete July 6 rerating hook for XFAB, not just a sovereign-Europe or PhotonixFab framing. She highlighted Kepler upgrading X-FAB to Buy on strengthening Melexis demand, AI-driven SiC/GaN/photonics exposure and a valuation gap at roughly 4.8x 2027 EV/EBITDA versus a specialty-foundry peer median near 14.5x, while still keeping the longer-duration silicon-photonics optionality in view.",
+      "whyItMatters": "This shifts XFAB from a mostly narrative mispricing into a two-engine setup: near-term cyclical / relative-value rerating if auto-specialty fundamentals are bottoming, plus longer-term silicon-photonics upside if photonixFAB and Nvidia-adjacent programs convert into real customer activity. The burden of proof is lower than in a pure policy story, but company-specific order evidence is still required.",
       "catalysts": [
-        "EU CHIPS Act 2.0 confirms photonics, CPO/interconnects and silicon photonics as policy focus",
-        "Serenity compares XFAB valuation favorably versus POET despite deeper foundry assets",
-        "TSM autonomous vehicle / robot growth comments may validate depressed auto-exposed names like XFAB",
-        "EU Chips Act 2 demand/funding support",
-        "Serenity says XFAB and SIVE are highlighted in EU Industry Policy Blueprints",
-        "photonixFAB validation",
-        "NVDA and NOK activity around silicon photonics",
-        "Serenity compares XFAB to early TSEM and points to H2 2027 as a potential CPO scale-up inflection point",
-        "Serenity says XFAB is building a Europe-backed silicon photonics foundry alternative to TSEM and GFS with NVDA evaluations",
-        "Development may finish around Oct 2026, with 2027 production and 2028 mass-production scaling in Serenity's timeline",
-        "Serenity lists XFAB as one of her core European longs",
-        "Nvidia is described as a direct evaluator of XFAB’s silicon photonics foundry",
-        "XFAB trading below replacement P/B is framed as a potential market mispricing",
-        "June 17 Serenity said there is no new XFAB news but the company needs better marketing around optical AI datacenter and power-semi-adjacent exposure",
-        "PhotonixFab and European silicon photonics value-chain leadership remain key parts of the thesis",
-        "Fable export controls and sovereign AI supply-chain discussion may increase attention to European silicon-photonics infrastructure",
-        "Potential peer framing with IMEC and Ligentec in the European sovereign AI push"
+        "Kepler upgraded X-FAB to Buy on July 6",
+        "Melexis demand is described as strengthening week after week and day after day",
+        "AI is framed as adding structural SiC, GaN and photonics growth that can offset auto cyclicality",
+        "X-FAB is cited as trading around 4.8x 2027 EV/EBITDA versus a specialty-foundry peer median near 14.5x",
+        "Scarce Western specialty foundries such as SILEX are used as valuation context",
+        "photonixFAB and European silicon-photonics positioning remain the longer-duration upside layer",
+        "Serenity still links XFAB to a Europe-backed alternative path for silicon-photonics manufacturing",
+        "Potential NVDA-related silicon-photonics demand remains an unproven but important longer-term read-through"
       ],
       "risks": [
-        "EU policy support may take 3-15 months to translate into company-specific awards",
-        "XFAB remains exposed to automotive-cycle weakness even if TSM comments hint at a bottom",
-        "Pre-commercial foundry validation may not translate quickly into revenue",
-        "Automotive-cycle drag",
-        "Need to separate grants from guaranteed demand",
-        "If the relevant CPO volume inflection is H2 2027, near-term stock moves may rely more on narrative and policy than revenue conversion",
-        "Serenity frames XFAB as early and dependent on a leap of faith toward commercialization",
-        "Tower is a more de-risked alternative in the same foundry theme",
-        "Direct evaluation is not the same as a production order",
-        "Replacement P/B mispricing needs to be checked against asset quality, utilization and cyclical auto/industrial exposure",
-        "June 17 update is explicitly not new company news, so near-term moves may remain sentiment-driven",
-        "Poor marketing and weak investor understanding can delay recognition even if the technical exposure is real",
-        "Sovereign-AI policy framing must still convert into orders, grants or customer milestones"
+        "The Kepler note is still a read-through rather than new X-FAB customer or order disclosure",
+        "Photonics can remain too small to move consolidated numbers near term relative to auto and industrial exposure",
+        "The valuation gap can persist if utilization, customer milestones or margins do not improve",
+        "Silicon-photonics commercialization timelines can still slip into 2027-2028 or later",
+        "Auto-cycle weakness and foundry utilization pressure can keep overwhelming the optical optionality",
+        "Nvidia or photonixFAB evaluation language does not guarantee production revenue"
       ],
       "stance": "重点关注",
       "nextChecks": [
-        "Read EU CHIPS Act 2.0 proposal and impact analysis for exact XFAB, SOI and photonics language",
-        "Compare POET contract economics with XFAB foundry capacity and replacement value",
-        "Track whether TSM autonomous vehicle comments show up in XFAB order trends",
-        "Read the EU Industry Policy Blueprints and confirm exact XFAB/SIVE references",
-        "Verify NVDA/NOK validation details",
-        "Read photonixFAB project disclosures",
-        "Compare valuation to P/B and replacement-cost assumptions",
-        "Check the ASX or company documents Serenity referenced for H2 2027 CPO scale-up assumptions",
-        "Verify XFAB development milestones around Oct 2026 and any disclosed NVDA evaluation language",
-        "Compare XFAB risk/reward with Tower as the de-risked silicon photonics foundry route",
-        "Verify Nvidia evaluation details and whether any timeline to production exists",
-        "Calculate replacement P/B and compare against XFAB utilization, debt and segment margins",
-        "Track PhotonixFab milestones and any XFAB disclosures around silicon photonics customers",
-        "Verify whether EU sovereign-AI supply-chain programs mention XFAB, IMEC or Ligentec directly after export-control discussions",
-        "Separate XFAB silicon-photonics exposure from its auto/industrial cycle drag in valuation work"
+        "Read the Kepler report and isolate the exact assumptions behind the Buy upgrade",
+        "Quantify how much of the XFAB thesis comes from Melexis/auto recovery versus photonics optionality",
+        "Track photonixFAB milestones and any X-FAB silicon-photonics customer disclosures",
+        "Verify whether NVDA or other hyperscaler-adjacent evaluation language appears in primary sources",
+        "Compare X-FAB valuation with TSEM, SILEX and other specialty-foundry peers on utilization-adjusted terms",
+        "Watch for margin, order and utilization evidence that the rerating story is becoming company-specific"
       ],
-      "lastUpdated": "2026-06-17",
+      "lastUpdated": "2026-07-06 17:29",
       "evidence": [
+        {
+          "date": "2026-07-06 17:29",
+          "quote": "Serenity highlighted Kepler upgrading X-FAB to Buy, citing stronger Melexis demand, AI-driven SiC/GaN/photonics exposure and a 4.8x 2027 EV/EBITDA valuation versus a 14.5x peer median.",
+          "url": "https://x.com/aleabitoreddit/status/2074063175293809150"
+        },
         {
           "date": "2026-06-11",
           "quote": "Serenity said XFAB is building a silicon photonics foundry alternative to TSEM/GFS with Europe backing and NVDA evaluations, targeting 2027 production and 2028 mass production.",
@@ -1849,8 +1807,13 @@
         "Check whether IQE discloses latent capacity conversion or new InP epiwafer utilization metrics",
         "Verify Macom linkage and whether it translates into IQE revenue"
       ],
-      "lastUpdated": "2026-06-20",
+      "lastUpdated": "2026-07-06 13:48",
       "evidence": [
+        {
+          "date": "2026-07-06 13:48",
+          "quote": "Serenity cited Nomura naming IQE and AXTI as leading InP players, with large substrate and epiwafer price hikes reinforcing the constrained upstream optical chain.",
+          "url": "https://x.com/aleabitoreddit/status/2074007618046345249"
+        },
         {
           "date": "2026-06-20",
           "quote": "Serenity reviewed multiple ideas that faced intense early backlash before later validation, including AXTI, RPI, SIVE, AAOI, LITE, IQE and SOI.",
@@ -2335,8 +2298,13 @@
         "Compare current memory earnings estimates with Serenity-style independent projections",
         "Track whether 2027/2028 memory profitability assumptions are already priced in"
       ],
-      "lastUpdated": "2026-06-26 21:40",
+      "lastUpdated": "2026-07-05 23:36",
       "evidence": [
+        {
+          "date": "2026-07-05 23:36",
+          "quote": "Serenity consolidated MU Hiroshima capex, NAND tightness into 2027 and higher DDR contract pricing as evidence that memory remains a core AI-buildout theme alongside photonics.",
+          "url": "https://x.com/aleabitoreddit/status/2073793206408667392"
+        },
         {
           "date": "2026-06-25",
           "quote": "Serenity highlighted MU CEO commentary that humanoid robots could require roughly ten times more memory than today’s Level 2+ autonomous vehicles, tying memory demand to physical AI.",
@@ -2601,8 +2569,13 @@
         "Track high-purity indium pricing and whether it changes AXTI substrate margins or demand",
         "Read the AXTI-Coherent agreement or company disclosure and separate prepayment optics from actual shipment cadence"
       ],
-      "lastUpdated": "2026-07-03 20:04",
+      "lastUpdated": "2026-07-06 13:48",
       "evidence": [
+        {
+          "date": "2026-07-06 13:48",
+          "quote": "Serenity cited Nomura naming AXTI and IQE as leading InP players, alongside 42-78% substrate price hikes and 40-75% epiwafer price increases as upstream bottleneck validation.",
+          "url": "https://x.com/aleabitoreddit/status/2074007618046345249"
+        },
         {
           "date": "2026-07-03 05:30",
           "quote": "Serenity highlighted AXTI signing a three-year wafer-supply agreement with Coherent plus a $22.2885M prepayment for committed capacity.",
@@ -3069,8 +3042,13 @@
         "Check whether Amazon, NVIDIA or Google ecosystem claims appear in primary partner materials or filings",
         "Track whether US robotics policy or sourcing incentives explicitly benefit domestic-supply-chain players like Agility"
       ],
-      "lastUpdated": "2026-07-04 20:05",
+      "lastUpdated": "2026-07-06 04:32",
       "evidence": [
+        {
+          "date": "2026-07-06 04:32",
+          "quote": "Serenity cited SVRC Research's State of Robotics 2026 list naming Agility, Boston Dynamics, Tesla and Amazon Robotics among America's robotics national champions.",
+          "url": "https://x.com/aleabitoreddit/status/2073867745243127973"
+        },
         {
           "date": "2026-07-04 18:23",
           "quote": "Serenity tied humanoid labor substitution back to a leaked Amazon strategy that aimed to avoid hiring hundreds of thousands of workers through robots like CCXI / Agility, and argued the pace could accelerate in a US-China race.",

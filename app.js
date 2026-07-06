@@ -53,24 +53,33 @@ const zhCopy = {
   },
   xfab: {
     theme: "欧洲硅光代工平台",
-    thesis: "Serenity 继续认为 XFAB 是欧洲 silicon photonics foundry 的潜在错配，但 6 月 17 日她明确说没有新的公司新闻。她的重点是市场没有把 XFAB 和 optical AI datacenter / power semi adjacent exposure、PhotonixFab、EU sovereign AI supply-chain 连接起来。",
-    whyItMatters: "这次更新更像认知差和政策框架提醒。如果 Fable 出口管制后欧洲继续强化 sovereign AI supply chain，XFAB 可能和 IMEC、Ligentec 一起被重新理解；但如果缺少客户、项目里程碑或订单，市场可能继续把它当普通周期 foundry。",
+    thesis: "7 月 6 日这轮更新让 XFAB 不再只是“欧洲 sovereign AI / PhotonixFab 叙事”里的潜在错配。Serenity 转述 Kepler 将 X-FAB 上调至 Buy，理由包括 Melexis 需求持续走强、AI 带来 SiC/GaN/photonics 的结构性增长，以及公司 2027 年 EV/EBITDA 仅约 4.8 倍、明显低于 specialty foundry 同业中位数约 14.5 倍。她仍保留 silicon photonics 的长期可选性框架，但现在多了一层更接近 sell-side rerating 的现实抓手。",
+    whyItMatters: "这让 XFAB 从单纯的“市场没看懂”故事，变成一条双引擎逻辑：短期如果汽车/特色代工基本面触底，估值有相对修复空间；中长期若 photonixFAB 和 silicon photonics 暴露转成真实客户/项目，光学可选性才会进一步放大。换句话说，证明门槛比纯政策故事低了一些，但公司级订单和利用率改善仍是关键。",
     catalysts: [
-      "Serenity 称 XFAB 没有新新闻，但公司营销材料做得不好",
-      "她认为市场低估 XFAB 的 optical AI datacenter / power semi adjacent exposure",
-      "PhotonixFab 与欧洲 silicon photonics value chain 仍是核心线索",
-      "Fable 出口管制后 EU sovereign AI supply-chain 讨论升温",
-      "潜在与 IMEC、Ligentec 等欧洲 sovereign AI 供应链节点同框"
+      "Kepler 在 7 月 6 日将 X-FAB 上调至 Buy",
+      "Melexis 需求被描述为 week-after-week、day-after-day 持续走强",
+      "AI 被视为新增 SiC/GaN/photonics 结构性增长腿，可部分对冲 auto 周期波动",
+      "X-FAB 约 4.8 倍 2027 EV/EBITDA 对比同业中位数约 14.5 倍，提供估值重定空间",
+      "SILEX 等稀缺西方 specialty foundry 被用作比较框架",
+      "PhotonixFab 与欧洲 silicon photonics 仍是更长期的上行可选性",
+      "Serenity 继续把 XFAB 放在欧洲 silicon photonics alternative foundry 路径里",
+      "潜在 NVDA / hyperscaler-adjacent photonics 需求仍是中长期放大器"
     ],
     risks: [
-      "这条更新明确不是新公司新闻，短期仍可能只是 narrative",
-      "公司营销和信息披露弱会拖慢市场认知",
-      "sovereign AI policy 必须转化为订单、grant 或客户 milestone 才能验证"
+      "Kepler 升级仍是 read-through，不是 X-FAB 自己披露的新订单或客户",
+      "近端业绩仍可能被 auto / industrial 暴露主导，photonics 贡献太小而难以立刻反映",
+      "估值折价若没有利用率、利润率或客户里程碑改善，可能继续存在",
+      "silicon photonics 商业化节奏仍可能推迟到 2027-2028 之后",
+      "汽车周期和 foundry utilization 压力仍可能压过 optical optionality",
+      "Nvidia 或 photonixFAB 的评估 / 参与不等于量产收入"
     ],
     nextChecks: [
-      "跟踪 PhotonixFab 里程碑和 XFAB silicon photonics 客户披露",
-      "核实 EU sovereign AI supply-chain 文件是否点名 XFAB、IMEC、Ligentec",
-      "把 XFAB 的硅光暴露和汽车 / 工业周期拖累分开估值"
+      "阅读 Kepler 报告原文，拆出 Buy upgrade 的核心假设",
+      "量化 XFAB 近端逻辑里有多少来自 Melexis/auto 修复，多少来自 photonics optionality",
+      "跟踪 PhotonixFab 里程碑与 X-FAB 的 silicon photonics 客户披露",
+      "核实 NVDA 或其他 hyperscaler-adjacent evaluation 是否能在一手资料中找到",
+      "把 X-FAB 与 TSEM、SILEX 等 specialty foundry 的估值和利用率放在同一框架比较",
+      "继续观察 margin、order、utilization 是否开始把这条 rerating 逻辑变成公司级证据"
     ]
   },
   mrvl: {
