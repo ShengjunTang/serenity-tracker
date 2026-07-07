@@ -382,27 +382,30 @@ const zhCopy = {
   },
   "ai-memory": {
     theme: "AI 存储短缺 / HBM 周期",
-    thesis: "Serenity 现在明确把 Memory 与 Photonics 并列为两大 top themes。6 月 19 日她用过去三个月 MU、SNDK、EWY、SK Hynix、Samsung 的强势表现，说明当市场叙事过度悲观时，应独立思考 2027 / 2028 projections。",
-    whyItMatters: "这把 memory 从单纯涨幅回顾，提升成一套研究纪律：不要只跟随当时流行叙事，而要自己建模供需、利润率和上游 capex。对当前 optical names，她认为也应采用类似 projection discipline。",
+    thesis: "Serenity 现在明确把 Memory 与 Photonics 并列为两大 top themes，而 7 月 7 日的 Samsung 新帖又把 memory 这条线推进到更具体的公司级验证：市场原先质疑存储提价难以持续，但她指出 Samsung 仍把 DRAM 提价约 20%，并录得 operating profits 同比约 1803% 增长。对她而言，这说明市场仍低估了 memory 紧张和盈利持续性的韧性。",
+    whyItMatters: "这让 memory thesis 不再只是回顾涨幅或宏观供需，而是多了一层更硬的 pricing-power + earnings validation。若 Samsung 与同业在市场仍偏怀疑时继续提价并上修盈利，memory 标的的 profit revision 可能继续累积；反过来，如果财报后的卖出是在提前交易 peak-cycle 风险，那么 timing 与拥挤度仍要小心。",
     catalysts: [
       "Serenity 称 Micron + memory 预测正在兑现",
       "Samsung / SK Hynix 是她 2025 年开始跟踪的 memory 主线",
       "SNDK 是今年 1 月以来更集中表达 memory theme 的名字",
       "EWY 多头受韩国 memory 走强带动",
       "AI capex 框架中她认为 SK Hynix 等上游半导体不像泡沫",
-      "6 月 19 日她称 Memory 与 Photonics 是两大 top themes"
+      "6 月 19 日她称 Memory 与 Photonics 是两大 top themes",
+      "7 月 7 日她把 Samsung 的 DRAM 提价约 20% 与 operating profits 同比约 1803% 增长当作新的 memory 验证"
     ],
     risks: [
       "大幅上涨后估值和拥挤度风险增加",
       "如果供给扩张快于需求，存储仍可能回到周期波动",
       "EWY 不是纯 memory 暴露",
-      "这条更新主要是回顾性验证，不保证 memory 后续仍有同样弹性"
+      "这条更新主要是回顾性验证，不保证 memory 后续仍有同样弹性",
+      "即便财报和提价很强，市场仍可能提前交易 peak-cycle 风险并压制股价"
     ],
     nextChecks: [
       "核实 MU 市值、盈利修正和 HBM / DRAM 产能计划",
       "比较 Samsung / SK Hynix 存储价格和 capex 与 2028 hyperscaler 需求",
       "量化 SNDK 和 EWY 对 AI memory 的纯度",
-      "把 memory 的 2027 / 2028 projections 与 optical projections 放在同一框架比较"
+      "把 memory 的 2027 / 2028 projections 与 optical projections 放在同一框架比较",
+      "核实 Samsung 最新 DRAM 提价和 operating profit 数据与卖方一致预期的偏差"
     ]
   },
   "power-800v-dc": {

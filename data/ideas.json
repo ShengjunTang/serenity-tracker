@@ -1,8 +1,21 @@
 {
-  "generatedAt": "2026-07-06T20:07:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-06 20:07 Beijing. Logged-in Chrome/X access was unavailable because the browser extension session could not be reached, so collection fell back to public X snippets plus a public mirror for main Posts only; Subs could not be verified and Replies were not scanned. New actionable public Posts after the prior 2026-07-05 20:06 boundary focused on robotics-national-champion framing, upstream photonics pricing / rerating confirmation, memory-capex tightening and a new BBU-cell bottleneck line. Two public reply-style statuses, one duplicate SIVE quote-thread copy and one image-only reinforcement post were reviewed but not promoted into latestUpdates.",
-  "summary": "7 月 6 日 20:07 刷新以公开 Posts 镜像回退源完成；由于这轮 Chrome 扩展不可用，Subs 仍未验证，Replies 也未扫描。相较 7 月 5 日 20:06 边界，新增主线集中在四块：一是 Serenity 把 Agility、Boston Dynamics、Amazon Robotics 等并入“美国机器人国家冠军”框架，继续强化 physical AI / humanoid 的国家级叙事；二是光子链出现更硬的上游与估值信号，既包括 Nomura 提到 $AXTI / $IQE 等 InP 关键玩家并伴随衬底与 epiwafer 涨价，也包括她把 $SIVE 进一步推向“next $LITE”路径、以及 $XFAB 获得更接近 sell-side rerating 的支持；三是 memory 线出现 Micron 广岛新投资、NAND 紧缺延续到 2027 和 DDR 合同价上修的集中验证；四是 Meta/Amazon 相关 BBU 高功率圆柱电芯短缺被她提炼成新的 data-center 上游瓶颈。最新消息流按两日滚动保留 7 月 4 日至 7 月 6 日。",
+  "generatedAt": "2026-07-07T20:06:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-07 20:06 Beijing. Logged-in Chrome/X access was still unavailable because the browser extension session could not be reached, so collection again fell back to public search snippets plus direct public status-page reads for main Posts only; Subs could not be verified and Replies were not scanned. Relative to the prior 2026-07-06 20:07 boundary, one new actionable public Post was confirmed: Samsung became Serenity's latest memory-proof point, centered on DRAM price hikes, profit acceleration and a market selloff despite stronger fundamentals. No additional public main Posts were recovered with enough confidence to promote into latestUpdates.",
+  "summary": "7 月 7 日 20:06 刷新继续在 Chrome 扩展不可用的前提下，以公开搜索结果加公开 status 页回退完成；Subs 仍未验证，Replies 也未扫描。相较 7 月 6 日 20:07 边界，这轮只确认到一条新的公开主帖，但主题很集中: Serenity 把 Samsung 作为 memory thesis 的最新验证样本，强调市场先质疑存储提价不可持续，随后 Samsung 仍把 DRAM 提价约 20%、交出超过 $NVDA 与 $AAPL 的全球最高盈利，并录得 operating profits 同比约 1803% 增长，股价却依然回落约 7%。她借此继续强化一个观点: memory 基本面与市场定价之间仍有明显错配。最新消息流按两日滚动仅保留 7 月 5 日至 7 月 7 日。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-07T08:54:00+08:00",
+      "type": "Samsung 存储提价 / 利润兑现与市场错杀",
+      "headline": "Serenity 把 Samsung 当作 memory 主线的最新反身性案例: 市场原先质疑存储提价难以持续，但 Samsung 仍把 DRAM 提价约 20%、交出超过 $NVDA 与 $AAPL 的全球最高盈利，并录得 operating profits 同比约 1803% 增长，股价却依然回落约 7%。对她而言，这说明市场对 memory 盈利持续性的定价仍然偏保守。",
+      "tickers": [
+        "Samsung",
+        "$NVDA",
+        "$AAPL"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2074416685843612031",
+      "source": "Posts-public-search-fallback"
+    },
     {
       "publishedAt": "2026-07-06T17:29:29+08:00",
       "type": "$XFAB 估值重定 / photonics foundry rerating",
@@ -115,37 +128,6 @@
       "severity": "medium",
       "url": "https://x.com/aleabitoreddit/status/2073467493998555192",
       "source": "Posts-public-fallback"
-    },
-    {
-      "publishedAt": "2026-07-04T18:23:27+08:00",
-      "type": "人形机器人替代劳动 / $AMZN 招聘替代 read-through",
-      "headline": "Serenity 认为 humanoids 正逼近真正的劳动力替代拐点：她称未来几年大量原本被视为“只能由人完成”的工作都可能被机器人接管，并点名一份泄露的 Amazon 内部策略曾计划借助类似 $CCXI / Agility 的机器人少招约 60 万名员工。她同时强调，当这条赛道升级为中美国家安全竞赛后，变化速度可能比市场想象更快。",
-      "tickers": [
-        "$AMZN",
-        "$CCXI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2073351980131754203",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-04T15:18:16+08:00",
-      "type": "浮动式 AI 数据中心 / $NBIS 海上算力想象",
-      "headline": "Serenity 新抛出一个偏概念性的 AI infra 观察：海上或浮动式数据中心可能同时享受 free cooling 与特定地理位置优势。她据此想象未来甚至可能出现 $NBIS 或 Samsung 的 floating AI datacenter，但目前仍属于早期主题联想，不是公司级验证。",
-      "tickers": [
-        "$NBIS"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2073305375957541013",
-      "source": "Posts"
-    },
-    {
-      "publishedAt": "2026-07-04T08:07:23+08:00",
-      "type": "人形机器人 <$15K 量产与就业替代",
-      "headline": "Serenity 直白表示，只要 humanoids 真能做到低于 1.5 万美元的 mass production，传统就业市场会面临非常激进的替代压力，因为机器人可以 24/7 工作、没有保险和 HR 成本。该帖没有新增公司级证据，但明显强化了她把 physical AI 当作跨行业资本迁移主线的态度。",
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2073196939785711796",
-      "source": "Posts"
     }
   ],
   "ideas": [
@@ -2251,8 +2233,8 @@
       "name": "AI memory shortage / Samsung / SK Hynix",
       "tier": "watch",
       "theme": "AI memory shortage / HBM cycle",
-      "thesis": "Serenity now explicitly pairs Memory with Photonics as a top AI-buildout theme and reinforced the memory bottleneck again on June 25-26 through MU CEO humanoid-robot commentary and Elon Musk supply-shortfall comments around MU / SK Hynix / Samsung.",
-      "whyItMatters": "The update extends the memory thesis beyond near-term HBM into physical AI, humanoids and edge/on-device AI demand. It also explains why memory held up better than many high-beta AI optical names during the drawdown, but valuation and cycle risk remain central.",
+      "thesis": "Serenity now explicitly pairs Memory with Photonics as a top AI-buildout theme, and the July 7 Samsung post gave the memory branch a sharper real-time proof point. She argues the market doubted memory pricing could keep climbing, yet Samsung still hiked DRAM prices by about 20% and delivered operating-profit growth of roughly 1803% year over year. In her framing, that mismatch shows investors are still underestimating how durable memory tightness and earnings power can be.",
+      "whyItMatters": "The update moves the memory thesis from a broad supply-tightness narrative toward a cleaner company-level pricing-power and earnings-validation case. If Samsung and peers can keep raising prices while the market still treats the cycle as fragile, profit revisions for memory leaders may keep compounding; if the post-earnings selloff is correctly discounting peak-cycle risk, crowding and timing risk remain central.",
       "catalysts": [
         "NVDA CEO warning that memory shortage may persist for many years",
         "AI infrastructure scaling demand continues to pressure memory supply",
@@ -2269,7 +2251,8 @@
         "She suggests current optical projections into 2027/2028 may deserve similar independent thinking",
         "MU CEO said humanoid robots may need roughly 10x the memory of today’s L2+ autonomous vehicles, according to Serenity’s cited post",
         "Elon Musk commented that production shortfall relative to demand is severe, which Serenity reads as support for MU / SK Hynix / Samsung memory tightness",
-        "Memory held up better than photonics/software/space during the late-June high-beta drawdown in Serenity’s framing"
+        "Memory held up better than photonics/software/space during the late-June high-beta drawdown in Serenity’s framing",
+        "Samsung reportedly hiked DRAM pricing by about 20% while operating profit grew roughly 1803% year over year"
       ],
       "risks": [
         "Memory remains cyclical if supply catches up faster than expected",
@@ -2283,7 +2266,8 @@
         "The post is retrospective and does not guarantee further memory upside",
         "Large post-rally moves raise valuation and cycle-timing risk",
         "Humanoid and physical-AI memory demand is still a long-horizon forecast and can be over-discounted before revenue arrives",
-        "Memory outperformance during an optical drawdown can increase crowding and valuation risk"
+        "Memory outperformance during an optical drawdown can increase crowding and valuation risk",
+        "Even strong Samsung earnings may not prevent a selloff if investors think pricing is near a cyclical peak"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -2296,10 +2280,16 @@
         "Compare Samsung/SK Hynix memory pricing and capex with hyperscaler demand projections into 2028",
         "Quantify SNDK and EWY purity to the AI memory thesis",
         "Compare current memory earnings estimates with Serenity-style independent projections",
-        "Track whether 2027/2028 memory profitability assumptions are already priced in"
+        "Track whether 2027/2028 memory profitability assumptions are already priced in",
+        "Compare Samsung's latest DRAM pricing and operating-profit print with current consensus expectations"
       ],
-      "lastUpdated": "2026-07-05 23:36",
+      "lastUpdated": "2026-07-07 08:54",
       "evidence": [
+        {
+          "date": "2026-07-07 08:54",
+          "quote": "Serenity pointed to Samsung hiking DRAM prices by about 20% and posting roughly 1803% year-over-year operating-profit growth, arguing the market was still too skeptical on memory earnings durability.",
+          "url": "https://x.com/aleabitoreddit/status/2074416685843612031"
+        },
         {
           "date": "2026-07-05 23:36",
           "quote": "Serenity consolidated MU Hiroshima capex, NAND tightness into 2027 and higher DDR contract pricing as evidence that memory remains a core AI-buildout theme alongside photonics.",
