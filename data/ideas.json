@@ -1,8 +1,49 @@
 {
-  "generatedAt": "2026-07-07T20:06:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-07 20:06 Beijing. Logged-in Chrome/X access was still unavailable because the browser extension session could not be reached, so collection again fell back to public search snippets plus direct public status-page reads for main Posts only; Subs could not be verified and Replies were not scanned. Relative to the prior 2026-07-06 20:07 boundary, one new actionable public Post was confirmed: Samsung became Serenity's latest memory-proof point, centered on DRAM price hikes, profit acceleration and a market selloff despite stronger fundamentals. No additional public main Posts were recovered with enough confidence to promote into latestUpdates.",
-  "summary": "7 月 7 日 20:06 刷新继续在 Chrome 扩展不可用的前提下，以公开搜索结果加公开 status 页回退完成；Subs 仍未验证，Replies 也未扫描。相较 7 月 6 日 20:07 边界，这轮只确认到一条新的公开主帖，但主题很集中: Serenity 把 Samsung 作为 memory thesis 的最新验证样本，强调市场先质疑存储提价不可持续，随后 Samsung 仍把 DRAM 提价约 20%、交出超过 $NVDA 与 $AAPL 的全球最高盈利，并录得 operating profits 同比约 1803% 增长，股价却依然回落约 7%。她借此继续强化一个观点: memory 基本面与市场定价之间仍有明显错配。最新消息流按两日滚动仅保留 7 月 5 日至 7 月 7 日。",
+  "generatedAt": "2026-07-08T20:03:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-08 20:03 Beijing. Logged-in Chrome/X access was still unavailable because the browser extension session could not be reached, so collection again fell back to public sources, primarily aichainmap.com/serenity plus the serenity-webhook live feed, and only main public Posts were reviewed; Subs could not be verified and Replies were not scanned. Relative to the prior 2026-07-07 20:06 boundary, three new actionable public Posts were confirmed: Meta publicly pushed back on the compute-slowdown narrative and reiterated expensive datacenter expansion plus major compute deals, Serenity argued the US humanoid race is falling behind China after a reported 100,000-plus 2026 output expectation, and Hesai's US scrutiny was framed as a regulatory read-through for Western lidar and upstream laser suppliers. Latest updates now keep only the rolling two-day window from July 6 to July 8.",
+  "summary": "7 月 8 日 20:03 这轮刷新仍因 Chrome 扩展不可用而走公开回退，只读取公开主帖；Subs 仍未验证，Replies 也未扫描。相较 7 月 7 日 20:06 边界，本轮确认了三条新的可行动公开主帖：一是 Meta 在算力放缓叙事砸盘后公开强调仍在推进昂贵数据中心，并已与 $CRWV、Google、$ORCL 等签下重大算力协议；二是 Serenity 以新华社所称中国今年 humanoid 产量或超 10 万台为锚，强调美国在人形机器人量产上明显落后，并继续把 $CCXI / Agility 视为追赶主线；三是她把 Hesai 的美国国家安全审查解读为西方激光雷达玩家 $OUST / $AEVA 及其上游激光链条如 $LITE / $SIVE 的潜在利好。最新消息流按两日滚动仅保留 7 月 6 日至 7 月 8 日。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-08T03:49:55+08:00",
+      "type": "Hesai 审查 / 西方激光雷达与上游激光 read-through",
+      "headline": "Serenity 把 Hesai 因扩大 $NVDA 合作而面临的美国国家安全审查，当成西方激光雷达链条的潜在二阶利好：若中国主要玩家受监管限制，$OUST、$AEVA 等或可填补空缺，而为这些西方 lidar 玩家供货的上游激光厂如 $LITE、$SIVE 也可能从中受益。她同时提醒，在当下普跌环境下，这条监管逻辑能否立即反映到股价仍有不确定性。",
+      "tickers": [
+        "$NVDA",
+        "$OUST",
+        "$AEVA",
+        "$LITE",
+        "$SIVE"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
+      "source": "Posts-public-feed-fallback"
+    },
+    {
+      "publishedAt": "2026-07-08T02:56:07+08:00",
+      "type": "Meta 算力需求修正 / $NBIS $CRWV neocloud 修复逻辑",
+      "headline": "在此前 Meta Compute 叙事引发 AI 基建与 neocloud 大跌后，Serenity 转述 Meta 发言人口径称，公司仍“渴求更多算力”，继续推进昂贵新数据中心，并已与 $CRWV、Google、$ORCL 等签下重大算力协议。她把这看作对“Meta 退出 AI 扩张”的公开修正，认为更像媒体框架误伤后才姗姗来迟的 demand-duration 澄清。",
+      "tickers": [
+        "$META",
+        "$NBIS",
+        "$CRWV",
+        "$ORCL"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2074568161299771394",
+      "source": "Posts-public-feed-fallback"
+    },
+    {
+      "publishedAt": "2026-07-08T01:39:23+08:00",
+      "type": "中美 humanoid 量产差距 / $CCXI $TSLA 追赶压力",
+      "headline": "Serenity 引述新华社称中国今年 humanoid 产量预计可达 10 万台以上，而 Morgan Stanley 原本对 2026 年的预期仅约 1.4 万台。她据此把这轮主题从单纯的机器人个股热度，推进到“美国是否正在输掉量产竞赛”的国家级焦虑，并点名 $TSLA、$CCXI（Agility）、Apptronik 与 Figure 需要加速追赶，同时可能需要更多美国政府补贴流向上游供应链与稀土。",
+      "tickers": [
+        "$CCXI",
+        "$TSLA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+      "source": "Posts-public-feed-fallback"
+    },
     {
       "publishedAt": "2026-07-07T08:54:00+08:00",
       "type": "Samsung 存储提价 / 利润兑现与市场错杀",
@@ -67,67 +108,6 @@
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
       "source": "Posts-public-mirror-fallback"
-    },
-    {
-      "publishedAt": "2026-07-05T23:36:44+08:00",
-      "type": "Memory capex / DDR 合同价继续上修",
-      "headline": "Serenity 汇总 memory 新进展：$MU 牵头约 1.5 万亿日元广岛投资、Morgan Stanley 继续看 NAND 紧缺延续到 2027 并利好 $SNDK / Kioxia / $SIMO 等链条、UBS 预计 2026 年 Q3 / Q4 DDR 合同均价分别上调约 32% / 18%。这让她继续把 memory 与 photonics 并列为 AI buildout 的核心主线。",
-      "tickers": [
-        "$MU",
-        "$SNDK",
-        "$SIMO"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
-      "source": "Posts-public-mirror-fallback"
-    },
-    {
-      "publishedAt": "2026-07-05T21:38:44+08:00",
-      "type": "BBU 圆柱电芯短缺 / $META $AMZN 数据中心瓶颈",
-      "headline": "Serenity 提出新的 data-center 上游瓶颈：高功率圆柱电芯 / BBU cell 可能出现短缺。她援引产业链表述称 Samsung SDI 向 Simplo 供货、下游再进入 $META 到 $AMZN 的 BBU 场景，而 Panasonic 与 Samsung 的相关电芯都面临供给紧张。她据此把 Samsung SDI、Panasonic 等视为更直接的受益方向。",
-      "tickers": [
-        "$META",
-        "$AMZN"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2073763512216899825",
-      "source": "Posts-public-mirror-fallback"
-    },
-    {
-      "publishedAt": "2026-07-05T17:45:22+08:00",
-      "type": "Anthropic 澳洲 1.4GW / $IREN $SHAZ sovereign DC read-through",
-      "headline": "Serenity 引述泄露的 Anthropic 文件称，其计划从澳大利亚锁定约 1.4GW、约合 216 亿美元的算力容量。她据此把 Anthropic 的主权算力需求与近期 $IREN、$SHAZ 等 neocloud 在澳洲建设 sovereign DC 的动作联系起来，认为部分原本分散的 AI infra 线索开始在地理与供给侧重新对上。",
-      "tickers": [
-        "$IREN",
-        "$SHAZ"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2073704784398528599",
-      "source": "Posts-public-fallback"
-    },
-    {
-      "publishedAt": "2026-07-05T05:44:39+08:00",
-      "type": "$JD 机器人替代配送 / 电商平台 physical AI read-through",
-      "headline": "Serenity 转述 Nikkei 与 FT 关于京东的报道：公司管理层警告机器人将替代约 70 万配送岗位，并已与约 120 所学校签约，把部分劳动力转向机器人维修与维护等新角色。对她而言，这让 humanoid / robotics 不再只是供应链或概念热度，而是开始落到大型电商平台的 opex 重构与岗位迁移。",
-      "tickers": [
-        "$JD",
-        "$AMZN"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2073523410643366242",
-      "source": "Posts-public-fallback"
-    },
-    {
-      "publishedAt": "2026-07-05T02:02:28+08:00",
-      "type": "光子学情绪修复 / SemiAnalysis 与 photonics ETF 争议",
-      "headline": "Serenity 转发 UDN Money 对 SemiAnalysis 的争议报道，核心指控是其先以 low yield、CPO 延后等论点打压光子学板块，随后又与 Tema 合作推出 photonics ETF，并把此前被负面点名的部分 optical 标的纳入篮子。她借此继续强化一个观点：最近 photonics 板块的大跌更像叙事与仓位冲击，而不是基本面被一次性证伪。",
-      "tickers": [
-        "$HIMX",
-        "$LITE"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2073467493998555192",
-      "source": "Posts-public-fallback"
     }
   ],
   "ideas": [
@@ -1013,8 +993,8 @@
       "name": "Nebius Group",
       "tier": "watch",
       "theme": "Neocloud / AI infrastructure financing structure",
-      "thesis": "Serenity now uses NBIS as her cleaner Neocloud expression inside the Meta capex debate. On July 3 she doubled down that Meta is not falling out of the AI race: Wang's Watermelon comments imply order-of-magnitude more compute than Avocado, and SemiAnalysis now argues Meta datacenter and compute spend should accelerate with 2027 capex still shockingly high. In her framing, that turns the recent photonics / neocloud crash into a narrative-driven drawdown rather than a kill shot to overflow compute or NBIS.",
-      "whyItMatters": "This shifts NBIS from a balance-sheet screen into a demand-duration and sentiment-reset read-through. If Meta keeps buying and even reselling capacity while model training accelerates, cleaner neocloud intermediaries may re-rate; if hyperscalers internalize more economics or the capex re-acceleration fails to appear, the bounce thesis can fade quickly.",
+      "thesis": "Serenity now uses NBIS as her cleaner Neocloud expression inside the Meta capex debate. On July 3 she doubled down that Meta was not falling out of the AI race, and the July 8 public post added a fresher company-mouthpiece reset after the selloff: Meta's spokesperson said the company still wants more compute, is still moving ahead with expensive new datacenters, and recently signed major computing deals with $CRWV, Google and $ORCL. In her framing, that turns the recent photonics / neocloud crash into a narrative-driven drawdown rather than a kill shot to overflow compute or NBIS.",
+      "whyItMatters": "This shifts NBIS from a balance-sheet screen into a demand-duration and sentiment-reset read-through. If Meta keeps buying, leasing and even reselling capacity while model training accelerates, cleaner neocloud intermediaries may re-rate; if the new Meta messaging is just damage control without hard capex follow-through or direct read-through to NBIS, the bounce thesis can fade quickly.",
       "catalysts": [
         "Meta's planned cloud business and excess-compute resale add a fresh market-expansion narrative around AI capacity intermediation",
         "Serenity says Meta's more than $48B of Neocloud contracts suggest overflow demand is still real rather than disappearing",
@@ -1022,6 +1002,7 @@
         "Watermelon reportedly caught up to GPT 5.5 while using an order of magnitude more compute than Avocado",
         "Wang's clarification that recent slowdown commentary referred to the industry overall, not Meta quitting the race",
         "SemiAnalysis says Meta datacenter and compute should accelerate and 2027 capex could still be shockingly high",
+        "Meta spokesperson said the company is still hungry for more compute, is still building expensive datacenters and recently signed major deals with CRWV, Google and ORCL",
         "Serenity expects a sharp V-shaped recovery in names that crashed 50%+ on the overcapacity narrative",
         "NBIS price strength around the $260 pre-market area",
         "Serenity says NBIS is the best-performing Neocloud name from IREN to CRWV",
@@ -1039,7 +1020,8 @@
         "Peers with large ATM programs can sell into rallies and create structural overhang",
         "Nasdaq 100 inclusion validates scale and liquidity but can also increase index-flow volatility",
         "The June 19 mention is retrospective performance validation, not a new NBIS company catalyst",
-        "Serenity's >$48B Meta contract framing needs primary-source verification on counterparties, duration and economics"
+        "Serenity's >$48B Meta contract framing needs primary-source verification on counterparties, duration and economics",
+        "Meta spokesperson damage control is still weaker than a formal capex guide, contract filing or direct NBIS customer evidence"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
@@ -1049,10 +1031,16 @@
         "Quantify Avride and ClickHouse ownership / valuation contribution",
         "Track pre-market and open reaction in NBIS and related Neocloud names",
         "Review current ATM authorizations, share issuance and float changes for IREN, CRWV and NBIS",
-        "Track index inclusion date, passive demand and whether it changes NBIS float/liquidity dynamics"
+        "Track index inclusion date, passive demand and whether it changes NBIS float/liquidity dynamics",
+        "Verify whether Meta's newly cited compute deals or datacenter plans create direct demand read-through for NBIS rather than only broad neocloud sentiment support"
       ],
-      "lastUpdated": "2026-07-03 20:04",
+      "lastUpdated": "2026-07-08 02:56",
       "evidence": [
+        {
+          "date": "2026-07-08 02:56",
+          "quote": "Serenity cited Meta's spokesperson saying the company still wants more compute, is still moving ahead with expensive datacenters and recently signed major compute deals with CRWV, Google and ORCL.",
+          "url": "https://x.com/aleabitoreddit/status/2074568161299771394"
+        },
         {
           "date": "2026-07-03 13:58",
           "quote": "Serenity cited SemiAnalysis saying Meta compute and datacenter spend should accelerate, with 2027 capex still shockingly high, and called the recent photonics crash narrative-driven.",
@@ -2998,8 +2986,8 @@
       "name": "Agility Robotics",
       "tier": "speculative",
       "theme": "Humanoid robotics IPO / warehouse automation",
-      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. Beyond the possible September CCXI route to Nasdaq, she now frames Agility as the Anthropic-like enterprise-commercialization path inside US humanoids, with a newer emphasis on a Made-in-USA supply chain, roughly 75% of parts sourced from the US, a 10,000-unit RoboFab footprint and a possible sub-$30K mass-production BOM target. The July 4 posts extend that framing from supply-chain optionality into labor replacement: she explicitly ties Agility-like robots back to Amazon warehouse automation and argues that once humanoids approach sub-$15K mass production, broad categories of labor could be disrupted much faster than the market expects.",
-      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments, a domestic supply-chain angle and a clearer enterprise go-to-market narrative than some higher-profile peers. The newer domestic-sourcing and BOM claims matter because Serenity increasingly views humanoids through both a national-strategy and labor-economics lens, not just a pure cost curve: if Agility helps customers avoid large-scale hiring while still fitting a US-policy-preferred supply chain, the valuation logic broadens materially. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and whether ecosystem prestige turns into actual revenue and margin scale.",
+      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. Beyond the possible September CCXI route to Nasdaq, she frames Agility as the Anthropic-like enterprise-commercialization path inside US humanoids, with a newer emphasis on a Made-in-USA supply chain, roughly 75% of parts sourced from the US, a 10,000-unit RoboFab footprint and a possible sub-$30K mass-production BOM target. The July 4 posts extended that framing from supply-chain optionality into labor replacement, and the July 8 public post widened it again into a US-vs-China production race: citing a reported 100,000-plus China humanoid output expectation for 2026, Serenity argued names like Tesla, Agility, Apptronik and Figure now need to catch up far faster.",
+      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments, a domestic supply-chain angle and a clearer enterprise go-to-market narrative than some higher-profile peers. The newer domestic-sourcing and BOM claims matter because Serenity increasingly views humanoids through national strategy, labor economics and now comparative mass-production urgency: if Agility helps customers avoid large-scale hiring while fitting a US-policy-preferred supply chain during a perceived robotics catch-up race, the valuation logic broadens materially. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and whether geopolitical urgency turns into actual revenue and margin scale.",
       "catalysts": [
         "Expected CCXI to AGLT ticker transition after the proposed transaction",
         "BlueCrest Capital Management disclosed a 5.6% stake in CCXI",
@@ -3012,7 +3000,8 @@
         "Robofab production setup and customer trials across logistics and manufacturing",
         "NVIDIA, Amazon, Foxconn and SoftBank appear in the broader investor or ecosystem set",
         "Serenity now frames Agility as the enterprise-commercialization leader relative to other US humanoid contenders",
-        "US robotics policy, rare-earth sourcing and domestic-component subsidies could make Agility's supply-chain positioning more valuable"
+        "US robotics policy, rare-earth sourcing and domestic-component subsidies could make Agility's supply-chain positioning more valuable",
+        "Serenity cites a reported 100,000-plus China humanoid output expectation for 2026 as evidence the US may need to accelerate domestic robotics champions such as Agility"
       ],
       "risks": [
         "SPAC transaction can be delayed, repriced or cancelled",
@@ -3021,7 +3010,8 @@
         "Labor-replacement extrapolation is thematic and does not by itself prove deployment economics or customer adoption speed",
         "Order pipeline must convert into deliveries, revenue and sustainable margins",
         "Pro forma valuation and dilution require primary filing review",
-        "Narrative analogies to Anthropic, Figure or xAI do not substitute for disclosed orders, unit economics or deployment data"
+        "Narrative analogies to Anthropic, Figure or xAI do not substitute for disclosed orders, unit economics or deployment data",
+        "A US-vs-China production-race framing does not by itself prove Agility will win subsidies, customers or manufacturing scale"
       ],
       "stance": "高波动观察",
       "nextChecks": [
@@ -3030,10 +3020,16 @@
         "Verify the 75%-US-parts claim, sub-$30K BOM target and 10,000-unit RoboFab capacity in primary materials",
         "Track BOM reduction, annual production capacity and unit-level gross margin",
         "Check whether Amazon, NVIDIA or Google ecosystem claims appear in primary partner materials or filings",
-        "Track whether US robotics policy or sourcing incentives explicitly benefit domestic-supply-chain players like Agility"
+        "Track whether US robotics policy or sourcing incentives explicitly benefit domestic-supply-chain players like Agility",
+        "Verify the cited China 100,000-plus humanoid output figure and whether any US policy response materially changes Agility's demand or funding path"
       ],
-      "lastUpdated": "2026-07-06 04:32",
+      "lastUpdated": "2026-07-08 01:39",
       "evidence": [
+        {
+          "date": "2026-07-08 01:39",
+          "quote": "Serenity cited a Xinhua report that China humanoid output could exceed 100,000 units this year and argued the US now needs names like Tesla, Agility, Apptronik and Figure to catch up faster.",
+          "url": "https://x.com/aleabitoreddit/status/2074548850996707412"
+        },
         {
           "date": "2026-07-06 04:32",
           "quote": "Serenity cited SVRC Research's State of Robotics 2026 list naming Agility, Boston Dynamics, Tesla and Amazon Robotics among America's robotics national champions.",
