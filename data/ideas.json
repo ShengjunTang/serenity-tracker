@@ -1,8 +1,86 @@
 {
-  "generatedAt": "2026-07-08T20:03:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-08 20:03 Beijing. Logged-in Chrome/X access was still unavailable because the browser extension session could not be reached, so collection again fell back to public sources, primarily aichainmap.com/serenity plus the serenity-webhook live feed, and only main public Posts were reviewed; Subs could not be verified and Replies were not scanned. Relative to the prior 2026-07-07 20:06 boundary, three new actionable public Posts were confirmed: Meta publicly pushed back on the compute-slowdown narrative and reiterated expensive datacenter expansion plus major compute deals, Serenity argued the US humanoid race is falling behind China after a reported 100,000-plus 2026 output expectation, and Hesai's US scrutiny was framed as a regulatory read-through for Western lidar and upstream laser suppliers. Latest updates now keep only the rolling two-day window from July 6 to July 8.",
-  "summary": "7 月 8 日 20:03 这轮刷新仍因 Chrome 扩展不可用而走公开回退，只读取公开主帖；Subs 仍未验证，Replies 也未扫描。相较 7 月 7 日 20:06 边界，本轮确认了三条新的可行动公开主帖：一是 Meta 在算力放缓叙事砸盘后公开强调仍在推进昂贵数据中心，并已与 $CRWV、Google、$ORCL 等签下重大算力协议；二是 Serenity 以新华社所称中国今年 humanoid 产量或超 10 万台为锚，强调美国在人形机器人量产上明显落后，并继续把 $CCXI / Agility 视为追赶主线；三是她把 Hesai 的美国国家安全审查解读为西方激光雷达玩家 $OUST / $AEVA 及其上游激光链条如 $LITE / $SIVE 的潜在利好。最新消息流按两日滚动仅保留 7 月 6 日至 7 月 8 日。",
+  "generatedAt": "2026-07-10T20:05:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-10 20:05 Beijing. Logged-in Chrome/X access succeeded, so both Posts and Subs were checked directly from the prior 2026-07-08T20:03:00+08:00 boundary; Replies were not scanned. Posts contained eight new main posts in the window: six actionable posts were added to the tracker, while one xAI / Grok observation and one humor-only SIVE joke were left out of latestUpdates. The Subs tab showed no new subscription posts after Jul 5. Relative to the prior boundary, the main additions were a harder Meta capex / compute-demand reset via an internal memo plus a reported $10B Canada datacenter, a photonics-defense / insider-buying cluster around $SIVE and upstream optical chokepoints, a renewed US humanoid catch-up frame around 1X, Tesla and Agility, and a Blue Origin valuation anchor for $RKLB / $ASTS. Latest updates now keep the rolling July 8 to July 10 window.",
+  "summary": "7 月 10 日 20:05 这轮刷新已直接读到登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies；其中 Subs 顶部仍停在 7 月 5 日，说明这次没有新的订阅帖。相较 7 月 8 日 20:03 边界，本轮新增 6 条可行动主帖：Meta 的加拿大 100 亿美元数据中心与内部 memo 进一步强化了 compute / capex 没有降温；$SIVE 出现 CEO 场内增持和 photonics 主线未坏的双重强化；1X 手部演示、Elon 的“for now”回应和 Serenity 对 $CCXI / Agility 的继续偏多，把美国 humanoid 追赶叙事往前又推了一步；另外还补入了 Blue Origin 新融资对 $RKLB / $ASTS 的估值锚。最新消息流现按滚动窗口保留 7 月 8 日至 7 月 10 日。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-10T15:28:08+08:00",
+      "type": "Photonics selloff 修复 / $SIVE $LITE 光学主线未坏",
+      "headline": "Serenity 认为此前砸盘 photonics 的两大诱因已经被修正：Bloomberg 的 Meta compute 叙事被内部 memo 纠偏，关于 Nvidia roadmap 延迟的两篇报道也遭否认。她据此强调光学主线并未改变，包括 $LITE 未来两年几乎售罄、$SIVE 仍在沿着 GlobalFoundries / Jabil / POET / Ayar 量产路径推进、以及 $AAOI、$IQE、$AXTI 等上游瓶颈逻辑依旧成立。",
+      "tickers": [
+        "$SIVE",
+        "$LITE",
+        "$AAOI",
+        "$IQE",
+        "$AXTI",
+        "$TSM"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2075496116481884524",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-10T03:35:25+08:00",
+      "type": "美国 humanoid 追赶 / $CCXI $TSLA 1X 验证",
+      "headline": "Serenity 引述“China is shipping ~90% of the world's humanoid robots”与 Elon 对此的“for now”回应，并把 1X 当天展示的先进手部能力视作美国 humanoid 方案接近技术拐点的信号。她继续明确自己通过 $CCXI 持有 Agility，认为美国机器人主线正从抽象叙事转向更直接的追赶与商业化验证。",
+      "tickers": [
+        "$CCXI",
+        "$TSLA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-10T02:44:43+08:00",
+      "type": "$SIVE 管理层增持 / CEO open-market buy",
+      "headline": "Serenity 披露 $SIVE 当天出现三笔新的 insider purchases，其中最重要的是 CEO Vikram 在公开市场买入约 100 万 SEK 股票。她把这看作在 misleading CPO delay 报道、Meta compute 砸盘以及其他 insider sale 噪音之后，最直接的管理层信心表态，并继续把 GFS、JBL 和潜在 Nasdaq 上市路径当成后续放大器。",
+      "tickers": [
+        "$SIVE",
+        "$GFS",
+        "$JBL"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2075289915697553697",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-09T20:46:14+08:00",
+      "type": "Meta 内部 memo / $NBIS neocloud 二次修复",
+      "headline": "一份被公开的 Meta 内部 memo 进一步把 compute-demand reset 从“发言人口径”推进到更硬的 capex 侧：Serenity 摘出 Meta 已与 Samsung、$SNDK 签 memory LTAs，与 Sumitomo Electric 签 fiber optics LTAs，预计今年部署 7GW 算力、2027 年再翻倍，年度 capex 最高可到 1450 亿美元，并计划到 2027 年每 6 个月推出一代新芯片。",
+      "tickers": [
+        "$META",
+        "$NBIS",
+        "$SNDK"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2075199849507762279",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-09T05:16:03+08:00",
+      "type": "Meta 加拿大新数据中心 / AI capex 延续",
+      "headline": "Serenity 转述 Meta 将在加拿大建设新的 100 亿美元数据中心，并把这视为对“Meta Compute 过度建设、准备收缩 capex”叙事的又一次直接反证。对她而言，这进一步支撑了 $NBIS 等 neocloud / overflow compute 相关线索的需求持续性。",
+      "tickers": [
+        "$META",
+        "$NBIS"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2074965761345642660",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-08T20:49:57+08:00",
+      "type": "Blue Origin 估值锚 / $RKLB $ASTS space rerating",
+      "headline": "Serenity 转述《纽约时报》称 Blue Origin 正以约 1300 亿美元估值融资 100 亿美元，并将其视作太空板块的新相对估值锚。她认为若 SpaceX 与 Blue Origin 都能获得如此高的私募估值，那么 $RKLB、$ASTS 等公开市场 space names 的估值参照也会被抬高。",
+      "tickers": [
+        "$RKLB",
+        "$ASTS"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2074838397341065516",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-07-08T03:49:55+08:00",
       "type": "Hesai 审查 / 西方激光雷达与上游激光 read-through",
@@ -43,71 +121,6 @@
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
       "source": "Posts-public-feed-fallback"
-    },
-    {
-      "publishedAt": "2026-07-07T08:54:00+08:00",
-      "type": "Samsung 存储提价 / 利润兑现与市场错杀",
-      "headline": "Serenity 把 Samsung 当作 memory 主线的最新反身性案例: 市场原先质疑存储提价难以持续，但 Samsung 仍把 DRAM 提价约 20%、交出超过 $NVDA 与 $AAPL 的全球最高盈利，并录得 operating profits 同比约 1803% 增长，股价却依然回落约 7%。对她而言，这说明市场对 memory 盈利持续性的定价仍然偏保守。",
-      "tickers": [
-        "Samsung",
-        "$NVDA",
-        "$AAPL"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2074416685843612031",
-      "source": "Posts-public-search-fallback"
-    },
-    {
-      "publishedAt": "2026-07-06T17:29:29+08:00",
-      "type": "$XFAB 估值重定 / photonics foundry rerating",
-      "headline": "Serenity 引述 Kepler 将 $XFAB 上调至 Buy，核心理由包括 Melexis 需求持续走强、AI 带来 SiC/GaN/photonics 的结构性增长腿，以及 X-FAB 2027 年 EV/EBITDA 仅约 4.8 倍、显著低于 specialty foundry 同业中位数约 14.5 倍。她同时补充，自己更看重的是 XFAB 通过 photonixFAB 与 silicon photonics 获得的长期可选性，而不只是传统 auto 周期修复。",
-      "tickers": [
-        "$XFAB",
-        "$SILEX",
-        "$NVDA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2074063175293809150",
-      "source": "Posts-public-mirror-fallback"
-    },
-    {
-      "publishedAt": "2026-07-06T16:25:00+08:00",
-      "type": "$SIVE 向 next $LITE 叙事推进",
-      "headline": "Serenity 用一条长帖把 $SIVE 的多段里程碑重新串起来：O-Net 与 Jabil 的量产 read-through、$GFS / Ayar / $AMD / $NVDA 等 hyperscaler 相关映射、TrendForce 所说 CW laser LTA 需求、超额认购融资后的 laser scaling，以及未来数个季度内完成 Nasdaq 上市并为 M&A 打开空间。她的核心结论是，SIVE 现阶段更像在等待 pluggables 到 CPO 的收入桥接，而不只是押注单一架构兑现。",
-      "tickers": [
-        "$SIVE",
-        "$LITE",
-        "$AMD",
-        "$NVDA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2074046947434860971",
-      "source": "Posts-public-mirror-fallback"
-    },
-    {
-      "publishedAt": "2026-07-06T13:48:43+08:00",
-      "type": "InP 上游涨价验证 / $AXTI $IQE read-through",
-      "headline": "Serenity 引述 Nomura 称 $AXTI 与 $IQE 属于 InP 关键玩家，并列出一组更硬的涨价线索：2 英寸 InP substrate 涨约 42-76%、3 英寸 InP substrate 涨约 78%、2 英寸 EML epiwafer 涨约 50-75%、3 英寸 CW epiwafer 涨约 40% 以上。对她而言，这相当于从价格、需求和供给短缺三个维度继续验证 AI optical 上游瓶颈。",
-      "tickers": [
-        "$AXTI",
-        "$IQE"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2074007618046345249",
-      "source": "Posts-public-mirror-fallback"
-    },
-    {
-      "publishedAt": "2026-07-06T04:32:55+08:00",
-      "type": "美国机器人国家冠军 / $CCXI $AMZN 框架强化",
-      "headline": "Serenity 转述 SVRC Research 的《State of Robotics 2026》，其中把 Figure AI、Agility Robotics、Apptronik、$TSLA、Boston Dynamics、Physical Intelligence、1X、$AMZN Robotics 等并列为“美国机器人国家冠军”。她借此把 Agility/CCXI 从单一交易标的进一步抬升为美国 robotics program 的一部分，强化了 physical AI 的国家级配置逻辑。",
-      "tickers": [
-        "$CCXI",
-        "$AMZN",
-        "$TSLA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
-      "source": "Posts-public-mirror-fallback"
     }
   ],
   "ideas": [
@@ -117,169 +130,56 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity continues to frame SIVE as a core laser and silicon-photonics chokepoint. On July 1 she moved from the proposed SEK 600M financing idea to an upsized, multiple-times-oversubscribed SEK 700M institutional round for InP lasers and optical amplifiers, then highlighted a more formal intent to complete a NASDAQ listing over the next few quarters. She reads both as signs that Sivers is moving from scarcity narrative toward funded HVM scale and a clearer US-market rerating path.",
-      "whyItMatters": "The update shifts SIVE from a possible financing story to a completed institutional capital raise plus a more explicit listing timeline. If the proceeds really convert into laser/amplifier output, foundry allocation and customer ramps, SIVE gets both balance-sheet de-risking and a cleaner path to broader institutional ownership; if dilution, execution or customer conversion disappoint, the financing itself does not guarantee the thesis.",
+      "thesis": "Serenity now frames SIVE as a stress-tested photonics chokepoint rather than only a scarcity story. The July 1 financing and NASDAQ-listing path already moved the thesis toward funded scale-up, but the July 10 sequence added two sharper proof points: first, three insider purchases including a 1,000,000 SEK open-market buy by CEO Vikram right after the CPO-delay / Meta-compute panic; second, a broader post arguing that the photonics roadmap itself remains intact, from $LITE staying sold out into 2029 to SIVE's expected ramps with GlobalFoundries, Jabil, POET and Ayar. In her framing, the selloff damaged price but not the supply-chain map.",
+      "whyItMatters": "This changes SIVE from a speculative financing-and-listing rerating into a cleaner management-confidence plus demand-duration setup. If insider buying really marks management conviction while optical bottlenecks, GFS reference status and customer ramps keep progressing, SIVE has a better shot at turning social-media conviction into institutional rerating. If the insider signal proves cosmetic or the customer map remains mostly OSINT, the stock can still stay hostage to timing, dilution and credibility swings.",
       "catalysts": [
+        "Three new insider purchases on July 10, including CEO Vikram's 1,000,000 SEK open-market buy",
         "Upsized SEK 700M institutional financing completed at 57 SEK and described as multiple times oversubscribed",
         "Intent to complete the NASDAQ listing process over the next few quarters",
-        "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
-        "Serenity expects the ALL.SPACE/YSS relationship may create follow-on space and defense volume orders",
+        "Serenity says the photonics roadmap remains intact after the selloff, with LITE sold out for roughly two years and SIVE still on the ramp path with GFS, JBL, POET and Ayar",
         "Potential photonics volume ramps from Jabil and other pluggable-transceiver makers",
-        "Serenity says JP Morgan ownership in Sivers rose from about 0.4% last month to 5%+ this month",
-        "Serenity says SIVE is her favorite CPO / photonics stock after AAOI",
-        "Protean Funds publicly questioned SIVE's CPO applications; Serenity frames this as another local short-side misunderstanding",
-        "Serenity cites GFS making SIVE its reference laser as a rebuttal to the imaginary-CPO critique",
-        "Swedish hedge funds short SIVE reportedly heavily underwater, reinforcing short-squeeze pressure",
-        "Serenity says SIVE is both a CPO chokepoint and bottleneck for next year",
+        "Sivers + GlobalFoundries strategic collaboration and reference-laser positioning",
+        "Serenity still maps SIVE into Ayar, Nvidia-adjacent and broader hyperscaler optical ecosystems",
         "CW laser shortage signal from LITE earnings and constrained Sumitomo/Furukawa / Win Semi capacity",
-        "Win Semi private placement to scale capacity, with Serenity confident it can support SIVE volume",
-        "Possible GFS or JBL strategic stake after June vote, speculative",
-        "Serenity says she is not selling a single SIVE share",
-        "Possible future surprise partner announcement such as Innolight, still speculative",
-        "Potential NASDAQ listing could narrow Swedish-exchange valuation discount",
-        "Potential short squeeze if more customer or partner announcements arrive",
-        "Serenity says SIVE has high-confidence supplier linkage to Marvell Celestial and Lightmatter",
-        "Serenity says SIVE is 100% confirmed laser supplier to Ayar",
-        "Sivers + GlobalFoundries strategic collaboration",
-        "Serenity links SIVE to Ayar joining Nvidia NVLink Fusion",
-        "Serenity says SIVE is the laser supplier to the NVDA NVLink Fusion ecosystem",
-        "Potential linkage across Marvell Celestial, Lightmatter and Ayar",
-        "CPO and pluggable optical transceiver ramp over the next 18 months",
-        "JBL and GFS public validation",
-        "EU Tech Sovereignty Package / Chips Act 2.0 photonics priority",
-        "Serenity says SIVE was only up about 3.36% despite JP Morgan buying 5%+ ownership, which she frames as the first major institutional buying signal in the float",
-        "BlackRock appeared as passive SIVE owner after index listing, while Fidelity Research appeared as a direct active position in Serenity's framing",
-        "Serenity says US institution ownership is moving from JP Morgan to BlackRock / Fidelity validation of Sivers photonics exposure",
-        "Serenity again stated she likes SIVE",
-        "Serenity compares SIVE to NBIS and RKLB as a case where retail found an architectural shift before institutions",
-        "JP Morgan and Fidelity Research appearing on the cap table reinforces her institutional-accumulation narrative",
-        "Serenity suggests current small-cap names in the AAOI 2025 size range, such as SIVE, may deserve more attention",
-        "Western-supply-chain framing puts SIVE alongside AAOI, IQE, XFAB, SOI and WOLF as critical AI supply-chain nodes",
-        "Three-month thesis validation: Serenity says SIVE has risen about 1900% since her 4 SEK long thesis",
-        "JPM and Fidelity only recently entering positions in Serenity's framing",
-        "Serenity calls SIVE probably her second-greatest thesis after AXTI",
-        "Serenity contrasted Europe's skepticism around SIVE with US willingness to fund futuristic AI assets, reinforcing her view that European photonics assets may remain underappreciated",
-        "China easing InP substrate exports may relieve photonics mass-production bottlenecks across the laser and optical chain",
-        "Serenity included SIVE in the optical chain that should benefit if InP bottlenecks ease",
-        "Serenity said she remains super bullish on her SIVE position and mentioned a possible Nasdaq listing timeline announcement as a near-term watch item",
-        "AMD reportedly scrambling for CW laser supply and negotiating large-scale purchase orders according to Serenity citing TrendForce",
-        "Serenity names SIVE as an obvious CW laser beneficiary because AMD went to GFS for CPO and Sivers is at the reference-laser level",
-        "Lumentum/Coherent capacity described as booked into 2028, with Lumentum especially constrained by existing EML contracts",
-        "Serenity lists SIVE as one of her core European longs and says it has the highest upside among them",
-        "Ability for laser companies to vertically integrate or acquire downstream companies could make lasers more valuable over time",
-        "AAOI/LITE/AXTI 2025 rerating used as a deja-vu analogy for current smaller optical longs such as SIVE",
-        "Serenity says AMD actively trying to secure CW laser supply may be the first domino in a capacity-locking game among hyperscalers",
-        "Western independent CW-laser capacity is framed as scarce, with SIVE, AAOI and maybe Macom called out after Lumentum/Coherent were locked by Nvidia multi-year agreements",
-        "Lumentum is described as already constrained and likely sourcing from Sumitomo/Furukawa, suggesting limited spare capacity across the chain",
-        "Serenity reiterated in Chinese that SIVE and AAOI are her favorite laser companies because they can expand from lasers into full optical modules, optical engines and ELS components",
-        "She says the photonics theme is still extremely early and most revenue ramp may not start until 2027 H1/H2",
-        "COHR-style upstream substrate integration is cited as a possible playbook for margin and TAM expansion across photonics leaders",
-        "Serenity named Photonics as one of her core three themes and SIVE as the top performer she selected for that segment",
-        "She says opticals are still very early in the supercycle and should be evaluated against 2027/2028 projections",
-        "Serenity used this idea as part of her backlash-to-validation framework, arguing original supply-chain ideas often face early skepticism before later earnings, institutions, partnerships or rerating validate them",
-        "Serenity said she still has a million+ share SIVE position and is waiting for 2027 volume ramp plus NASDAQ listing support for potential M&A",
-        "Serenity mapped SIVE across GFS reference laser, Ayar / NVDA NVLink scale-up, POET scale-out, JBL 1.6T+ pluggables and O-Net ELS",
-        "Serenity says SIVE is fabless for mass production and relies on Win Semi / foundry partners rather than needing heavy in-house capex",
-        "POET AGM commentary said the top three laser suppliers control about 68% of the market and are sold out for two years, which Serenity reads as laser scarcity extending toward 2029",
-        "POET disclosed a new-customer NRE around a high-power external light source, which Serenity maps to SIVE based on the September 2025 ELS release"
+        "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
+        "JP Morgan, BlackRock and Fidelity-style ownership validation remain part of Serenity's institutional-accumulation framing",
+        "Serenity reiterates that AAOI and SIVE are her favorite laser companies because lasers can expand into modules, engines and ELS components",
+        "The photonics theme is still framed as early, with the heavier revenue ramp likely in 2027 H1/H2"
       ],
       "risks": [
         "The 57 SEK financing still creates dilution and must translate into real laser/amplifier output and customer revenue",
+        "CEO and insider buying improve optics but do not by themselves prove 2027 revenue conversion or customer ramp timing",
         "NASDAQ-listing intent is still management-guidance language until formal milestones, filings and exchange steps are disclosed",
-        "The $8.2M ALL.SPACE order is concrete, but follow-on defense-prime orders are not yet guaranteed",
-        "Space and defense customer concentration, delivery timing and margin contribution need verification",
-        "JP Morgan ownership change must be confirmed through primary ownership filings",
-        "Protean Funds critique should be reviewed directly rather than dismissed only through Serenity's framing",
-        "The $91B CPO TAM estimate for H2 2026-2028 needs source and scope verification",
-        "Short-seller loss stories can amplify volatility without adding new customer evidence",
-        "Key primary/sole-source claims for Jabil, Ayar, Marvell Celestial and Lightmatter remain inference-heavy unless confirmed by filings or customer disclosures",
-        "Win Semi capacity timing and exact 2027/2028 output remain unknown",
-        "Insider selling FUD requires factual review even if Serenity dismisses it",
-        "CPO volume ramp may lag qualification timelines",
-        "Very high volatility after social-media attention",
-        "Needs independent verification of customer and revenue conversion",
-        "Supplier claims for Ayar, Marvell Celestial and Lightmatter need primary-source confirmation",
-        "Short squeeze framing increases crowding and volatility risk",
-        "NASDAQ listing comment needs independent verification",
-        "Short-term price reaction may remain muted even when ownership headlines look positive",
-        "BlackRock ownership may be passive index tracking rather than active conviction",
-        "Negative sellside reports and institutional-liquidity narratives are Serenity's interpretation and require independent verification",
-        "Short posts such as 'I like SIVE' add conviction color but not new company-level evidence",
-        "Historical winner analogies such as AAOI/LITE/NBIS/RKLB do not prove SIVE will follow the same path",
-        "Strategic supply-chain framing still needs customer, capacity and revenue evidence",
-        "The June 13 post is retrospective validation rather than a fresh buy signal",
-        "Large prior price appreciation increases valuation and crowding risk",
-        "Institutional-entry claims still need confirmation from current shareholder filings",
-        "European-market skepticism and focus on recent fundamentals can slow SIVE rerating even if the AI buildout thesis is right",
-        "InP export easing is a supply-chain read-through and must be tied back to company-specific orders, capacity and margins",
-        "A positive supply relief event can also change scarcity pricing assumptions, so revenue and margin effects need verification",
-        "Nasdaq-listing timeline language was a possible watch item and needs primary company confirmation",
-        "AMD CW laser urgency is currently a read-through from TrendForce/reporting and Serenity framing, not a disclosed SIVE order",
-        "Reference-laser status and GFS linkage still need to be tied to actual customer purchase orders and revenue timing",
-        "Analogies to AAOI/LITE/AXTI are useful context but do not prove the same rerating path for SIVE",
-        "June 17 AMD CW-laser logic remains a TrendForce / Serenity read-through and still needs SIVE-specific order, LTA or customer evidence",
-        "If other suppliers add capacity faster than expected, scarcity economics could normalize before SIVE captures meaningful revenue",
-        "June 18 photonics upside framing is thematic and still needs SIVE-specific orders, module/engine revenue and margin evidence",
-        "A 2027 ramp timeline means market expectations may run ahead of disclosed revenue for several quarters",
-        "June 19 SIVE mention is portfolio/thematic validation rather than new Sivers-specific customer evidence",
-        "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks",
-        "Recent photonics drawdown shows SIVE remains highly sensitive to macro, liquidity, short-side narratives and validation timing",
-        "Convertible note, share authorization, NASDAQ listing path and institutional ownership need verification from filings rather than social-media framing",
-        "Hyperscaler customer mapping remains OSINT-based until customer orders or revenue conversion are disclosed",
-        "The June 29 POET ELS supplier mapping is inference-based and must not be treated as a confirmed SIVE order"
+        "Key supplier claims for Ayar, Marvell Celestial, Lightmatter, JBL and other customers remain inference-heavy unless confirmed by filings or customer disclosures",
+        "The July 10 photonics-defense post is still Serenity's synthesis and not a substitute for company-specific orders or margin evidence",
+        "CW laser scarcity can support the thesis but also raises execution pressure around capacity allocation and delivery timing",
+        "Institutional-ownership framing must be separated between passive index inclusion and active conviction buying",
+        "Large prior price appreciation keeps crowding and volatility risk high",
+        "European-market skepticism and focus on recent fundamentals can still delay rerating even if the AI-buildout thesis is directionally right",
+        "If other suppliers add capacity faster than expected, scarcity economics could normalize before SIVE captures meaningful revenue"
       ],
       "stance": "重点关注",
       "nextChecks": [
-        "Read the final financing release, share-count impact, pricing terms and use-of-proceeds detail",
+        "Read the Swedish insider filings for the July 10 CEO purchase and the two other insider buys, including price, role and post-trade ownership",
         "Track formal NASDAQ-listing milestones, advisors and company disclosures over the next few quarters",
-        "Read the Sivers/ALL.SPACE primary release and map delivery schedule, revenue recognition and gross-margin implications",
-        "Verify the YSS acquisition relationship and whether additional programs are disclosed",
-        "Verify JP Morgan's latest Sivers ownership percentage and filing date",
-        "Read Protean Funds' original SIVE critique and identify whether it raises technical or revenue-recognition issues",
-        "Trace the $91B and $141B CPO TAM figures to the underlying report",
-        "Find original Origo hedge fund short-loss article and quantify short exposure",
-        "Verify Win Semi private placement details and whether proceeds are tied to CW laser capacity relevant to SIVE",
+        "Verify exact GFS reference-design language and whether it implies customer revenue rather than only ecosystem placement",
         "Confirm whether Jabil 1.6T LRO architecture publicly identifies SIVE or only implies it",
-        "Track June vote and whether GFS/JBL strategic stake speculation develops into an actual filing",
-        "Check insider selling filing date, seller role and remaining ownership",
-        "Watch for any JBL-like or Innolight-related announcement",
-        "Track short interest / borrow dynamics if available",
-        "Check whether SIVE has disclosed any NASDAQ listing plan or timeline",
-        "Verify whether Marvell Celestial and Lightmatter supplier links are direct, inferred or only GFS-reference-design related",
         "Verify whether SIVE is explicitly named as Ayar laser supplier in filings, presentations or customer material",
-        "Verify exact GFS reference design language from primary release",
-        "Verify Ayar's NVLink Fusion announcement and whether SIVE is explicitly or indirectly connected",
-        "Verify the primary-source basis for the claimed NVDA NVLink Fusion laser-supplier link",
-        "Map Marvell Celestial, Lightmatter and Ayar laser-supplier dependencies",
-        "Check whether SIVE revenue guidance reflects CPO/pluggables",
-        "Track customer concentration and production timing",
-        "Compare Sivers share-register changes before and after JP Morgan crossing 5%+ ownership",
-        "Verify BlackRock and Fidelity Research ownership in Morningstar / filings and separate passive index inclusion from active accumulation",
-        "Separate SIVE company-level evidence from Serenity's retail-versus-institution cycle framing",
-        "Track whether active institutional ownership continues to rise after JP Morgan and Fidelity Research",
-        "Compare SIVE market cap, revenue path and customer evidence with AAOI when Serenity first called it",
-        "Verify whether SIVE receives direct subsidy, customer or capacity evidence under the Western supply-chain frame",
-        "Re-check latest Sivers shareholder filings for JPM, Fidelity and other US institutional ownership",
-        "Separate post-performance validation from incremental company evidence such as new customers, orders or capacity",
-        "Track whether European institutional and retail skepticism around SIVE changes after additional AI buildout or customer evidence",
-        "Check whether SIVE management or suppliers confirm InP-related capacity relief",
-        "Track whether optical names hold gains on company evidence rather than only sector sentiment",
-        "Check Sivers company communications for any Nasdaq listing timeline or formal exchange-listing update",
-        "Find the TrendForce report on AMD CW laser procurement and identify whether any suppliers are named directly",
-        "Track whether AMD, GFS, Sivers or module makers disclose CW laser LTAs, purchase orders or capacity reservations",
-        "Compare SIVE valuation and customer evidence against AAOI/LITE/AXTI at comparable early optical-cycle stages",
-        "Track whether AMD, CSPs, GFS, Sivers, AAOI or Macom disclose CW laser LTAs or capacity reservations",
-        "Compare SIVE capacity roadmap with Lumentum, Coherent, Sumitomo and Furukawa capacity constraints",
         "Track whether SIVE discloses optical-module, optical-engine or ELS component revenue beyond laser supply",
-        "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings",
-        "Read POET AGM materials and the September 2025 ELS release to verify whether SIVE is explicitly tied to the new-customer NRE and volume ramp"
+        "Compare SIVE valuation and customer evidence against AAOI, LITE and AXTI at comparable early optical-cycle stages",
+        "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings"
       ],
-      "lastUpdated": "2026-07-06 16:25",
+      "lastUpdated": "2026-07-10 15:28",
       "evidence": [
         {
-          "date": "2026-07-06 16:25",
-          "quote": "Serenity argued SIVE could become the next LITE if 1.6T pluggables, CW-laser LTAs, Nasdaq listing and M&A turn its hyperscaler supplier map into real revenue scale.",
-          "url": "https://x.com/aleabitoreddit/status/2074046947434860971"
+          "date": "2026-07-10 15:28",
+          "quote": "Serenity said the photonics roadmap had not fundamentally changed after the selloff, citing LITE sold out into 2029 plus SIVE's expected ramps with GFS, Jabil, POET and Ayar.",
+          "url": "https://x.com/aleabitoreddit/status/2075496116481884524"
+        },
+        {
+          "date": "2026-07-10 02:44",
+          "quote": "Serenity highlighted three new insider purchases in SIVE, especially CEO Vikram buying about 1,000,000 SEK of stock on the open market after the photonics panic.",
+          "url": "https://x.com/aleabitoreddit/status/2075289915697553697"
         },
         {
           "date": "2026-07-01 15:22",
@@ -297,24 +197,19 @@
           "url": "https://x.com/aleabitoreddit/status/2072007692684837039"
         },
         {
-          "date": "2026-06-29 14:57",
-          "quote": "Serenity used POET AGM laser-shortage commentary and a new-customer ELS NRE to reinforce SIVE scarcity and supplier mapping, while noting customer evidence remains incomplete.",
-          "url": "https://x.com/aleabitoreddit/status/2071488272245944399"
-        },
-        {
           "date": "2026-06-25",
           "quote": "Serenity said she is more bullish as SIVE falls, mapping SIVE to GFS, Ayar/NVDA scale-up, POET scale-out, JBL pluggables and O-Net ELS while acknowledging financing/listing noise.",
           "url": "https://x.com/aleabitoreddit/status/2070179074048409662"
         },
         {
+          "date": "2026-06-29 14:57",
+          "quote": "Serenity used POET AGM laser-shortage commentary and a new-customer ELS NRE to reinforce SIVE scarcity and supplier mapping, while noting customer evidence remains incomplete.",
+          "url": "https://x.com/aleabitoreddit/status/2071488272245944399"
+        },
+        {
           "date": "2026-06-26",
           "quote": "Serenity said she remains comfortable with her SIVE hyperscaler mapping research, still has a million+ share position, and is waiting for 2027 volume ramp plus NASDAQ listing support.",
           "url": "https://x.com/aleabitoreddit/status/2070444675337503166"
-        },
-        {
-          "date": "2026-06-21 19:04",
-          "quote": "Serenity said SIVE is a laser supplier for next-generation architectures beyond only CPO scale-up, including pluggable, scale-out CPO, scale-up CPO and NPO.",
-          "url": "https://x.com/aleabitoreddit/status/2068651355422814294"
         },
         {
           "date": "2026-06-20",
@@ -332,184 +227,14 @@
           "url": "https://x.com/aleabitoreddit/status/2067542382523122001"
         },
         {
-          "date": "2026-06-12",
-          "quote": "Serenity said past ideas such as AAOI, LITE, NBIS and RKLB aged well, and suggested smaller names today such as SIVE may deserve more attention.",
-          "url": "https://x.com/aleabitoreddit/status/2065289672356745561"
-        },
-        {
-          "date": "2026-06-11",
-          "quote": "Serenity simply wrote: I like SIVE.",
-          "url": "https://x.com/aleabitoreddit/status/2064983882802565169"
-        },
-        {
-          "date": "2026-06-11",
-          "quote": "Serenity said SIVE had close to zero US institutional ownership before active institutions such as JP Morgan and Fidelity Research appeared on the cap table.",
-          "url": "https://x.com/aleabitoreddit/status/2064884912667439129"
-        },
-        {
-          "date": "2026-06-10",
-          "quote": "Serenity said optical players from LITE to AAOI and SIVE were recovering as they should after an overdone selloff.",
-          "url": "https://x.com/aleabitoreddit/status/2064705380933074945"
-        },
-        {
-          "date": "2026-06-10",
-          "quote": "BlackRock entered SIVE as passive owner after index listing; Fidelity Research started direct positions, which Serenity frames as US institutions validating Sivers photonics.",
-          "url": "https://x.com/aleabitoreddit/status/2064608597343125931"
-        },
-        {
           "date": "2026-06-09 15:21",
           "quote": "Sivers announced an $8.2M ALL.SPACE production order for Ka-band beamforming ICs; Serenity views the larger implication as entry into a broader space/defense prime supply chain.",
           "url": "https://x.com/aleabitoreddit/status/2064246556690469123"
         },
         {
-          "date": "2026-06-08 19:48",
-          "quote": "Serenity said JP Morgan's disclosed 5.25%+ Sivers position matters because institutional buying is constrained by the limited retail float.",
-          "url": "https://x.com/aleabitoreddit/status/2063951279278391414"
-        },
-        {
-          "date": "2026-06-08 15:31",
-          "quote": "Serenity said SIVE was only up 3.36% despite JP Morgan buying 5%+ ownership, calling it the first major signal of institutional buying of the Sivers float.",
-          "url": "https://x.com/aleabitoreddit/status/2063886704306802891"
-        },
-        {
-          "date": "2026-06-06 07:59",
-          "quote": "JP Morgan went from .4% ownership last month to 5%+ ownership this month; Serenity says institutions are buying up Sivers shares as retail gets shaken out.",
-          "url": "https://x.com/aleabitoreddit/status/2063048067432239598"
-        },
-        {
-          "date": "2026-06-05 22:25",
-          "quote": "SIVE is my favorite CPO / photonics stock after AAOI; right after GFS made SIVE their reference laser, Protean Funds said the CPO applications are imaginary.",
-          "url": "https://x.com/aleabitoreddit/status/2062903639300309302"
-        },
-        {
-          "date": "2026-06-04",
-          "quote": "Origo’s fund has lost substantial money shorting SIVE; many Swedish hedge funds are now heavily underwater.",
-          "url": "https://x.com/aleabitoreddit/status/2062520852537917649"
-        },
-        {
-          "date": "2026-06-04",
-          "quote": "It is not a monopoly, just technical dominance over ASIC/Merchant CPO route architectures.",
-          "url": "https://x.com/aleabitoreddit/status/2062435168389067033"
-        },
-        {
-          "date": "2026-06-04",
-          "quote": "Maybe GFS or JBL takes a stake in SIVE following June vote.",
-          "url": "https://x.com/aleabitoreddit/status/2062455642854735906"
-        },
-        {
-          "date": "2026-06-04",
-          "quote": "Win Semi just did a private placement to scale up capacity; confident they can scale up significant volume for SIVE.",
-          "url": "https://x.com/aleabitoreddit/status/2062450175071920195"
-        },
-        {
-          "date": "2026-06-04",
-          "quote": "I am confident in my SIVE thesis playing out and am not selling a single share.",
-          "url": "https://x.com/aleabitoreddit/status/2062442844766531594"
-        },
-        {
-          "date": "2026-06-04",
-          "quote": "SIVE looks like both a chokepoint and a bottleneck for CPO next year; likely primary/sole source for Jabil, Gen-1 Ayar, MRVL Celestial and other routes.",
-          "url": "https://x.com/aleabitoreddit/status/2062433114933334487"
-        },
-        {
-          "date": "2026-06-03",
-          "quote": "SIVE 100% confirmed laser supplier to Ayar. SIVE high confidence laser supplier to Marvell Celestial, Lightmatter.",
-          "url": "https://x.com/aleabitoreddit/status/2062080378882658330"
-        },
-        {
-          "date": "2026-06-03",
-          "quote": "Maybe for gen-1 my guess is a lot sole source / primary source with SIVE for the NVDA CPO NVlink ecosystem.",
-          "url": "https://x.com/aleabitoreddit/status/2062082082265076045"
-        },
-        {
-          "date": "2026-06-03",
-          "quote": "If SIVE were trading at $6-8B valuations today, I would not be surprised... NASDAQ listing should close the gap.",
-          "url": "https://x.com/aleabitoreddit/status/2062081644631372075"
-        },
-        {
-          "date": "2026-06-03",
-          "quote": "Where SIVE looks like they are the supplier to everyone in the ASIC/merchant NVLink CPO ecosystem partners.",
-          "url": "https://x.com/aleabitoreddit/status/2062084925445284078"
-        },
-        {
-          "date": "2026-06-03",
-          "quote": "There are active short sellers probably doubling down on SIVE... One more surprise JBL type announcement with someone like Innolight would be interesting.",
-          "url": "https://x.com/aleabitoreddit/status/2062086341291356317"
-        },
-        {
-          "date": "2026-06-03",
-          "quote": "After today’s new news with Ayar joining Nvidia NVLink fusion. SIVE is now the laser source for likely the entire Nvidia’s NVLink CPO listed supply chain ecosystem partners.",
-          "url": "https://x.com/aleabitoreddit/status/2062079425475473595"
-        },
-        {
-          "date": "2026-06-03",
-          "quote": "The effective upstream laser chokepoint for NVDA NVLink fusion CPO ecosystem. With their lasers now in Nvidia’s optical infrastructure supply chains.",
-          "url": "https://x.com/aleabitoreddit/status/2062064540075123050"
-        },
-        {
-          "date": "2026-06-03",
-          "quote": "Both XFAB and SIVE are highlighted in the Industry Policy Blueprints.",
-          "url": "https://x.com/aleabitoreddit/status/2062045895500419101"
-        },
-        {
-          "date": "2026-06-03",
-          "quote": "It's really big news to have SIVE as the laser supplier to NVDA nvlink fusion ecosystem.",
-          "url": "https://x.com/aleabitoreddit/status/2061976525575270583"
-        },
-        {
           "date": "2026-06-02",
           "quote": "SIVE has announced its lasers will be integrated into reference designs built on GlobalFoundries Silicon Photonics Platform.",
           "url": "https://x.com/aleabitoreddit/status/2061718299139100931"
-        },
-        {
-          "date": "2026-06-02",
-          "quote": "Anyone who goes through GFS silicon photonics has SIVE embedded in the reference as default.",
-          "url": "https://x.com/aleabitoreddit/status/2061695297315876875"
-        },
-        {
-          "date": "2026-06-02",
-          "quote": "SIVE is a laser chokepoint for photonics and are publicly validated by GFS and JBL.",
-          "url": "https://x.com/aleabitoreddit/status/2061538735595069534"
-        },
-        {
-          "date": "2026-06-13",
-          "quote": "Serenity said it has been three months since her SIVE thesis at 4 SEK, now up about 1900%, with JPM and Fidelity only recently entering positions.",
-          "url": "https://x.com/aleabitoreddit/status/2065779524248510758"
-        },
-        {
-          "date": "2026-06-14",
-          "quote": "Serenity contrasted US enthusiasm for futuristic assets like SPCX with European skepticism around SIVE/SOI and AI buildout, saying Europe focuses more on water usage and the past 12 months.",
-          "url": "https://x.com/aleabitoreddit/status/2065930011023204509"
-        },
-        {
-          "date": "2026-06-15",
-          "quote": "Serenity said China easing InP substrate exports should relieve photonics bottlenecks and included SIVE among optical positions or beneficiaries.",
-          "url": "https://x.com/aleabitoreddit/status/2066340661633372452"
-        },
-        {
-          "date": "2026-06-15",
-          "quote": "In a reply thread, Serenity said she remains super bullish on SIVE, with EU macro positive, LITE/laser group up from InP easing, and a possible Nasdaq-listing timeline announcement to watch.",
-          "url": "https://x.com/aleabitoreddit/status/2066361895595192583"
-        },
-        {
-          "date": "2026-06-16",
-          "quote": "Serenity named SIVE as an obvious beneficiary if AMD is scrambling for CW laser supply and securing large purchase orders.",
-          "url": "https://x.com/aleabitoreddit/status/2066707573139763211"
-        },
-        {
-          "date": "2026-06-15",
-          "quote": "Serenity listed SIVE as one of her core European longs and said it has the highest upside among them.",
-          "url": "https://x.com/aleabitoreddit/status/2066535221554733278"
-        },
-        {
-          "date": "2026-06-16",
-          "quote": "Serenity compared current smaller optical longs such as SIVE with earlier AAOI/LITE/AXTI optical ideas that rerated heavily.",
-          "url": "https://x.com/aleabitoreddit/status/2066785056031670657"
-        },
-        {
-          "date": "2026-06-17",
-          "quote": "Serenity said AMD securing CW laser supply may be the first domino in a capacity game, with scarce Western independent capacity outside SIVE, AAOI and maybe Macom.",
-          "url": "https://x.com/aleabitoreddit/status/2067206734427697196"
         }
       ]
     },
@@ -993,49 +718,51 @@
       "name": "Nebius Group",
       "tier": "watch",
       "theme": "Neocloud / AI infrastructure financing structure",
-      "thesis": "Serenity now uses NBIS as her cleaner Neocloud expression inside the Meta capex debate. On July 3 she doubled down that Meta was not falling out of the AI race, and the July 8 public post added a fresher company-mouthpiece reset after the selloff: Meta's spokesperson said the company still wants more compute, is still moving ahead with expensive new datacenters, and recently signed major computing deals with $CRWV, Google and $ORCL. In her framing, that turns the recent photonics / neocloud crash into a narrative-driven drawdown rather than a kill shot to overflow compute or NBIS.",
-      "whyItMatters": "This shifts NBIS from a balance-sheet screen into a demand-duration and sentiment-reset read-through. If Meta keeps buying, leasing and even reselling capacity while model training accelerates, cleaner neocloud intermediaries may re-rate; if the new Meta messaging is just damage control without hard capex follow-through or direct read-through to NBIS, the bounce thesis can fade quickly.",
+      "thesis": "Serenity now uses NBIS as her cleaner Neocloud expression inside a much harder Meta capex reset. The July 8 public post started with a spokesperson-led demand-duration repair, but the July 8 evening Canada-datacenter post and the July 9 leaked internal memo pushed the story further: Meta was not only still hungry for compute, it was reportedly building a new $10B Canada datacenter, signing LTAs with Samsung, $SNDK and Sumitomo Electric, targeting roughly 7GW of compute this year and doubling again in 2027, with capex as high as $145B. In her framing, NBIS is the cleaner balance-sheet read-through on that overflow-compute persistence.",
+      "whyItMatters": "This shifts NBIS from a sentiment-repair trade into a stronger demand-stack read-through. If Meta is really locking memory, fiber, new datacenters and faster chip cadence rather than merely doing PR cleanup, then neocloud intermediaries with less toxic financing could re-rate again. If the memo, Canada project and contract language never translate into direct leasing demand or customer evidence for NBIS, the thesis can still collapse back into broad AI-capex beta.",
       "catalysts": [
-        "Meta's planned cloud business and excess-compute resale add a fresh market-expansion narrative around AI capacity intermediation",
-        "Serenity says Meta's more than $48B of Neocloud contracts suggest overflow demand is still real rather than disappearing",
-        "Wells Fargo's view that Meta selling excess compute is positive for AI infra demand and potentially supportive for Neocloud M&A",
-        "Watermelon reportedly caught up to GPT 5.5 while using an order of magnitude more compute than Avocado",
-        "Wang's clarification that recent slowdown commentary referred to the industry overall, not Meta quitting the race",
-        "SemiAnalysis says Meta datacenter and compute should accelerate and 2027 capex could still be shockingly high",
         "Meta spokesperson said the company is still hungry for more compute, is still building expensive datacenters and recently signed major deals with CRWV, Google and ORCL",
-        "Serenity expects a sharp V-shaped recovery in names that crashed 50%+ on the overcapacity narrative",
-        "NBIS price strength around the $260 pre-market area",
-        "Serenity says NBIS is the best-performing Neocloud name from IREN to CRWV",
+        "Serenity says Meta's internal memo now adds LTAs with Samsung, SNDK and Sumitomo Electric plus 7GW of compute this year and a doubling in 2027",
+        "Reported $10B Meta datacenter project in Canada further weakens the overbuild / capex-pullback narrative",
+        "Meta's planned cloud business and excess-compute resale add a fresh market-expansion narrative around AI capacity intermediation",
+        "Serenity says Meta's more than $48B of neocloud contracts suggest overflow demand is still real rather than disappearing",
+        "Wells Fargo's view that Meta selling excess compute is positive for AI infra demand and potentially supportive for neocloud M&A",
         "Better financing structure versus CRWV debt burden and IREN ATM dilution in her view",
         "Sum-of-parts upside from Avride and ClickHouse exposure",
-        "Serenity identifies toxic financing structure and float dynamics as the top early-opportunity screen",
-        "NBIS was added to Nasdaq 100 alongside ALAB and RKLB in Serenity's latest validation framing",
-        "Serenity named Neoclouds / Energy as one of her core three themes and NBIS as the top performer she selected for that segment"
+        "Serenity identifies toxic financing structure and float dynamics as the top early-opportunity screen"
       ],
       "risks": [
-        "Post-validation mention after a large move is not a fresh entry signal",
-        "Neocloud names can be highly sensitive to financing terms and AI capex sentiment",
+        "Neocloud names remain highly sensitive to financing terms and AI-capex sentiment even when the macro narrative improves",
         "Meta or other hyperscalers could internalize more capacity economics and pressure reseller margins even if total demand is growing",
+        "The internal memo, Canada project and Meta contract framing all need stronger primary-source confirmation on counterparties, duration and economics",
+        "Meta's supply-chain LTAs do not automatically prove NBIS is a direct beneficiary",
+        "Peers with large ATM programs can still sell into rallies and create structural overhang across the basket",
         "Subsidiary and ownership valuation needs independent verification",
-        "Peers with large ATM programs can sell into rallies and create structural overhang",
-        "Nasdaq 100 inclusion validates scale and liquidity but can also increase index-flow volatility",
-        "The June 19 mention is retrospective performance validation, not a new NBIS company catalyst",
-        "Serenity's >$48B Meta contract framing needs primary-source verification on counterparties, duration and economics",
-        "Meta spokesperson damage control is still weaker than a formal capex guide, contract filing or direct NBIS customer evidence"
+        "Post-validation mention after a large move is not a fresh entry signal",
+        "If Meta's latest comments are mostly damage control rather than a durable capex path, the demand-duration rerating can fade quickly"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
         "Verify NBIS current debt, cash and financing structure",
         "Compare CRWV interest burden and IREN ATM dilution with NBIS capital structure",
-        "Verify Meta's cloud-business plan, the reported Neocloud contract scale and whether NBIS is a direct or indirect beneficiary",
+        "Verify Meta's cloud-business plan, the reported neocloud contract scale and whether NBIS is a direct or indirect beneficiary",
+        "Check whether the Canada datacenter, Samsung/SNDK memory LTAs and Sumitomo fiber LTAs are confirmed in primary reporting or filings",
         "Quantify Avride and ClickHouse ownership / valuation contribution",
-        "Track pre-market and open reaction in NBIS and related Neocloud names",
         "Review current ATM authorizations, share issuance and float changes for IREN, CRWV and NBIS",
-        "Track index inclusion date, passive demand and whether it changes NBIS float/liquidity dynamics",
         "Verify whether Meta's newly cited compute deals or datacenter plans create direct demand read-through for NBIS rather than only broad neocloud sentiment support"
       ],
-      "lastUpdated": "2026-07-08 02:56",
+      "lastUpdated": "2026-07-09 20:46",
       "evidence": [
+        {
+          "date": "2026-07-09 20:46",
+          "quote": "Serenity summarized a leaked Meta memo showing memory LTAs with Samsung and SNDK, fiber LTAs with Sumitomo Electric, roughly 7GW of compute this year, a doubling in 2027 and capex up to $145B.",
+          "url": "https://x.com/aleabitoreddit/status/2075199849507762279"
+        },
+        {
+          "date": "2026-07-09 05:16",
+          "quote": "Serenity cited a reported new $10B Meta datacenter in Canada as another direct rebuttal to the claim that Meta was overbuilding and cutting AI capex.",
+          "url": "https://x.com/aleabitoreddit/status/2074965761345642660"
+        },
         {
           "date": "2026-07-08 02:56",
           "quote": "Serenity cited Meta's spokesperson saying the company still wants more compute, is still moving ahead with expensive datacenters and recently signed major compute deals with CRWV, Google and ORCL.",
@@ -1065,16 +792,6 @@
           "date": "2026-07-01 21:42",
           "quote": "Serenity said Meta looked capacity constrained rather than overbuilt and claimed the company had already signed more than $48B of Neocloud contracts.",
           "url": "https://x.com/aleabitoreddit/status/2072314906729455876"
-        },
-        {
-          "date": "2026-06-19",
-          "quote": "Serenity said her core themes are Neoclouds/Energy, Memory and Photonics, and cited NBIS as the top performer she selected in the Neocloud segment.",
-          "url": "https://x.com/aleabitoreddit/status/2067945397923037693"
-        },
-        {
-          "date": "2026-06-12",
-          "quote": "Serenity said NBIS, ALAB and RKLB were added to Nasdaq 100, describing small companies growing into major Nasdaq constituents.",
-          "url": "https://x.com/aleabitoreddit/status/2065262802328293497"
         },
         {
           "date": "2026-06-07",
@@ -2986,28 +2703,25 @@
       "name": "Agility Robotics",
       "tier": "speculative",
       "theme": "Humanoid robotics IPO / warehouse automation",
-      "thesis": "Serenity says Agility Robotics is now her favorite humanoid position and her largest robotics concentration. Beyond the possible September CCXI route to Nasdaq, she frames Agility as the Anthropic-like enterprise-commercialization path inside US humanoids, with a newer emphasis on a Made-in-USA supply chain, roughly 75% of parts sourced from the US, a 10,000-unit RoboFab footprint and a possible sub-$30K mass-production BOM target. The July 4 posts extended that framing from supply-chain optionality into labor replacement, and the July 8 public post widened it again into a US-vs-China production race: citing a reported 100,000-plus China humanoid output expectation for 2026, Serenity argued names like Tesla, Agility, Apptronik and Figure now need to catch up far faster.",
-      "whyItMatters": "Agility could become the first US-listed pure-play humanoid company with operating deployments, a domestic supply-chain angle and a clearer enterprise go-to-market narrative than some higher-profile peers. The newer domestic-sourcing and BOM claims matter because Serenity increasingly views humanoids through national strategy, labor economics and now comparative mass-production urgency: if Agility helps customers avoid large-scale hiring while fitting a US-policy-preferred supply chain during a perceived robotics catch-up race, the valuation logic broadens materially. The thesis still depends on SPAC completion, V5 production, customer conversion, BOM reduction and whether geopolitical urgency turns into actual revenue and margin scale.",
+      "thesis": "Serenity still treats Agility Robotics as her favorite humanoid position, but the framing has become more explicit about a US catch-up race. The older made-in-USA, 75%-domestic-parts, 10,000-unit RoboFab and sub-$30K BOM angles remain, yet the July 10 post added a more concrete technological inflection layer: after citing that China may already ship around 90% of global humanoids, she pointed to 1X's advanced hand demo and Elon Musk's 'for now' reply as signs that US humanoid programs may be nearing a real capability and mass-production push. Within that basket, she remains personally long Agility through $CCXI.",
+      "whyItMatters": "Agility could still become one of the first public US humanoid pure plays, but the thesis now spans three layers at once: enterprise commercialization, domestic supply-chain preference and national urgency. If Agility can convert those narratives into customer deployments, BOM reduction and factory throughput while the US policy mood shifts toward catching China, valuation support broadens beyond SPAC speculation. If the national-race framing stays rhetorical and 1X / Tesla style capability progress does not convert into orders or economics for Agility, the stock remains a high-beta story asset.",
       "catalysts": [
         "Expected CCXI to AGLT ticker transition after the proposed transaction",
         "BlueCrest Capital Management disclosed a 5.6% stake in CCXI",
         "Deck claims that roughly 75% of Agility parts are sourced from the US",
         "Serenity thinks the mass-production BOM target may be below $30K rather than the headline ~$145K robot cost",
-        "Serenity now argues that sub-$15K humanoid mass production would radically accelerate labor substitution",
-        "She cites a leaked Amazon strategy that aimed to avoid hiring roughly 600,000 workers through robots such as CCXI / Agility",
         "10,000-unit RoboFab capacity and US manufacturing footprint across Salem, Pittsburgh and Fremont",
         "Reported multi-year orders and a pipeline of more than 30 customers",
-        "Robofab production setup and customer trials across logistics and manufacturing",
-        "NVIDIA, Amazon, Foxconn and SoftBank appear in the broader investor or ecosystem set",
-        "Serenity now frames Agility as the enterprise-commercialization leader relative to other US humanoid contenders",
-        "US robotics policy, rare-earth sourcing and domestic-component subsidies could make Agility's supply-chain positioning more valuable",
-        "Serenity cites a reported 100,000-plus China humanoid output expectation for 2026 as evidence the US may need to accelerate domestic robotics champions such as Agility"
+        "Serenity still frames Agility as the enterprise-commercialization leader relative to other US humanoid contenders",
+        "1X's latest hand demo and Elon's 'for now' remark add a fresher technology-and-speed catalyst to the US catch-up narrative",
+        "Serenity cites a reported 100,000-plus China humanoid output expectation for 2026 as evidence the US may need to accelerate domestic robotics champions such as Agility",
+        "US robotics policy, rare-earth sourcing and domestic-component subsidies could make Agility's supply-chain positioning more valuable"
       ],
       "risks": [
         "SPAC transaction can be delayed, repriced or cancelled",
         "Current robot BOM is high and projected cost reductions are unproven",
         "The 75%-US-parts and sub-$30K mass-production targets need primary deck and filing confirmation",
-        "Labor-replacement extrapolation is thematic and does not by itself prove deployment economics or customer adoption speed",
+        "Labor-replacement and national-race extrapolations are thematic and do not by themselves prove deployment economics or customer adoption speed",
         "Order pipeline must convert into deliveries, revenue and sustainable margins",
         "Pro forma valuation and dilution require primary filing review",
         "Narrative analogies to Anthropic, Figure or xAI do not substitute for disclosed orders, unit economics or deployment data",
@@ -3020,11 +2734,17 @@
         "Verify the 75%-US-parts claim, sub-$30K BOM target and 10,000-unit RoboFab capacity in primary materials",
         "Track BOM reduction, annual production capacity and unit-level gross margin",
         "Check whether Amazon, NVIDIA or Google ecosystem claims appear in primary partner materials or filings",
+        "Verify the cited China 100,000-plus humanoid output figure and the newer '90% of global humanoids' framing",
         "Track whether US robotics policy or sourcing incentives explicitly benefit domestic-supply-chain players like Agility",
-        "Verify the cited China 100,000-plus humanoid output figure and whether any US policy response materially changes Agility's demand or funding path"
+        "Check whether 1X, Tesla and Agility capability milestones actually change customer procurement, partner interest or policy support"
       ],
-      "lastUpdated": "2026-07-08 01:39",
+      "lastUpdated": "2026-07-10 03:35",
       "evidence": [
+        {
+          "date": "2026-07-10 03:35",
+          "quote": "Serenity cited 'China is shipping ~90% of the world's humanoid robots,' pointed to 1X's latest hand demo and Elon's 'for now' comment, and said she remains long Agility through CCXI.",
+          "url": "https://x.com/aleabitoreddit/status/2075302956581449892"
+        },
         {
           "date": "2026-07-08 01:39",
           "quote": "Serenity cited a Xinhua report that China humanoid output could exceed 100,000 units this year and argued the US now needs names like Tesla, Agility, Apptronik and Figure to catch up faster.",
@@ -3059,11 +2779,6 @@
           "date": "2026-07-02 01:09",
           "quote": "Serenity cited Agility deck slides suggesting roughly 75% US sourcing, about 10,000 RoboFab capacity and a possible sub-$30K mass-production BOM.",
           "url": "https://x.com/aleabitoreddit/status/2072367082248040621"
-        },
-        {
-          "date": "2026-07-01 19:07",
-          "quote": "Serenity compared Agility to Anthropic within US humanoids, emphasizing enterprise commercialization and an ecosystem around Amazon, NVIDIA and Google DeepMind.",
-          "url": "https://x.com/aleabitoreddit/status/2072275805330362648"
         },
         {
           "date": "2026-07-01 00:34",

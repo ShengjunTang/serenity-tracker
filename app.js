@@ -8,31 +8,32 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 继续把 SIVE 放在核心 laser / silicon photonics chokepoint 中。7 月 1 日，这条线从“拟融资约 6 亿 SEK”升级为“完成 7 亿 SEK 超额认购机构融资”，同时她还强调公司已给出未来数个季度内完成 Nasdaq 上市流程的更正式时间线。",
-    whyItMatters: "这意味着 SIVE 不再只是主题性稀缺，而是进入“已拿到机构资金 + 更清晰美国上市路径”的阶段。若融资资金真能转成 InP lasers / optical amplifiers 的量产扩容、foundry allocation 与客户放量，SIVE 的 balance sheet 与 rerating 逻辑都会更完整；反之，稀释和执行风险仍在。",
+    thesis: "Serenity 现在把 SIVE 看成已经扛过一轮 panic test 的 photonics chokepoint，而不只是融资故事。7 月 1 日的 7 亿 SEK 超额认购融资和 Nasdaq 路径，先把它推向“有资金扩产 + 有美国上市预期”；7 月 10 日又叠加了三笔 insider buys、其中 CEO Vikram 场内买入约 100 万 SEK，以及她对整个 photonics roadmap 未坏的再确认。",
+    whyItMatters: "这让 SIVE 从“缺资产”进一步变成“管理层也在 drawdown 里加仓、主题逻辑也没坏”的双重验证。若 GFS / JBL / Ayar 等映射真能往收入走，SIVE 的 rerating 会更像 company evidence；反之，若这些仍主要停留在社媒推演层面，波动和稀释风险不会消失。",
     catalysts: [
+      "7 月 10 日出现三笔 insider buys，其中 CEO 场内买入约 100 万 SEK",
       "完成 7 亿 SEK、57 SEK 定价且超额多倍认购的机构融资",
       "未来数个季度内完成 Nasdaq 上市流程的正式时间线",
-      "Serenity 再次说 AAOI 与 SIVE 是她最喜欢的激光公司",
-      "收入空间可从激光器扩展到完整光模块、光引擎和 ELS 组件",
-      "她认为 photonics 主题仍处极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始",
-      "COHR 式上游衬底整合被她用作提升毛利率和 TAM 的参考路径",
-      "6 月 19 日她把 Photonics 列为三大核心主题之一，并点名 SIVE 是该 segment 的 top performer"
+      "Serenity 强调 photonics 主线未坏，LITE 仍接近未来两年售罄，SIVE 仍沿 GFS / JBL / POET / Ayar 路径推进",
+      "GFS reference laser、JBL 量产 read-through 与 Ayar / Nvidia 生态映射仍是放大器",
+      "她继续把 AAOI 与 SIVE 列为最喜欢的激光公司，认为收入空间可从激光器扩展到模块、引擎和 ELS",
+      "photonics 主题仍被视作极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始"
     ],
     risks: [
       "融资虽然超额认购，但仍有稀释，且必须转成真实激光器/放大器产能与收入",
+      "CEO/管理层买入能改善信号，但并不自动等于客户放量和 2027 收入兑现",
       "Nasdaq 时间线仍需正式 milestones、filings 和交易所步骤确认",
-      "6 月 18 日更新是主题强化，不是 SIVE 新订单披露",
-      "6 月 19 日提及是回顾性 portfolio validation，不是新的公司级 customer evidence",
+      "GFS / JBL / Ayar / Lightmatter 等客户映射大多仍需一手资料确认",
       "2027 ramp 时间线意味着市场预期可能领先收入几个季度",
-      "仍需要看到 SIVE 具体订单、光模块 / 光引擎收入或 margin 证据"
+      "光学主线即便方向没坏，SIVE 仍很容易受宏观、流动性和短线情绪冲击",
+      "仍需要看到 SIVE 具体订单、模块 / 光引擎收入或 margin 证据"
     ],
     nextChecks: [
-      "阅读最终融资公告，核实新增股本、定价条款与资金用途",
+      "阅读 7 月 10 日 insider filing，确认 CEO 与另外两笔增持的金额、价格和持股变化",
       "跟踪 Nasdaq 上市的正式时间点、顾问和公司披露",
+      "核实 GFS reference design、JBL read-through 与 Ayar 供应关系是否在一手资料中被直接点名",
       "跟踪 SIVE 是否披露光模块、光引擎或 ELS 组件收入",
-      "核实 2027 H1/H2 ramp 是否被客户项目、产能指引或 filings 支持",
-      "继续追踪 AMD / CSP 的 CW laser LTA 与产能预留"
+      "核实 2027 H1/H2 ramp 是否被客户项目、产能指引或 filings 支持"
     ]
   },
   foci: {
@@ -100,11 +101,11 @@ const zhCopy = {
   },
   nbis: {
     theme: "Neocloud / AI 基础设施融资结构",
-    thesis: "Serenity 现在把 NBIS 放进 Meta capex 争议的中心。7 月 3 日她先强调 Meta 并没有退出 AI 竞赛；到了 7 月 8 日，公开主帖又补上一层更近端的公司口径：Meta 发言人称，公司仍渴求更多算力、仍在推进昂贵新数据中心，并已与 $CRWV、Google、$ORCL 等签下重大算力协议。在她看来，这让最近 photonics / neocloud 的暴跌更像媒体框架误伤，而不是对 NBIS 这类 cleaner neocloud 的终局否定。",
-    whyItMatters: "NBIS 不再只是“融资结构较好”的对照组，也成了一个判断 hyperscaler overflow compute 与 AI demand duration 是否仍在扩大的 read-through。若 Meta 一边继续 capex、一边卖算力，资本结构更干净的 neocloud 玩家可能更值得重估；反之，若这轮最新口径只是 damage control、没有硬 capex 或直接客户 read-through，这条修复线也会迅速降温。",
-    catalysts: ["Meta 拟建立云业务、出售 excess AI compute，为 AI capacity intermediation 提供新叙事", "Serenity 认为 Meta 已签下 480 亿美元以上 neocloud 合同，说明 overflow demand 仍在", "Wells Fargo 也把 Meta 卖算力解读为 AI infra 需求与 Neocloud 并购机会的正面信号", "Watermelon 据称追上 GPT 5.5，且算力消耗相对 Avocado 高一个数量级", "Wang 澄清近期关于 agent 进展的评论并不等于 Meta 自己放缓", "SemiAnalysis 转而认为 Meta datacenter / compute 会继续加速，2027 capex 仍可能很高", "Meta 发言人称仍在推进昂贵数据中心并已与 $CRWV、Google、$ORCL 等签下重大算力协议", "Serenity 预期部分因 overcapacity 叙事暴跌 50%+ 的名字可能 sharp V recovery", "Serenity 将 toxic financing structure / float dynamics 放在早期机会筛选第一位", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
-    risks: ["大涨后的回顾性验证不等于新的买入点", "Neocloud 标的对融资条件和 AI capex 情绪高度敏感", "即便总需求增长，Meta 等 hyperscaler 也可能压缩 reseller / neocloud 的利润空间", "IREN 这类大规模 ATM 可能在上涨中持续卖出，形成结构性 overhang", "子公司和持股价值需要独立核实", "Serenity 所说 Meta 合同规模、对 NBIS 的直接受益路径仍需一手资料核实", "Meta 发言人口径仍弱于正式 capex 指引、合同披露或 NBIS 直接客户证据"],
-    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "核实 Meta 云业务方案、480 亿美元以上合同说法以及 NBIS 是否直接受益", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "量化 Avride 和 ClickHouse 持股 / 估值贡献", "核实 Meta 最新提到的算力协议与数据中心扩张，区分广义情绪利好和 NBIS 直接需求 read-through"],
+    thesis: "Serenity 现在把 NBIS 放在一轮更硬的 Meta capex reset 之下，而不再只是发言人口径修复。7 月 8 日她先引用 Meta 发言人说公司仍渴求更多算力；随后又补上加拿大 100 亿美元数据中心，以及一份内部 memo 所列的 Samsung / SNDK memory LTAs、Sumitomo fiber LTAs、今年约 7GW 算力部署和 2027 再翻倍等信息。对她来说，这让 NBIS 更像 Meta overflow compute 没有消失时的 cleaner neocloud read-through。",
+    whyItMatters: "NBIS 不再只是“资本结构比同行好”的对照组，而是被放进一个更扎实的 hyperscaler demand-duration 框架里。若 Meta 真的同时锁 memory、fiber、datacenter 和 chip cadence，融资结构更干净的 neocloud 玩家理论上更值得重估；反之，若这些更新最后证明只是 PR / 媒体口径而非直接需求传导，NBIS 仍会退回到高 beta 情绪资产。",
+    catalysts: ["Meta 发言人称仍在推进昂贵数据中心并已与 $CRWV、Google、$ORCL 等签下重大算力协议", "Serenity 转述的内部 memo 增加了 Samsung、$SNDK 和 Sumitomo Electric LTAs，以及今年约 7GW 算力部署与 2027 再翻倍口径", "Meta 加拿大 100 亿美元数据中心进一步反驳了 capex 收缩叙事", "Meta 拟建立云业务、出售 excess AI compute，为 AI capacity intermediation 提供新叙事", "Serenity 认为 Meta 已签下 480 亿美元以上 neocloud 合同，说明 overflow demand 仍在", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
+    risks: ["Neocloud 标的对融资条件和 AI capex 情绪依旧高度敏感", "即便总需求增长，Meta 等 hyperscaler 也可能压缩 reseller / neocloud 的利润空间", "加拿大数据中心、LTA 和 1450 亿美元 capex 口径仍需更强的一手验证", "Meta 供应链扩张并不自动等于 NBIS 直接受益", "IREN 这类 ATM overhang 仍可能拖累整条板块", "子公司和持股价值需要独立核实", "若这轮更新更多只是 damage control，修复线会迅速降温"],
+    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "核实 Meta 云业务方案、480 亿美元以上合同说法以及 NBIS 是否直接受益", "核实加拿大数据中心、Samsung / SNDK / Sumitomo LTAs 与 7GW / 2027 翻倍口径是否在一手资料中成立", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "量化 Avride 和 ClickHouse 持股 / 估值贡献"],
   },
   xintech: {
     theme: "TSM 测试子公司 / COUPE 供应商线索",
@@ -524,11 +525,11 @@ const zhCopy = {
   },
   "ccxi-aglt": {
     theme: "人形机器人 IPO / 仓储自动化",
-    thesis: "Serenity 目前把 Agility Robotics 视为自己最喜欢的人形机器人仓位，也是机器人组合中最大的集中持仓。除了最早 9 月通过 $CCXI 登陆 Nasdaq 的路径，她不仅把 Agility 类比为 humanoid 里的 Anthropic，还持续强调其美国本土供应链属性：约 75% 零部件来自美国、RoboFab 年产能约 1 万台、量产阶段 BOM 目标可能低于 3 万美元。7 月 4 日她把逻辑推进到劳动力替代，7 月 8 日又进一步推到中美量产竞速：若新华社所称中国今年 humanoid 产量真已指向 10 万台以上，那么 $CCXI / Agility、$TSLA、Apptronik 与 Figure 的追赶速度就会变成更直接的估值变量。",
-    whyItMatters: "Agility 可能成为首个美国上市的纯人形机器人公司，并拥有比一些更高曝光同行更清晰的企业落地叙事。现在这条线不只叠加了“美国机器人国家战略”和 BlueCrest 这类外部资金验证，还叠加了更直接的劳动经济学与产能竞赛想象：如果 Agility 既能服务美国政策偏好的本土供应链，又能帮助客户显著减少招聘和人工成本，同时承接美国对中国量产领先的追赶焦虑，它的估值逻辑就不只是机器人 beta，而会扩展到制造、仓储和国家级供应链重塑。",
-    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "BlueCrest Capital Management 披露持有 CCXI 5.6%", "约 75% 零部件来自美国的 deck 说法", "Serenity 认为量产 BOM 目标可能低于 3 万美元，而非外界只盯着约 14.5 万美元单机成本", "Serenity 进一步提出：若 humanoid 量产成本降到 1.5 万美元以下，劳动力替代会明显加速", "她引用一份泄露的 Amazon 策略，称其曾计划借助类似 CCXI / Agility 的机器人少招约 60 万名员工", "RoboFab 年产能约 1 万台、Salem / Pittsburgh / Fremont 的美国制造足迹", "多年订单与 30 多家客户 pipeline 线索", "NVIDIA、Amazon、Foxconn 和 SoftBank 生态支持", "Serenity 进一步强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表", "Serenity 以中国 humanoid 年产量或超 10 万台为锚，强化美国本土机器人 champion 的追赶叙事"],
-    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "75% 美国零部件与低于 3 万美元 BOM 的说法仍需一手 deck / filing 核实", "“劳动力大替代”更多是主题外推，不等于部署经济性和客户采用速度已经被证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "Anthropic / Figure / xAI 式类比不等于正式订单、部署和单位经济性验证", "中美量产竞速的宏大叙事并不自动等于 Agility 会拿到补贴、订单或规模优势"],
-    nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "核实 75% 美国零部件、低于 3 万美元 BOM 目标和 1 万台 RoboFab 产能", "跟踪 BOM 降本、年产能和单机毛利", "检查 Amazon、NVIDIA、Google 相关生态说法是否在一手合作材料中出现", "跟踪美国机器人政策或补贴是否明确利好本土供应链玩家", "核实新华社 10 万台 humanoid 口径及其是否引发任何会实质利好 Agility 的美国政策响应"],
+    thesis: "Serenity 仍把 Agility Robotics 视为自己最喜欢的人形机器人仓位，但这条线现在更明确地落在“美国追赶”框架里。原有的 75% 美国零部件、约 1 万台 RoboFab、低于 3 万美元 BOM 目标和 enterprise commercialization 叙事都还在；7 月 10 日的新变化，则是她把中国可能已占全球约 90% humanoid 出货、1X 最新手部演示以及 Elon 的“for now”回应串起来，视为美国 humanoid 项目进入更真实技术和量产冲刺期的信号，而她仍选择通过 $CCXI 持有 Agility。",
+    whyItMatters: "这让 Agility 的估值逻辑不只来自 SPAC 和机器人主题 beta，而是同时叠加了企业落地、本土供应链偏好与国家级追赶焦虑。若 Agility 能把这些叙事转成客户部署、产能、降本和政策支持，它会更像一条美国 humanoid champion 线索；反之，若 national-race 只是情绪放大器，订单和 economics 跟不上，波动会非常大。",
+    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "BlueCrest Capital Management 披露持有 CCXI 5.6%", "约 75% 零部件来自美国的 deck 说法", "Serenity 认为量产 BOM 目标可能低于 3 万美元，而非外界只盯着约 14.5 万美元单机成本", "RoboFab 年产能约 1 万台、Salem / Pittsburgh / Fremont 的美国制造足迹", "多年订单与 30 多家客户 pipeline 线索", "Serenity 继续强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表", "1X 最新手部演示与 Elon 的“for now”回应，为美国 humanoid 追赶叙事增加了新的技术催化", "Serenity 以中国 humanoid 年产量或占全球约 90% 为锚，强化美国本土机器人 champion 的追赶叙事"],
+    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "75% 美国零部件与低于 3 万美元 BOM 的说法仍需一手 deck / filing 核实", "“劳动力替代”与“国家追赶”更多是主题外推，不等于部署经济性和客户采用速度已经被证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "中美量产竞速的宏大叙事并不自动等于 Agility 会拿到补贴、订单或规模优势"],
+    nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "核实 75% 美国零部件、低于 3 万美元 BOM 目标和 1 万台 RoboFab 产能", "跟踪 BOM 降本、年产能和单机毛利", "检查 Amazon、NVIDIA、Google 相关生态说法是否在一手合作材料中出现", "核实中国 10 万台 / 90% humanoid 相关口径及其是否引发任何会实质利好 Agility 的美国政策响应", "检查 1X、Tesla、Agility 的技术进展是否真正改变客户或政策预期"],
   },
   "asts-rakuten": {
     theme: "日本 LEO 卫星直连网络",
