@@ -1,126 +1,106 @@
 {
-  "generatedAt": "2026-07-10T20:05:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-10 20:05 Beijing. Logged-in Chrome/X access succeeded, so both Posts and Subs were checked directly from the prior 2026-07-08T20:03:00+08:00 boundary; Replies were not scanned. Posts contained eight new main posts in the window: six actionable posts were added to the tracker, while one xAI / Grok observation and one humor-only SIVE joke were left out of latestUpdates. The Subs tab showed no new subscription posts after Jul 5. Relative to the prior boundary, the main additions were a harder Meta capex / compute-demand reset via an internal memo plus a reported $10B Canada datacenter, a photonics-defense / insider-buying cluster around $SIVE and upstream optical chokepoints, a renewed US humanoid catch-up frame around 1X, Tesla and Agility, and a Blue Origin valuation anchor for $RKLB / $ASTS. Latest updates now keep the rolling July 8 to July 10 window.",
-  "summary": "7 月 10 日 20:05 这轮刷新已直接读到登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies；其中 Subs 顶部仍停在 7 月 5 日，说明这次没有新的订阅帖。相较 7 月 8 日 20:03 边界，本轮新增 6 条可行动主帖：Meta 的加拿大 100 亿美元数据中心与内部 memo 进一步强化了 compute / capex 没有降温；$SIVE 出现 CEO 场内增持和 photonics 主线未坏的双重强化；1X 手部演示、Elon 的“for now”回应和 Serenity 对 $CCXI / Agility 的继续偏多，把美国 humanoid 追赶叙事往前又推了一步；另外还补入了 Blue Origin 新融资对 $RKLB / $ASTS 的估值锚。最新消息流现按滚动窗口保留 7 月 8 日至 7 月 10 日。",
+  "generatedAt": "2026-07-13T20:06:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-13 20:06 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-10T20:05:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced eleven new main posts and the Subs tab produced three subscriber-only posts. Eight lines were treated as actionable overall: seven now populate the rolling July 11 to July 13 latestUpdates window, while one July 10 evening humanoid OEM-pairing post was used to refresh the Agility card but aged out of the two-day latestUpdates window. The main new themes were a broad semi / AI-hardware bottleneck recap, repeated optical-sector reinforcement around no true CPO-process delay plus western laser scarcity, a subscription-only Nippon Chemical upstream-material map touching InP / MLCC / phosphine chains, and a more concrete Boston Dynamics / actuator-capacity frame for humanoid volume ramps.",
+  "summary": "7 月 13 日 20:06 这轮刷新继续直接读到登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 10 日 20:05 边界，本轮共检查 11 条主帖和 3 条订阅帖，最终沉淀出 8 条可行动线索：其中 7 条进入新的 7 月 11 日到 7 月 13 日 `latestUpdates` 窗口，另 1 条 7 月 10 日晚间的 Mitsubishi/Highlanders humanoid 车厂合作只用于刷新 $CCXI / Agility 卡、未保留在滚动消息流。主增量集中在三块：一是 Serenity 对 optical / CPO 噪音交易、Rosenblatt 修复观点和中国高功率激光器进展的连续强化；二是 Nippon Chemical 对 InP、MLCC、phosphine gas 多重上游链条的订阅深挖；三是 Boston Dynamics 供应链与 actuator capacity 作为 humanoid 放量观测指标的补充。",
   "latestUpdates": [
     {
-      "publishedAt": "2026-07-10T15:28:08+08:00",
-      "type": "Photonics selloff 修复 / $SIVE $LITE 光学主线未坏",
-      "headline": "Serenity 认为此前砸盘 photonics 的两大诱因已经被修正：Bloomberg 的 Meta compute 叙事被内部 memo 纠偏，关于 Nvidia roadmap 延迟的两篇报道也遭否认。她据此强调光学主线并未改变，包括 $LITE 未来两年几乎售罄、$SIVE 仍在沿着 GlobalFoundries / Jabil / POET / Ayar 量产路径推进、以及 $AAOI、$IQE、$AXTI 等上游瓶颈逻辑依旧成立。",
+      "publishedAt": "2026-07-13T08:45:00+08:00",
+      "type": "半导体周末总览 / $GLW $SPCX $TSM $META",
+      "headline": "Serenity 用一条超长 recap 把自己近期盯的 AI 硬件瓶颈集中串了起来：Corning 的 glass bridge 对 FAU 仍是潜在变量、Starlink Gen 3 扩到 10 万台与 PCB shortage 持续到 2028 强化了上游交换器件与 PCB 约束、TSMC 计划到 2028 年把 PIC 产能从约 500 提到 25000 wpm、Meta Iris 及 14GW 算力扩张延续了 AI 基建需求，同时 NAND/HBM、gas turbine、probe card 等多条短缺线都仍在发酵。",
       "tickers": [
-        "$SIVE",
-        "$LITE",
-        "$AAOI",
-        "$IQE",
-        "$AXTI",
-        "$TSM"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2075496116481884524",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-10T03:35:25+08:00",
-      "type": "美国 humanoid 追赶 / $CCXI $TSLA 1X 验证",
-      "headline": "Serenity 引述“China is shipping ~90% of the world's humanoid robots”与 Elon 对此的“for now”回应，并把 1X 当天展示的先进手部能力视作美国 humanoid 方案接近技术拐点的信号。她继续明确自己通过 $CCXI 持有 Agility，认为美国机器人主线正从抽象叙事转向更直接的追赶与商业化验证。",
-      "tickers": [
-        "$CCXI",
-        "$TSLA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-10T02:44:43+08:00",
-      "type": "$SIVE 管理层增持 / CEO open-market buy",
-      "headline": "Serenity 披露 $SIVE 当天出现三笔新的 insider purchases，其中最重要的是 CEO Vikram 在公开市场买入约 100 万 SEK 股票。她把这看作在 misleading CPO delay 报道、Meta compute 砸盘以及其他 insider sale 噪音之后，最直接的管理层信心表态，并继续把 GFS、JBL 和潜在 Nasdaq 上市路径当成后续放大器。",
-      "tickers": [
-        "$SIVE",
-        "$GFS",
-        "$JBL"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2075289915697553697",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-09T20:46:14+08:00",
-      "type": "Meta 内部 memo / $NBIS neocloud 二次修复",
-      "headline": "一份被公开的 Meta 内部 memo 进一步把 compute-demand reset 从“发言人口径”推进到更硬的 capex 侧：Serenity 摘出 Meta 已与 Samsung、$SNDK 签 memory LTAs，与 Sumitomo Electric 签 fiber optics LTAs，预计今年部署 7GW 算力、2027 年再翻倍，年度 capex 最高可到 1450 亿美元，并计划到 2027 年每 6 个月推出一代新芯片。",
-      "tickers": [
+        "$GLW",
+        "$SPCX",
+        "$TSM",
         "$META",
-        "$NBIS",
-        "$SNDK"
+        "$MU"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2075199849507762279",
+      "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
       "source": "Posts-logged-in-X"
     },
     {
-      "publishedAt": "2026-07-09T05:16:03+08:00",
-      "type": "Meta 加拿大新数据中心 / AI capex 延续",
-      "headline": "Serenity 转述 Meta 将在加拿大建设新的 100 亿美元数据中心，并把这视为对“Meta Compute 过度建设、准备收缩 capex”叙事的又一次直接反证。对她而言，这进一步支撑了 $NBIS 等 neocloud / overflow compute 相关线索的需求持续性。",
-      "tickers": [
-        "$META",
-        "$NBIS"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2074965761345642660",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-08T20:49:57+08:00",
-      "type": "Blue Origin 估值锚 / $RKLB $ASTS space rerating",
-      "headline": "Serenity 转述《纽约时报》称 Blue Origin 正以约 1300 亿美元估值融资 100 亿美元，并将其视作太空板块的新相对估值锚。她认为若 SpaceX 与 Blue Origin 都能获得如此高的私募估值，那么 $RKLB、$ASTS 等公开市场 space names 的估值参照也会被抬高。",
-      "tickers": [
-        "$RKLB",
-        "$ASTS"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2074838397341065516",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-08T03:49:55+08:00",
-      "type": "Hesai 审查 / 西方激光雷达与上游激光 read-through",
-      "headline": "Serenity 把 Hesai 因扩大 $NVDA 合作而面临的美国国家安全审查，当成西方激光雷达链条的潜在二阶利好：若中国主要玩家受监管限制，$OUST、$AEVA 等或可填补空缺，而为这些西方 lidar 玩家供货的上游激光厂如 $LITE、$SIVE 也可能从中受益。她同时提醒，在当下普跌环境下，这条监管逻辑能否立即反映到股价仍有不确定性。",
+      "publishedAt": "2026-07-12T19:25:10+08:00",
+      "type": "供应链噪音交易 / $NVDA $TSM 延迟叙事",
+      "headline": "Serenity 直接点名一种越来越流行的 bear-post 剧本：抓住 trillion-dollar 公司供应链里某个技术细节，夸张成项目全面延迟；若公司不回应，股价先受损，若公司回应，又因保密无法说清细节，于是发帖者靠同一套玩法反复收割曝光。对她来说，这解释了近期围绕 $NVDA、$TSM 等 AI 供应链的很多情绪噪音，也是在为光学/CPO 板块的 panic move 定性。",
       "tickers": [
         "$NVDA",
-        "$OUST",
-        "$AEVA",
-        "$LITE",
-        "$SIVE"
+        "$TSM",
+        "$SIVE",
+        "$AAOI"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2076266613675069628",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-12T19:00:31+08:00",
+      "type": "Nippon Chemical 上游材料网 / $AXTI $IQE $COHR $MU",
+      "headline": "订阅帖里，Serenity 把 Nippon Chemical 重新定义成可能同时卡住多条链路的冷门上游：NCI red phosphorus 可通向 InP substrate，再连到 $AXTI、$IQE、$TSEM、$LITE、$COHR；其高纯 barium carbonate / titanate 又对应 TDK、Murata 和 MLCC 瓶颈；phosphine gas 还可能进入 Entegris、Kioxia、$MU、SK Hynix、$TSM 等半导体流程。她一边感叹这家公司像是“世界上最重要的公司之一”，一边也提醒日本企业文化让价格和利润弹性未必会立刻兑现。",
+      "tickers": [
+        "$AXTI",
+        "$IQE",
+        "$COHR",
+        "$MU",
+        "$TSM"
       ],
       "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
-      "source": "Posts-public-feed-fallback"
+      "url": "https://x.com/aleabitoreddit/status/2076260409221456071",
+      "source": "Subs-logged-in-X"
     },
     {
-      "publishedAt": "2026-07-08T02:56:07+08:00",
-      "type": "Meta 算力需求修正 / $NBIS $CRWV neocloud 修复逻辑",
-      "headline": "在此前 Meta Compute 叙事引发 AI 基建与 neocloud 大跌后，Serenity 转述 Meta 发言人口径称，公司仍“渴求更多算力”，继续推进昂贵新数据中心，并已与 $CRWV、Google、$ORCL 等签下重大算力协议。她把这看作对“Meta 退出 AI 扩张”的公开修正，认为更像媒体框架误伤后才姗姗来迟的 demand-duration 澄清。",
-      "tickers": [
-        "$META",
-        "$NBIS",
-        "$CRWV",
-        "$ORCL"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2074568161299771394",
-      "source": "Posts-public-feed-fallback"
-    },
-    {
-      "publishedAt": "2026-07-08T01:39:23+08:00",
-      "type": "中美 humanoid 量产差距 / $CCXI $TSLA 追赶压力",
-      "headline": "Serenity 引述新华社称中国今年 humanoid 产量预计可达 10 万台以上，而 Morgan Stanley 原本对 2026 年的预期仅约 1.4 万台。她据此把这轮主题从单纯的机器人个股热度，推进到“美国是否正在输掉量产竞赛”的国家级焦虑，并点名 $TSLA、$CCXI（Agility）、Apptronik 与 Figure 需要加速追赶，同时可能需要更多美国政府补贴流向上游供应链与稀土。",
+      "publishedAt": "2026-07-12T18:12:33+08:00",
+      "type": "Boston Dynamics 供应链 / $CCXI humanoid actuator KPI",
+      "headline": "Serenity 摘要 IBK 对 Boston Dynamics Atlas 的供应链与放量模型：Hwashin、LG Energy、Hyundai Autoever、Hyundai Mobis 被映射进机身、电池、集成和执行器；2030 前 Atlas 产量被线性外推，但她更认同更陡的 S-curve。更重要的是，她把“actuator capacity 每增加 31 万个约支撑 1 万台机器人”视作更实用的放量监控指标，并把 Boston Dynamics、$CCXI / Agility、Figure、Apptronik、1X 与中国玩家重新放进同一个量产竞速框架。",
       "tickers": [
         "$CCXI",
-        "$TSLA"
+        "$TSLA",
+        "$JBL"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-11T02:17:00+08:00",
+      "type": "$AAOI $SIVE 光链修复 / VCSEL bridge vs UHP CW",
+      "headline": "围绕 $AMZN RNG、OpenAI MRC 与 B. Riley 对 $AAOI 的看空报告，Serenity 转述 Rosenblatt 的核心反驳：即便每个 XPU 使用的 transceivers 下降，只要 XPU 数量增长得更快，总光学需求仍会上升。她同时把 VCSEL 定位为 NPO/短距阶段的过渡方案，而把 ultra-high-power CW 激光继续视为长期 CPO 的理想架构，并明确说这进一步支撑了自己的 $SIVE thesis。",
+      "tickers": [
+        "$AAOI",
+        "$SIVE",
+        "$AMZN",
+        "$AVGO"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
-      "source": "Posts-public-feed-fallback"
+      "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-11T01:31:00+08:00",
+      "type": "光学板块错杀 / $AAOI $LITE $SIVE 短空逻辑",
+      "headline": "Serenity 引用 Rosenblatt 对近期 optical weakness 的看法，认为 $AAOI 到 $LITE 的板块压力主要来自 CPO delay 报告与中国供给恐慌，而不是 thesis 真被打穿。更有意思的是，Rosenblatt 说一些 short sellers 自己都向其表示，可能会在 7 月底到 8 月初平仓，并计划在 2027 年 CPO scale-up 前重新买回相关股票。她据此把这轮下跌理解为“机构想等更好的入场点”，而不是长期逻辑反转。",
+      "tickers": [
+        "$AAOI",
+        "$LITE",
+        "$SIVE",
+        "$COHR"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-11T01:20:11+08:00",
+      "type": "中国激光器供给未成气候 / $LITE $AAOI $COHR $SIVE",
+      "headline": "订阅帖里，Serenity 引用 channel check 称中国厂商“尚未做出可工作的 200G EML”，且在 NPO/CPO 所需 high-power CW 上仍相当落后。她据此认为 $LITE、$AAOI、$COHR、$MTSI、Sumitomo、Furukawa、$SIVE 一类西方或非中国激光链玩家的稀缺性仍被低估；同时她把近期所谓 CPO delay 重新定性为“volume ramp 可能拉长”，而不是流程本身被推翻。",
+      "tickers": [
+        "$LITE",
+        "$AAOI",
+        "$COHR",
+        "$SIVE"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2075631179018166699",
+      "source": "Subs-logged-in-X"
     }
   ],
   "ideas": [
@@ -130,8 +110,8 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity now frames SIVE as a stress-tested photonics chokepoint rather than only a scarcity story. The July 1 financing and NASDAQ-listing path already moved the thesis toward funded scale-up, but the July 10 sequence added two sharper proof points: first, three insider purchases including a 1,000,000 SEK open-market buy by CEO Vikram right after the CPO-delay / Meta-compute panic; second, a broader post arguing that the photonics roadmap itself remains intact, from $LITE staying sold out into 2029 to SIVE's expected ramps with GlobalFoundries, Jabil, POET and Ayar. In her framing, the selloff damaged price but not the supply-chain map.",
-      "whyItMatters": "This changes SIVE from a speculative financing-and-listing rerating into a cleaner management-confidence plus demand-duration setup. If insider buying really marks management conviction while optical bottlenecks, GFS reference status and customer ramps keep progressing, SIVE has a better shot at turning social-media conviction into institutional rerating. If the insider signal proves cosmetic or the customer map remains mostly OSINT, the stock can still stay hostage to timing, dilution and credibility swings.",
+      "thesis": "Serenity now frames SIVE as a stress-tested photonics chokepoint with both management and external-channel reinforcement behind it. The July 10 insider-buy / roadmap-defense sequence established the base, but the July 11-12 run hardened the idea further: Rosenblatt argued optical demand can still rise even if transceivers per XPU fall, called ultra-high-power CW the ideal long-run CPO laser architecture, and treated the recent selloff as more about CPO-delay / China-capacity fear than broken fundamentals; a subscription-only channel check then said China still lacks working 200G EMLs and remains far from high-power CW readiness for NPO/CPO. By July 12, Serenity was explicitly attacking the incentive structure behind sensational supply-chain bear posts, reinforcing her view that the thesis remains intact while sentiment gets gamed.",
+      "whyItMatters": "This broadens SIVE from a one-off insider-confidence rerating into a more durable scarcity-and-architecture thesis. If western CW laser capacity really remains scarce while analysts and channel checks both converge on no true CPO-process delay, SIVE has a clearer path from social-media conviction toward institutional re-entry. If those checks are overstated, if VCSEL bridges or Chinese alternatives narrow the gap faster than expected, or if volume timing keeps stretching, the stock can still stay volatile and narrative-driven.",
       "catalysts": [
         "Three new insider purchases on July 10, including CEO Vikram's 1,000,000 SEK open-market buy",
         "Upsized SEK 700M institutional financing completed at 57 SEK and described as multiple times oversubscribed",
@@ -141,6 +121,10 @@
         "Sivers + GlobalFoundries strategic collaboration and reference-laser positioning",
         "Serenity still maps SIVE into Ayar, Nvidia-adjacent and broader hyperscaler optical ecosystems",
         "CW laser shortage signal from LITE earnings and constrained Sumitomo/Furukawa / Win Semi capacity",
+        "Rosenblatt says total optical demand can still rise despite lower transceiver count per XPU because XPU volume is growing so quickly",
+        "Rosenblatt frames VCSELs as a bridge for NPO / short reach but still treats ultra-high-power CW as the ideal long-run CPO architecture",
+        "A subscription-only channel check says China still lacks working 200G EMLs and remains far from high-power CW readiness for NPO / CPO",
+        "Serenity says recent bear-post incentive structures around NVDA / TSM supply-chain details are damaging sentiment without disproving the photonics thesis",
         "$8.2M ALL.SPACE production order for Ka-band beamforming ICs used in LEO and multi-orbit satellite communications",
         "JP Morgan, BlackRock and Fidelity-style ownership validation remain part of Serenity's institutional-accumulation framing",
         "Serenity reiterates that AAOI and SIVE are her favorite laser companies because lasers can expand into modules, engines and ELS components",
@@ -153,6 +137,9 @@
         "Key supplier claims for Ayar, Marvell Celestial, Lightmatter, JBL and other customers remain inference-heavy unless confirmed by filings or customer disclosures",
         "The July 10 photonics-defense post is still Serenity's synthesis and not a substitute for company-specific orders or margin evidence",
         "CW laser scarcity can support the thesis but also raises execution pressure around capacity allocation and delivery timing",
+        "Bear-post and rumor-driven volatility can overwhelm fundamentals for long stretches because companies cannot fully rebut confidential supply-chain claims",
+        "VCSEL bridge adoption or faster-than-expected Chinese laser catch-up could narrow the scarcity premium for western CW suppliers",
+        "Timing to meaningful volume, rather than process viability, may still stretch and delay revenue recognition",
         "Institutional-ownership framing must be separated between passive index inclusion and active conviction buying",
         "Large prior price appreciation keeps crowding and volatility risk high",
         "European-market skepticism and focus on recent fundamentals can still delay rerating even if the AI-buildout thesis is directionally right",
@@ -164,13 +151,36 @@
         "Track formal NASDAQ-listing milestones, advisors and company disclosures over the next few quarters",
         "Verify exact GFS reference-design language and whether it implies customer revenue rather than only ecosystem placement",
         "Confirm whether Jabil 1.6T LRO architecture publicly identifies SIVE or only implies it",
+        "Read the Rosenblatt note on AAOI / AMZN RNG / MRC / VCSELs and separate modeled optical-demand assumptions from Serenity's synthesis",
+        "Verify the China-laser channel-check claim around 200G EML and high-power CW readiness through industry sources or supplier disclosures",
+        "Track whether the newer CPO 'timing stretch' shows up in customer capex or production guidance without becoming a true process delay",
         "Verify whether SIVE is explicitly named as Ayar laser supplier in filings, presentations or customer material",
         "Track whether SIVE discloses optical-module, optical-engine or ELS component revenue beyond laser supply",
         "Compare SIVE valuation and customer evidence against AAOI, LITE and AXTI at comparable early optical-cycle stages",
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings"
       ],
-      "lastUpdated": "2026-07-10 15:28",
+      "lastUpdated": "2026-07-12 19:25",
       "evidence": [
+        {
+          "date": "2026-07-12 19:25",
+          "quote": "Serenity said a growing bear-post playbook around NVDA and TSM supply-chain details is damaging sentiment without actually disproving the underlying photonics thesis.",
+          "url": "https://x.com/aleabitoreddit/status/2076266613675069628"
+        },
+        {
+          "date": "2026-07-11 02:17",
+          "quote": "Serenity cited Rosenblatt saying total optical demand can still rise as XPU counts scale, while VCSELs are only a bridge and ultra-high-power CW remains the ideal CPO architecture.",
+          "url": "https://x.com/aleabitoreddit/status/2075645547978084371"
+        },
+        {
+          "date": "2026-07-11 01:31",
+          "quote": "Serenity said Rosenblatt viewed the recent optical selloff as driven by CPO-delay and China-capacity fears, with some short sellers already planning to cover and revisit the group for 2027 scale-up.",
+          "url": "https://x.com/aleabitoreddit/status/2075634064518955297"
+        },
+        {
+          "date": "2026-07-11 01:20",
+          "quote": "Serenity's subscription-only channel check said China still lacks working 200G EMLs and remains far from high-power CW readiness for NPO and CPO applications.",
+          "url": "https://x.com/aleabitoreddit/status/2075631179018166699"
+        },
         {
           "date": "2026-07-10 15:28",
           "quote": "Serenity said the photonics roadmap had not fundamentally changed after the selloff, citing LITE sold out into 2029 plus SIVE's expected ramps with GFS, Jabil, POET and Ayar.",
@@ -2703,8 +2713,8 @@
       "name": "Agility Robotics",
       "tier": "speculative",
       "theme": "Humanoid robotics IPO / warehouse automation",
-      "thesis": "Serenity still treats Agility Robotics as her favorite humanoid position, but the framing has become more explicit about a US catch-up race. The older made-in-USA, 75%-domestic-parts, 10,000-unit RoboFab and sub-$30K BOM angles remain, yet the July 10 post added a more concrete technological inflection layer: after citing that China may already ship around 90% of global humanoids, she pointed to 1X's advanced hand demo and Elon Musk's 'for now' reply as signs that US humanoid programs may be nearing a real capability and mass-production push. Within that basket, she remains personally long Agility through $CCXI.",
-      "whyItMatters": "Agility could still become one of the first public US humanoid pure plays, but the thesis now spans three layers at once: enterprise commercialization, domestic supply-chain preference and national urgency. If Agility can convert those narratives into customer deployments, BOM reduction and factory throughput while the US policy mood shifts toward catching China, valuation support broadens beyond SPAC speculation. If the national-race framing stays rhetorical and 1X / Tesla style capability progress does not convert into orders or economics for Agility, the stock remains a high-beta story asset.",
+      "thesis": "Serenity still treats Agility Robotics as her favorite humanoid position, but the US catch-up thesis is starting to pick up cleaner industrial mapping signals. The earlier made-in-USA, 75%-domestic-parts, 10,000-unit RoboFab and sub-$30K BOM angles remain, and the July 10 morning post already added the 1X / Elon / China-urgency layer; after that, a July 10 evening post added another auto-OEM pairing via Highlanders x Mitsubishi, and the July 12 IBK Boston Dynamics summary pointed to actuator capacity as a cleaner KPI for whether volume ramps are real. Within that broader basket of OEM-linked humanoid manufacturing, Serenity still prefers Agility through $CCXI / $AGLT as her US enterprise-commercialization expression.",
+      "whyItMatters": "This gives Agility more than SPAC and national-champion rhetoric. If the sector is indeed converging toward auto-linked manufacturing partnerships and actuator output becomes the real bottleneck metric, investors get a more concrete way to track whether US humanoid programs are progressing or just storytelling. If these supplier maps stay OSINT-heavy and Agility fails to convert the broader industry push into its own orders, throughput and economics, the stock remains a volatile proxy rather than a proven winner.",
       "catalysts": [
         "Expected CCXI to AGLT ticker transition after the proposed transaction",
         "BlueCrest Capital Management disclosed a 5.6% stake in CCXI",
@@ -2715,7 +2725,10 @@
         "Serenity still frames Agility as the enterprise-commercialization leader relative to other US humanoid contenders",
         "1X's latest hand demo and Elon's 'for now' remark add a fresher technology-and-speed catalyst to the US catch-up narrative",
         "Serenity cites a reported 100,000-plus China humanoid output expectation for 2026 as evidence the US may need to accelerate domestic robotics champions such as Agility",
-        "US robotics policy, rare-earth sourcing and domestic-component subsidies could make Agility's supply-chain positioning more valuable"
+        "US robotics policy, rare-earth sourcing and domestic-component subsidies could make Agility's supply-chain positioning more valuable",
+        "Mitsubishi x Highlanders adds another auto-and-humanoid pairing alongside Agility / Foxconn / Toyota, Apptronik / Mercedes and Figure / BMW",
+        "IBK maps Hwashin, LG Energy, Hyundai Autoever and Hyundai Mobis into Boston Dynamics Atlas and treats actuator capacity as the cleanest signpost for 2028-2030 volume ramps",
+        "Institutional valuation work on Hyundai Mobis / Autoever / Glovis suggests humanoid segments are getting more explicit sum-of-the-parts attention"
       ],
       "risks": [
         "SPAC transaction can be delayed, repriced or cancelled",
@@ -2725,7 +2738,10 @@
         "Order pipeline must convert into deliveries, revenue and sustainable margins",
         "Pro forma valuation and dilution require primary filing review",
         "Narrative analogies to Anthropic, Figure or xAI do not substitute for disclosed orders, unit economics or deployment data",
-        "A US-vs-China production-race framing does not by itself prove Agility will win subsidies, customers or manufacturing scale"
+        "A US-vs-China production-race framing does not by itself prove Agility will win subsidies, customers or manufacturing scale",
+        "Auto / OEM partnership patterns across the sector do not automatically mean Agility captures the best customers, supplier terms or capacity",
+        "IBK supplier maps and linear Boston Dynamics volume assumptions may be incomplete or wrong",
+        "Actuator bottlenecks can help the sector narrative while still exposing how early actual scale economics remain"
       ],
       "stance": "高波动观察",
       "nextChecks": [
@@ -2736,10 +2752,23 @@
         "Check whether Amazon, NVIDIA or Google ecosystem claims appear in primary partner materials or filings",
         "Verify the cited China 100,000-plus humanoid output figure and the newer '90% of global humanoids' framing",
         "Track whether US robotics policy or sourcing incentives explicitly benefit domestic-supply-chain players like Agility",
-        "Check whether 1X, Tesla and Agility capability milestones actually change customer procurement, partner interest or policy support"
+        "Check whether 1X, Tesla and Agility capability milestones actually change customer procurement, partner interest or policy support",
+        "Track whether Agility discloses comparable actuator counts, supplier stacks or manufacturing bottlenecks",
+        "Compare Agility's ramp assumptions with Boston Dynamics, Figure, Apptronik and 1X rather than only with narrative peers",
+        "Verify whether auto-manufacturer tie-ups lead to capital, procurement or production advantages for Agility specifically"
       ],
-      "lastUpdated": "2026-07-10 03:35",
+      "lastUpdated": "2026-07-12 18:12",
       "evidence": [
+        {
+          "date": "2026-07-12 18:12",
+          "quote": "Serenity summarized an IBK Boston Dynamics report, highlighted Atlas supplier mapping and said actuator capacity may be the cleanest signal for real humanoid volume ramps.",
+          "url": "https://x.com/aleabitoreddit/status/2076248337863639506"
+        },
+        {
+          "date": "2026-07-10 20:27",
+          "quote": "Serenity said Mitsubishi joining Highlanders reinforced a pattern of major auto groups increasingly pairing with humanoid companies, while she still grouped Agility with Foxconn and Toyota.",
+          "url": "https://x.com/aleabitoreddit/status/2075557588159058076"
+        },
         {
           "date": "2026-07-10 03:35",
           "quote": "Serenity cited 'China is shipping ~90% of the world's humanoid robots,' pointed to 1X's latest hand demo and Elon's 'for now' comment, and said she remains long Agility through CCXI.",

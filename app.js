@@ -8,13 +8,17 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 现在把 SIVE 看成已经扛过一轮 panic test 的 photonics chokepoint，而不只是融资故事。7 月 1 日的 7 亿 SEK 超额认购融资和 Nasdaq 路径，先把它推向“有资金扩产 + 有美国上市预期”；7 月 10 日又叠加了三笔 insider buys、其中 CEO Vikram 场内买入约 100 万 SEK，以及她对整个 photonics roadmap 未坏的再确认。",
-    whyItMatters: "这让 SIVE 从“缺资产”进一步变成“管理层也在 drawdown 里加仓、主题逻辑也没坏”的双重验证。若 GFS / JBL / Ayar 等映射真能往收入走，SIVE 的 rerating 会更像 company evidence；反之，若这些仍主要停留在社媒推演层面，波动和稀释风险不会消失。",
+    thesis: "Serenity 现在把 SIVE 看成已经扛过一轮 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint。7 月 10 日的 insider buy 与“roadmap 未坏”先打底；接着 7 月 11 日到 12 日，Rosenblatt 又把近期 optical selloff 定性为更多来自 CPO delay / China capacity 恐慌，而不是 fundamentals 真被打穿，并继续把 ultra-high-power CW 视作长期 CPO 的理想架构；订阅读到的 channel check 也说中国在 200G EML 与 high-power CW 上仍明显落后。到 7 月 12 日，Serenity 甚至直接点名这种靠供应链细节制造恐慌的 bear-post 激励结构，说明她认为 thesis 还在、只是情绪被来回博弈。",
+    whyItMatters: "这让 SIVE 不再只是“CEO 抄底 + 融资完成”的一段式 rerating，而更像 scarcity + architecture 被反复验证的组合。若西方 CW 激光器产能确实仍稀缺，且 analyst / channel checks 都指向“没有真正的 CPO process delay”，那么 SIVE 更有机会从社媒高信念票走向机构重新建仓；反过来，若 VCSEL 过渡路径、国产替代或量产节奏变化快于预期，波动依然会很大。",
     catalysts: [
       "7 月 10 日出现三笔 insider buys，其中 CEO 场内买入约 100 万 SEK",
       "完成 7 亿 SEK、57 SEK 定价且超额多倍认购的机构融资",
       "未来数个季度内完成 Nasdaq 上市流程的正式时间线",
       "Serenity 强调 photonics 主线未坏，LITE 仍接近未来两年售罄，SIVE 仍沿 GFS / JBL / POET / Ayar 路径推进",
+      "Rosenblatt 认为即便单颗 XPU 所需 transceiver 数下降，只要 XPU 数量增长更快，总光学需求仍会上升",
+      "Rosenblatt 把 VCSEL 视作 NPO / 短距阶段的 bridge，但仍把 ultra-high-power CW 视作长期 CPO 理想架构",
+      "订阅 channel check 称中国仍缺少可工作的 200G EML，并离 NPO / CPO 所需 high-power CW 仍有距离",
+      "Serenity 认为近期围绕 NVDA / TSM 供应链的延迟噪音，更多是在打 sentiment，而不是在证伪 photonics 主线",
       "GFS reference laser、JBL 量产 read-through 与 Ayar / Nvidia 生态映射仍是放大器",
       "她继续把 AAOI 与 SIVE 列为最喜欢的激光公司，认为收入空间可从激光器扩展到模块、引擎和 ELS",
       "photonics 主题仍被视作极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始"
@@ -23,6 +27,9 @@ const zhCopy = {
       "融资虽然超额认购，但仍有稀释，且必须转成真实激光器/放大器产能与收入",
       "CEO/管理层买入能改善信号，但并不自动等于客户放量和 2027 收入兑现",
       "Nasdaq 时间线仍需正式 milestones、filings 和交易所步骤确认",
+      "围绕供应链的 bear-post / rumor 交易能在很长时间内压过 fundamentals，因为公司往往无法公开反驳保密细节",
+      "若 VCSEL 过渡路径或中国激光器追赶速度快于预期，西方 CW scarcity premium 可能被压缩",
+      "更现实的风险可能不是 process 被推翻，而是 volume ramp 一再后移、导致收入确认继续延后",
       "GFS / JBL / Ayar / Lightmatter 等客户映射大多仍需一手资料确认",
       "2027 ramp 时间线意味着市场预期可能领先收入几个季度",
       "光学主线即便方向没坏，SIVE 仍很容易受宏观、流动性和短线情绪冲击",
@@ -31,6 +38,9 @@ const zhCopy = {
     nextChecks: [
       "阅读 7 月 10 日 insider filing，确认 CEO 与另外两笔增持的金额、价格和持股变化",
       "跟踪 Nasdaq 上市的正式时间点、顾问和公司披露",
+      "阅读 Rosenblatt 关于 AAOI / AMZN RNG / MRC / VCSEL 的原始材料，拆开 sell-side 模型和 Serenity 的再演绎",
+      "核实中国激光器在 200G EML 与 high-power CW 上的 channel-check 说法，尽量找产业或供应商一手旁证",
+      "跟踪所谓 CPO timing stretch 是否真的体现在客户 capex、产能或 production guidance 中，而不是变成 process delay",
       "核实 GFS reference design、JBL read-through 与 Ayar 供应关系是否在一手资料中被直接点名",
       "跟踪 SIVE 是否披露光模块、光引擎或 ELS 组件收入",
       "核实 2027 H1/H2 ramp 是否被客户项目、产能指引或 filings 支持"
@@ -525,11 +535,12 @@ const zhCopy = {
   },
   "ccxi-aglt": {
     theme: "人形机器人 IPO / 仓储自动化",
-    thesis: "Serenity 仍把 Agility Robotics 视为自己最喜欢的人形机器人仓位，但这条线现在更明确地落在“美国追赶”框架里。原有的 75% 美国零部件、约 1 万台 RoboFab、低于 3 万美元 BOM 目标和 enterprise commercialization 叙事都还在；7 月 10 日的新变化，则是她把中国可能已占全球约 90% humanoid 出货、1X 最新手部演示以及 Elon 的“for now”回应串起来，视为美国 humanoid 项目进入更真实技术和量产冲刺期的信号，而她仍选择通过 $CCXI 持有 Agility。",
-    whyItMatters: "这让 Agility 的估值逻辑不只来自 SPAC 和机器人主题 beta，而是同时叠加了企业落地、本土供应链偏好与国家级追赶焦虑。若 Agility 能把这些叙事转成客户部署、产能、降本和政策支持，它会更像一条美国 humanoid champion 线索；反之，若 national-race 只是情绪放大器，订单和 economics 跟不上，波动会非常大。",
+    thesis: "Serenity 仍把 Agility Robotics 视为自己最喜欢的人形机器人仓位，但“美国追赶”这条线现在开始出现更具体的产业映射。原有的 75% 美国零部件、约 1 万台 RoboFab、低于 3 万美元 BOM 目标和 enterprise commercialization 逻辑都还在；7 月 10 日早上她先用中国 humanoid 量产占优、1X 最新手部演示和 Elon 的“for now”回应强化紧迫感；到 7 月 10 日晚间，她又把 Highlanders x Mitsubishi 加入 auto/humanoid pairing 清单；7 月 12 日对 Boston Dynamics 的 IBK 摘要，则把 actuator capacity 提升为判断 2028-2030 放量是否真实的更硬指标。在这整条 OEM 绑定与量产竞速框架里，她仍通过 $CCXI / $AGLT 表达 Agility。",
+    whyItMatters: "这让 Agility 不再只靠 SPAC 和 national champion 情绪支撑。若行业真的越来越依赖车厂/制造业伙伴、并且 actuator output 成为最关键的放量瓶颈指标，投资者就有了比口号更具体的跟踪抓手；反过来，若这些 supplier map 仍主要停留在 OSINT，且 Agility 没把产业热度转成自己的订单、throughput 和 economics，它仍只是高波动代理票。",
     catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "BlueCrest Capital Management 披露持有 CCXI 5.6%", "约 75% 零部件来自美国的 deck 说法", "Serenity 认为量产 BOM 目标可能低于 3 万美元，而非外界只盯着约 14.5 万美元单机成本", "RoboFab 年产能约 1 万台、Salem / Pittsburgh / Fremont 的美国制造足迹", "多年订单与 30 多家客户 pipeline 线索", "Serenity 继续强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表", "1X 最新手部演示与 Elon 的“for now”回应，为美国 humanoid 追赶叙事增加了新的技术催化", "Serenity 以中国 humanoid 年产量或占全球约 90% 为锚，强化美国本土机器人 champion 的追赶叙事"],
-    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "75% 美国零部件与低于 3 万美元 BOM 的说法仍需一手 deck / filing 核实", "“劳动力替代”与“国家追赶”更多是主题外推，不等于部署经济性和客户采用速度已经被证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "中美量产竞速的宏大叙事并不自动等于 Agility 会拿到补贴、订单或规模优势"],
-    nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "核实 75% 美国零部件、低于 3 万美元 BOM 目标和 1 万台 RoboFab 产能", "跟踪 BOM 降本、年产能和单机毛利", "检查 Amazon、NVIDIA、Google 相关生态说法是否在一手合作材料中出现", "核实中国 10 万台 / 90% humanoid 相关口径及其是否引发任何会实质利好 Agility 的美国政策响应", "检查 1X、Tesla、Agility 的技术进展是否真正改变客户或政策预期"],
+    catalysts: ["拟议交易后预计由 CCXI 变更为 AGLT", "BlueCrest Capital Management 披露持有 CCXI 5.6%", "约 75% 零部件来自美国的 deck 说法", "Serenity 认为量产 BOM 目标可能低于 3 万美元，而非外界只盯着约 14.5 万美元单机成本", "RoboFab 年产能约 1 万台、Salem / Pittsburgh / Fremont 的美国制造足迹", "多年订单与 30 多家客户 pipeline 线索", "Serenity 继续强调 Agility 是美国 humanoid 中偏 enterprise commercialization 的代表", "1X 最新手部演示与 Elon 的“for now”回应，为美国 humanoid 追赶叙事增加了新的技术催化", "Serenity 以中国 humanoid 年产量或占全球约 90% 为锚，强化美国本土机器人 champion 的追赶叙事", "Mitsubishi x Highlanders 让 auto/humanoid pairing 清单再扩一层，和 Agility / Foxconn / Toyota、Apptronik / Mercedes、Figure / BMW 并列出现", "IBK 对 Boston Dynamics 的 supplier map 和 actuator-capacity 观察，为 2028-2030 放量增加了更可量化的跟踪指标"],
+    risks: ["SPAC 交易可能延期、重定价或取消", "当前 BOM 较高，降本目标尚未证明", "75% 美国零部件与低于 3 万美元 BOM 的说法仍需一手 deck / filing 核实", "“劳动力替代”与“国家追赶”更多是主题外推，不等于部署经济性和客户采用速度已经被证明", "订单 pipeline 必须转化为交付、收入和可持续毛利", "估值与稀释需要以正式文件核实", "中美量产竞速的宏大叙事并不自动等于 Agility 会拿到补贴、订单或规模优势", "行业里越来越多 auto/OEM pairing，并不自动代表 Agility 会拿到最好的订单、供应商条款或资本支持", "IBK 的 supplier map 和线性放量假设仍可能有误，actuator bottleneck 也可能暴露行业离规模经济还很远"],
+    nextChecks: ["阅读合并文件、锁定期、稀释与时间表", "核实订单金额、客户承诺与收入确认", "核实 75% 美国零部件、低于 3 万美元 BOM 目标和 1 万台 RoboFab 产能", "跟踪 BOM 降本、年产能和单机毛利", "检查 Amazon、NVIDIA、Google 相关生态说法是否在一手合作材料中出现", "核实中国 10 万台 / 90% humanoid 相关口径及其是否引发任何会实质利好 Agility 的美国政策响应", "检查 1X、Tesla、Agility 的技术进展是否真正改变客户或政策预期", "跟踪 Agility 是否披露可对标 Boston Dynamics 的 actuator 数量、supplier stack 或制造 bottleneck", "比较 Agility 与 Boston Dynamics、Figure、Apptronik、1X 的放量假设，避免只看 narrative peers", "核实 auto-manufacturer tie-ups 是否真的给 Agility 带来 procurement、capital 或 production 优势"],
   },
   "asts-rakuten": {
     theme: "日本 LEO 卫星直连网络",
