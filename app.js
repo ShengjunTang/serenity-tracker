@@ -8,8 +8,8 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 现在把 SIVE 看成已经扛过一轮 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint。7 月 10 日的 insider buy 与“roadmap 未坏”先打底；接着 7 月 11 日到 12 日，Rosenblatt 又把近期 optical selloff 定性为更多来自 CPO delay / China capacity 恐慌，而不是 fundamentals 真被打穿，并继续把 ultra-high-power CW 视作长期 CPO 的理想架构；订阅读到的 channel check 也说中国在 200G EML 与 high-power CW 上仍明显落后。到 7 月 12 日，Serenity 甚至直接点名这种靠供应链细节制造恐慌的 bear-post 激励结构，说明她认为 thesis 还在、只是情绪被来回博弈。",
-    whyItMatters: "这让 SIVE 不再只是“CEO 抄底 + 融资完成”的一段式 rerating，而更像 scarcity + architecture 被反复验证的组合。若西方 CW 激光器产能确实仍稀缺，且 analyst / channel checks 都指向“没有真正的 CPO process delay”，那么 SIVE 更有机会从社媒高信念票走向机构重新建仓；反过来，若 VCSEL 过渡路径、国产替代或量产节奏变化快于预期，波动依然会很大。",
+    thesis: "Serenity 现在把 SIVE 看成已经扛过一轮 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint。7 月 10 日的 insider buy 与“roadmap 未坏”先打底；接着 7 月 11 日到 12 日，Rosenblatt 又把近期 optical selloff 定性为更多来自 CPO delay / China capacity 恐慌，而不是 fundamentals 真被打穿，并继续把 ultra-high-power CW 视作长期 CPO 的理想架构；订阅读到的 channel check 也说中国在 200G EML 与 high-power CW 上仍明显落后。到 7 月 12 日，Serenity 甚至直接点名这种靠供应链细节制造恐慌的 bear-post 激励结构，说明她认为 thesis 还在、只是情绪被来回博弈。7 月 14 日又多了三层验证：Morgan Stanley 明确把 SIVE 放进西方关键 CPO 激光器名单，Innolight 说 800G 需求比预期更强且 silicon photonics 占比继续抬升，Jensen 也公开反驳了 Nvidia optical timing 被推迟的说法。",
+    whyItMatters: "这让 SIVE 不再只是“CEO 抄底 + 融资完成”的一段式 rerating，而更像 scarcity + architecture 被反复验证的组合。若西方 CW 激光器产能确实仍稀缺，且 analyst / channel checks 都指向“没有真正的 CPO process delay”，那么 SIVE 更有机会从社媒高信念票走向机构重新建仓；最新一批 sell-side、下游需求和 timing 信号，也让这条主线更难被简单归类成社媒叙事。反过来，若 VCSEL 过渡路径、国产替代或量产节奏变化快于预期，波动依然会很大。",
     catalysts: [
       "7 月 10 日出现三笔 insider buys，其中 CEO 场内买入约 100 万 SEK",
       "完成 7 亿 SEK、57 SEK 定价且超额多倍认购的机构融资",
@@ -19,6 +19,9 @@ const zhCopy = {
       "Rosenblatt 把 VCSEL 视作 NPO / 短距阶段的 bridge，但仍把 ultra-high-power CW 视作长期 CPO 理想架构",
       "订阅 channel check 称中国仍缺少可工作的 200G EML，并离 NPO / CPO 所需 high-power CW 仍有距离",
       "Serenity 认为近期围绕 NVDA / TSM 供应链的延迟噪音，更多是在打 sentiment，而不是在证伪 photonics 主线",
+      "Morgan Stanley 明确把 SIVE 与 Coherent、Lumentum 并列为西方关键 CPO 激光器供应方",
+      "Innolight IR 说 800G 需求更强、尾部更长，且 silicon photonics 占比继续上升",
+      "Jensen 表示 Nvidia 的 800V 与 rack-to-rack optical interconnect 时序没有实质延迟",
       "GFS reference laser、JBL 量产 read-through 与 Ayar / Nvidia 生态映射仍是放大器",
       "她继续把 AAOI 与 SIVE 列为最喜欢的激光公司，认为收入空间可从激光器扩展到模块、引擎和 ELS",
       "photonics 主题仍被视作极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始"
@@ -33,7 +36,8 @@ const zhCopy = {
       "GFS / JBL / Ayar / Lightmatter 等客户映射大多仍需一手资料确认",
       "2027 ramp 时间线意味着市场预期可能领先收入几个季度",
       "光学主线即便方向没坏，SIVE 仍很容易受宏观、流动性和短线情绪冲击",
-      "仍需要看到 SIVE 具体订单、模块 / 光引擎收入或 margin 证据"
+      "仍需要看到 SIVE 具体订单、模块 / 光引擎收入或 margin 证据",
+      "7 月 14 日这些验证更多仍是 read-through，而不是 SIVE 自己披露的新订单"
     ],
     nextChecks: [
       "阅读 7 月 10 日 insider filing，确认 CEO 与另外两笔增持的金额、价格和持股变化",
@@ -43,7 +47,8 @@ const zhCopy = {
       "跟踪所谓 CPO timing stretch 是否真的体现在客户 capex、产能或 production guidance 中，而不是变成 process delay",
       "核实 GFS reference design、JBL read-through 与 Ayar 供应关系是否在一手资料中被直接点名",
       "跟踪 SIVE 是否披露光模块、光引擎或 ELS 组件收入",
-      "核实 2027 H1/H2 ramp 是否被客户项目、产能指引或 filings 支持"
+      "核实 2027 H1/H2 ramp 是否被客户项目、产能指引或 filings 支持",
+      "把 Morgan Stanley CPO note 和 Innolight IR 原文拆开，区分生态验证与直接收入证据"
     ]
   },
   foci: {
@@ -111,11 +116,11 @@ const zhCopy = {
   },
   nbis: {
     theme: "Neocloud / AI 基础设施融资结构",
-    thesis: "Serenity 现在把 NBIS 放在一轮更硬的 Meta capex reset 之下，而不再只是发言人口径修复。7 月 8 日她先引用 Meta 发言人说公司仍渴求更多算力；随后又补上加拿大 100 亿美元数据中心，以及一份内部 memo 所列的 Samsung / SNDK memory LTAs、Sumitomo fiber LTAs、今年约 7GW 算力部署和 2027 再翻倍等信息。对她来说，这让 NBIS 更像 Meta overflow compute 没有消失时的 cleaner neocloud read-through。",
-    whyItMatters: "NBIS 不再只是“资本结构比同行好”的对照组，而是被放进一个更扎实的 hyperscaler demand-duration 框架里。若 Meta 真的同时锁 memory、fiber、datacenter 和 chip cadence，融资结构更干净的 neocloud 玩家理论上更值得重估；反之，若这些更新最后证明只是 PR / 媒体口径而非直接需求传导，NBIS 仍会退回到高 beta 情绪资产。",
-    catalysts: ["Meta 发言人称仍在推进昂贵数据中心并已与 $CRWV、Google、$ORCL 等签下重大算力协议", "Serenity 转述的内部 memo 增加了 Samsung、$SNDK 和 Sumitomo Electric LTAs，以及今年约 7GW 算力部署与 2027 再翻倍口径", "Meta 加拿大 100 亿美元数据中心进一步反驳了 capex 收缩叙事", "Meta 拟建立云业务、出售 excess AI compute，为 AI capacity intermediation 提供新叙事", "Serenity 认为 Meta 已签下 480 亿美元以上 neocloud 合同，说明 overflow demand 仍在", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
-    risks: ["Neocloud 标的对融资条件和 AI capex 情绪依旧高度敏感", "即便总需求增长，Meta 等 hyperscaler 也可能压缩 reseller / neocloud 的利润空间", "加拿大数据中心、LTA 和 1450 亿美元 capex 口径仍需更强的一手验证", "Meta 供应链扩张并不自动等于 NBIS 直接受益", "IREN 这类 ATM overhang 仍可能拖累整条板块", "子公司和持股价值需要独立核实", "若这轮更新更多只是 damage control，修复线会迅速降温"],
-    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "核实 Meta 云业务方案、480 亿美元以上合同说法以及 NBIS 是否直接受益", "核实加拿大数据中心、Samsung / SNDK / Sumitomo LTAs 与 7GW / 2027 翻倍口径是否在一手资料中成立", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "量化 Avride 和 ClickHouse 持股 / 估值贡献"],
+    thesis: "Serenity 现在把 NBIS 放在一轮更硬的 Meta capex reset 之下，而不再只是发言人口径修复。7 月 8 日她先引用 Meta 发言人说公司仍渴求更多算力；随后又补上加拿大 100 亿美元数据中心，以及一份内部 memo 所列的 Samsung / SNDK memory LTAs、Sumitomo fiber LTAs、今年约 7GW 算力部署和 2027 再翻倍等信息。对她来说，这让 NBIS 更像 Meta overflow compute 没有消失时的 cleaner neocloud read-through。7 月 14 日又多了更贴公司的 datapoint：NBIS 与 Reflection AI 签下覆盖到 2029 年的 10 亿美元以上 GB300 算力协议，但 Serenity 也马上提醒，市场显然在怀疑对手方有没有能力兑现这么大的长期承诺。",
+    whyItMatters: "NBIS 不再只是“资本结构比同行好”的对照组，而是被放进一个更扎实的 hyperscaler demand-duration 框架里。若 Meta 真的同时锁 memory、fiber、datacenter 和 chip cadence，融资结构更干净的 neocloud 玩家理论上更值得重估；Reflection AI 这笔单也让 NBIS 开始出现更直接的客户多元化证据，但同时提醒市场，neocloud 里合同质量和对手方信用并不比 headline size 次要。反之，若这些更新最后证明只是 PR / 媒体口径而非直接需求传导，NBIS 仍会退回到高 beta 情绪资产。",
+    catalysts: ["Meta 发言人称仍在推进昂贵数据中心并已与 $CRWV、Google、$ORCL 等签下重大算力协议", "Serenity 转述的内部 memo 增加了 Samsung、$SNDK 和 Sumitomo Electric LTAs，以及今年约 7GW 算力部署与 2027 再翻倍口径", "Meta 加拿大 100 亿美元数据中心进一步反驳了 capex 收缩叙事", "Meta 拟建立云业务、出售 excess AI compute，为 AI capacity intermediation 提供新叙事", "Serenity 认为 Meta 已签下 480 亿美元以上 neocloud 合同，说明 overflow demand 仍在", "NBIS 签下 Reflection AI 的 10 亿美元以上 GB300 长约，为客户多元化提供更直接 datapoint", "Serenity 认为这类客户多元化长期偏正面，即便市场短线在质疑对手方资金实力", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
+    risks: ["Neocloud 标的对融资条件和 AI capex 情绪依旧高度敏感", "即便总需求增长，Meta 等 hyperscaler 也可能压缩 reseller / neocloud 的利润空间", "加拿大数据中心、LTA 和 1450 亿美元 capex 口径仍需更强的一手验证", "Meta 供应链扩张并不自动等于 NBIS 直接受益", "IREN 这类 ATM overhang 仍可能拖累整条板块", "子公司和持股价值需要独立核实", "若这轮更新更多只是 damage control，修复线会迅速降温", "大型算力长约若缺少资金与执行能力背书，反而会把市场焦点拉回 counterparty risk"],
+    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "核实 Meta 云业务方案、480 亿美元以上合同说法以及 NBIS 是否直接受益", "核实加拿大数据中心、Samsung / SNDK / Sumitomo LTAs 与 7GW / 2027 翻倍口径是否在一手资料中成立", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "量化 Avride 和 ClickHouse 持股 / 估值贡献", "核实 Reflection AI 的融资、部署时间线与协议经济性，看这笔合同是否会转成可见 backlog 或收益"],
   },
   xintech: {
     theme: "TSM 测试子公司 / COUPE 供应商线索",
@@ -201,11 +206,14 @@ const zhCopy = {
   },
   aaoi: {
     theme: "800G / 1.6T 光模块 / 美国光学产能",
-    thesis: "Serenity 继续把 AAOI 放在高信心 AI optical 主线中。6 月 18 日她再次用中文强调 AAOI 与 SIVE 是她最喜欢的激光公司，因为它们不只能卖激光器，还可能扩展到完整光模块、光引擎和 ELS 组件。",
-    whyItMatters: "AAOI 仍是 AI 数据中心带宽需求里更流动的美国光学表达。新增重点是 subsystem expansion 和 2027 ramp：如果公司能从激光器走向更完整的 optical stack，TAM 与 margin 想象会高于普通 transceiver / laser 供应商。",
+    thesis: "Serenity 继续把 AAOI 放在高信心 AI optical 主线中。6 月 18 日她再次用中文强调 AAOI 与 SIVE 是她最喜欢的激光公司，因为它们不只能卖激光器，还可能扩展到完整光模块、光引擎和 ELS 组件。7 月 14 日这条线多了两个更落地的检查点：AAOI 已正式启动大约 40 万平方英尺扩建，而 Innolight IR 也确认 800G 需求更强、silicon photonics 渗透继续上升。",
+    whyItMatters: "AAOI 仍是 AI 数据中心带宽需求里更流动的美国光学表达。新增重点不再只是 subsystem expansion 和 2027 ramp 的远期想象，而是“AAOI 开始动工扩产”与“下游 800G / SiPH 需求继续强化”这两个较近的现实信号。如果公司能从激光器走向更完整的 optical stack，TAM 与 margin 想象会高于普通 transceiver / laser 供应商。",
     catalysts: [
       "Serenity 再次说 AAOI 与 SIVE 是她最喜欢的激光公司",
       "可从激光器扩展到完整光模块、光引擎和 ELS 组件",
+      "AAOI 已启动约 40 万平方英尺扩建，准备推 800G / 1.6T 产能",
+      "Innolight IR 说 800G 需求更强、尾部更长，且 silicon photonics 占比继续抬升",
+      "Tower Semi 的政府支持扩产为 AAOI 所在 optical stack 提供了额外 ecosystem read-through",
       "她认为大部分 photonics 收入放量仍在 2027 H1/H2 之后",
       "COHR 式上游整合被用作 margin / TAM 提升参照",
       "此前 AAOI 仍在稀缺西方 CW laser 产能框架里"
@@ -213,12 +221,14 @@ const zhCopy = {
     risks: [
       "6 月 18 日更新是主题强化，不是 AAOI 新客户披露",
       "如果 2027 ramp 延后，当前 optical 预期可能太早",
-      "高 beta 光学股仍容易受报告、宏观和 timing 情绪拖累"
+      "高 beta 光学股仍容易受报告、宏观和 timing 情绪拖累",
+      "扩产开工本身不等于产能、良率和客户锁单已经落地"
     ],
     nextChecks: [
       "看 AAOI 是否披露 module、engine 或 ELS component 收入",
       "核实公司指引是否支持 2027 H1/H2 ramp",
-      "继续跟踪 CW laser 产能、客户 allocation 与 margin"
+      "继续跟踪 CW laser 产能、客户 allocation 与 margin",
+      "确认新厂扩建里有多少已经被客户需求、补贴或订单可见度支撑"
     ]
   },
   rpi: {
