@@ -277,12 +277,12 @@ const zhCopy = {
     ]
   },
   aehr: {
-    theme: "AI ASIC 测试 / 批量订单弹性",
-    thesis: "Serenity 此前等待 AEHR 的批量订单兑现；6 月 17 日 AEHR 收到 major silicon photonics customer 的 wafer-level burn-in systems follow-on production order，她把它视作此前 mass-order timeline 的验证。",
-    whyItMatters: "AEHR 从单纯等待量产订单，变成 silicon photonics 测试设备订单转换的跟踪标的。若后续订单继续出现，wafer-level burn-in 可能成为 AI optical / silicon photonics 放量的一条设备链。",
-    catalysts: ["主要 silicon photonics 客户的 wafer-level burn-in follow-on production order", "Serenity 认为这符合此前 AEHR mass-order timeline", "silicon photonics 客户从 pilot / initial order 转向 production system demand"],
-    risks: ["需要核实订单金额、客户身份、系统数量、毛利率和收入确认节奏", "股价已大幅重估，可能提前反映一部分订单转换"],
-    nextChecks: ["阅读 AEHR 原始订单公告", "跟踪下一次财报中 silicon photonics backlog 和 follow-on order cadence", "与 LPK 和其他测试设备同业估值比较"],
+    theme: "AI 处理器 / 存储 / 硅光 burn-in",
+    thesis: "7 月 15 日这条更新把 AEHR 从“等 volume orders”的单线故事，推进成三条线同时发酵的 burn-in 平台：lead AI processor wafer-level burn-in 客户正在明显放量，更多 AI processor 客户还在评估；memory 端完成了来自全球 NAND 龙头的 wafer-level burn-in benchmark，并开始讨论 HBM/NAND development agreement；silicon photonics 与 networking 客户也已经开始和继续追加系统 forecast。旧的 silicon photonics follow-on order 现在更像是更大 HVM optionality 树上的其中一根枝条。",
+    whyItMatters: "这让 AEHR 不再只是 optical 测试设备 beta，而更像少数同时卡在 AI processor、memory 和 networking qualification-to-volume 转换点上的测试设备公司。如果 Serenity 对“当前 2027 指引仍偏保守”的判断成立，市场可能更看重各类 benchmark 如何变成 HVM，而不只是眼前季度数字；但这种多线外推也意味着必须更严谨地区分管理层披露、Serenity 推演和真正的订单证据。",
+    catalysts: ["主要 silicon photonics 客户的 wafer-level burn-in follow-on production order", "2027 revenue guide 为 1.3 亿到 1.5 亿美元，对应 2026 年收入约 160%-200% 增长", "Q4 bookings 约 6070 万美元、effective backlog 约 1.006 亿美元", "lead AI processor wafer-level burn-in 客户正在显著放量", "更多 AI processor 客户正在评估 wafer-level burn-in", "AI accelerators / CPUs / network processors 大客户 benchmark 超出管理层预期", "全球 NAND 龙头的 wafer-level burn-in benchmark 已完成，并在评估 HBM/NAND development agreement", "silicon photonics 客户已在 ramp，新的 networking 客户也给出更多系统 forecast"],
+    risks: ["客户名称、系统数量、转单时间和 revenue recognition 仍不清楚", "wafer-level、package-level、memory benchmark 与 silicon photonics 可能不会同速转成 HVM", "benchmark 成功不等于一定进入量产采购", "过去一个月股价从约 116 跌到 60 再回到 90 多，波动说明预期和拥挤度都很高", "如果 2027 指引已隐含大部分好消息，后续上修空间可能没想象大"],
+    nextChecks: ["阅读最新 AEHR 财报和电话会原文，区分硬披露与 Serenity 外推", "拆出 1.3 亿到 1.5 亿美元 2027 指引里已经锁定的部分和仍取决于 conversion 的部分", "映射 lead AI processor、Sonoma hyperscale、NAND benchmark 这几类客户对应的真实身份", "跟踪全球 NAND benchmark 是否真的推进成 HBM/NAND development agreement", "观察 silicon photonics / networking 追加 forecast 是否转成命名订单或 backlog", "与其他 qualification-to-HVM 测试设备重估案例比较估值"],
   },
   alchip: {
     theme: "AI ASIC 设计服务 / M&A TAM 扩张",
@@ -428,6 +428,14 @@ const zhCopy = {
       "把 memory 的 2027 / 2028 projections 与 optical projections 放在同一框架比较",
       "核实 Samsung 最新 DRAM 提价和 operating profit 数据与卖方一致预期的偏差"
     ]
+  },
+  "slc-nand-beneficiaries": {
+    theme: "SLC NAND 涨价 / 小盘受益篮子",
+    thesis: "7 月 15 日 Serenity 把 memory 主线再拆细了一层：如果 TrendForce 与 Winbond 材料所说的 H2 2026 SLC NAND 价格上涨 120%-170% 成立，那么更直接的受益者不一定是体量已经很大的 $MU 或 Kioxia，而可能是对 SLC NAND 暴露更纯的 Winbond、Macronix，以及经 Puya Semi 映射的 SkyHigh Memory。",
+    whyItMatters: "这把原本泛化的“memory 紧张”叙事，变成了一个更偏份额、细分产品和经营杠杆的篮子筛选。如果真正吃紧的是 SLC NAND 这种更窄的 segment，那么小盘和细分龙头的弹性可能比大盘综合 memory 公司更高；但同样因为 segment 更窄，也更需要先把 TAM、份额与 earnings sensitivity 算清楚。",
+    catalysts: ["TrendForce 口径称 H2 2026 SLC NAND 价格可能上涨 120%-170%", "Winbond 材料被用来支撑当前 SLC NAND 市占率拆分", "Serenity 指出 Winbond 约有 15% SLC NAND 份额", "Serenity 指出 Macronix 约有 11% 份额", "Serenity 指出 SkyHigh Memory 经 Puya Semi 映射约有 14% 份额", "如果细分价格涨幅显著高于 broad memory，这类更纯受益者可能弹性更大"],
+    risks: ["120%-170% 的涨价幅度仍需原始来源确认", "SLC NAND 可能太小，不足以显著撬动所有相关公司的整体盈利", "把 $MU / Kioxia 视作“太大而不够纯”是框架判断，不等于小票一定跑赢", "Puya Semi 到 SkyHigh 的映射关系需要进一步验证", "价格急涨也可能刺激替代、去库存或更快供给响应"],
+    nextChecks: ["直接阅读 TrendForce 原文和 Winbond Q1 2026 presentation", "量化每家受益公司真正来自 SLC NAND 的收入占比", "验证 Puya Semi 与 SkyHigh Memory 的关系以及是否有可投资映射", "比较 Winbond、Macronix 和潜在 SkyHigh 映射标的的估值、产能与合同结构", "跟踪 SLC 紧张是否真正传导为盈利修正而不只是 spot story"],
   },
   "power-800v-dc": {
     theme: "800V DC / 功率半导体众包名单",

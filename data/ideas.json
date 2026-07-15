@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-07-14T23:21:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-14 23:21 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-13T20:06:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced five new main posts and the Subs tab produced no new subscription posts. Nine lines now populate the rolling July 12 to July 14 latestUpdates window. The main new themes were a new NBIS / Reflection AI compute-agreement read-through with explicit counterparty-risk discussion, a fresh AAOI + Tower Semi capacity-expansion check, and three optical timing validations around Jensen's no-delay rebuttal, Innolight's stronger 800G / silicon-photonics demand comments, and Morgan Stanley explicitly listing SIVE alongside the western CPO laser leaders. The AAOI, SIVE and NBIS idea cards were refreshed, and Replies remained out of scope.",
-  "summary": "7 月 14 日 23:21 这轮刷新继续直接读到登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 13 日 20:06 边界，本轮共检查 5 条主帖，`Subs` 时间线没有出现新的订阅帖。新的 `latestUpdates` 保留 7 月 12 日到 7 月 14 日滚动窗口，共 9 条：新增重点集中在三块，一是 $NBIS 拿下 Reflection AI 的长期 GB300 算力协议，但 Serenity 同时点出对手方资金兑现能力仍要打问号；二是 $AAOI 开始推进 40 万平方英尺扩产、$TSEM 也给出更明确的硅光/先进封装扩产目标；三是 optical / CPO 主线又拿到三重验证，分别来自 Jensen 对延迟传闻的公开拆解、Innolight 对 800G 与 silicon photonics 需求的强化，以及 Morgan Stanley 明确把 $SIVE 放进关键 CPO 激光器名单。本轮同步刷新了 $NBIS、$AAOI 和 $SIVE 卡片。",
+  "generatedAt": "2026-07-15T20:03:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-15 20:03 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-14T23:21:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced two new main posts and the Subs tab produced no new subscription posts. Eight lines now populate the rolling July 13 to July 15 latestUpdates window. The main new themes were a fresh SLC NAND price-spike read-through that surfaced Winbond, Macronix and SkyHigh as more direct beneficiaries than the mega-cap memory names, plus a much fuller AEHR earnings/post-earnings framework spanning AI processor wafer-level burn-in, memory benchmark wins and silicon-photonics/networking follow-through. The AEHR idea card was refreshed, a new SLC NAND beneficiaries card was added, and Replies remained out of scope.",
+  "summary": "7 月 15 日 20:03 这轮刷新继续直接读到登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 14 日 23:21 边界，本轮共检查 2 条新主帖，`Subs` 时间线没有出现新的订阅帖。新的 `latestUpdates` 滚动窗口前移到 7 月 13 日到 7 月 15 日，共 8 条：一条是 TrendForce 口径下 H2 2026 SLC NAND 价格可能上冲 120%-170%，Serenity 明确把 Winbond、Macronix 和经 Puya Semi 映射的 SkyHigh 视作比 $MU / Kioxia 更直接的受益者；另一条是 $AEHR 财报后主线被她重新整理成 AI processor wafer-level burn-in、memory benchmark 与 silicon photonics/networking 三线并进。由于前者已经从泛 memory 叙事变成具体受益篮子，这轮新增了 SLC NAND 受益者卡，并同步刷新了 $AEHR 卡片。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-15T11:08:23+08:00",
+      "type": "SLC NAND 涨价受益篮子 / 2344 2337 SkyHigh",
+      "headline": "Serenity 引用 TrendForce 与 Winbond Q1 2026 材料称，H2 2026 的 SLC NAND 价格可能上冲 120%-170%。她认为相比已很大的 $MU 与 Kioxia，当前更直接的受益者是 Winbond（约 15% 份额）、Macronix（约 11% 份额）以及经 Puya Semi 映射的 SkyHigh Memory（约 14% 份额）。这让 memory 主线里又多出一条更偏 niche、但弹性可能更高的小盘受益篮子。",
+      "tickers": [
+        "2344",
+        "2337",
+        "SkyHigh",
+        "$MU"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2077228758491386121",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-15T09:48:14+08:00",
+      "type": "AEHR 财报后重估 / $AEHR wafer-level burn-in",
+      "headline": "Serenity 把 $AEHR 财报后的核心增量梳成三条线：一是 2027 指引达到 1.3 亿到 1.5 亿美元、Q4 bookings 约 6070 万美元、effective backlog 约 1.006 亿美元；二是 lead AI processor wafer-level burn-in 客户正在明显放量，新增 AI processor 客户也在评估；三是 memory 端完成了来自全球 NAND 龙头的 wafer-level burn-in benchmark，正在讨论 HBM/NAND development agreement，同时 silicon photonics 与 networking 客户也已开始和继续追加系统 forecast。她因此认为当前指引未必代表 2027 最终收入上限，但也提醒过去一个月股价从 116 到 60 再到 94 的波动极大。",
+      "tickers": [
+        "$AEHR",
+        "$SNDK"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2077208587005542464",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-07-14T22:57:21+08:00",
       "type": "Nebius / Reflection AI 算力协议 / $NBIS $SPCX",
@@ -87,48 +113,6 @@
       ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-12T19:25:10+08:00",
-      "type": "供应链噪音交易 / $NVDA $TSM 延迟叙事",
-      "headline": "Serenity 直接点名一种越来越流行的 bear-post 剧本：抓住 trillion-dollar 公司供应链里某个技术细节，夸张成项目全面延迟；若公司不回应，股价先受损，若公司回应，又因保密无法说清细节，于是发帖者靠同一套玩法反复收割曝光。对她来说，这解释了近期围绕 $NVDA、$TSM 等 AI 供应链的很多情绪噪音，也是在为光学/CPO 板块的 panic move 定性。",
-      "tickers": [
-        "$NVDA",
-        "$TSM",
-        "$SIVE",
-        "$AAOI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2076266613675069628",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-12T19:00:31+08:00",
-      "type": "Nippon Chemical 上游材料网 / $AXTI $IQE $COHR $MU",
-      "headline": "订阅帖里，Serenity 把 Nippon Chemical 重新定义成可能同时卡住多条链路的冷门上游：NCI red phosphorus 可通向 InP substrate，再连到 $AXTI、$IQE、$TSEM、$LITE、$COHR；其高纯 barium carbonate / titanate 又对应 TDK、Murata 和 MLCC 瓶颈；phosphine gas 还可能进入 Entegris、Kioxia、$MU、SK Hynix、$TSM 等半导体流程。她一边感叹这家公司像是“世界上最重要的公司之一”，一边也提醒日本企业文化让价格和利润弹性未必会立刻兑现。",
-      "tickers": [
-        "$AXTI",
-        "$IQE",
-        "$COHR",
-        "$MU",
-        "$TSM"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2076260409221456071",
-      "source": "Subs-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-12T18:12:33+08:00",
-      "type": "Boston Dynamics 供应链 / $CCXI humanoid actuator KPI",
-      "headline": "Serenity 摘要 IBK 对 Boston Dynamics Atlas 的供应链与放量模型：Hwashin、LG Energy、Hyundai Autoever、Hyundai Mobis 被映射进机身、电池、集成和执行器；2030 前 Atlas 产量被线性外推，但她更认同更陡的 S-curve。更重要的是，她把“actuator capacity 每增加 31 万个约支撑 1 万台机器人”视作更实用的放量监控指标，并把 Boston Dynamics、$CCXI / Agility、Figure、Apptronik、1X 与中国玩家重新放进同一个量产竞速框架。",
-      "tickers": [
-        "$CCXI",
-        "$TSLA",
-        "$JBL"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
       "source": "Posts-logged-in-X"
     }
   ],
@@ -1340,34 +1324,45 @@
       "ticker": "$AEHR",
       "name": "Aehr Test Systems",
       "tier": "watch",
-      "theme": "AI ASIC testing / volume-order optionality",
-      "thesis": "Serenity’s earlier AEHR volume-order waiting game received a concrete follow-up: AEHR announced a follow-on production order from a major silicon-photonics customer for wafer-level burn-in systems. She framed the move as validation of the AI / silicon-photonics testing-equipment ramp and noted how far the stock had moved from the $30s.",
-      "whyItMatters": "AEHR is now less of a purely speculative waiting line and more of an order-conversion tracker. Follow-on production orders from a major silicon-photonics customer strengthen the case that wafer-level burn-in tools can participate in AI optical / silicon-photonics scaling.",
+      "theme": "AI processor / memory / silicon photonics burn-in",
+      "thesis": "Serenity’s July 15 post turned AEHR from a simple 'waiting for volume orders' setup into a broader multi-end-market conversion story. She now ties AEHR to three simultaneous ramps: a lead AI-processor wafer-level burn-in customer that is significantly scaling, additional AI-processor customers still evaluating wafer-level burn-in, and newer memory plus silicon-photonics/networking hooks that may convert after successful benchmarking. In that framing, the old silicon-photonics follow-on order is no longer the whole story but only one branch of a wider HVM optionality tree.",
+      "whyItMatters": "This makes AEHR less like a single-theme optical test bet and more like a rare test-equipment line with possible leverage to AI processors, memory and networking at the same time. If Serenity is right that the current $130M-$150M 2027 guide excludes a meaningful portion of eventual hyperscaler and semiconductor HVM conversion, the market may care more about the qualification-to-volume path than about the current quarter. The trade-off is that the stock has already shown extreme volatility and still needs customer-level proof before higher conviction is warranted.",
       "catalysts": [
-        "Potential volume orders for AI ASIC-related testing players",
-        "Prior thesis re-rating from about $1.1B to $3.5B market cap",
-        "Peer attention around LPK and AI ASIC testing infrastructure",
         "Follow-on production order from a major silicon-photonics customer for wafer-level burn-in systems",
-        "Serenity says the update fits her earlier mass-order timeline for AEHR",
-        "Silicon-photonics customer conversion can turn pilot wins into production-system demand"
+        "Serenity says the earlier silicon-photonics order fit her old mass-order timeline for AEHR",
+        "2027 revenue guide of $130M-$150M implies roughly 160%-200% growth from 2026 revenue",
+        "Q4 bookings were about $60.7M and effective backlog was about $100.6M",
+        "Lead AI-processor wafer-level burn-in customer is significantly ramping products",
+        "Additional AI-processor customers are evaluating wafer-level burn-in",
+        "A benchmark program with a major supplier of AI accelerators, CPUs and network processors exceeded management expectations",
+        "Wafer-level burn-in benchmark completed with a global NAND leader and AEHR is now evaluating a development agreement for HBM/NAND",
+        "Package-level burn-in for AI processors gained momentum from a lead hyperscale customer for Sonoma systems",
+        "Silicon-photonics customer is already ramping and newer networking customers have forecast additional systems"
       ],
       "risks": [
-        "Already materially re-rated from Serenity's earlier call",
-        "No fresh fundamental update in the latest post",
-        "Needs actual volume-order evidence before upgrading conviction",
-        "Need to verify order size, customer identity, margin and whether this is recurring volume rather than one follow-on order",
-        "After the stock move, valuation may already price in a large share of silicon-photonics order conversion"
+        "AEHR still needs customer names, system counts and conversion timing before the narrative becomes company-level proof",
+        "The newest post mixes guidance, management commentary and Serenity inference across several end markets",
+        "Package-level burn-in, wafer-level burn-in, memory benchmarking and silicon-photonics demand may not convert on the same timeline",
+        "Benchmark wins can still stall before true HVM or revenue recognition",
+        "The stock already swung from about $116 to $60 and back to the $90s in roughly a month, so timing and crowding remain major risks",
+        "Some upside depends on Serenity's claim that 2027 guidance still understates actual revenue if hyperscalers and semiconductor customers convert"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
-        "Verify AEHR order backlog and AI ASIC customer exposure",
-        "Track whether volume orders arrive after sampling or pilot wins",
-        "Compare AEHR valuation with LPK and other testing-equipment peers",
-        "Read AEHR primary order announcement and identify system count, timing and revenue recognition if disclosed",
-        "Watch the next earnings call for silicon-photonics backlog and follow-on order cadence"
+        "Read the latest AEHR earnings release / call and separate hard disclosures from Serenity's extrapolation",
+        "Verify how much of the $130M-$150M 2027 guide depends on already-booked business versus unconverted evaluation programs",
+        "Map the lead AI-processor wafer-level burn-in customer, Sonoma hyperscale package-level customer and the benchmarked AI-accelerator/network-processor customer",
+        "Check whether the global NAND benchmark progresses into a disclosed HBM/NAND development agreement",
+        "Track whether silicon-photonics and networking follow-through turns into named orders or backlog",
+        "Compare AEHR valuation with other qualification-to-HVM test-equipment rerating cases"
       ],
-      "lastUpdated": "2026-06-17",
+      "lastUpdated": "2026-07-15 09:48",
       "evidence": [
+        {
+          "date": "2026-07-15 09:48",
+          "quote": "Serenity said AEHR's latest earnings setup spans a significantly ramping AI-processor wafer-level burn-in customer, additional evaluation customers, a completed NAND benchmark and continuing silicon-photonics/networking demand.",
+          "url": "https://x.com/aleabitoreddit/status/2077208587005542464"
+        },
         {
           "date": "2026-06-17",
           "quote": "Serenity noted AEHR received a follow-on production order from a major silicon-photonics customer for wafer-level burn-in systems, connecting it back to her earlier mass-order thesis.",
@@ -2117,6 +2112,46 @@
           "date": "2026-06-16",
           "quote": "Serenity said upstream semiconductors from LITE to SK Hynix do not look like a bubble despite AI valuation concerns.",
           "url": "https://x.com/aleabitoreddit/status/2066868456457416871"
+        }
+      ]
+    },
+    {
+      "id": "slc-nand-beneficiaries",
+      "ticker": "2344 / 2337 / SkyHigh",
+      "name": "SLC NAND beneficiaries basket",
+      "tier": "watch",
+      "theme": "SLC NAND pricing / niche memory beneficiaries",
+      "thesis": "Serenity used a July 15 TrendForce plus Winbond-presentation read-through to split the memory trade into a more specific branch: if H2 2026 SLC NAND pricing really rises about 120%-170%, the cleaner beneficiaries may not be the already-massive incumbents like Micron or Kioxia but smaller names with more direct SLC NAND share. She highlighted Winbond at about 15% share, Macronix at about 11% and SkyHigh Memory via Puya Semi at about 14%, effectively framing a new basket inside the broader memory theme.",
+      "whyItMatters": "This matters because it turns a general 'memory is tight' narrative into a narrower supply-share and operating-leverage screen. If SLC NAND remains a genuine bottleneck rather than just another broad memory headline, smaller share holders can have more torque than mega-cap names whose overall earnings mix is much larger than the niche segment. It is still early and the total addressable market may be too small to move every beneficiary equally, so the theme needs primary-source sizing before conviction rises.",
+      "catalysts": [
+        "TrendForce read-through says H2 2026 SLC NAND pricing could rise about 120%-170%",
+        "Winbond presentation material was cited as support for current SLC NAND market-share splits",
+        "Serenity highlighted Winbond at about 15% SLC NAND share",
+        "Serenity highlighted Macronix at about 11% SLC NAND share",
+        "Serenity highlighted SkyHigh Memory via Puya Semi at about 14% SLC NAND share",
+        "If niche SLC pricing spikes harder than broad memory, smaller direct beneficiaries may rerate more than mega-cap incumbents"
+      ],
+      "risks": [
+        "The 120%-170% price-spike claim is a read-through and still needs primary-source confirmation",
+        "SLC NAND may be too small a segment to move company-level earnings as much as social-media narratives imply",
+        "Micron and Kioxia being 'too large' for the theme is a framing choice, not proof that smaller names will outperform",
+        "Puya Semi to SkyHigh mapping needs to be validated through primary corporate or supply-chain sources",
+        "A sharp price spike can also trigger customer substitution, inventory release or a faster supply response"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Read the TrendForce source and Winbond Q1 2026 presentation directly",
+        "Quantify the share of revenue each highlighted company gets from SLC NAND rather than broader memory products",
+        "Verify how Serenity is mapping Puya Semi to SkyHigh Memory and whether that linkage is investable",
+        "Compare Winbond, Macronix and any SkyHigh-linked vehicle on valuation, capacity and contract mix",
+        "Track whether the SLC price spike lasts into real earnings revisions rather than staying a spot-tightness story"
+      ],
+      "lastUpdated": "2026-07-15 11:08",
+      "evidence": [
+        {
+          "date": "2026-07-15 11:08",
+          "quote": "Serenity said H2 2026 SLC NAND pricing could rise about 120%-170% and pointed to Winbond, Macronix and SkyHigh Memory via Puya Semi as more direct beneficiaries than Micron or Kioxia.",
+          "url": "https://x.com/aleabitoreddit/status/2077228758491386121"
         }
       ]
     },
