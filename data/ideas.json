@@ -1,8 +1,37 @@
 {
-  "generatedAt": "2026-07-15T20:03:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-15 20:03 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-14T23:21:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced two new main posts and the Subs tab produced no new subscription posts. Eight lines now populate the rolling July 13 to July 15 latestUpdates window. The main new themes were a fresh SLC NAND price-spike read-through that surfaced Winbond, Macronix and SkyHigh as more direct beneficiaries than the mega-cap memory names, plus a much fuller AEHR earnings/post-earnings framework spanning AI processor wafer-level burn-in, memory benchmark wins and silicon-photonics/networking follow-through. The AEHR idea card was refreshed, a new SLC NAND beneficiaries card was added, and Replies remained out of scope.",
-  "summary": "7 月 15 日 20:03 这轮刷新继续直接读到登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 14 日 23:21 边界，本轮共检查 2 条新主帖，`Subs` 时间线没有出现新的订阅帖。新的 `latestUpdates` 滚动窗口前移到 7 月 13 日到 7 月 15 日，共 8 条：一条是 TrendForce 口径下 H2 2026 SLC NAND 价格可能上冲 120%-170%，Serenity 明确把 Winbond、Macronix 和经 Puya Semi 映射的 SkyHigh 视作比 $MU / Kioxia 更直接的受益者；另一条是 $AEHR 财报后主线被她重新整理成 AI processor wafer-level burn-in、memory benchmark 与 silicon photonics/networking 三线并进。由于前者已经从泛 memory 叙事变成具体受益篮子，这轮新增了 SLC NAND 受益者卡，并同步刷新了 $AEHR 卡片。",
+  "generatedAt": "2026-07-16T20:05:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-16 20:05 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-15T20:03:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced three new main posts and the Subs tab produced no new subscription posts, with the latest visible Subs item still dated Jul 12. Nine lines now populate the rolling July 14 to July 16 latestUpdates window. The main additions were Jensen's direct Tokyo pushback against Rubin Ultra / Kyber delay chatter and an Apple AI-chip-acquisition scenario that broadens the optical / foundry demand map if Apple materially lifts AI capex. An Anthropic IPO valuation question was reviewed but left out of latestUpdates because it did not add a cleaner public supply-chain or tracked-ticker read-through. No idea-card text or bilingual mappings needed changes, and Replies remained out of scope.",
+  "summary": "7 月 16 日 20:05 这轮刷新继续直接读到登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 15 日 20:03 边界，本轮共检查 3 条新主帖，`Subs` 时间线顶部最新仍是 7 月 12 日，因此没有新的订阅帖进入本轮增量。新的 `latestUpdates` 滚动窗口前移到 7 月 14 日到 7 月 16 日，共 9 条，新增的两条主线分别是：一，Jensen 在东京直接否认 Vera Rubin / Kyber 延迟说，Serenity 因此更明确地把近期 $NVDA 供应链惊吓视作 technical nuance 被放大后的情绪噪音；二，Apple 若通过并购 AI 芯片团队补齐自建基础设施，可能把光互连、foundry 与上游 AI capex 需求再往外推一层。另有一条 Anthropic IPO 估值讨论被检查过，但因没有形成更清晰的公开供给链 read-through，本轮未写入 tracker。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-15T23:53:21+08:00",
+      "type": "Apple AI capex 外溢 / $AAPL $MSFT $META",
+      "headline": "Serenity 引用 The Information 口径称，$AAPL 可能通过并购 AI 芯片公司来补齐自有 AI 基础设施。她的重点不是并购对象本身，而是如果 Apple 真的从“主要用别人模型与算力”转向更重的自建路线，那么当前由 $MSFT、$META、Amazon、Google 扛着的 AI capex 版图就可能再多出一个超大体量买家；这会对 optical networking、foundry 与上游 AI 基建需求形成额外想象，但她也承认目前仍停留在 scenario analysis，而不是已确认的资本开支指引。",
+      "tickers": [
+        "$AAPL",
+        "$MSFT",
+        "$META",
+        "$AMZN",
+        "$GOOGL"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2077421268991926703",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-15T22:54:52+08:00",
+      "type": "Jensen 再辟谣延迟 / $NVDA Rubin Ultra Kyber",
+      "headline": "围绕近期的 $NVDA 延迟传闻，Serenity 转述 Jensen 在东京的更直接说法：所谓 AI server 延迟“并不属实”，Vera Rubin 已经在 production、且会有大量产能持续放出；她同时把 Kyber 变动继续解读为架构优化而非时序后移。对她来说，这条更新的意义不只是一次 management damage control，而是说明市场正在把 technical nuance 过度外推成整条 Nvidia 供应链延迟叙事，因此她更愿意信管理层对自家 supply chain 的可见度。",
+      "tickers": [
+        "$NVDA",
+        "$TSM",
+        "$SIVE",
+        "$AAOI"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2077406548012466390",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-07-15T11:08:23+08:00",
       "type": "SLC NAND 涨价受益篮子 / 2344 2337 SkyHigh",
@@ -98,21 +127,6 @@
       ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-13T08:45:00+08:00",
-      "type": "半导体周末总览 / $GLW $SPCX $TSM $META",
-      "headline": "Serenity 用一条超长 recap 把自己近期盯的 AI 硬件瓶颈集中串了起来：Corning 的 glass bridge 对 FAU 仍是潜在变量、Starlink Gen 3 扩到 10 万台与 PCB shortage 持续到 2028 强化了上游交换器件与 PCB 约束、TSMC 计划到 2028 年把 PIC 产能从约 500 提到 25000 wpm、Meta Iris 及 14GW 算力扩张延续了 AI 基建需求，同时 NAND/HBM、gas turbine、probe card 等多条短缺线都仍在发酵。",
-      "tickers": [
-        "$GLW",
-        "$SPCX",
-        "$TSM",
-        "$META",
-        "$MU"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
       "source": "Posts-logged-in-X"
     }
   ],
