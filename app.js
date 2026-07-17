@@ -8,9 +8,11 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 现在把 SIVE 看成已经扛过一轮 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint。7 月 10 日的 insider buy 与“roadmap 未坏”先打底；接着 7 月 11 日到 12 日，Rosenblatt 又把近期 optical selloff 定性为更多来自 CPO delay / China capacity 恐慌，而不是 fundamentals 真被打穿，并继续把 ultra-high-power CW 视作长期 CPO 的理想架构；订阅读到的 channel check 也说中国在 200G EML 与 high-power CW 上仍明显落后。到 7 月 12 日，Serenity 甚至直接点名这种靠供应链细节制造恐慌的 bear-post 激励结构，说明她认为 thesis 还在、只是情绪被来回博弈。7 月 14 日又多了三层验证：Morgan Stanley 明确把 SIVE 放进西方关键 CPO 激光器名单，Innolight 说 800G 需求比预期更强且 silicon photonics 占比继续抬升，Jensen 也公开反驳了 Nvidia optical timing 被推迟的说法。",
-    whyItMatters: "这让 SIVE 不再只是“CEO 抄底 + 融资完成”的一段式 rerating，而更像 scarcity + architecture 被反复验证的组合。若西方 CW 激光器产能确实仍稀缺，且 analyst / channel checks 都指向“没有真正的 CPO process delay”，那么 SIVE 更有机会从社媒高信念票走向机构重新建仓；最新一批 sell-side、下游需求和 timing 信号，也让这条主线更难被简单归类成社媒叙事。反过来，若 VCSEL 过渡路径、国产替代或量产节奏变化快于预期，波动依然会很大。",
+    thesis: "Serenity 现在把 SIVE 看成已经扛过 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint；而 7 月 16 日这条新帖，终于把故事从“scarcity 叙事”往更可量化的产能与估值框架推进。7 月 10 日的 insider buy 与 roadmap defense 先打底，7 月 11 日到 14 日又依次叠加 Rosenblatt、订阅读到的 China-laser channel check、Morgan Stanley、Innolight 和 Jensen 的外部验证；最新一层则是用 Win Semi 低比例分配、65% yield 和 50-75 美元 array ASP 做情景建模，说明哪怕只拿到一小块合格 InP 产能，也可能把 SIVE 的年化 array revenue 和 gross profit 抬到相对当前市值很显著的水平。她还补充 Sivers 正在对接更多 fabs，而 open-market CW 采购与 AMD LTAs 也在强化“新增合格产能一上线就会被吸收”的判断。",
+    whyItMatters: "这让 SIVE 不再只是“西方 CW 激光器稀缺 + sell-side 终于开始承认”这种偏 narrative 的 thesis，而是开始出现一条更可被证伪也更可被验证的 capacity-conversion 路径。若西方 CW scarcity 确实成立，且 SIVE 真能拿到哪怕 modest 的合格 Win Semi 式产能份额，它并不需要很激进的市占率假设就可能支撑出有意义的 gross-profit 上行空间；反过来，这套更具体的模型也意味着，一旦产能、ASP、良率或 HVM 节奏不成立，失望会更快暴露出来。",
     catalysts: [
+      "Serenity 用 Win Semi 低比例分配建模，认为即便只拿到 modest 份额，也足以支撑相对当前市值可观的 annual gross profit",
+      "管理层称 Sivers 还在与更多 fabs 合作，说明合格 InP 产能基础盘仍可能外扩",
       "7 月 10 日出现三笔 insider buys，其中 CEO 场内买入约 100 万 SEK",
       "完成 7 亿 SEK、57 SEK 定价且超额多倍认购的机构融资",
       "未来数个季度内完成 Nasdaq 上市流程的正式时间线",
@@ -27,6 +29,8 @@ const zhCopy = {
       "photonics 主题仍被视作极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始"
     ],
     risks: [
+      "7 月 16 日这套 Win Semi / yield / ASP 建模仍是 scenario analysis，实际拿到的合格产能份额可能远低于假设",
+      "即便纸面 gross-profit 空间很大，真实 HVM 节奏、客户结构和实际 ASP 仍可能明显低于理想情景",
       "融资虽然超额认购，但仍有稀释，且必须转成真实激光器/放大器产能与收入",
       "CEO/管理层买入能改善信号，但并不自动等于客户放量和 2027 收入兑现",
       "Nasdaq 时间线仍需正式 milestones、filings 和交易所步骤确认",
@@ -40,6 +44,8 @@ const zhCopy = {
       "7 月 14 日这些验证更多仍是 read-through，而不是 SIVE 自己披露的新订单"
     ],
     nextChecks: [
+      "先把 Win Semi wafer capacity、yield 与 ASP 假设对照供应商披露和同业 economics 做压力测试",
+      "跟踪 Sivers 接下来几个季度是否真的披露更多 qualified fabs、capacity additions 或 pipeline 上修",
       "阅读 7 月 10 日 insider filing，确认 CEO 与另外两笔增持的金额、价格和持股变化",
       "跟踪 Nasdaq 上市的正式时间点、顾问和公司披露",
       "阅读 Rosenblatt 关于 AAOI / AMZN RNG / MRC / VCSEL 的原始材料，拆开 sell-side 模型和 Serenity 的再演绎",
@@ -403,30 +409,34 @@ const zhCopy = {
   },
   "ai-memory": {
     theme: "AI 存储短缺 / HBM 周期",
-    thesis: "Serenity 现在明确把 Memory 与 Photonics 并列为两大 top themes，而 7 月 7 日的 Samsung 新帖又把 memory 这条线推进到更具体的公司级验证：市场原先质疑存储提价难以持续，但她指出 Samsung 仍把 DRAM 提价约 20%，并录得 operating profits 同比约 1803% 增长。对她而言，这说明市场仍低估了 memory 紧张和盈利持续性的韧性。",
-    whyItMatters: "这让 memory thesis 不再只是回顾涨幅或宏观供需，而是多了一层更硬的 pricing-power + earnings validation。若 Samsung 与同业在市场仍偏怀疑时继续提价并上修盈利，memory 标的的 profit revision 可能继续累积；反过来，如果财报后的卖出是在提前交易 peak-cycle 风险，那么 timing 与拥挤度仍要小心。",
+    thesis: "7 月 17 日这轮更新把 memory 主线从“AI 带动供需偏紧”的大方向，继续推进成更明确的 duration-and-contracting thesis。7 月 7 日 Samsung 提价与盈利强势仍是起点，但最新一轮又多了四个信号：Meritz 直接说市场仍在严重误判韩国 memory，认为 2026 年下半年 DRAM fulfillment ratio 可能只有 75%-80%，2027 还可能掉到 60% 区间；$MU 刚和 $QCOM 签下新的 memory LTA；Micron 利好落地后的下跌被 Serenity 视作去杠杆和 margin cascade，而不是需求破坏；她也继续把 Samsung / SK Hynix 低估值与多年度紧张并列，认为市场仍没把 memory earnings power 算够。",
+    whyItMatters: "这让 memory thesis 不再只是一次性的 price spike 或财报印证，而更像在问：AI memory shortage 是否已经长到足以迫使更长期合同、持续盈利修正，以及韩国 memory 龙头与 Micron 的进一步重估。若 2026-2027 的供给确实跟不上需求、且 LTAs 持续增加，市场可能仍低估 pricing power 的持续时间；反过来，如果现在的弱势其实是在提前交易 peak-cycle 利润，那估值、拥挤度和 cycle-turn timing 还是最大风险。",
     catalysts: [
-      "Serenity 称 Micron + memory 预测正在兑现",
-      "Samsung / SK Hynix 是她 2025 年开始跟踪的 memory 主线",
-      "SNDK 是今年 1 月以来更集中表达 memory theme 的名字",
-      "EWY 多头受韩国 memory 走强带动",
-      "AI capex 框架中她认为 SK Hynix 等上游半导体不像泡沫",
-      "6 月 19 日她称 Memory 与 Photonics 是两大 top themes",
-      "7 月 7 日她把 Samsung 的 DRAM 提价约 20% 与 operating profits 同比约 1803% 增长当作新的 memory 验证"
+      "Meritz 认为市场仍在过度悲观看待 Samsung / SK Hynix 的 memory fundamentals",
+      "Meritz 预计 2026H2 DRAM fulfillment 约为 75%-80%，2027 甚至可能落到 60% 区间",
+      "$MU 与 $QCOM 新签的 memory LTA 强化了长期需求合同正在继续叠加的判断",
+      "Serenity 认为 Micron 利好后急跌更像 deleveraging，而不是 memory 主线被证伪",
+      "Samsung / SK Hynix 的低 headline valuation 被她拿来当作 memory earnings 仍被低估的证据",
+      "NVDA CEO 先前关于 memory shortage 可能持续多年的警告仍是上层框架",
+      "7 月 7 日 Samsung 的 DRAM 提价约 20% 与 operating profits 同比约 1803% 增长仍是此前最硬的公司级验证",
+      "SNDK 仍是 broad memory 主题之外更集中的旁支表达"
     ],
     risks: [
-      "大幅上涨后估值和拥挤度风险增加",
-      "如果供给扩张快于需求，存储仍可能回到周期波动",
-      "EWY 不是纯 memory 暴露",
-      "这条更新主要是回顾性验证，不保证 memory 后续仍有同样弹性",
-      "即便财报和提价很强，市场仍可能提前交易 peak-cycle 风险并压制股价"
+      "如果供给追上得比预期快，memory 依然会回到强周期属性",
+      "Meritz 的 fulfillment 预测仍是卖方 read-through，不是公司管理层正式指引",
+      "Micron 签下 LTAs 并不自动等于 multi-year margin 和 pricing 都能维持在高位",
+      "即使当前回撤更像去杠杆，市场也可能是在更早地交易 peak-cycle 风险",
+      "EWY 不是纯 memory 暴露，韩国敞口里掺杂了不少非存储因素",
+      "HBM 紧张与 broader DRAM / NAND 周期仍需拆开，否则容易把不同逻辑混成一条线",
+      "physical-AI 与更长周期 memory 需求推演，仍可能被市场提前过度定价或延后兑现"
     ],
     nextChecks: [
-      "核实 MU 市值、盈利修正和 HBM / DRAM 产能计划",
-      "比较 Samsung / SK Hynix 存储价格和 capex 与 2028 hyperscaler 需求",
-      "量化 SNDK 和 EWY 对 AI memory 的纯度",
-      "把 memory 的 2027 / 2028 projections 与 optical projections 放在同一框架比较",
-      "核实 Samsung 最新 DRAM 提价和 operating profit 数据与卖方一致预期的偏差"
+      "直接读 Meritz 原文，把硬供需假设和 Serenity 的再演绎拆开",
+      "比较 Samsung、SK Hynix 与 Micron 当前盈利预期，是否已经计入她这套 2026-2027 shortage 场景",
+      "核实 $MU-$QCOM memory LTA 的范围、期限与是否意味着更广泛的合同收紧",
+      "继续把 HBM 紧张与 commodity DRAM / NAND 周期拆开看",
+      "比较 Samsung / SK Hynix 的估值、capex 与 hyperscaler 需求增长是否还能支撑进一步重估",
+      "量化 SNDK、EWY 等 memory 表达的纯度，区分核心主线和旁支篮子"
     ]
   },
   "slc-nand-beneficiaries": {

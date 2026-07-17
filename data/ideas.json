@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-07-16T20:05:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-16 20:05 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-15T20:03:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced three new main posts and the Subs tab produced no new subscription posts, with the latest visible Subs item still dated Jul 12. Nine lines now populate the rolling July 14 to July 16 latestUpdates window. The main additions were Jensen's direct Tokyo pushback against Rubin Ultra / Kyber delay chatter and an Apple AI-chip-acquisition scenario that broadens the optical / foundry demand map if Apple materially lifts AI capex. An Anthropic IPO valuation question was reviewed but left out of latestUpdates because it did not add a cleaner public supply-chain or tracked-ticker read-through. No idea-card text or bilingual mappings needed changes, and Replies remained out of scope.",
-  "summary": "7 月 16 日 20:05 这轮刷新继续直接读到登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 15 日 20:03 边界，本轮共检查 3 条新主帖，`Subs` 时间线顶部最新仍是 7 月 12 日，因此没有新的订阅帖进入本轮增量。新的 `latestUpdates` 滚动窗口前移到 7 月 14 日到 7 月 16 日，共 9 条，新增的两条主线分别是：一，Jensen 在东京直接否认 Vera Rubin / Kyber 延迟说，Serenity 因此更明确地把近期 $NVDA 供应链惊吓视作 technical nuance 被放大后的情绪噪音；二，Apple 若通过并购 AI 芯片团队补齐自建基础设施，可能把光互连、foundry 与上游 AI capex 需求再往外推一层。另有一条 Anthropic IPO 估值讨论被检查过，但因没有形成更清晰的公开供给链 read-through，本轮未写入 tracker。",
+  "generatedAt": "2026-07-17T20:02:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-17 20:02 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-16T20:05:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced five new main posts and the Subs tab produced no new subscription posts, with the latest visible Subs item still dated Jul 12. Eight lines now populate the rolling July 15 to July 17 latestUpdates window after the older July 14 items rolled off. The main additions were a Samsung / SK Hynix memory-tightness reinforcement, a broad semi-bottom sentiment read, a SIVE capacity-ramp / valuation model built around Win Semi allocation, and Micron's new Qualcomm memory LTA as another sign that structural demand contracts are still stacking. A separate X subscription-renewal bug complaint was reviewed as product-context noise but left out of latestUpdates because it did not add a cleaner investment read-through. ai-memory and SIVE idea-card text plus bilingual mappings were updated, and Replies remained out of scope.",
+  "summary": "7 月 17 日 20:02 这轮刷新继续直接读取登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 16 日 20:05 边界，本轮共检查 5 条新主帖，其中 4 条属于可入库的投资主线：一，Meritz/SK 海力士相关观点再次强化 2026H2-2027 的 memory shortage 与盈利弹性；二，Serenity 明确把当前从 $INTC 到 $LITE 的半导体回撤更偏向情绪与仓位出清，开始讨论阶段性 market bottom；三，她给出基于 Win Semi 低比例分配的 $SIVE 产能与 gross-profit 建模，把 scarcity thesis 往更可量化的方向推进；四，$MU 与 $QCOM 签 memory LTA 后股价却下跌，被她继续解读为结构性需求未坏、更多是去杠杆尾声。`Subs` 时间线顶部最新仍是 7 月 12 日，因此本轮没有新的订阅帖进入增量；另有一条 X 订阅续费 bug 帖被检查过，但只作为产品背景保留，未写入公开 feed。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-17T11:16:07+08:00",
+      "type": "韩国 memory 紧张再强化 / $SKHY $MU",
+      "headline": "Serenity 引用 Meritz Securities 的 Kim Sunwoo 观点称，现在并不是该卖 Samsung Electronics 和 $SKHY 的时点，市场仍在严重低估 memory 供需错配。她摘出的核心口径是：2026 年下半年 DRAM 供应商只能满足约 75%-80% 的需求，2027 年 fulfillment ratio 甚至可能掉到 60% 区间；再叠加文中给出的超低估值倍数，以及 $MU 已经签出 16 份偏 take-or-pay 的长期协议，她更倾向把 memory demand 理解成结构性紧张，而不是短周期炒作。",
+      "tickers": [
+        "$SKHY",
+        "$MU",
+        "$INTC",
+        "$SSNLF"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2077955479742173422",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-16T23:57:05+08:00",
+      "type": "半导体情绪底部判断 / $INTC $LITE",
+      "headline": "Serenity 直接给出一句情绪化但方向明确的判断：从 $INTC 到 $LITE，半导体板块可能已经接近阶段性 market bottom。她没有在这条帖里展开供应链细节，而是把盘面上的极端亏损和社媒情绪本身视作反向指标，等于把这轮回撤更多归因为拥挤仓位和 panic deleveraging，而不是基本面出现新的系统性断裂。",
+      "tickers": [
+        "$INTC",
+        "$LITE",
+        "$RDDT"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-16T22:54:42+08:00",
+      "type": "SIVE 产能建模 / $SIVE Win Semi",
+      "headline": "围绕 $SIVE 的产能与估值，Serenity 这次不再只讲 scarcity 叙事，而是给出一套更量化的 Win Semi allocation 建模：若只拿到 Win Semi 约 10% 的 InP 产能、按 65% yield 和每个 array 50-75 美元 ASP 估算，Sivers 年化 array revenue 可能对应约 3.41 亿到 5.12 亿美元，按管理层 50%-60%+ 的毛利率目标可落到约 2.05 亿到 3.07 亿美元 gross profit；若分配到 15%，gross profit 还可抬到约 3.07 亿到 4.61 亿美元。她同时补充 CEO 提到公司正和更多 fabs 合作、未来 revenue pipeline 仍可能上修，而 Lumentum 在 open market 采购 CW、$AMD 签 LTAs 锁定 CW 产能，也让她更相信新增合格产能一旦上线就会被迅速吸收。",
+      "tickers": [
+        "$SIVE",
+        "$AMD",
+        "$GFS",
+        "$JBL",
+        "$POET"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2077768896061563339",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-16T21:54:10+08:00",
+      "type": "Micron LTA 仍在加固 memory 主线 / $MU $QCOM",
+      "headline": "Serenity 注意到 $MU 宣布与 $QCOM 签下 memory LTAs，但股价当日仍下跌约 5.37%。她的解读不是对公司或 memory 主线本身出现新问题，而是这种“利好落地却继续跌”的盘面更像去杠杆和 margin cascade 的尾声；换句话说，长期协议继续在签，说明 AI / memory 的结构性需求并没有坏。",
+      "tickers": [
+        "$MU",
+        "$QCOM"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-07-15T23:53:21+08:00",
       "type": "Apple AI capex 外溢 / $AAPL $MSFT $META",
@@ -57,77 +111,6 @@
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2077208587005542464",
       "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-14T22:57:21+08:00",
-      "type": "Nebius / Reflection AI 算力协议 / $NBIS $SPCX",
-      "headline": "Serenity 关注到 $NBIS 与 Reflection AI 签下覆盖到 2029 年的 10 亿美元以上 GB300 算力协议，而 Reflection 此前还和 $SPCX 签过多十亿美元级别合作。她把这看成 NBIS 客户多元化的长期积极信号，但也明确提醒市场当天之所以先把股价打下去，是在质疑对手方是否真有足够资金兑现这些长期承诺，这一点让她想起早期 OpenAI 式的“先签大单、后找钱”结构风险。",
-      "tickers": [
-        "$NBIS",
-        "$SPCX",
-        "$META",
-        "$MSFT"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-14T22:35:50+08:00",
-      "type": "Tower + AAOI 扩产 / $TSEM $AAOI 硅光产能",
-      "headline": "Serenity 把两条扩产公告放到一起看：一边是日本政府支持下的 $TSEM Tower Semi 扩大 300mm SiPho、SiGe 与先进封装能力，并给出 2028 年约 36 亿美元收入、12 亿美元净利润目标；另一边是 $AAOI 正式启动约 40 万平方英尺扩建，用来推 800G / 1.6T 产能，且德州地方政府与州补贴继续提供支持。她认为 Tower 的增量信息更实质，而 AAOI 这条更多是把此前计划推进到开工阶段。",
-      "tickers": [
-        "$TSEM",
-        "$AAOI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-14T09:51:24+08:00",
-      "type": "Jensen 辟谣延迟 / $NVDA 光互连时序",
-      "headline": "围绕近期 $NVDA 延迟传闻，Serenity 转述 Jensen 的三点 damage control：800V 与 rack-to-rack optical interconnect 仍按原计划推进、Rubin Ultra 并未被推迟到 2028 年而是仍指向明年出货、Kyber 替换等 rack 设计调整属于架构优化而非交付时序后移。她同时补充，Nvidia 仍称 frontier labs、传统云厂和 sovereign AI 都在贡献需求，这使她更偏向把近期 optical panic 理解成情绪噪音，而非主线被推翻。",
-      "tickers": [
-        "$NVDA",
-        "$TSM",
-        "$SIVE",
-        "$AAOI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2076846994614792663",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-14T07:17:46+08:00",
-      "type": "Innolight IR / 800G 需求上修 / $AAOI $COHR $LITE",
-      "headline": "Serenity 摘出 Innolight IR 的几个重点：1.6T 需求并未萎缩，反而 800G 需求比此前预期更强且尾部更长；新客户不只来自 hyperscalers，还有 neocloud 和 AI model companies；当前短缺已从 EML/CW 扩展到 optical chips、electrical chips、PCB 和其他 module materials；与此同时，silicon photonics 占比继续上升。她把这解读为对 $AAOI、$COHR、$LITE 的直接需求强化，也对 $SIVE / $JBL 这类更偏 CW / SiPH 渗透的链条形成正反馈。",
-      "tickers": [
-        "$AAOI",
-        "$COHR",
-        "$LITE",
-        "$SIVE",
-        "$JBL"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-14T03:20:46+08:00",
-      "type": "Morgan Stanley CPO 名单 / $SIVE $TSEM",
-      "headline": "Serenity 引述 Morgan Stanley 对 CPO 参与者的梳理，把 $SIVE、$COHR、$LITE 点为 laser supply 关键方，把 $TSM、$GFS、$TSEM 放在 silicon photonics foundry capacity 一侧，并把 Broadcom、Nvidia、Lightmatter、Ayar、Marvell/Celestial、POET 串进同一张生态图。对她来说，最重要的不是“名单新不新”，而是 sell-side 明确承认 $SIVE 已经和两家 600 亿美元以上的大公司并列在西方激光瓶颈名单里。",
-      "tickers": [
-        "$SIVE",
-        "$COHR",
-        "$LITE",
-        "$TSM",
-        "$GFS",
-        "$TSEM"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-      "source": "Posts-logged-in-X"
     }
   ],
   "ideas": [
@@ -137,9 +120,11 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity now frames SIVE as a stress-tested photonics chokepoint with both management and external-channel reinforcement behind it. The July 10 insider-buy / roadmap-defense sequence established the base, but the July 11-12 run hardened the idea further: Rosenblatt argued optical demand can still rise even if transceivers per XPU fall, called ultra-high-power CW the ideal long-run CPO laser architecture, and treated the recent selloff as more about CPO-delay / China-capacity fear than broken fundamentals; a subscription-only channel check then said China still lacks working 200G EMLs and remains far from high-power CW readiness for NPO/CPO. By July 12, Serenity was explicitly attacking the incentive structure behind sensational supply-chain bear posts, reinforcing her view that the thesis remains intact while sentiment gets gamed. The July 14 cluster added three more validations: Morgan Stanley explicitly grouped SIVE with Coherent and Lumentum as key western CPO laser suppliers, Innolight said 800G demand is stronger than expected while silicon-photonics mix keeps rising, and Jensen publicly pushed back on delay rumors around Nvidia optical timing.",
-      "whyItMatters": "This broadens SIVE from a one-off insider-confidence rerating into a more durable scarcity-and-architecture thesis. If western CW laser capacity really remains scarce while analysts and channel checks both converge on no true CPO-process delay, SIVE has a clearer path from social-media conviction toward institutional re-entry. The newest sell-side, downstream-demand and timing datapoints also make it harder to dismiss the thesis as a purely social-media narrative. If those checks are overstated, if VCSEL bridges or Chinese alternatives narrow the gap faster than expected, or if volume timing keeps stretching, the stock can still stay volatile and narrative-driven.",
+      "thesis": "Serenity now frames SIVE as a stress-tested photonics chokepoint with both management and external-channel reinforcement behind it, and the July 16 follow-up finally adds a concrete capacity-and-valuation bridge to the story. The July 10 insider-buy / roadmap-defense sequence established the base, the July 11-14 run hardened the ecosystem case through Rosenblatt, a subscriber channel check, Morgan Stanley, Innolight and Jensen, and the newest post takes the next step: using a low-end Win Semi allocation plus 65% yield and $50-$75 array ASPs to show how even partial qualified InP capacity could translate into very large annual array revenue and gross profit relative to SIVE's current market cap. Serenity also says Sivers is working with more fabs, that future pipeline projections could rise as more suppliers qualify into HVM, and that open-market CW purchases plus AMD LTAs reinforce the idea that fresh qualified capacity would be absorbed quickly.",
+      "whyItMatters": "This broadens SIVE from a scarcity-and-architecture narrative into a more falsifiable capacity-conversion case. If western CW laser scarcity is real and SIVE can secure even a modest slice of qualified Win Semi-style InP capacity, the company no longer needs heroic market-share assumptions to support material gross-profit upside versus its present valuation. The new modeling also gives the thesis a bridge from ecosystem validation toward financial imagination; if the capacity math, ASP assumptions or downstream HVM timing are wrong, that same specificity will make disappointment easier to expose.",
       "catalysts": [
+        "Management says Sivers is working with more fabs, which could expand qualified InP capacity beyond the current base case",
+        "Serenity modeled a low-end Win Semi allocation as potentially enough to support substantial annual gross profit relative to SIVE's current market cap",
         "Three new insider purchases on July 10, including CEO Vikram's 1,000,000 SEK open-market buy",
         "Upsized SEK 700M institutional financing completed at 57 SEK and described as multiple times oversubscribed",
         "Intent to complete the NASDAQ listing process over the next few quarters",
@@ -161,6 +146,8 @@
         "The photonics theme is still framed as early, with the heavier revenue ramp likely in 2027 H1/H2"
       ],
       "risks": [
+        "Even if gross-profit math looks attractive on paper, HVM timing, customer mix and real realized ASPs could still disappoint",
+        "The July 16 Win Semi / ASP / yield framework is still a scenario model and may overstate how much qualified capacity SIVE can actually secure",
         "The 57 SEK financing still creates dilution and must translate into real laser/amplifier output and customer revenue",
         "CEO and insider buying improve optics but do not by themselves prove 2027 revenue conversion or customer ramp timing",
         "NASDAQ-listing intent is still management-guidance language until formal milestones, filings and exchange steps are disclosed",
@@ -178,6 +165,8 @@
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Track whether Sivers actually discloses more qualified fabs, capacity additions or pipeline revisions over the next few quarters",
+        "Pressure-test the Win Semi wafer-capacity, yield and ASP assumptions against supplier disclosures and peer economics",
         "Read the Swedish insider filings for the July 10 CEO purchase and the two other insider buys, including price, role and post-trade ownership",
         "Track formal NASDAQ-listing milestones, advisors and company disclosures over the next few quarters",
         "Verify exact GFS reference-design language and whether it implies customer revenue rather than only ecosystem placement",
@@ -191,8 +180,13 @@
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings",
         "Read the Morgan Stanley CPO note plus Innolight IR transcript and separate ecosystem validation from direct SIVE revenue evidence"
       ],
-      "lastUpdated": "2026-07-14 09:51",
+      "lastUpdated": "2026-07-16 22:54",
       "evidence": [
+        {
+          "date": "2026-07-16 22:54",
+          "quote": "Serenity modeled SIVE on a low-end Win Semi allocation and argued that even 10%-15% of that capacity could imply substantial annual gross profit relative to today's market cap, while saying new qualified capacity would likely be absorbed quickly.",
+          "url": "https://x.com/aleabitoreddit/status/2077768896061563339"
+        },
         {
           "date": "2026-07-14 09:51",
           "quote": "Serenity said Jensen pushed back on delay rumors and that Nvidia's 800V and rack-to-rack optical interconnect timing was still on plan with no material delay.",
@@ -2030,58 +2024,53 @@
       "name": "AI memory shortage / Samsung / SK Hynix",
       "tier": "watch",
       "theme": "AI memory shortage / HBM cycle",
-      "thesis": "Serenity now explicitly pairs Memory with Photonics as a top AI-buildout theme, and the July 7 Samsung post gave the memory branch a sharper real-time proof point. She argues the market doubted memory pricing could keep climbing, yet Samsung still hiked DRAM prices by about 20% and delivered operating-profit growth of roughly 1803% year over year. In her framing, that mismatch shows investors are still underestimating how durable memory tightness and earnings power can be.",
-      "whyItMatters": "The update moves the memory thesis from a broad supply-tightness narrative toward a cleaner company-level pricing-power and earnings-validation case. If Samsung and peers can keep raising prices while the market still treats the cycle as fragile, profit revisions for memory leaders may keep compounding; if the post-earnings selloff is correctly discounting peak-cycle risk, crowding and timing risk remain central.",
+      "thesis": "Serenity's July 17 refresh pushes the memory line from a generic AI-tightness theme toward a more explicit duration-and-contracting thesis. The July 7 Samsung pricing proof point still matters, but the newest run layered on four fresh signals: Meritz argued the market remains far too bearish on Korean memory even as DRAM fulfillment may drop to roughly 75%-80% in H2 2026 and into the 60% range in 2027; Micron just signed a new memory LTA with Qualcomm; Serenity read Micron's post-announcement selloff as deleveraging rather than broken demand; and she continues to treat low headline valuation on Samsung / SK Hynix against multi-year tightness as evidence the cycle is still being under-modeled.",
+      "whyItMatters": "This makes the memory idea less about a one-off price spike and more about whether AI memory shortages are now durable enough to force long-term contracting, sustained earnings revisions and a broader rerating of Korean memory names plus Micron. If supply really cannot satisfy 2026-2027 demand and LTAs keep stacking, the market may still be underestimating how long pricing power lasts; if current weakness is instead the market correctly discounting peak-cycle profits, then crowding, valuation and cycle-turn timing remain the main hazards.",
       "catalysts": [
+        "Meritz argued the market is still excessively misreading Samsung / SK Hynix memory fundamentals",
+        "Meritz projected H2 2026 DRAM fulfillment around 75%-80% and a possible drop into the 60% range in 2027",
+        "Micron announced a new memory LTA with Qualcomm, reinforcing the long-duration demand-contract thesis",
+        "Serenity says Micron's sharp same-day selloff looked more like deleveraging than company-specific deterioration",
+        "Low headline valuation on Samsung and SK Hynix is being used as evidence that memory earnings power may still be under-modeled",
         "NVDA CEO warning that memory shortage may persist for many years",
         "AI infrastructure scaling demand continues to pressure memory supply",
         "Operating-profit projections for MU and Korean memory leaders may be revised upward",
-        "Potential further Nvidia announcements around memory and optical networking",
-        "Korean memory equities reaching new highs after earlier extreme-bubble warnings",
-        "Serenity says Micron plus memory is playing out well and points to MU around a $1.23T market cap",
-        "Samsung Electronics and SK Hynix were part of her memory theme from 2025",
-        "SNDK was added as a concentrated memory-theme expression in January",
-        "EWY long exposure benefited from Korean memory strength",
-        "AI capex framework says upstream semiconductors such as SK Hynix do not look like a bubble",
-        "Serenity says memory and photonics are her two top themes",
-        "She cited strong moves in MU, SNDK, EWY, SK Hynix and Samsung after broad bearishness three months earlier",
-        "She suggests current optical projections into 2027/2028 may deserve similar independent thinking",
-        "MU CEO said humanoid robots may need roughly 10x the memory of today’s L2+ autonomous vehicles, according to Serenity’s cited post",
-        "Elon Musk commented that production shortfall relative to demand is severe, which Serenity reads as support for MU / SK Hynix / Samsung memory tightness",
-        "Memory held up better than photonics/software/space during the late-June high-beta drawdown in Serenity’s framing",
-        "Samsung reportedly hiked DRAM pricing by about 20% while operating profit grew roughly 1803% year over year"
+        "Samsung reportedly hiked DRAM pricing by about 20% while operating profit grew roughly 1803% year over year",
+        "SNDK remains a more concentrated side branch of the broader memory-theme basket"
       ],
       "risks": [
         "Memory remains cyclical if supply catches up faster than expected",
-        "EWY is a broad Korea ETF and not pure Samsung/SK Hynix exposure",
-        "NVDA commentary is a sector signal, not company-specific guidance for MU or EWY",
-        "Valuation may already price a durable HBM shortage",
-        "Interpreting negative research as a liquidity motive is speculative and should not replace supply-demand analysis",
+        "The Meritz supply-fulfillment projections are still sell-side read-throughs rather than company guidance",
+        "Micron signing LTAs does not by itself prove that margins or pricing remain near peak for multiple years",
+        "Post-selloff stabilization can still fail if the market is correctly pricing peak-cycle risk",
+        "EWY is a broad Korea ETF and not pure Samsung / SK Hynix exposure",
         "Large prior moves increase valuation and crowding risk even if the structural memory thesis remains intact",
-        "Memory upcycle can still reverse if supply growth catches demand faster than expected",
-        "EWY remains a broad Korea ETF and includes non-memory exposures",
-        "The post is retrospective and does not guarantee further memory upside",
-        "Large post-rally moves raise valuation and cycle-timing risk",
-        "Humanoid and physical-AI memory demand is still a long-horizon forecast and can be over-discounted before revenue arrives",
-        "Memory outperformance during an optical drawdown can increase crowding and valuation risk",
-        "Even strong Samsung earnings may not prevent a selloff if investors think pricing is near a cyclical peak"
+        "Separating HBM tightness from broader DRAM / NAND cycle dynamics remains necessary",
+        "Physical-AI and long-horizon demand projections can be over-discounted or delayed before they show up in revenue"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
-        "Verify the NVDA CEO memory-shortage comments from the original event",
-        "Compare MU, Samsung and SK Hynix HBM capacity plans versus demand forecasts",
+        "Read the Meritz note directly and separate hard supply assumptions from Serenity's synthesis",
+        "Compare current Samsung, SK Hynix and Micron earnings expectations with the implied 2026-2027 shortage scenario",
+        "Verify Micron / Qualcomm LTA scope, duration and whether it implies broader contract tightening",
         "Separate HBM shortage from commodity DRAM/NAND cycle dynamics",
-        "Check EWY weightings and whether it is an efficient expression of Samsung/SK Hynix profit revisions",
-        "Compare the March Bank of America KOSPI note with subsequent earnings revisions and memory pricing",
-        "Check MU market cap, earnings revisions and HBM/DRAM supply plans after the latest move",
-        "Compare Samsung/SK Hynix memory pricing and capex with hyperscaler demand projections into 2028",
-        "Quantify SNDK and EWY purity to the AI memory thesis",
-        "Compare current memory earnings estimates with Serenity-style independent projections",
-        "Track whether 2027/2028 memory profitability assumptions are already priced in",
-        "Compare Samsung's latest DRAM pricing and operating-profit print with current consensus expectations"
+        "Check whether EWY is still an efficient expression of Samsung / SK Hynix profit revisions",
+        "Compare Samsung / SK Hynix valuation, pricing power and capex plans versus hyperscaler demand growth into 2028",
+        "Track whether the market continues treating post-LTA memory weakness as deleveraging rather than thesis break",
+        "Quantify SNDK and other smaller memory expressions versus the core Samsung / SK Hynix / Micron line"
       ],
-      "lastUpdated": "2026-07-07 08:54",
+      "lastUpdated": "2026-07-17 20:02",
       "evidence": [
+        {
+          "date": "2026-07-16 21:54",
+          "quote": "Serenity said Micron's new memory LTA with Qualcomm made the post-announcement selloff look more like deleveraging and margin-cascade behavior than broken memory demand.",
+          "url": "https://x.com/aleabitoreddit/status/2077753660592033828"
+        },
+        {
+          "date": "2026-07-17 11:16",
+          "quote": "Serenity cited Meritz saying the market is still misunderstanding semis, with DRAM fulfillment only around 75%-80% in H2 2026 and potentially in the 60% range in 2027, while framing Micron's contracting as evidence of structural memory demand.",
+          "url": "https://x.com/aleabitoreddit/status/2077955479742173422"
+        },
         {
           "date": "2026-07-07 08:54",
           "quote": "Serenity pointed to Samsung hiking DRAM prices by about 20% and posting roughly 1803% year-over-year operating-profit growth, arguing the market was still too skeptical on memory earnings durability.",
