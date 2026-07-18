@@ -122,11 +122,11 @@ const zhCopy = {
   },
   nbis: {
     theme: "Neocloud / AI 基础设施融资结构",
-    thesis: "Serenity 现在把 NBIS 放在一轮更硬的 Meta capex reset 之下，而不再只是发言人口径修复。7 月 8 日她先引用 Meta 发言人说公司仍渴求更多算力；随后又补上加拿大 100 亿美元数据中心，以及一份内部 memo 所列的 Samsung / SNDK memory LTAs、Sumitomo fiber LTAs、今年约 7GW 算力部署和 2027 再翻倍等信息。对她来说，这让 NBIS 更像 Meta overflow compute 没有消失时的 cleaner neocloud read-through。7 月 14 日又多了更贴公司的 datapoint：NBIS 与 Reflection AI 签下覆盖到 2029 年的 10 亿美元以上 GB300 算力协议，但 Serenity 也马上提醒，市场显然在怀疑对手方有没有能力兑现这么大的长期承诺。",
-    whyItMatters: "NBIS 不再只是“资本结构比同行好”的对照组，而是被放进一个更扎实的 hyperscaler demand-duration 框架里。若 Meta 真的同时锁 memory、fiber、datacenter 和 chip cadence，融资结构更干净的 neocloud 玩家理论上更值得重估；Reflection AI 这笔单也让 NBIS 开始出现更直接的客户多元化证据，但同时提醒市场，neocloud 里合同质量和对手方信用并不比 headline size 次要。反之，若这些更新最后证明只是 PR / 媒体口径而非直接需求传导，NBIS 仍会退回到高 beta 情绪资产。",
-    catalysts: ["Meta 发言人称仍在推进昂贵数据中心并已与 $CRWV、Google、$ORCL 等签下重大算力协议", "Serenity 转述的内部 memo 增加了 Samsung、$SNDK 和 Sumitomo Electric LTAs，以及今年约 7GW 算力部署与 2027 再翻倍口径", "Meta 加拿大 100 亿美元数据中心进一步反驳了 capex 收缩叙事", "Meta 拟建立云业务、出售 excess AI compute，为 AI capacity intermediation 提供新叙事", "Serenity 认为 Meta 已签下 480 亿美元以上 neocloud 合同，说明 overflow demand 仍在", "NBIS 签下 Reflection AI 的 10 亿美元以上 GB300 长约，为客户多元化提供更直接 datapoint", "Serenity 认为这类客户多元化长期偏正面，即便市场短线在质疑对手方资金实力", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
-    risks: ["Neocloud 标的对融资条件和 AI capex 情绪依旧高度敏感", "即便总需求增长，Meta 等 hyperscaler 也可能压缩 reseller / neocloud 的利润空间", "加拿大数据中心、LTA 和 1450 亿美元 capex 口径仍需更强的一手验证", "Meta 供应链扩张并不自动等于 NBIS 直接受益", "IREN 这类 ATM overhang 仍可能拖累整条板块", "子公司和持股价值需要独立核实", "若这轮更新更多只是 damage control，修复线会迅速降温", "大型算力长约若缺少资金与执行能力背书，反而会把市场焦点拉回 counterparty risk"],
-    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "核实 Meta 云业务方案、480 亿美元以上合同说法以及 NBIS 是否直接受益", "核实加拿大数据中心、Samsung / SNDK / Sumitomo LTAs 与 7GW / 2027 翻倍口径是否在一手资料中成立", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "量化 Avride 和 ClickHouse 持股 / 估值贡献", "核实 Reflection AI 的融资、部署时间线与协议经济性，看这笔合同是否会转成可见 backlog 或收益"],
+    thesis: "Serenity 现在把 NBIS 放在一轮更硬的 Meta capex reset 之下，而不再只是发言人口径修复。7 月 8 日她先引用 Meta 发言人说公司仍渴求更多算力；随后又补上加拿大 100 亿美元数据中心，以及一份内部 memo 所列的 Samsung / SNDK memory LTAs、Sumitomo fiber LTAs、今年约 7GW 算力部署和 2027 再翻倍等信息。对她来说，这让 NBIS 更像 Meta overflow compute 没有消失时的 cleaner neocloud read-through。7 月 14 日又多了更贴公司的 datapoint：NBIS 与 Reflection AI 签下覆盖到 2029 年的 10 亿美元以上 GB300 算力协议，但 Serenity 也马上提醒，市场显然在怀疑对手方有没有能力兑现这么大的长期承诺。7 月 18 日的新变化是：如果 Meta 真的在洽谈向 Anthropic 租出约 100 亿美元算力，那说明 hyperscaler 也开始把算力中介/转租模式做成一门生意，而不只是 neocloud 的短暂缝隙。",
+    whyItMatters: "NBIS 不再只是“资本结构比同行好”的对照组，而是被放进一个更扎实的 hyperscaler demand-duration 框架里。若 Meta 真的同时锁 memory、fiber、datacenter 和 chip cadence，融资结构更干净的 neocloud 玩家理论上更值得重估；Reflection AI 这笔单也让 NBIS 开始出现更直接的客户多元化证据，但同时提醒市场，neocloud 里合同质量和对手方信用并不比 headline size 次要。Meta/Anthropic 这条新线索的重要性在于，它暗示 overflow compute 的商业模式本身在被更上游玩家验证；但这也意味着市场要更严谨地区分“模式成立”和“NBIS 一定是主要受益者”并不是同一件事。",
+    catalysts: ["Meta 发言人称仍在推进昂贵数据中心并已与 $CRWV、Google、$ORCL 等签下重大算力协议", "Serenity 转述的内部 memo 增加了 Samsung、$SNDK 和 Sumitomo Electric LTAs，以及今年约 7GW 算力部署与 2027 再翻倍口径", "Meta 加拿大 100 亿美元数据中心进一步反驳了 capex 收缩叙事", "Meta 拟建立云业务、出售 excess AI compute，为 AI capacity intermediation 提供新叙事", "Serenity 认为 Meta 已签下 480 亿美元以上 neocloud 合同，说明 overflow demand 仍在", "Serenity 认为 Meta 若向 Anthropic 租出约 100 亿美元算力，将进一步验证 neocloud-style capacity intermediation", "NBIS 签下 Reflection AI 的 10 亿美元以上 GB300 长约，为客户多元化提供更直接 datapoint", "Serenity 认为这类客户多元化长期偏正面，即便市场短线在质疑对手方资金实力", "NBIS 相比 IREN、CRWV 有更好的融资结构", "Avride 与 ClickHouse 暴露带来资产组合重估可能"],
+    risks: ["Neocloud 标的对融资条件和 AI capex 情绪依旧高度敏感", "即便总需求增长，Meta 等 hyperscaler 也可能压缩 reseller / neocloud 的利润空间", "如果 hyperscaler 自己成为 overflow compute 的首选房东，NBIS 能分到的价值池可能比预期小", "加拿大数据中心、LTA 和 1450 亿美元 capex 口径仍需更强的一手验证", "Meta 供应链扩张并不自动等于 NBIS 直接受益", "IREN 这类 ATM overhang 仍可能拖累整条板块", "子公司和持股价值需要独立核实", "若这轮更新更多只是 damage control，修复线会迅速降温", "大型算力长约若缺少资金与执行能力背书，反而会把市场焦点拉回 counterparty risk"],
+    nextChecks: ["核实 NBIS 当前债务、现金和融资结构", "比较 CRWV 利息负担、IREN ATM 稀释与 NBIS 资本结构", "核实 Meta 云业务方案、480 亿美元以上合同说法以及 NBIS 是否直接受益", "核实加拿大数据中心、Samsung / SNDK / Sumitomo LTAs 与 7GW / 2027 翻倍口径是否在一手资料中成立", "检查 IREN、CRWV、NBIS 当前 ATM 授权、股本变化和 float", "量化 Avride 和 ClickHouse 持股 / 估值贡献", "核实 Meta 向 Anthropic 租算力的报道、经济性与其对 NBIS 护城河究竟是增强还是稀释", "核实 Reflection AI 的融资、部署时间线与协议经济性，看这笔合同是否会转成可见 backlog 或收益"],
   },
   xintech: {
     theme: "TSM 测试子公司 / COUPE 供应商线索",
@@ -409,13 +409,15 @@ const zhCopy = {
   },
   "ai-memory": {
     theme: "AI 存储短缺 / HBM 周期",
-    thesis: "7 月 17 日这轮更新把 memory 主线从“AI 带动供需偏紧”的大方向，继续推进成更明确的 duration-and-contracting thesis。7 月 7 日 Samsung 提价与盈利强势仍是起点，但最新一轮又多了四个信号：Meritz 直接说市场仍在严重误判韩国 memory，认为 2026 年下半年 DRAM fulfillment ratio 可能只有 75%-80%，2027 还可能掉到 60% 区间；$MU 刚和 $QCOM 签下新的 memory LTA；Micron 利好落地后的下跌被 Serenity 视作去杠杆和 margin cascade，而不是需求破坏；她也继续把 Samsung / SK Hynix 低估值与多年度紧张并列，认为市场仍没把 memory earnings power 算够。",
-    whyItMatters: "这让 memory thesis 不再只是一次性的 price spike 或财报印证，而更像在问：AI memory shortage 是否已经长到足以迫使更长期合同、持续盈利修正，以及韩国 memory 龙头与 Micron 的进一步重估。若 2026-2027 的供给确实跟不上需求、且 LTAs 持续增加，市场可能仍低估 pricing power 的持续时间；反过来，如果现在的弱势其实是在提前交易 peak-cycle 利润，那估值、拥挤度和 cycle-turn timing 还是最大风险。",
+    thesis: "7 月 18 日这轮更新让 memory 主线从“duration-and-contracting thesis”再往前走了一步，开始加入更明确的 market-structure 变量。7 月 7 日 Samsung 提价与盈利强势仍是起点，7 月 17 日又叠加了 Meritz 对韩国 memory 的再定价逻辑、$MU 与 $QCOM 的新 LTA，以及 Serenity 对 Micron 下跌更多来自去杠杆的解释；而 7 月 18 日的新内容则指出，韩国市场的大规模 liquidation cascade 可能正在扭曲短线价格表现，同时 $SKHY ADR 与本股 7 月 29 日起可转换，可能触发跨市场套利并压缩 ADR 溢价。",
+    whyItMatters: "这让 memory thesis 不再只是一次性的 price spike 或财报印证，而更像在问两件事：一，AI memory shortage 是否已经长到足以迫使更长期合同、持续盈利修正，以及韩国 memory 龙头与 Micron 的进一步重估；二，投资者是否需要把“memory fundamentals 正确”与“当前交易载体短线也一定正确”拆开看。若 2026-2027 的供给确实跟不上需求、且 LTAs 持续增加，市场可能仍低估 pricing power 的持续时间；但韩国去杠杆、ADR/本股价差和拥挤仓位也可能让价格在一段时间里明显偏离基本面。",
     catalysts: [
       "Meritz 认为市场仍在过度悲观看待 Samsung / SK Hynix 的 memory fundamentals",
       "Meritz 预计 2026H2 DRAM fulfillment 约为 75%-80%，2027 甚至可能落到 60% 区间",
       "$MU 与 $QCOM 新签的 memory LTA 强化了长期需求合同正在继续叠加的判断",
       "Serenity 认为 Micron 利好后急跌更像 deleveraging，而不是 memory 主线被证伪",
+      "Serenity 认为韩国市场的大规模强平与去杠杆，有助于解释近期 memory/semis 回撤更像资金面踩踏",
+      "$SKHY ADR 与韩国本股 7 月 29 日起可转换，可能打开套利并压缩美国 ADR 溢价",
       "Samsung / SK Hynix 的低 headline valuation 被她拿来当作 memory earnings 仍被低估的证据",
       "NVDA CEO 先前关于 memory shortage 可能持续多年的警告仍是上层框架",
       "7 月 7 日 Samsung 的 DRAM 提价约 20% 与 operating profits 同比约 1803% 增长仍是此前最硬的公司级验证",
@@ -426,6 +428,8 @@ const zhCopy = {
       "Meritz 的 fulfillment 预测仍是卖方 read-through，不是公司管理层正式指引",
       "Micron 签下 LTAs 并不自动等于 multi-year margin 和 pricing 都能维持在高位",
       "即使当前回撤更像去杠杆，市场也可能是在更早地交易 peak-cycle 风险",
+      "$SKHY ADR 溢价压缩可能让美国交易载体先承压，即使韩国 memory 基本面本身没坏",
+      "韩国市场的强平、ETF 与跨市场资金流仍可能在短期压过基本面",
       "EWY 不是纯 memory 暴露，韩国敞口里掺杂了不少非存储因素",
       "HBM 紧张与 broader DRAM / NAND 周期仍需拆开，否则容易把不同逻辑混成一条线",
       "physical-AI 与更长周期 memory 需求推演，仍可能被市场提前过度定价或延后兑现"
@@ -434,6 +438,8 @@ const zhCopy = {
       "直接读 Meritz 原文，把硬供需假设和 Serenity 的再演绎拆开",
       "比较 Samsung、SK Hynix 与 Micron 当前盈利预期，是否已经计入她这套 2026-2027 shortage 场景",
       "核实 $MU-$QCOM memory LTA 的范围、期限与是否意味着更广泛的合同收紧",
+      "跟踪 7 月 29 日 ADR/本股可转换事件，看溢价是通过 ADR 下跌、本股上行还是两者并行来收敛",
+      "核实韩国强平/保证金数据，把 forced-selling 效应与真实基本面恶化拆开",
       "继续把 HBM 紧张与 commodity DRAM / NAND 周期拆开看",
       "比较 Samsung / SK Hynix 的估值、capex 与 hyperscaler 需求增长是否还能支撑进一步重估",
       "量化 SNDK、EWY 等 memory 表达的纯度，区分核心主线和旁支篮子"

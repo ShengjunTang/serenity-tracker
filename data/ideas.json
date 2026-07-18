@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-07-17T20:02:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-17 20:02 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-16T20:05:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced five new main posts and the Subs tab produced no new subscription posts, with the latest visible Subs item still dated Jul 12. Eight lines now populate the rolling July 15 to July 17 latestUpdates window after the older July 14 items rolled off. The main additions were a Samsung / SK Hynix memory-tightness reinforcement, a broad semi-bottom sentiment read, a SIVE capacity-ramp / valuation model built around Win Semi allocation, and Micron's new Qualcomm memory LTA as another sign that structural demand contracts are still stacking. A separate X subscription-renewal bug complaint was reviewed as product-context noise but left out of latestUpdates because it did not add a cleaner investment read-through. ai-memory and SIVE idea-card text plus bilingual mappings were updated, and Replies remained out of scope.",
-  "summary": "7 月 17 日 20:02 这轮刷新继续直接读取登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 16 日 20:05 边界，本轮共检查 5 条新主帖，其中 4 条属于可入库的投资主线：一，Meritz/SK 海力士相关观点再次强化 2026H2-2027 的 memory shortage 与盈利弹性；二，Serenity 明确把当前从 $INTC 到 $LITE 的半导体回撤更偏向情绪与仓位出清，开始讨论阶段性 market bottom；三，她给出基于 Win Semi 低比例分配的 $SIVE 产能与 gross-profit 建模，把 scarcity thesis 往更可量化的方向推进；四，$MU 与 $QCOM 签 memory LTA 后股价却下跌，被她继续解读为结构性需求未坏、更多是去杠杆尾声。`Subs` 时间线顶部最新仍是 7 月 12 日，因此本轮没有新的订阅帖进入增量；另有一条 X 订阅续费 bug 帖被检查过，但只作为产品背景保留，未写入公开 feed。",
+  "generatedAt": "2026-07-18T20:04:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-18 20:04 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-17T20:02:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced seven new main posts and the Subs tab produced no new subscription posts, with the latest visible Subs item still dated Jul 12. Eight lines now populate the rolling July 16 to July 18 latestUpdates window after the older July 15 items rolled off. The main additions were a SK Hynix ADR/local-share convertibility arbitrage setup, a Goldman/Innolight estimate reset that reinforced the optical demand stack, a Meta-to-Anthropic compute-lease read-through that kept the neocloud thesis alive, and a Korea-liquidation post that Serenity used to frame the recent drawdown as flow-driven rather than fundamental. Two personal-transparency posts and one older thesis-reiteration quote post were reviewed but left out of latestUpdates because they did not add a cleaner public investment read-through. ai-memory and NBIS idea-card text plus bilingual mappings were updated, and Replies remained out of scope.",
+  "summary": "7 月 18 日 20:04 这轮刷新继续直接读取登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 17 日 20:02 边界，本轮共检查 7 条新主帖，其中 4 条进入公开 feed：一，$SKHY ADR 与韩国本股 7 月 29 日起可转换，Serenity 认为这会打开跨市场套利并压缩美股溢价；二，Goldman 上调 Innolight 目标价并大幅上修 2026-2028 盈利预测，被她视为对 $AAOI / $SIVE / $LITE 等 optical 链更硬的需求验证；三，$META 据报正洽谈向 Anthropic 租出约 100 亿美元算力，她把这解读为 hyperscaler 也在复制 neocloud / overflow-compute 模式；四，韩国散户强平与去杠杆数据被她拿来解释近期半导体回撤更像 liquidity cascade，而非基本面突然恶化。`Subs` 时间线顶部最新仍是 7 月 12 日，因此本轮没有新的订阅帖进入增量；另有两条个人透明度/回撤说明帖和一条已早于边界的 thesis reiteration 帖被检查过，但未写入公开 feed。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-18T12:39:54+08:00",
+      "type": "SK 海力士 ADR 溢价与可转换套利 / $SKHY",
+      "headline": "Serenity 提醒，当前美国 $SKHY ADR 相对韩国本股仍有约 25%+ 溢价，而 ADR 与本股将在 7 月 29 日开始可转换。她认为这会打开跨市场套利通道，结果可能是韩国本股被抬升、美国 ADR 溢价被压缩，或两者同时发生。对 memory 主线来说，这不是供需转弱，而是交易载体与跨市场价差开始主导短线表现。",
+      "tickers": [
+        "$SKHY",
+        "$SSNLF",
+        "$EWY"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2078338950150959558",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-18T02:22:42+08:00",
+      "type": "Innolight 预期大幅上修 / $AAOI $SIVE",
+      "headline": "Serenity 引用 Goldman Sachs 将 Innolight 目标价上调至 2581 RMB，并把 2026-2028 年盈利预测分别上修 65% / 108% / 119%。她把这视为 optical 赛道更硬的 read-through：更高的 silicon photonics 模块出货、1.6T/3.2T 拉升 ASP 与 margin、以及 AI capex 继续加码，都在强化 $AAOI / $LITE 等模块链与 $SIVE / $SOI 等上游链的需求弹性。",
+      "tickers": [
+        "$AAOI",
+        "$SIVE",
+        "$LITE",
+        "$SOI",
+        "$TSM"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-18T01:51:55+08:00",
+      "type": "Meta 向 Anthropic 租算力传闻 / $NBIS $IREN",
+      "headline": "Serenity 引用纽约时报口径称，$META 正在洽谈向 Anthropic 租出约 100 亿美元算力。她的解读不是 hyperscaler 要挤死 neocloud，而是连 hyperscaler 都开始复制 AI capacity intermediation / neocloud 模式，这反而强化了 $NBIS、$IREN 等 overflow-compute 与算力中介叙事的成立条件。",
+      "tickers": [
+        "$META",
+        "$NBIS",
+        "$IREN"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-18T00:54:04+08:00",
+      "type": "韩国去杠杆踩踏解释半导体回撤 / $EWY $SKHY",
+      "headline": "Serenity 引用韩国零售保证金/强平数据口径称，近期韩国市场可能存在大规模 liquidation cascade。她据此把近期 AI/半导体回撤更多解读为杠杆出清和流动性踩踏，而不是基本面突然恶化；这也与她此前对 Micron 利好落地后下跌、以及 memory/optical 高 beta 承压的解释保持一致。",
+      "tickers": [
+        "$EWY",
+        "$SKHY",
+        "$MU"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2078161322769068533",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-07-17T11:16:07+08:00",
       "type": "韩国 memory 紧张再强化 / $SKHY $MU",
@@ -55,61 +109,6 @@
       ],
       "severity": "medium",
       "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-15T23:53:21+08:00",
-      "type": "Apple AI capex 外溢 / $AAPL $MSFT $META",
-      "headline": "Serenity 引用 The Information 口径称，$AAPL 可能通过并购 AI 芯片公司来补齐自有 AI 基础设施。她的重点不是并购对象本身，而是如果 Apple 真的从“主要用别人模型与算力”转向更重的自建路线，那么当前由 $MSFT、$META、Amazon、Google 扛着的 AI capex 版图就可能再多出一个超大体量买家；这会对 optical networking、foundry 与上游 AI 基建需求形成额外想象，但她也承认目前仍停留在 scenario analysis，而不是已确认的资本开支指引。",
-      "tickers": [
-        "$AAPL",
-        "$MSFT",
-        "$META",
-        "$AMZN",
-        "$GOOGL"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2077421268991926703",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-15T22:54:52+08:00",
-      "type": "Jensen 再辟谣延迟 / $NVDA Rubin Ultra Kyber",
-      "headline": "围绕近期的 $NVDA 延迟传闻，Serenity 转述 Jensen 在东京的更直接说法：所谓 AI server 延迟“并不属实”，Vera Rubin 已经在 production、且会有大量产能持续放出；她同时把 Kyber 变动继续解读为架构优化而非时序后移。对她来说，这条更新的意义不只是一次 management damage control，而是说明市场正在把 technical nuance 过度外推成整条 Nvidia 供应链延迟叙事，因此她更愿意信管理层对自家 supply chain 的可见度。",
-      "tickers": [
-        "$NVDA",
-        "$TSM",
-        "$SIVE",
-        "$AAOI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2077406548012466390",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-15T11:08:23+08:00",
-      "type": "SLC NAND 涨价受益篮子 / 2344 2337 SkyHigh",
-      "headline": "Serenity 引用 TrendForce 与 Winbond Q1 2026 材料称，H2 2026 的 SLC NAND 价格可能上冲 120%-170%。她认为相比已很大的 $MU 与 Kioxia，当前更直接的受益者是 Winbond（约 15% 份额）、Macronix（约 11% 份额）以及经 Puya Semi 映射的 SkyHigh Memory（约 14% 份额）。这让 memory 主线里又多出一条更偏 niche、但弹性可能更高的小盘受益篮子。",
-      "tickers": [
-        "2344",
-        "2337",
-        "SkyHigh",
-        "$MU"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2077228758491386121",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-15T09:48:14+08:00",
-      "type": "AEHR 财报后重估 / $AEHR wafer-level burn-in",
-      "headline": "Serenity 把 $AEHR 财报后的核心增量梳成三条线：一是 2027 指引达到 1.3 亿到 1.5 亿美元、Q4 bookings 约 6070 万美元、effective backlog 约 1.006 亿美元；二是 lead AI processor wafer-level burn-in 客户正在明显放量，新增 AI processor 客户也在评估；三是 memory 端完成了来自全球 NAND 龙头的 wafer-level burn-in benchmark，正在讨论 HBM/NAND development agreement，同时 silicon photonics 与 networking 客户也已开始和继续追加系统 forecast。她因此认为当前指引未必代表 2027 最终收入上限，但也提醒过去一个月股价从 116 到 60 再到 94 的波动极大。",
-      "tickers": [
-        "$AEHR",
-        "$SNDK"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2077208587005542464",
       "source": "Posts-logged-in-X"
     }
   ],
@@ -769,13 +768,14 @@
       "name": "Nebius Group",
       "tier": "watch",
       "theme": "Neocloud / AI infrastructure financing structure",
-      "thesis": "Serenity now uses NBIS as her cleaner Neocloud expression inside a much harder Meta capex reset. The July 8 public post started with a spokesperson-led demand-duration repair, but the July 8 evening Canada-datacenter post and the July 9 leaked internal memo pushed the story further: Meta was not only still hungry for compute, it was reportedly building a new $10B Canada datacenter, signing LTAs with Samsung, $SNDK and Sumitomo Electric, targeting roughly 7GW of compute this year and doubling again in 2027, with capex as high as $145B. In her framing, NBIS is the cleaner balance-sheet read-through on that overflow-compute persistence. The July 14 Reflection AI agreement added a more company-specific datapoint: NBIS signed a $1B-plus GB300 compute deal through 2029, but Serenity immediately flagged that the market was questioning whether the counterparty can actually fund and execute LTAs of that size.",
-      "whyItMatters": "This shifts NBIS from a sentiment-repair trade into a stronger demand-stack read-through. If Meta is really locking memory, fiber, new datacenters and faster chip cadence rather than merely doing PR cleanup, then neocloud intermediaries with less toxic financing could re-rate again. The Reflection AI deal also starts to move NBIS from pure hyperscaler read-through toward explicit customer-diversification evidence, while reminding investors that neocloud contract quality matters as much as headline size. If the memo, Canada project and contract language never translate into direct leasing demand or customer evidence for NBIS, the thesis can still collapse back into broad AI-capex beta.",
+      "thesis": "Serenity now uses NBIS as her cleaner Neocloud expression inside a much harder Meta capex reset. The July 8 public post started with a spokesperson-led demand-duration repair, but the July 8 evening Canada-datacenter post and the July 9 leaked internal memo pushed the story further: Meta was not only still hungry for compute, it was reportedly building a new $10B Canada datacenter, signing LTAs with Samsung, $SNDK and Sumitomo Electric, targeting roughly 7GW of compute this year and doubling again in 2027, with capex as high as $145B. In her framing, NBIS is the cleaner balance-sheet read-through on that overflow-compute persistence. The July 14 Reflection AI agreement added a more company-specific datapoint: NBIS signed a $1B-plus GB300 compute deal through 2029, but Serenity immediately flagged that the market was questioning whether the counterparty can actually fund and execute LTAs of that size. The July 18 Meta-to-Anthropic lease talk added another twist: if a hyperscaler is willing to rent out roughly $10B of compute, Serenity reads that as further proof that AI-capacity intermediation is becoming a real business model rather than a temporary neocloud loophole.",
+      "whyItMatters": "This shifts NBIS from a sentiment-repair trade into a stronger demand-stack read-through. If Meta is really locking memory, fiber, new datacenters and faster chip cadence rather than merely doing PR cleanup, then neocloud intermediaries with less toxic financing could re-rate again. The Reflection AI deal also starts to move NBIS from pure hyperscaler read-through toward explicit customer-diversification evidence, while reminding investors that neocloud contract quality matters as much as headline size. The new Meta/Anthropic framing matters because it suggests even hyperscalers may monetize overflow compute rather than treating it as an edge case, but it also raises the bar for proving where independent neocloud operators keep an advantage. If the memo, Canada project and contract language never translate into direct leasing demand or customer evidence for NBIS, the thesis can still collapse back into broad AI-capex beta.",
       "catalysts": [
         "Meta spokesperson said the company is still hungry for more compute, is still building expensive datacenters and recently signed major deals with CRWV, Google and ORCL",
         "Serenity says Meta's internal memo now adds LTAs with Samsung, SNDK and Sumitomo Electric plus 7GW of compute this year and a doubling in 2027",
         "Reported $10B Meta datacenter project in Canada further weakens the overbuild / capex-pullback narrative",
         "Meta's planned cloud business and excess-compute resale add a fresh market-expansion narrative around AI capacity intermediation",
+        "Serenity reads Meta's reported talks to lease about $10B of compute to Anthropic as validation that hyperscalers are adopting neocloud-style capacity intermediation",
         "Serenity says Meta's more than $48B of neocloud contracts suggest overflow demand is still real rather than disappearing",
         "NBIS signed a $1B-plus Reflection AI GB300 compute agreement through 2029, adding a fresher company-specific demand datapoint",
         "Serenity says the Reflection agreement is broadly positive for customer diversification even though the market is questioning counterparty funding quality",
@@ -787,6 +787,7 @@
       "risks": [
         "Neocloud names remain highly sensitive to financing terms and AI-capex sentiment even when the macro narrative improves",
         "Meta or other hyperscalers could internalize more capacity economics and pressure reseller margins even if total demand is growing",
+        "If hyperscalers themselves become the preferred landlords for overflow compute, NBIS may capture less of the value pool than Serenity expects",
         "The internal memo, Canada project and Meta contract framing all need stronger primary-source confirmation on counterparties, duration and economics",
         "Meta's supply-chain LTAs do not automatically prove NBIS is a direct beneficiary",
         "Peers with large ATM programs can still sell into rallies and create structural overhang across the basket",
@@ -804,10 +805,16 @@
         "Quantify Avride and ClickHouse ownership / valuation contribution",
         "Review current ATM authorizations, share issuance and float changes for IREN, CRWV and NBIS",
         "Verify whether Meta's newly cited compute deals or datacenter plans create direct demand read-through for NBIS rather than only broad neocloud sentiment support",
+        "Verify the reported Meta-to-Anthropic compute-lease talks, economics and whether they strengthen or dilute NBIS's edge versus hyperscaler-run overflow capacity",
         "Check Reflection AI's funding, deployment timeline, contract structure and whether the GB300 agreement will translate into visible backlog or economics for NBIS"
       ],
-      "lastUpdated": "2026-07-14 22:57",
+      "lastUpdated": "2026-07-18 20:04",
       "evidence": [
+        {
+          "date": "2026-07-18 01:51",
+          "quote": "Serenity said Meta talking about leasing roughly $10B of compute to Anthropic validated the neocloud-style business model rather than disproving it.",
+          "url": "https://x.com/aleabitoreddit/status/2078175882620059719"
+        },
         {
           "date": "2026-07-14 22:57",
           "quote": "Serenity highlighted NBIS's $1B-plus GB300 compute agreement with Reflection AI through 2029, while warning that the market may doubt whether the counterparty can fully fund those LTAs yet.",
@@ -2024,13 +2031,15 @@
       "name": "AI memory shortage / Samsung / SK Hynix",
       "tier": "watch",
       "theme": "AI memory shortage / HBM cycle",
-      "thesis": "Serenity's July 17 refresh pushes the memory line from a generic AI-tightness theme toward a more explicit duration-and-contracting thesis. The July 7 Samsung pricing proof point still matters, but the newest run layered on four fresh signals: Meritz argued the market remains far too bearish on Korean memory even as DRAM fulfillment may drop to roughly 75%-80% in H2 2026 and into the 60% range in 2027; Micron just signed a new memory LTA with Qualcomm; Serenity read Micron's post-announcement selloff as deleveraging rather than broken demand; and she continues to treat low headline valuation on Samsung / SK Hynix against multi-year tightness as evidence the cycle is still being under-modeled.",
-      "whyItMatters": "This makes the memory idea less about a one-off price spike and more about whether AI memory shortages are now durable enough to force long-term contracting, sustained earnings revisions and a broader rerating of Korean memory names plus Micron. If supply really cannot satisfy 2026-2027 demand and LTAs keep stacking, the market may still be underestimating how long pricing power lasts; if current weakness is instead the market correctly discounting peak-cycle profits, then crowding, valuation and cycle-turn timing remain the main hazards.",
+      "thesis": "Serenity's July 18 refresh keeps pushing the memory line away from a generic AI-tightness theme and toward a duration-plus-market-structure thesis. The July 7 Samsung pricing proof point still matters, and the July 17 run already layered in Meritz's bearish-consensus challenge, Micron's new Qualcomm LTA and a deleveraging explanation for Micron's selloff. The newest posts add two more refinements: Serenity now argues Korean-market liquidation pressure has been distorting semis and memory price action more than fundamentals have, and she flags that SK Hynix ADR/local-share convertibility on July 29 could open a major arbitrage path that compresses the ADR premium even while the underlying shortage thesis remains intact.",
+      "whyItMatters": "This makes the memory idea less about a one-off price spike and more about whether AI memory shortages are now durable enough to force long-term contracting, sustained earnings revisions and a broader rerating of Korean memory names plus Micron, while also requiring investors to separate the thesis from the trading vehicle. If supply really cannot satisfy 2026-2027 demand and LTAs keep stacking, the market may still be underestimating how long pricing power lasts; but Korean liquidation cascades, ADR/local-share spread mechanics and crowded positioning can still overwhelm fundamentals for stretches even if the structural demand story is right.",
       "catalysts": [
         "Meritz argued the market is still excessively misreading Samsung / SK Hynix memory fundamentals",
         "Meritz projected H2 2026 DRAM fulfillment around 75%-80% and a possible drop into the 60% range in 2027",
         "Micron announced a new memory LTA with Qualcomm, reinforcing the long-duration demand-contract thesis",
         "Serenity says Micron's sharp same-day selloff looked more like deleveraging than company-specific deterioration",
+        "Serenity says Korean liquidation cascades help explain why recent semis weakness looked more flow-driven than fundamental",
+        "SK Hynix ADR/local-share convertibility on July 29 may unlock arbitrage and compress the US ADR premium even if the underlying memory thesis is unchanged",
         "Low headline valuation on Samsung and SK Hynix is being used as evidence that memory earnings power may still be under-modeled",
         "NVDA CEO warning that memory shortage may persist for many years",
         "AI infrastructure scaling demand continues to pressure memory supply",
@@ -2043,6 +2052,8 @@
         "The Meritz supply-fulfillment projections are still sell-side read-throughs rather than company guidance",
         "Micron signing LTAs does not by itself prove that margins or pricing remain near peak for multiple years",
         "Post-selloff stabilization can still fail if the market is correctly pricing peak-cycle risk",
+        "SK Hynix ADR premium compression can hurt the US vehicle even if Korean memory fundamentals stay strong",
+        "Korean-market deleveraging and ETF/ADR flow distortions can swamp fundamentals over shorter windows",
         "EWY is a broad Korea ETF and not pure Samsung / SK Hynix exposure",
         "Large prior moves increase valuation and crowding risk even if the structural memory thesis remains intact",
         "Separating HBM tightness from broader DRAM / NAND cycle dynamics remains necessary",
@@ -2053,14 +2064,26 @@
         "Read the Meritz note directly and separate hard supply assumptions from Serenity's synthesis",
         "Compare current Samsung, SK Hynix and Micron earnings expectations with the implied 2026-2027 shortage scenario",
         "Verify Micron / Qualcomm LTA scope, duration and whether it implies broader contract tightening",
+        "Track the July 29 ADR/local-share convertibility event and measure whether the premium compresses through arbitrage, local-share strength or both",
+        "Verify the Korean liquidation statistics and separate forced-selling effects from real earnings or demand deterioration",
         "Separate HBM shortage from commodity DRAM/NAND cycle dynamics",
         "Check whether EWY is still an efficient expression of Samsung / SK Hynix profit revisions",
         "Compare Samsung / SK Hynix valuation, pricing power and capex plans versus hyperscaler demand growth into 2028",
         "Track whether the market continues treating post-LTA memory weakness as deleveraging rather than thesis break",
         "Quantify SNDK and other smaller memory expressions versus the core Samsung / SK Hynix / Micron line"
       ],
-      "lastUpdated": "2026-07-17 20:02",
+      "lastUpdated": "2026-07-18 20:04",
       "evidence": [
+        {
+          "date": "2026-07-18 12:39",
+          "quote": "Serenity said SK Hynix's roughly 25% ADR premium should face arbitrage pressure once ADRs and local shares become convertible on July 29.",
+          "url": "https://x.com/aleabitoreddit/status/2078338950150959558"
+        },
+        {
+          "date": "2026-07-18 00:54",
+          "quote": "Serenity cited Korean liquidation data as evidence that recent semis weakness was being accelerated by forced deleveraging rather than a fundamental break.",
+          "url": "https://x.com/aleabitoreddit/status/2078161322769068533"
+        },
         {
           "date": "2026-07-16 21:54",
           "quote": "Serenity said Micron's new memory LTA with Qualcomm made the post-announcement selloff look more like deleveraging and margin-cascade behavior than broken memory demand.",
