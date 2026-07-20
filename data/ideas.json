@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-07-18T20:04:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-18 20:04 Beijing. Logged-in Chrome/X access succeeded again, so both Posts and Subs were checked directly from the prior 2026-07-17T20:02:00+08:00 boundary; Replies were not scanned. Relative to that boundary, the Posts tab produced seven new main posts and the Subs tab produced no new subscription posts, with the latest visible Subs item still dated Jul 12. Eight lines now populate the rolling July 16 to July 18 latestUpdates window after the older July 15 items rolled off. The main additions were a SK Hynix ADR/local-share convertibility arbitrage setup, a Goldman/Innolight estimate reset that reinforced the optical demand stack, a Meta-to-Anthropic compute-lease read-through that kept the neocloud thesis alive, and a Korea-liquidation post that Serenity used to frame the recent drawdown as flow-driven rather than fundamental. Two personal-transparency posts and one older thesis-reiteration quote post were reviewed but left out of latestUpdates because they did not add a cleaner public investment read-through. ai-memory and NBIS idea-card text plus bilingual mappings were updated, and Replies remained out of scope.",
-  "summary": "7 月 18 日 20:04 这轮刷新继续直接读取登录态 X，会话内同时检查了 `Posts + Subs`，未读取 Replies。相较 7 月 17 日 20:02 边界，本轮共检查 7 条新主帖，其中 4 条进入公开 feed：一，$SKHY ADR 与韩国本股 7 月 29 日起可转换，Serenity 认为这会打开跨市场套利并压缩美股溢价；二，Goldman 上调 Innolight 目标价并大幅上修 2026-2028 盈利预测，被她视为对 $AAOI / $SIVE / $LITE 等 optical 链更硬的需求验证；三，$META 据报正洽谈向 Anthropic 租出约 100 亿美元算力，她把这解读为 hyperscaler 也在复制 neocloud / overflow-compute 模式；四，韩国散户强平与去杠杆数据被她拿来解释近期半导体回撤更像 liquidity cascade，而非基本面突然恶化。`Subs` 时间线顶部最新仍是 7 月 12 日，因此本轮没有新的订阅帖进入增量；另有两条个人透明度/回撤说明帖和一条已早于边界的 thesis reiteration 帖被检查过，但未写入公开 feed。",
+  "generatedAt": "2026-07-20T20:07:34+08:00",
+  "sourceWindow": "Latest refresh 2026-07-20 20:07 Beijing. Logged-in Chrome/X access could not be re-established in this run, so the refresh fell back to the public `https://serenity-webhook.pages.dev/feed` Posts feed from the prior 2026-07-18T20:04:00+08:00 boundary; Subs could not be verified and Replies were not scanned. Relative to that boundary, the public Posts feed produced two new main posts: a Sunday AI-capex / frontier-model-capacity reinforcement and a new Digitimes-sourced bottleneck timeline map spanning ABF substrates, HDI boards, multilayer boards, CCL and passive components. Six lines now populate the rolling July 18 to July 20 latestUpdates window after the older July 17 and July 16 cards rolled off. The new public posts reinforced existing demand-duration and supply-chain-bottleneck framing, but did not change any tracked idea thesis enough to require idea-card or bilingual-mapping edits.",
+  "summary": "7 月 20 日 20:07 这轮刷新未能恢复登录态 X，因此改用公开 `serenity-webhook.pages.dev/feed` 只核对 `Posts`；`Subs` 未验证，Replies 未读取。相较 7 月 18 日 20:04 边界，共确认 2 条新的公开主帖：一，Serenity 继续把 Sunday AI capex 与 frontier models 缺算力解读为需求仍未见顶，偏向继续强化 compute / memory / networking 链的 duration；二，她又补了一张更结构化的瓶颈时间线表，把 ABF、HDI、多层板、CCL 以及 MLCC/电阻/钽电容/铝电解等被动件的交期与对应公司重新梳理出来，强调 AI 数据中心链条的约束并不只在 GPU 本身。`latestUpdates` 现已滚动到 7 月 18 日至 7 月 20 日，共 6 条；这轮无需改动标的卡或中文映射。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-20T14:22:41+08:00",
+      "type": "AI 数据中心瓶颈时间线更新 / ABF HDI CCL 被动件",
+      "headline": "Serenity 新贴把 AI 数据中心上游的交期瓶颈重新做了一次结构化 mapping：ABF 载板约 1 年，HDI 与多层板大约 6 个月以上，CCL 也在 6 个月以上且材料端偏紧，而 MLCC、贴片电阻、钽电容和铝电解电容则在 15-20 周到 1 年以上不等。她顺手点出 Ajinomoto、Ibiden、Unimicron、Victory Giant、WUS、TTMI、Yageo、Vishay 等对应公司，核心含义是 AI buildout 的约束并不只在算力芯片，板级材料与被动件链条也可能继续成为交付节奏和定价能力的重要瓶颈。",
+      "tickers": [
+        "$TTMI",
+        "$VSH"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2079089592385610023",
+      "source": "Posts-public-webhook"
+    },
+    {
+      "publishedAt": "2026-07-20T02:46:43+08:00",
+      "type": "AI capex 继续上修 / frontier models 仍缺算力",
+      "headline": "Serenity 用一句很短的周日帖继续强化同一判断：如果领先的 frontier models 仍然因为需求太强而处在 capacity-constrained 状态，那么 AI capex 这条线大概率还没走完。她没有在这条帖里展开具体 ticker，但语气上明显是在把最近更多 capex 的边际增量，继续解读成对 compute、memory 与 networking 需求持续性的正反馈，而不是周期尾声。",
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2078914447180263438",
+      "source": "Posts-public-webhook"
+    },
     {
       "publishedAt": "2026-07-18T12:39:54+08:00",
       "type": "SK 海力士 ADR 溢价与可转换套利 / $SKHY",
@@ -55,60 +75,6 @@
       ],
       "severity": "medium",
       "url": "https://x.com/aleabitoreddit/status/2078161322769068533",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-17T11:16:07+08:00",
-      "type": "韩国 memory 紧张再强化 / $SKHY $MU",
-      "headline": "Serenity 引用 Meritz Securities 的 Kim Sunwoo 观点称，现在并不是该卖 Samsung Electronics 和 $SKHY 的时点，市场仍在严重低估 memory 供需错配。她摘出的核心口径是：2026 年下半年 DRAM 供应商只能满足约 75%-80% 的需求，2027 年 fulfillment ratio 甚至可能掉到 60% 区间；再叠加文中给出的超低估值倍数，以及 $MU 已经签出 16 份偏 take-or-pay 的长期协议，她更倾向把 memory demand 理解成结构性紧张，而不是短周期炒作。",
-      "tickers": [
-        "$SKHY",
-        "$MU",
-        "$INTC",
-        "$SSNLF"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2077955479742173422",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-16T23:57:05+08:00",
-      "type": "半导体情绪底部判断 / $INTC $LITE",
-      "headline": "Serenity 直接给出一句情绪化但方向明确的判断：从 $INTC 到 $LITE，半导体板块可能已经接近阶段性 market bottom。她没有在这条帖里展开供应链细节，而是把盘面上的极端亏损和社媒情绪本身视作反向指标，等于把这轮回撤更多归因为拥挤仓位和 panic deleveraging，而不是基本面出现新的系统性断裂。",
-      "tickers": [
-        "$INTC",
-        "$LITE",
-        "$RDDT"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-16T22:54:42+08:00",
-      "type": "SIVE 产能建模 / $SIVE Win Semi",
-      "headline": "围绕 $SIVE 的产能与估值，Serenity 这次不再只讲 scarcity 叙事，而是给出一套更量化的 Win Semi allocation 建模：若只拿到 Win Semi 约 10% 的 InP 产能、按 65% yield 和每个 array 50-75 美元 ASP 估算，Sivers 年化 array revenue 可能对应约 3.41 亿到 5.12 亿美元，按管理层 50%-60%+ 的毛利率目标可落到约 2.05 亿到 3.07 亿美元 gross profit；若分配到 15%，gross profit 还可抬到约 3.07 亿到 4.61 亿美元。她同时补充 CEO 提到公司正和更多 fabs 合作、未来 revenue pipeline 仍可能上修，而 Lumentum 在 open market 采购 CW、$AMD 签 LTAs 锁定 CW 产能，也让她更相信新增合格产能一旦上线就会被迅速吸收。",
-      "tickers": [
-        "$SIVE",
-        "$AMD",
-        "$GFS",
-        "$JBL",
-        "$POET"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2077768896061563339",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-16T21:54:10+08:00",
-      "type": "Micron LTA 仍在加固 memory 主线 / $MU $QCOM",
-      "headline": "Serenity 注意到 $MU 宣布与 $QCOM 签下 memory LTAs，但股价当日仍下跌约 5.37%。她的解读不是对公司或 memory 主线本身出现新问题，而是这种“利好落地却继续跌”的盘面更像去杠杆和 margin cascade 的尾声；换句话说，长期协议继续在签，说明 AI / memory 的结构性需求并没有坏。",
-      "tickers": [
-        "$MU",
-        "$QCOM"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
       "source": "Posts-logged-in-X"
     }
   ],
