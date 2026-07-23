@@ -1,80 +1,88 @@
 {
-  "generatedAt": "2026-07-20T20:07:34+08:00",
-  "sourceWindow": "Latest refresh 2026-07-20 20:07 Beijing. Logged-in Chrome/X access could not be re-established in this run, so the refresh fell back to the public `https://serenity-webhook.pages.dev/feed` Posts feed from the prior 2026-07-18T20:04:00+08:00 boundary; Subs could not be verified and Replies were not scanned. Relative to that boundary, the public Posts feed produced two new main posts: a Sunday AI-capex / frontier-model-capacity reinforcement and a new Digitimes-sourced bottleneck timeline map spanning ABF substrates, HDI boards, multilayer boards, CCL and passive components. Six lines now populate the rolling July 18 to July 20 latestUpdates window after the older July 17 and July 16 cards rolled off. The new public posts reinforced existing demand-duration and supply-chain-bottleneck framing, but did not change any tracked idea thesis enough to require idea-card or bilingual-mapping edits.",
-  "summary": "7 月 20 日 20:07 这轮刷新未能恢复登录态 X，因此改用公开 `serenity-webhook.pages.dev/feed` 只核对 `Posts`；`Subs` 未验证，Replies 未读取。相较 7 月 18 日 20:04 边界，共确认 2 条新的公开主帖：一，Serenity 继续把 Sunday AI capex 与 frontier models 缺算力解读为需求仍未见顶，偏向继续强化 compute / memory / networking 链的 duration；二，她又补了一张更结构化的瓶颈时间线表，把 ABF、HDI、多层板、CCL 以及 MLCC/电阻/钽电容/铝电解等被动件的交期与对应公司重新梳理出来，强调 AI 数据中心链条的约束并不只在 GPU 本身。`latestUpdates` 现已滚动到 7 月 18 日至 7 月 20 日，共 6 条；这轮无需改动标的卡或中文映射。",
+  "generatedAt": "2026-07-23T23:24:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-23 23:24 Beijing. Logged-in Chrome/X access was restored for this run, so the tracker used the prior `data/ideas.json` boundary at `2026-07-20T20:07:34+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts produced six new high-signal main updates that made the rolling July 21 to July 23 latestUpdates window, while lower-signal market-color / benchmark-joke posts were reviewed but intentionally left out. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The new batch was strong enough to refresh the `ai-memory` and `anthropic-neocloud-colo` cards, and the matching Chinese mappings in `app.js` were updated in sync.",
+  "summary": "7 月 23 日 23:24（北京时间）这轮刷新恢复了登录态 X，按 `data/ideas.json` 里上次 `2026-07-20T20:07:34+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，这轮共纳入 6 条新的高信号主帖进入 `latestUpdates`，窗口滚动到 7 月 21 日至 7 月 23 日；另外一些偏盘面波动、段子或未落到 thesis 的帖子虽已审阅，但未写入最新消息流。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。基于 Tesla/Micron memory allocation 与 IREN/HUT/Anthropic neocloud 线索强化，这轮同步更新了 `ai-memory`、`anthropic-neocloud-colo` 两张标的卡，并补齐了对应中文映射。",
   "latestUpdates": [
     {
-      "publishedAt": "2026-07-20T14:22:41+08:00",
-      "type": "AI 数据中心瓶颈时间线更新 / ABF HDI CCL 被动件",
-      "headline": "Serenity 新贴把 AI 数据中心上游的交期瓶颈重新做了一次结构化 mapping：ABF 载板约 1 年，HDI 与多层板大约 6 个月以上，CCL 也在 6 个月以上且材料端偏紧，而 MLCC、贴片电阻、钽电容和铝电解电容则在 15-20 周到 1 年以上不等。她顺手点出 Ajinomoto、Ibiden、Unimicron、Victory Giant、WUS、TTMI、Yageo、Vishay 等对应公司，核心含义是 AI buildout 的约束并不只在算力芯片，板级材料与被动件链条也可能继续成为交付节奏和定价能力的重要瓶颈。",
+      "publishedAt": "2026-07-23T12:49:37+08:00",
+      "type": "CPU LTAs 扩散 / AI 数据中心瓶颈再确认",
+      "headline": "Serenity 引用 Reuters 口径称，$INTC 与 $AMD 正在和中国 AI 数据中心客户签 CPU LTAs，且部分 CPU 产品年初以来在中国涨价已超过 40%。她把这条线放回更大的“瓶颈投资”框架里看：memory、photonics 之外，CPU、MLCC、载板等环节也开始出现 take-or-pay 或多年的供给锁定，意味着 AI buildout 更像跨多个零部件同步收紧，而不是单一 GPU 泡沫。",
       "tickers": [
-        "$TTMI",
-        "$VSH"
+        "$INTC",
+        "$AMD",
+        "$MU",
+        "$LITE",
+        "$COHR"
       ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2079089592385610023",
-      "source": "Posts-public-webhook"
-    },
-    {
-      "publishedAt": "2026-07-20T02:46:43+08:00",
-      "type": "AI capex 继续上修 / frontier models 仍缺算力",
-      "headline": "Serenity 用一句很短的周日帖继续强化同一判断：如果领先的 frontier models 仍然因为需求太强而处在 capacity-constrained 状态，那么 AI capex 这条线大概率还没走完。她没有在这条帖里展开具体 ticker，但语气上明显是在把最近更多 capex 的边际增量，继续解读成对 compute、memory 与 networking 需求持续性的正反馈，而不是周期尾声。",
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2078914447180263438",
-      "source": "Posts-public-webhook"
-    },
-    {
-      "publishedAt": "2026-07-18T12:39:54+08:00",
-      "type": "SK 海力士 ADR 溢价与可转换套利 / $SKHY",
-      "headline": "Serenity 提醒，当前美国 $SKHY ADR 相对韩国本股仍有约 25%+ 溢价，而 ADR 与本股将在 7 月 29 日开始可转换。她认为这会打开跨市场套利通道，结果可能是韩国本股被抬升、美国 ADR 溢价被压缩，或两者同时发生。对 memory 主线来说，这不是供需转弱，而是交易载体与跨市场价差开始主导短线表现。",
-      "tickers": [
-        "$SKHY",
-        "$SSNLF",
-        "$EWY"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2078338950150959558",
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
       "source": "Posts-logged-in-X"
     },
     {
-      "publishedAt": "2026-07-18T02:22:42+08:00",
-      "type": "Innolight 预期大幅上修 / $AAOI $SIVE",
-      "headline": "Serenity 引用 Goldman Sachs 将 Innolight 目标价上调至 2581 RMB，并把 2026-2028 年盈利预测分别上修 65% / 108% / 119%。她把这视为 optical 赛道更硬的 read-through：更高的 silicon photonics 模块出货、1.6T/3.2T 拉升 ASP 与 margin、以及 AI capex 继续加码，都在强化 $AAOI / $LITE 等模块链与 $SIVE / $SOI 等上游链的需求弹性。",
+      "publishedAt": "2026-07-23T12:35:37+08:00",
+      "type": "Tesla Optimus 供应链 / Micron allocation",
+      "headline": "Serenity 摘录 $TSLA 财报电话会后认为，Optimus 已被 Elon 反复定义成“可能是史上最大产品”，而 Tesla 供应链团队也点名 memory、金属注塑、柔性电路等环节正在被重新加大投入、且不少新供应链要从零搭起。她尤其强调 Elon 对 $MU 给出“未来几年显著 allocation 且 terms 合理”的感谢，把 humanoid/physical AI 也纳入了结构性 memory demand 的验证链条。",
       "tickers": [
-        "$AAOI",
-        "$SIVE",
-        "$LITE",
-        "$SOI",
+        "$TSLA",
+        "$MU",
         "$TSM"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+      "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
       "source": "Posts-logged-in-X"
     },
     {
-      "publishedAt": "2026-07-18T01:51:55+08:00",
-      "type": "Meta 向 Anthropic 租算力传闻 / $NBIS $IREN",
-      "headline": "Serenity 引用纽约时报口径称，$META 正在洽谈向 Anthropic 租出约 100 亿美元算力。她的解读不是 hyperscaler 要挤死 neocloud，而是连 hyperscaler 都开始复制 AI capacity intermediation / neocloud 模式，这反而强化了 $NBIS、$IREN 等 overflow-compute 与算力中介叙事的成立条件。",
+      "publishedAt": "2026-07-23T05:02:27+08:00",
+      "type": "Google 2026 capex 上修 / hyperscaler 继续加码",
+      "headline": "Serenity 指出，$GOOGL 把 2026 财年 capex 指引从 $180B-$190B 上调到 $195B-$205B，并预期 2027 年还会继续显著增长。她把这视为近期 hyperscaler 对上游 semis 最直接也最强的 read-through 之一，含义是 compute、memory、optics 和 networking 这条链的需求久期还在被继续往前拉。",
       "tickers": [
-        "$META",
+        "$GOOGL",
+        "$LITE",
+        "$COHR"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2080035769062916479",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-23T04:45:31+08:00",
+      "type": "Gemini 950M 用户 / 22B tokens-min",
+      "headline": "Serenity 跟进称，$GOOGL 的 Gemini 月活已到 9.5 亿、API 吞吐达到每分钟 220 亿 tokens，较 2 月份又明显抬升。她把这组数据解读成 Google 先前“算力不够、对外 cut allocations”的直接解释，也因此继续认为 AI capex 很难很快放缓。",
+      "tickers": [
+        "$GOOGL",
+        "$META"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2080031508656746874",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-22T23:10:40+08:00",
+      "type": "AMD 下注 Anthropic / 2GW AI 算力合同",
+      "headline": "Serenity 跟进称，$AMD 计划向 Anthropic 投资 50 亿美元，而 Anthropic 反过来将签下一笔 2GW、价值数百亿美元的 AMD 最新芯片采购协议。她把这看作 $NVDA 去年与 Anthropic 路径的复制版本，含义是 frontier model 对专属算力的绑定正在从叙事走向更大规模的资本与供给承诺。",
+      "tickers": [
+        "$AMD",
+        "$NVDA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2079947242455335379",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-21T01:18:38+08:00",
+      "type": "Neocloud 合同修复 / IREN ARR 上修",
+      "headline": "Serenity 记录到 $IREN 在新 AI cloud contracts 支撑下把 ARR 目标上修到 $4B+，客户名单已包括 Microsoft、Nvidia、Perplexity 与 Figure；同时 $HUT 也因一笔 15 年、约 $9.8B 的 AI 数据中心 lease 走强。她据此认为 neocloud/colo 篮子正在从单纯的 AI compute shortage 叙事，开始得到真实合同与客户锚点的验证。",
+      "tickers": [
+        "$IREN",
+        "$HUT",
+        "$CIFR",
+        "$CLSK",
+        "$WYFI",
         "$NBIS",
-        "$IREN"
+        "$CRWV"
       ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-18T00:54:04+08:00",
-      "type": "韩国去杠杆踩踏解释半导体回撤 / $EWY $SKHY",
-      "headline": "Serenity 引用韩国零售保证金/强平数据口径称，近期韩国市场可能存在大规模 liquidation cascade。她据此把近期 AI/半导体回撤更多解读为杠杆出清和流动性踩踏，而不是基本面突然恶化；这也与她此前对 Micron 利好落地后下跌、以及 memory/optical 高 beta 承压的解释保持一致。",
-      "tickers": [
-        "$EWY",
-        "$SKHY",
-        "$MU"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2078161322769068533",
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2079254669793316962",
       "source": "Posts-logged-in-X"
     }
   ],
@@ -1997,12 +2005,14 @@
       "name": "AI memory shortage / Samsung / SK Hynix",
       "tier": "watch",
       "theme": "AI memory shortage / HBM cycle",
-      "thesis": "Serenity's July 18 refresh keeps pushing the memory line away from a generic AI-tightness theme and toward a duration-plus-market-structure thesis. The July 7 Samsung pricing proof point still matters, and the July 17 run already layered in Meritz's bearish-consensus challenge, Micron's new Qualcomm LTA and a deleveraging explanation for Micron's selloff. The newest posts add two more refinements: Serenity now argues Korean-market liquidation pressure has been distorting semis and memory price action more than fundamentals have, and she flags that SK Hynix ADR/local-share convertibility on July 29 could open a major arbitrage path that compresses the ADR premium even while the underlying shortage thesis remains intact.",
-      "whyItMatters": "This makes the memory idea less about a one-off price spike and more about whether AI memory shortages are now durable enough to force long-term contracting, sustained earnings revisions and a broader rerating of Korean memory names plus Micron, while also requiring investors to separate the thesis from the trading vehicle. If supply really cannot satisfy 2026-2027 demand and LTAs keep stacking, the market may still be underestimating how long pricing power lasts; but Korean liquidation cascades, ADR/local-share spread mechanics and crowded positioning can still overwhelm fundamentals for stretches even if the structural demand story is right.",
+      "thesis": "Serenity's July 23 refresh keeps the memory line anchored in duration and contracting, but the frame is no longer only about hyperscaler capex or Korean market structure. The July 7 Samsung pricing proof point and the July 17-18 Meritz / Micron / SK Hynix refinements still matter; the new Tesla transcript notes add that physical-AI supply chains are starting to pull on the same memory complex. Serenity highlights Elon thanking Micron for making a very significant allocation available on reasonable terms, while Tesla supply-chain commentary says new investment is already flowing into memory and other nonlinear components from scratch. In her framing, LTAs and allocation battles are spreading beyond classic cloud capex into humanoid and robotics demand as well.",
+      "whyItMatters": "This pushes the memory thesis toward a broader demand-duration map. If memory tightness is now strong enough that hyperscalers, EV / humanoid leaders and other AI-buildout players are all fighting for multi-year allocation, the cycle can stay structurally tighter for longer than a normal DRAM / NAND rebound. The flip side is that contract anecdotes, Tesla excitement and physical-AI TAM framing can outrun what current revenue actually proves, so investors still need to separate real shortage evidence from forward narrative.",
       "catalysts": [
         "Meritz argued the market is still excessively misreading Samsung / SK Hynix memory fundamentals",
         "Meritz projected H2 2026 DRAM fulfillment around 75%-80% and a possible drop into the 60% range in 2027",
         "Micron announced a new memory LTA with Qualcomm, reinforcing the long-duration demand-contract thesis",
+        "Tesla's supply-chain team said new investment is already going into memory and other nonlinear components as Optimus-related supply chains are built from scratch",
+        "Elon thanked Micron for making a very significant future allocation available to Tesla on reasonable terms despite tight memory pricing",
         "Serenity says Micron's sharp same-day selloff looked more like deleveraging than company-specific deterioration",
         "Serenity says Korean liquidation cascades help explain why recent semis weakness looked more flow-driven than fundamental",
         "SK Hynix ADR/local-share convertibility on July 29 may unlock arbitrage and compress the US ADR premium even if the underlying memory thesis is unchanged",
@@ -2017,6 +2027,7 @@
         "Memory remains cyclical if supply catches up faster than expected",
         "The Meritz supply-fulfillment projections are still sell-side read-throughs rather than company guidance",
         "Micron signing LTAs does not by itself prove that margins or pricing remain near peak for multiple years",
+        "Tesla / Optimus memory-demand commentary is still early and may not translate into near-term revenue at the same pace as the narrative",
         "Post-selloff stabilization can still fail if the market is correctly pricing peak-cycle risk",
         "SK Hynix ADR premium compression can hurt the US vehicle even if Korean memory fundamentals stay strong",
         "Korean-market deleveraging and ETF/ADR flow distortions can swamp fundamentals over shorter windows",
@@ -2030,6 +2041,7 @@
         "Read the Meritz note directly and separate hard supply assumptions from Serenity's synthesis",
         "Compare current Samsung, SK Hynix and Micron earnings expectations with the implied 2026-2027 shortage scenario",
         "Verify Micron / Qualcomm LTA scope, duration and whether it implies broader contract tightening",
+        "Verify what type of memory allocation Tesla is locking in with Micron and whether it is tied more to EV, Optimus or broader AI infrastructure",
         "Track the July 29 ADR/local-share convertibility event and measure whether the premium compresses through arbitrage, local-share strength or both",
         "Verify the Korean liquidation statistics and separate forced-selling effects from real earnings or demand deterioration",
         "Separate HBM shortage from commodity DRAM/NAND cycle dynamics",
@@ -2038,8 +2050,13 @@
         "Track whether the market continues treating post-LTA memory weakness as deleveraging rather than thesis break",
         "Quantify SNDK and other smaller memory expressions versus the core Samsung / SK Hynix / Micron line"
       ],
-      "lastUpdated": "2026-07-18 20:04",
+      "lastUpdated": "2026-07-23 12:35",
       "evidence": [
+        {
+          "date": "2026-07-23 12:35",
+          "quote": "Serenity said Tesla was investing in new memory supply chains from scratch and highlighted Elon thanking Micron for making a very significant future allocation available on reasonable terms.",
+          "url": "https://x.com/aleabitoreddit/status/2080149813065396454"
+        },
         {
           "date": "2026-07-18 12:39",
           "quote": "Serenity said SK Hynix's roughly 25% ADR premium should face arbitrage pressure once ADRs and local shares become convertible on July 29.",
@@ -2585,18 +2602,21 @@
     },
     {
       "id": "anthropic-neocloud-colo",
-      "ticker": "$IREN / $SHAZ / $WULF / $CIFR / $WYFI / $HUT",
+      "ticker": "$IREN / $NBIS / $CIFR / $WYFI / $HUT / $SHAZ",
       "name": "Anthropic neocloud / sovereign-DC basket",
       "tier": "speculative",
-      "theme": "AI data-center leases / sovereign neocloud colocation",
-      "thesis": "Serenity's earlier Anthropic-lease read-through has widened from unnamed US developers to a more geographic sovereign-compute angle. On July 5 she tied leaked Anthropic documents showing roughly 1.4GW of planned Australian capacity, or about $21.6B, to the fact that $IREN, $SHAZ and other neocloud operators have been building sovereign data-center capacity in Australia. In her framing, Anthropic's leasing appetite and sovereign-buildout chatter are beginning to connect into one demand map rather than isolated anecdotes.",
-      "whyItMatters": "If frontier labs are not only leasing capacity but also clustering demand around sovereign or geopolitically useful sites, the beneficiary set may expand from generic colocation names to operators with the right power, geography and financing. The thesis remains indirect, but it is more concrete than the earlier US-LOI basket because the July 5 post adds a specific region, power scale and public-company read-through.",
+      "theme": "AI data-center leases / neocloud contract conversion",
+      "thesis": "Serenity's neocloud / Anthropic read-through has moved past leaked sovereign-buildout documents and into public contract-and-capital-market validation. The July 5 Australia angle still anchors the geography story, but the newest posts add two more concrete pieces: IREN just lifted its ARR target to more than $4B on new AI cloud contracts while naming Microsoft, Nvidia, Perplexity and Figure as customers, and HUT rallied on a 15-year $9.8B AI data-center lease. On top of that, Serenity flagged AMD's planned $5B Anthropic investment plus a reported 2GW chip-purchase agreement as another sign that frontier-lab demand is being formalized at very large scale. In her framing, the neocloud basket is no longer only an indirect lease-rumor trade.",
+      "whyItMatters": "This turns the basket from a vague Anthropic-LOI sympathy idea into a live question about which listed operators can actually convert AI-compute scarcity into booked contracts, visible ARR and financing leverage. If frontier labs and model customers keep signing multi-year deals while upstream chip vendors underwrite dedicated capacity, neoclouds with power, counterparties and execution may deserve more than a crypto-beta discount. The remaining challenge is proving which names are true counterparties versus simply riding sector sentiment.",
       "catalysts": [
         "Anthropic pursuing its first data-center leases",
         "More than a dozen LOIs with US developers reported by The Information according to Serenity",
-        "Potential read-through to WULF, CIFR, WYFI, HUT and other unnamed colo players",
+        "Potential read-through to IREN, NBIS, CIFR, WYFI, HUT and other AI-compute operators rather than only traditional colo names",
         "Leaked Anthropic documents describe plans to secure about 1.4GW of Australian capacity, roughly $21.6B in value",
-        "Serenity connects that demand map to $IREN, $SHAZ and other neoclouds building sovereign DC capacity in Australia"
+        "Serenity connects that demand map to $IREN, $SHAZ and other neoclouds building sovereign DC capacity in Australia",
+        "IREN raised its ARR target to more than $4B on new AI cloud contracts and named Microsoft, Nvidia, Perplexity and Figure among customers",
+        "HUT surged on a 15-year, roughly $9.8B AI data-center lease",
+        "AMD's planned $5B Anthropic investment plus a reported 2GW chip deal implies frontier-lab demand is being locked in at larger scale"
       ],
       "risks": [
         "Serenity says specific winners are not named yet",
@@ -2604,18 +2624,32 @@
         "Colo names can be heavily exposed to financing, power constraints and crypto beta",
         "Need to distinguish Anthropic direct counterparties from broad sector sympathy",
         "The Australian-capacity claim comes from leaked documents and still needs primary confirmation",
-        "Sovereign-DC buildout does not prove Anthropic or other frontier-lab contracts accrue to listed operators"
+        "Sovereign-DC buildout does not prove Anthropic or other frontier-lab contracts accrue to listed operators",
+        "Headline ARR targets or long-dated lease values do not automatically translate into margin quality, financing flexibility or durable utilization",
+        "AMD's Anthropic announcement can validate demand without guaranteeing that listed neocloud names are the actual capacity winners"
       ],
       "stance": "观望",
       "nextChecks": [
         "Read The Information report and identify named developers if any",
         "Check which public colo/neocloud companies have sites matching Anthropic requirements",
-        "Compare power capacity, financing and lease pipeline for WULF, CIFR, WYFI and HUT",
+        "Compare power capacity, financing and lease pipeline for IREN, NBIS, CIFR, WYFI and HUT",
         "Verify which Australian operators actually have sovereign-capable sites, power access and construction timelines that fit Anthropic-scale demand",
-        "Check whether IREN, SHAZ or peers explicitly mention sovereign AI, government-aligned compute or Australian frontier-lab counterparties"
+        "Check whether IREN, SHAZ or peers explicitly mention sovereign AI, government-aligned compute or Australian frontier-lab counterparties",
+        "Verify IREN's new AI cloud contracts, customer concentration, contract duration and the economics behind the $4B+ ARR target",
+        "Separate AMD's Anthropic chip-commitment signal from the listed operators that will actually host or intermediate the capacity"
       ],
-      "lastUpdated": "2026-07-05 17:45",
+      "lastUpdated": "2026-07-22 23:10",
       "evidence": [
+        {
+          "date": "2026-07-22 23:10",
+          "quote": "Serenity said AMD would invest $5B in Anthropic while Anthropic signed a 2GW deal for AMD's latest chips, reading it as a repeat of the earlier Nvidia-Anthropic capacity playbook.",
+          "url": "https://x.com/aleabitoreddit/status/2079947242455335379"
+        },
+        {
+          "date": "2026-07-21 01:18",
+          "quote": "Serenity said IREN raised its ARR target to more than $4B on new AI cloud contracts and that HUT rallied on a 15-year $9.8B AI data-center lease, treating it as real contract validation for the neocloud basket.",
+          "url": "https://x.com/aleabitoreddit/status/2079254669793316962"
+        },
         {
           "date": "2026-06-12",
           "quote": "Serenity said Anthropic pursuing first DC leases and signing more than a dozen LOIs could be a tailwind for neocloud colo names such as WULF, CIFR, WYFI and HUT.",
