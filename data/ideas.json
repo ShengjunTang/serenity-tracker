@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-07-23T23:24:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-23 23:24 Beijing. Logged-in Chrome/X access was restored for this run, so the tracker used the prior `data/ideas.json` boundary at `2026-07-20T20:07:34+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts produced six new high-signal main updates that made the rolling July 21 to July 23 latestUpdates window, while lower-signal market-color / benchmark-joke posts were reviewed but intentionally left out. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The new batch was strong enough to refresh the `ai-memory` and `anthropic-neocloud-colo` cards, and the matching Chinese mappings in `app.js` were updated in sync.",
-  "summary": "7 月 23 日 23:24（北京时间）这轮刷新恢复了登录态 X，按 `data/ideas.json` 里上次 `2026-07-20T20:07:34+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，这轮共纳入 6 条新的高信号主帖进入 `latestUpdates`，窗口滚动到 7 月 21 日至 7 月 23 日；另外一些偏盘面波动、段子或未落到 thesis 的帖子虽已审阅，但未写入最新消息流。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。基于 Tesla/Micron memory allocation 与 IREN/HUT/Anthropic neocloud 线索强化，这轮同步更新了 `ai-memory`、`anthropic-neocloud-colo` 两张标的卡，并补齐了对应中文映射。",
+  "generatedAt": "2026-07-24T20:04:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-24 20:04 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-07-23T23:24:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced four new main posts after the boundary, but only two were high-signal enough for the rolling July 22 to July 24 latestUpdates window; two AMD event/social posts were reviewed and intentionally left out. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The new posts reinforced the existing AAOI/SIVE optical thesis, but they did not change core thesis, risk, or catalyst structure enough to require idea-card or bilingual-mapping edits.",
+  "summary": "7 月 24 日 20:04（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-07-23T23:24:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共核到 4 条新的主帖，其中 2 条属于高信号光学/CPO 增量，纳入 `latestUpdates`，窗口滚动到 7 月 22 日至 7 月 24 日；另外 2 条 AMD 活动/社交帖虽已审阅，但未写入最新消息流。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。新帖主要是在强化现有 AAOI/SIVE 光学主线，因此这轮未改标的卡或中文映射。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-24T08:11:00+08:00",
+      "type": "Pluggables 仍在 / SIVE CEO 继续押注 CPO",
+      "headline": "Serenity 跟进一档 $SIVE CEO 播客后表示，pluggables 未来 10 年仍会长期存在，NPO 与 CPO 未来几年会并行演进，而制造产能与原材料可得性仍是主要瓶颈。她据此回应说，$AAOI 并非会被 CPO 很快替代，反而说明光学链会沿多种架构继续扩容，合格激光器供应商仍有足够需求空间。",
+      "tickers": [
+        "$AAOI",
+        "$SIVE",
+        "$JBL",
+        "$LITE"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-24T04:46:57+08:00",
+      "type": "AMD Helios CPO 路线 / delay 报告再被反驳",
+      "headline": "Serenity 在 $AMD Advancing AI 会后引用 channel checks 称，Helios networking partners 预计 AMD 后续几代 scale-up networking 会走向 CPO，且其他 hyperscalers 与行业玩家也会沿类似方向推进。她还补充一位参与 hyperscaler CPO 项目的 AI infra 高管未看到 scale-up 供应链延迟迹象，把这条信息当作对近期 CPO delay 噪音的又一次反驳，但也明确说明这仍属非官方交流，不是 AMD 正式指引。",
+      "tickers": [
+        "$AMD",
+        "$SIVE",
+        "$AAOI"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-07-23T12:49:37+08:00",
       "type": "CPU LTAs 扩散 / AI 数据中心瓶颈再确认",
@@ -66,23 +93,6 @@
       ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2079947242455335379",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-21T01:18:38+08:00",
-      "type": "Neocloud 合同修复 / IREN ARR 上修",
-      "headline": "Serenity 记录到 $IREN 在新 AI cloud contracts 支撑下把 ARR 目标上修到 $4B+，客户名单已包括 Microsoft、Nvidia、Perplexity 与 Figure；同时 $HUT 也因一笔 15 年、约 $9.8B 的 AI 数据中心 lease 走强。她据此认为 neocloud/colo 篮子正在从单纯的 AI compute shortage 叙事，开始得到真实合同与客户锚点的验证。",
-      "tickers": [
-        "$IREN",
-        "$HUT",
-        "$CIFR",
-        "$CLSK",
-        "$WYFI",
-        "$NBIS",
-        "$CRWV"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2079254669793316962",
       "source": "Posts-logged-in-X"
     }
   ],
