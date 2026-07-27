@@ -1,98 +1,31 @@
 {
-  "generatedAt": "2026-07-24T20:04:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-24 20:04 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-07-23T23:24:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced four new main posts after the boundary, but only two were high-signal enough for the rolling July 22 to July 24 latestUpdates window; two AMD event/social posts were reviewed and intentionally left out. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The new posts reinforced the existing AAOI/SIVE optical thesis, but they did not change core thesis, risk, or catalyst structure enough to require idea-card or bilingual-mapping edits.",
-  "summary": "7 月 24 日 20:04（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-07-23T23:24:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共核到 4 条新的主帖，其中 2 条属于高信号光学/CPO 增量，纳入 `latestUpdates`，窗口滚动到 7 月 22 日至 7 月 24 日；另外 2 条 AMD 活动/社交帖虽已审阅，但未写入最新消息流。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。新帖主要是在强化现有 AAOI/SIVE 光学主线，因此这轮未改标的卡或中文映射。",
+  "generatedAt": "2026-07-27T20:05:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-27 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-07-24T20:04:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced four new main posts after the boundary: a Waymo/Uber/Avride strategy note, a broad TLDR infra bottleneck roundup, an Nvidia/OpenAI financing post, and a CXMT IPO spike comment. Only the TLDR bottleneck roundup and the Nvidia/OpenAI financing update were high-signal enough for the rolling July 25 to July 27 latestUpdates window; the Waymo/Uber/Avride note and the CXMT IPO spike were reviewed but intentionally left out as non-core or lower-signal for the current tracker. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The new posts reinforced the existing AI capex, memory, and optical bottleneck theses, but they did not change core thesis, risk, or catalyst structure enough to require idea-card or bilingual-mapping edits.",
+  "summary": "7 月 27 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-07-24T20:04:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共核到 4 条新的主帖：一条 Waymo/Uber/Avride 策略讨论、一条 AI 基建瓶颈 TLDR 汇总、一条 `NVDA/OpenAI` 超大额融资绑定帖子，以及一条 `CXMT` IPO 暴涨评论。其中真正写入 `latestUpdates` 的只有 2 条高信号增量，窗口滚动到 7 月 25 日至 7 月 27 日；Waymo/Uber/Avride 和 `CXMT` 两条虽已审阅，但未纳入当前消息流。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。新帖主要是在强化现有 AI capex、memory、optics 与 packaging 瓶颈主线，因此这轮未改标的卡或中文映射。",
   "latestUpdates": [
     {
-      "publishedAt": "2026-07-24T08:11:00+08:00",
-      "type": "Pluggables 仍在 / SIVE CEO 继续押注 CPO",
-      "headline": "Serenity 跟进一档 $SIVE CEO 播客后表示，pluggables 未来 10 年仍会长期存在，NPO 与 CPO 未来几年会并行演进，而制造产能与原材料可得性仍是主要瓶颈。她据此回应说，$AAOI 并非会被 CPO 很快替代，反而说明光学链会沿多种架构继续扩容，合格激光器供应商仍有足够需求空间。",
+      "publishedAt": "2026-07-27T09:12:57+08:00",
+      "type": "AI 基建融资再放大 / NVDA 继续吃满 capex",
+      "headline": "Serenity 跟进称，SoftBank 旗下 SB Energy 正在开发一个 10GW 级俄亥俄数据中心园区并与 OpenAI 签长期租约，$NVDA 还据称在讨论为约 2500 亿美元融资提供 backstop，OpenAI 另可能再买高达 3500 亿美元的英伟达芯片。她对这种循环融资结构保持谨慎，但更直接的结论是 AI 基建支出体量仍在继续上修，memory、optics、networking 与上游 semis 的 capex beneficiaries 仍会受益。",
       "tickers": [
-        "$AAOI",
-        "$SIVE",
-        "$JBL",
-        "$LITE"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-24T04:46:57+08:00",
-      "type": "AMD Helios CPO 路线 / delay 报告再被反驳",
-      "headline": "Serenity 在 $AMD Advancing AI 会后引用 channel checks 称，Helios networking partners 预计 AMD 后续几代 scale-up networking 会走向 CPO，且其他 hyperscalers 与行业玩家也会沿类似方向推进。她还补充一位参与 hyperscaler CPO 项目的 AI infra 高管未看到 scale-up 供应链延迟迹象，把这条信息当作对近期 CPO delay 噪音的又一次反驳，但也明确说明这仍属非官方交流，不是 AMD 正式指引。",
-      "tickers": [
-        "$AMD",
-        "$SIVE",
-        "$AAOI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-23T12:49:37+08:00",
-      "type": "CPU LTAs 扩散 / AI 数据中心瓶颈再确认",
-      "headline": "Serenity 引用 Reuters 口径称，$INTC 与 $AMD 正在和中国 AI 数据中心客户签 CPU LTAs，且部分 CPU 产品年初以来在中国涨价已超过 40%。她把这条线放回更大的“瓶颈投资”框架里看：memory、photonics 之外，CPU、MLCC、载板等环节也开始出现 take-or-pay 或多年的供给锁定，意味着 AI buildout 更像跨多个零部件同步收紧，而不是单一 GPU 泡沫。",
-      "tickers": [
-        "$INTC",
-        "$AMD",
-        "$MU",
-        "$LITE",
-        "$COHR"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-23T12:35:37+08:00",
-      "type": "Tesla Optimus 供应链 / Micron allocation",
-      "headline": "Serenity 摘录 $TSLA 财报电话会后认为，Optimus 已被 Elon 反复定义成“可能是史上最大产品”，而 Tesla 供应链团队也点名 memory、金属注塑、柔性电路等环节正在被重新加大投入、且不少新供应链要从零搭起。她尤其强调 Elon 对 $MU 给出“未来几年显著 allocation 且 terms 合理”的感谢，把 humanoid/physical AI 也纳入了结构性 memory demand 的验证链条。",
-      "tickers": [
-        "$TSLA",
-        "$MU",
-        "$TSM"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-23T05:02:27+08:00",
-      "type": "Google 2026 capex 上修 / hyperscaler 继续加码",
-      "headline": "Serenity 指出，$GOOGL 把 2026 财年 capex 指引从 $180B-$190B 上调到 $195B-$205B，并预期 2027 年还会继续显著增长。她把这视为近期 hyperscaler 对上游 semis 最直接也最强的 read-through 之一，含义是 compute、memory、optics 和 networking 这条链的需求久期还在被继续往前拉。",
-      "tickers": [
-        "$GOOGL",
-        "$LITE",
-        "$COHR"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2080035769062916479",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-23T04:45:31+08:00",
-      "type": "Gemini 950M 用户 / 22B tokens-min",
-      "headline": "Serenity 跟进称，$GOOGL 的 Gemini 月活已到 9.5 亿、API 吞吐达到每分钟 220 亿 tokens，较 2 月份又明显抬升。她把这组数据解读成 Google 先前“算力不够、对外 cut allocations”的直接解释，也因此继续认为 AI capex 很难很快放缓。",
-      "tickers": [
-        "$GOOGL",
-        "$META"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2080031508656746874",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-22T23:10:40+08:00",
-      "type": "AMD 下注 Anthropic / 2GW AI 算力合同",
-      "headline": "Serenity 跟进称，$AMD 计划向 Anthropic 投资 50 亿美元，而 Anthropic 反过来将签下一笔 2GW、价值数百亿美元的 AMD 最新芯片采购协议。她把这看作 $NVDA 去年与 Anthropic 路径的复制版本，含义是 frontier model 对专属算力的绑定正在从叙事走向更大规模的资本与供给承诺。",
-      "tickers": [
-        "$AMD",
         "$NVDA"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2079947242455335379",
+      "url": "https://x.com/aleabitoreddit/status/2081548360818004299",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-27T04:12:11+08:00",
+      "type": "内存/载板/光学/Helios 再同步吃紧",
+      "headline": "Serenity 用一条 TLDR 汇总把多条 AI 基建链条放到一起：Samsung 大 FC-BGA 载板采购受限、64GB DDR5 服务器模组较 6 月底合约价飙升 146%、Samsung 与 $AVGO 据称签下到 2030 年的 memory+foundry AI framework、四家中国光芯片公司口径仍未见大幅砍单且 1.6T 发货有望加速到 2027，同时 $AMD 称 Helios 已量产、MI500 光互连将在 2027 rollout。Serenity 继续把这解读为 memory、photonics 与 packaging 多环节同步偏紧，而不是单点叙事。",
+      "tickers": [
+        "$AMD",
+        "$AVGO",
+        "$MU",
+        "$SOI"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
       "source": "Posts-logged-in-X"
     }
   ],
