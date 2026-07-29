@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-07-27T20:05:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-27 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-07-24T20:04:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced four new main posts after the boundary: a Waymo/Uber/Avride strategy note, a broad TLDR infra bottleneck roundup, an Nvidia/OpenAI financing post, and a CXMT IPO spike comment. Only the TLDR bottleneck roundup and the Nvidia/OpenAI financing update were high-signal enough for the rolling July 25 to July 27 latestUpdates window; the Waymo/Uber/Avride note and the CXMT IPO spike were reviewed but intentionally left out as non-core or lower-signal for the current tracker. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The new posts reinforced the existing AI capex, memory, and optical bottleneck theses, but they did not change core thesis, risk, or catalyst structure enough to require idea-card or bilingual-mapping edits.",
-  "summary": "7 月 27 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-07-24T20:04:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共核到 4 条新的主帖：一条 Waymo/Uber/Avride 策略讨论、一条 AI 基建瓶颈 TLDR 汇总、一条 `NVDA/OpenAI` 超大额融资绑定帖子，以及一条 `CXMT` IPO 暴涨评论。其中真正写入 `latestUpdates` 的只有 2 条高信号增量，窗口滚动到 7 月 25 日至 7 月 27 日；Waymo/Uber/Avride 和 `CXMT` 两条虽已审阅，但未纳入当前消息流。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。新帖主要是在强化现有 AI capex、memory、optics 与 packaging 瓶颈主线，因此这轮未改标的卡或中文映射。",
+  "generatedAt": "2026-07-29T20:05:00+08:00",
+  "sourceWindow": "Latest refresh 2026-07-29 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-07-27T20:05:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced two new main posts after the boundary: a broad AI-hardware deleveraging / capex / memory / photonics conviction post and a Reuters-linked humanoid-policy post about a reported FCC move to ban Chinese humanoid and quadruped robot imports. Both were high-signal enough to extend the rolling latestUpdates window to July 27 through July 29. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The broad deleveraging post reinforced existing optical, memory and neocloud theses without changing card structure, while the humanoid-policy post was material enough to refresh the `ccxi-aglt` idea card and matching bilingual mapping.",
+  "summary": "7 月 29 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-07-27T20:05:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共核到 2 条新的主帖：一条把 `GOOGL` capex、memory、optics、`NBIS`/neocloud 与 AI 硬件去杠杆放在一起的长帖，以及一条 Reuters 口径的“美方拟限制中国人形/四足机器人进口”帖子。两条都纳入了 `latestUpdates`，因此窗口滚动到 7 月 27 日至 7 月 29 日，共 4 条；`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。长帖主要是在强化现有 optical、memory 与 neocloud 主线，没有改变对应卡片结构；但人形机器人进口限制这一政策催化足够具体，因此本轮同步更新了 `ccxi-aglt` 标的卡和中文映射。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-07-29T06:25:46+08:00",
+      "type": "AI 硬件更像去杠杆过冲 / 光学与内存主线未坏",
+      "headline": "Serenity 把本轮 AI 硬件下跌更多解读为短期去杠杆过冲，而不是需求坍塌。她同时把 $BE / $TER 的强业绩、中国光学链 preliminary earnings、`$GOOGL` capex 上修到 1950-2050 亿美元、以及对 memory / HBM / lasers / neocloud 的持续需求放到一条逻辑线上，并明确点名自己仍对 `$SIVE`、`$AAOI`、`$NBIS` 这类光学与算力中介主线保持高 conviction。",
+      "tickers": [
+        "$GOOGL",
+        "$SIVE",
+        "$AAOI",
+        "$NBIS",
+        "$MU",
+        "$LITE"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-29T02:45:19+08:00",
+      "type": "美拟限制中国机器人进口 / Agility 等美国人形受益",
+      "headline": "Serenity 转引 Reuters 称美方正推进限制中国人形与四足机器人进口，并把这解读为美国本土 humanoid 计划的直接政策顺风。她点名 Agility Robotics 对应的 `$CCXI / $AGLT` 以及其他美国人形玩家，认为这类政策若落地，会让“美国追赶中国 humanoid 产能”的主线更具现实催化。",
+      "tickers": [
+        "$CCXI",
+        "$AGLT"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2082175588555702410",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-07-27T09:12:57+08:00",
       "type": "AI 基建融资再放大 / NVDA 继续吃满 capex",
@@ -2790,8 +2818,8 @@
       "name": "Agility Robotics",
       "tier": "speculative",
       "theme": "Humanoid robotics IPO / warehouse automation",
-      "thesis": "Serenity still treats Agility Robotics as her favorite humanoid position, but the US catch-up thesis is starting to pick up cleaner industrial mapping signals. The earlier made-in-USA, 75%-domestic-parts, 10,000-unit RoboFab and sub-$30K BOM angles remain, and the July 10 morning post already added the 1X / Elon / China-urgency layer; after that, a July 10 evening post added another auto-OEM pairing via Highlanders x Mitsubishi, and the July 12 IBK Boston Dynamics summary pointed to actuator capacity as a cleaner KPI for whether volume ramps are real. Within that broader basket of OEM-linked humanoid manufacturing, Serenity still prefers Agility through $CCXI / $AGLT as her US enterprise-commercialization expression.",
-      "whyItMatters": "This gives Agility more than SPAC and national-champion rhetoric. If the sector is indeed converging toward auto-linked manufacturing partnerships and actuator output becomes the real bottleneck metric, investors get a more concrete way to track whether US humanoid programs are progressing or just storytelling. If these supplier maps stay OSINT-heavy and Agility fails to convert the broader industry push into its own orders, throughput and economics, the stock remains a volatile proxy rather than a proven winner.",
+      "thesis": "Serenity still treats Agility Robotics as her favorite humanoid position, but the US catch-up thesis now has both cleaner industrial mapping and a fresher policy layer behind it. The earlier made-in-USA, 75%-domestic-parts, 10,000-unit RoboFab and sub-$30K BOM angles remain, and the July 10 morning post already added the 1X / Elon / China-urgency layer; after that, a July 10 evening post added another auto-OEM pairing via Highlanders x Mitsubishi, and the July 12 IBK Boston Dynamics summary pointed to actuator capacity as a cleaner KPI for whether volume ramps are real. Now the July 29 Reuters-linked post adds a possible US policy tailwind as well: the reported move to restrict Chinese humanoid and quadruped robot imports is framed as directly supportive for Agility and other domestic humanoid programs. Within that broader basket of OEM-linked manufacturing, actuator bottlenecks and policy support, Serenity still prefers Agility through $CCXI / $AGLT as her US enterprise-commercialization expression.",
+      "whyItMatters": "This gives Agility more than SPAC and national-champion rhetoric. If the sector is indeed converging toward auto-linked manufacturing partnerships, actuator output as the cleanest bottleneck KPI, and real policy support for domestic robots, investors get a more concrete way to track whether US humanoid programs are progressing or just storytelling. If those supplier maps stay OSINT-heavy, if the policy headline never translates into enforceable support, or if Agility fails to convert the broader industry push into its own orders, throughput and economics, the stock remains a volatile proxy rather than a proven winner.",
       "catalysts": [
         "Expected CCXI to AGLT ticker transition after the proposed transaction",
         "BlueCrest Capital Management disclosed a 5.6% stake in CCXI",
@@ -2803,6 +2831,7 @@
         "1X's latest hand demo and Elon's 'for now' remark add a fresher technology-and-speed catalyst to the US catch-up narrative",
         "Serenity cites a reported 100,000-plus China humanoid output expectation for 2026 as evidence the US may need to accelerate domestic robotics champions such as Agility",
         "US robotics policy, rare-earth sourcing and domestic-component subsidies could make Agility's supply-chain positioning more valuable",
+        "Reuters reported a planned restriction on Chinese humanoid and quadruped robot imports, which Serenity frames as a direct policy tailwind for Agility and other US humanoid players",
         "Mitsubishi x Highlanders adds another auto-and-humanoid pairing alongside Agility / Foxconn / Toyota, Apptronik / Mercedes and Figure / BMW",
         "IBK maps Hwashin, LG Energy, Hyundai Autoever and Hyundai Mobis into Boston Dynamics Atlas and treats actuator capacity as the cleanest signpost for 2028-2030 volume ramps",
         "Institutional valuation work on Hyundai Mobis / Autoever / Glovis suggests humanoid segments are getting more explicit sum-of-the-parts attention"
@@ -2816,6 +2845,7 @@
         "Pro forma valuation and dilution require primary filing review",
         "Narrative analogies to Anthropic, Figure or xAI do not substitute for disclosed orders, unit economics or deployment data",
         "A US-vs-China production-race framing does not by itself prove Agility will win subsidies, customers or manufacturing scale",
+        "The Reuters/FCC import-restriction headline may not become final policy or may have narrower practical effect than investors assume",
         "Auto / OEM partnership patterns across the sector do not automatically mean Agility captures the best customers, supplier terms or capacity",
         "IBK supplier maps and linear Boston Dynamics volume assumptions may be incomplete or wrong",
         "Actuator bottlenecks can help the sector narrative while still exposing how early actual scale economics remain"
@@ -2829,13 +2859,19 @@
         "Check whether Amazon, NVIDIA or Google ecosystem claims appear in primary partner materials or filings",
         "Verify the cited China 100,000-plus humanoid output figure and the newer '90% of global humanoids' framing",
         "Track whether US robotics policy or sourcing incentives explicitly benefit domestic-supply-chain players like Agility",
+        "Verify whether the reported import restriction is real, what legal or agency path it uses, and whether it directly benefits Agility's customer demand or subsidy odds",
         "Check whether 1X, Tesla and Agility capability milestones actually change customer procurement, partner interest or policy support",
         "Track whether Agility discloses comparable actuator counts, supplier stacks or manufacturing bottlenecks",
         "Compare Agility's ramp assumptions with Boston Dynamics, Figure, Apptronik and 1X rather than only with narrative peers",
         "Verify whether auto-manufacturer tie-ups lead to capital, procurement or production advantages for Agility specifically"
       ],
-      "lastUpdated": "2026-07-12 18:12",
+      "lastUpdated": "2026-07-29 20:05",
       "evidence": [
+        {
+          "date": "2026-07-29 02:45",
+          "quote": "Serenity cited Reuters saying the US is moving to restrict Chinese humanoid and quadruped robot imports, and framed it as supportive for Agility and other US humanoid players.",
+          "url": "https://x.com/aleabitoreddit/status/2082175588555702410"
+        },
         {
           "date": "2026-07-12 18:12",
           "quote": "Serenity summarized an IBK Boston Dynamics report, highlighted Atlas supplier mapping and said actuator capacity may be the cleanest signal for real humanoid volume ramps.",
