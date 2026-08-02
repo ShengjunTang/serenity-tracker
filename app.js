@@ -75,31 +75,33 @@ const zhCopy = {
   },
   xfab: {
     theme: "欧洲硅光代工平台",
-    thesis: "7 月 6 日这轮更新让 XFAB 不再只是“欧洲 sovereign AI / PhotonixFab 叙事”里的潜在错配。Serenity 转述 Kepler 将 X-FAB 上调至 Buy，理由包括 Melexis 需求持续走强、AI 带来 SiC/GaN/photonics 的结构性增长，以及公司 2027 年 EV/EBITDA 仅约 4.8 倍、明显低于 specialty foundry 同业中位数约 14.5 倍。她仍保留 silicon photonics 的长期可选性框架，但现在多了一层更接近 sell-side rerating 的现实抓手。",
-    whyItMatters: "这让 XFAB 从单纯的“市场没看懂”故事，变成一条双引擎逻辑：短期如果汽车/特色代工基本面触底，估值有相对修复空间；中长期若 photonixFAB 和 silicon photonics 暴露转成真实客户/项目，光学可选性才会进一步放大。换句话说，证明门槛比纯政策故事低了一些，但公司级订单和利用率改善仍是关键。",
+    thesis: "7 月 31 日这轮更新把 XFAB 从“卖方重估 + 欧洲 photonics optionality”故事，推进成了公司自己确认暴露的版本。Kepler 7 月 6 日的 Buy upgrade 仍然重要，但这次更关键的是 X-FAB 在财报电话会上直接说，自己正在 co-packaged optics 上取得进展，且 800V 转换会带动 SiC 与 GaN 需求；同时公司仍预计 photonics volume production 从 2028 年开始，并表示手上有 3 个 silicon photonics 项目在与关键伙伴开发中。也就是说，PhotonixFab 和欧洲硅光代工的想象，现在第一次有了更明确的公司口径背书。",
+    whyItMatters: "这让争议点变得更清楚了：问题不再是 XFAB 是否真的有 CPO/800V 暴露，而是这些暴露能否在 2028 之前逐步变成更值得市场提前定价的 revenue path。若公司后续继续给出 data-center SiC design win、photonics 项目推进和利用率改善，重估逻辑就会从外部映射，更接近公司级执行证据。",
     catalysts: [
+      "7 月 31 日财报电话会明确表示 X-FAB 正在 co-packaged optics 上取得进展",
+      "管理层称 800V 转换将支持 XFAB 的 SiC 与 GaN 需求",
+      "公司称目前有 3 个 silicon photonics 项目与关键伙伴开发中",
+      "management 仍预计 photonics volume production 从 2028 年开始",
+      "电话会还提到若干新的 data-center SiC design wins",
       "Kepler 在 7 月 6 日将 X-FAB 上调至 Buy",
       "Melexis 需求被描述为 week-after-week、day-after-day 持续走强",
       "AI 被视为新增 SiC/GaN/photonics 结构性增长腿，可部分对冲 auto 周期波动",
       "X-FAB 约 4.8 倍 2027 EV/EBITDA 对比同业中位数约 14.5 倍，提供估值重定空间",
-      "SILEX 等稀缺西方 specialty foundry 被用作比较框架",
-      "PhotonixFab 与欧洲 silicon photonics 仍是更长期的上行可选性",
-      "Serenity 继续把 XFAB 放在欧洲 silicon photonics alternative foundry 路径里",
-      "潜在 NVDA / hyperscaler-adjacent photonics 需求仍是中长期放大器"
+      "PhotonixFab 与欧洲 silicon photonics 仍是更长期的上行可选性"
     ],
     risks: [
-      "Kepler 升级仍是 read-through，不是 X-FAB 自己披露的新订单或客户",
+      "公司确认有暴露，但 photonics 量产仍要等到 2028，近端贡献可能仍很小",
       "近端业绩仍可能被 auto / industrial 暴露主导，photonics 贡献太小而难以立刻反映",
       "估值折价若没有利用率、利润率或客户里程碑改善，可能继续存在",
-      "silicon photonics 商业化节奏仍可能推迟到 2027-2028 之后",
+      "silicon photonics 商业化节奏仍可能比当前 2028 目标再往后拖",
       "汽车周期和 foundry utilization 压力仍可能压过 optical optionality",
-      "Nvidia 或 photonixFAB 的评估 / 参与不等于量产收入"
+      "管理层关于 CPO/800V 的表述仍需转化为客户、订单和收入证据"
     ],
     nextChecks: [
-      "阅读 Kepler 报告原文，拆出 Buy upgrade 的核心假设",
-      "量化 XFAB 近端逻辑里有多少来自 Melexis/auto 修复，多少来自 photonics optionality",
-      "跟踪 PhotonixFab 里程碑与 X-FAB 的 silicon photonics 客户披露",
-      "核实 NVDA 或其他 hyperscaler-adjacent evaluation 是否能在一手资料中找到",
+      "直接读 7 月 31 日财报电话会原文，区分硬披露和 Serenity 的再演绎",
+      "量化 XFAB 近端逻辑里有多少来自 Melexis/auto 修复，多少来自 photonics 与 800V optionality",
+      "跟踪这 3 个 silicon photonics 项目是否出现命名客户、里程碑或量产时间更新",
+      "把新 data-center SiC design wins 对应到 2027-2028 的实际 ramp 节奏",
       "把 X-FAB 与 TSEM、SILEX 等 specialty foundry 的估值和利用率放在同一框架比较",
       "继续观察 margin、order、utilization 是否开始把这条 rerating 逻辑变成公司级证据"
     ]
@@ -265,19 +267,24 @@ const zhCopy = {
   },
   lite: {
     theme: "光学周期历史类比 / CPO 激光器供应商",
-    thesis: "Serenity 继续用 LITE 作为光学周期锚点，并新增产能信号：她称 Lumentum / Coherent 产能已排到 2028，Lumentum 尤其受 EML 合约约束；在 AI capex 框架里，她认为从 LITE 到 SK Hynix 的上游半导体不像泡沫。",
-    whyItMatters: "LITE 既是较大市值参照，也是 SIVE / AAOI 等小票激光瓶颈逻辑的验证锚。如果大厂产能排满，较小的 laser / photonics 供应商更容易被市场重估。",
+    thesis: "Serenity 继续用 LITE 作为光学周期锚点，但 8 月 1 日这条新帖把它从“ booked out to 2028 ”的泛行业 read-through，推进成了更明确的供给缺口信号。她引用 Lumentum CEO Michael Hurlston 在 RAISE Summit 的说法，称 AI 数据中心所需 InP 激光器正面临比存储更严重的 supply-chain crisis；即便 Lumentum 有 5 座 InP fab，当前出货仍会比客户需求低 30% 以上，而且缺口已从 EML 向 CW 扩散。她把这看作 `$AAOI`、`$SIVE`、`$LITE` 与 `$COHR` laser chokepoint thesis 的公司级验证。",
+    whyItMatters: "这让 LITE 不再只是大市值 optical 锚点，而更像一个更直接的 scarcity datapoint。若连 incumbent scale player 都在公开描述 30%+ 的缺口，那么小票 laser bottleneck 逻辑就不只是 narrative 外推，而是更接近真实供需失衡。",
     catalysts: [
+      "Lumentum CEO 称 AI 数据中心 InP 激光器缺口比 memory 更严重",
+      "即便已有 5 座 InP fab，Lumentum 出货仍被描述为比客户需求低 30% 以上",
+      "缺口据称先体现在 EML，随后开始向 CW 扩散，和 CPO ramp 更直接相关",
       "Lumentum / Coherent 被 Serenity 描述为产能排到 2028",
       "Lumentum 因 EML 合约导致 CW capacity 更紧",
       "她认为从 LITE 到 SK Hynix 的上游半导体不像 AI 泡沫",
       "LITE 仍是 2025 optical rerating 的成功参照"
     ],
     risks: [
+      "Summit 引述和编辑后帖子语言仍需对照一手 transcript 或 prepared remarks",
       "产能排到 2028 的说法需要 Lumentum / Coherent 原始资料验证",
       "大市值 optical 标的弹性可能低于 SIVE / AAOI 等小票"
     ],
     nextChecks: [
+      "找到 RAISE Summit 原始材料，核实“30%+ below demand”与比 memory 更严重的原句",
       "检查 Lumentum / Coherent 对 backlog 和 2028 产能的原文",
       "区分 LITE 公司级订单和 CW laser 板块稀缺 read-through"
     ]
@@ -495,20 +502,25 @@ const zhCopy = {
   },
   "axti-inp": {
     theme: "InP substrate / AI 光互连上游瓶颈",
-    thesis: "AXTI 仍是 Serenity 上游 InP substrate 方法论的代表案例，但 7 月 3 日终于出现了更明确的公司级 datapoint：AXTI 与 Coherent 签署 3 年晶圆供货协议，并由 Coherent 向 AXT-Tongmei 预付 2228.85 万美元以换取承诺产能。这样一来，这张卡不再只是“上游瓶颈研究方法正确”的回顾，也开始具备真实合同和产能锁定信号。",
-    whyItMatters: "这条更新不再只是方法论验证。预付款加 committed capacity 的结构，至少说明下游光学客户愿意提前锁供，这比单纯社媒叙事更接近 Serenity 所强调的 chokepoint economics。",
+    thesis: "AXTI 仍是 Serenity 上游 InP substrate 方法论的代表案例，但 7 月 31 日这轮更新终于把逻辑从“有一笔预付款长协”推进到“收入、产能和 backlog 都在放大”。她现在强调 AXTI 计划 2026 年把 InP 产能翻倍、2027 年再翻倍，Q2 InP 收入已创纪录，reported backlog 仍高于 1 亿美元，而且管理层明确说 customer demand 继续快于供给。换句话说，早先 Coherent 的 prepay 只是开端，现在更像是在证明 AXTI 想把自己做成真正的规模型 InP bottleneck supplier。",
+    whyItMatters: "这比单纯的方法论验证更接近 operating leverage 证据。若 AXTI 真能在持续扩产的同时仍保持供不应求、并把 gross margin 拉到 50%+，那么 InP substrate 瓶颈就开始体现在真实收入和产能路径里，而不是只停留在主题链条映射。",
     catalysts: [
+      "AXTI 计划 2026 年把 InP 产能翻倍，并在 2027 年再翻倍",
+      "Q2 收入创历史新高，其中 InP 收入达到创纪录的 3070 万美元",
+      "管理层目标是 2026 年底单季 InP 收入约 6000 万美元、2027 年底约 1.3 亿美元",
+      "reported backlog 仍高于 1 亿美元，且管理层称这个数字已无法完整反映全部需求",
+      "管理层称 customer demand 仍持续快于新增供给",
+      "管理层把目标 gross margin 指向 50%+",
       "AXTI 与 Coherent 的 3 年晶圆供货协议，以及 2228.85 万美元预付款锁定承诺产能",
-      "Serenity 称自己仍持有 AXTI",
-      "Reuters 后续报道 InP substrates 可能影响 AI buildout，被她视为 thesis 验证",
-      "研究输入包括 InP 供应链、市占率、高纯铟价格、出口管制和光学公司收购",
-      "AAOI/LITE/AXTI 被一起作为 2025 optical rerating 成功案例"
+      "Amazon 称 2027 乃至部分 2028 算力容量已被预订，强化上游 optical 需求时长"
     ],
     risks: [
-      "Coherent 预付款和 committed capacity 仍需转化为持续收入、利润率和发货节奏", "这是回顾性研究验证向公司级催化过渡，但不等于风险消失",
-      "still holding 增加信心色彩，但不消除估值、稀释、中国暴露和材料周期风险"
+      "2026-2027 激进扩产目标仍需转成真实 wafers、yield、发货和 50%+ 毛利",
+      "backlog 高于 1 亿美元并不自动等于收入确认和 ASP 实现会完全符合最乐观情景",
+      "中国暴露、材料周期与潜在政策变化仍会复杂化这条 thesis",
+      "若链条内其他产能扩张更快，scarcity pricing 可能在 AXTI 吃到全部上行前先缓和"
     ],
-    nextChecks: ["重读 Reuters InP substrate 报道，并和 AXTI filing、出货、价格对应", "继续跟踪高纯铟价格对 AXTI substrate 毛利和需求的影响", "阅读 AXTI 与 Coherent 的正式协议或披露，区分预付款叙事和实际出货节奏"]
+    nextChecks: ["直接读 AXTI 财报和电话会原文，拆开硬指引和 Serenity 的外推", "跟踪 2026 与 2027 两轮 InP 扩产是否按计划推进", "比较 backlog、单季出货和 ASP，确认 demand 是否真的持续快于供给", "核实 Casela、Coherent、Lumentum 这些协议在未来几个季度何时开始更明显反映到收入", "把 50%+ gross margin 目标与 substrate 定价、良率和客户结构做压力测试"]
   },
   "starlink-suppliers": {
     theme: "Starlink 供应商 / trade records 研究",

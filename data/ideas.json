@@ -1,59 +1,63 @@
 {
-  "generatedAt": "2026-07-29T20:05:00+08:00",
-  "sourceWindow": "Latest refresh 2026-07-29 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-07-27T20:05:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced two new main posts after the boundary: a broad AI-hardware deleveraging / capex / memory / photonics conviction post and a Reuters-linked humanoid-policy post about a reported FCC move to ban Chinese humanoid and quadruped robot imports. Both were high-signal enough to extend the rolling latestUpdates window to July 27 through July 29. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The broad deleveraging post reinforced existing optical, memory and neocloud theses without changing card structure, while the humanoid-policy post was material enough to refresh the `ccxi-aglt` idea card and matching bilingual mapping.",
-  "summary": "7 月 29 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-07-27T20:05:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共核到 2 条新的主帖：一条把 `GOOGL` capex、memory、optics、`NBIS`/neocloud 与 AI 硬件去杠杆放在一起的长帖，以及一条 Reuters 口径的“美方拟限制中国人形/四足机器人进口”帖子。两条都纳入了 `latestUpdates`，因此窗口滚动到 7 月 27 日至 7 月 29 日，共 4 条；`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。长帖主要是在强化现有 optical、memory 与 neocloud 主线，没有改变对应卡片结构；但人形机器人进口限制这一政策催化足够具体，因此本轮同步更新了 `ccxi-aglt` 标的卡和中文映射。",
+  "generatedAt": "2026-08-02T20:05:00+08:00",
+  "sourceWindow": "Latest refresh 2026-08-02 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-07-29T20:05:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced nine new main posts after the boundary, but only four were high-signal enough to survive into the rolling July 31 through August 1 `latestUpdates` window: the Aug 1 Lumentum laser-scarcity post, the Aug 1 four-hyperscaler capex reset, the Jul 31 XFAB earnings-transcript confirmation, and the Jul 31 AXTI capacity-and-backlog update. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. Additional Jul 30-31 posts on FORM/CPO, POET/SIVE timing, weekly AI-capex recap and Meta/Microsoft takeaways reinforced existing themes but did not independently change tracker structure. The retained posts were material enough to refresh the `lite`, `xfab`, and `axti-inp` idea cards plus matching bilingual mapping.",
+  "summary": "8 月 2 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-07-29T20:05:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 9 条新的主帖，其中 4 条被保留进 `latestUpdates`，窗口滚动到 7 月 31 日至 8 月 1 日：分别是 `$LITE` 所代表的 InP 激光器供给缺口、四大云厂 2026 capex 再上修、`$XFAB` 财报确认直连 CPO/800V、以及 `$AXTI` 扩产翻倍但仍供不应求。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。其余 Jul 30-31 的 FORM、POET/SIVE、Meta/Microsoft 与周度 recap 帖子主要在强化已有 optical 与 AI infra 主线，没有单独改变消息流排序；但 `$LITE`、`$XFAB` 和 `AXTI / InP` 的公司级信号已经足够具体，因此本轮同步更新了这三张标的卡和中文映射。",
   "latestUpdates": [
     {
-      "publishedAt": "2026-07-29T06:25:46+08:00",
-      "type": "AI 硬件更像去杠杆过冲 / 光学与内存主线未坏",
-      "headline": "Serenity 把本轮 AI 硬件下跌更多解读为短期去杠杆过冲，而不是需求坍塌。她同时把 $BE / $TER 的强业绩、中国光学链 preliminary earnings、`$GOOGL` capex 上修到 1950-2050 亿美元、以及对 memory / HBM / lasers / neocloud 的持续需求放到一条逻辑线上，并明确点名自己仍对 `$SIVE`、`$AAOI`、`$NBIS` 这类光学与算力中介主线保持高 conviction。",
+      "publishedAt": "2026-08-01T14:24:58+08:00",
+      "type": "InP 激光供给缺口重于存储 / CPO 激光瓶颈再被验证",
+      "headline": "Serenity 引用 `$LITE` CEO Michael Hurlston 在 RAISE Summit 的表述称，AI 数据中心所需 InP 激光器正面临比存储更严重的供给危机；即便 Lumentum 已有 5 座 InP fab，当前出货仍会低于客户需求 30% 以上，而且缺口已从 EML 向 CW 扩散。她把这视为 `$AAOI`、`$SIVE`、`$LITE` 与 `$COHR` 所代表 laser chokepoint thesis 的又一次公司级验证。",
       "tickers": [
-        "$GOOGL",
+        "$LITE",
         "$SIVE",
         "$AAOI",
-        "$NBIS",
-        "$MU",
-        "$LITE"
+        "$COHR"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+      "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
       "source": "Posts-logged-in-X"
     },
     {
-      "publishedAt": "2026-07-29T02:45:19+08:00",
-      "type": "美拟限制中国机器人进口 / Agility 等美国人形受益",
-      "headline": "Serenity 转引 Reuters 称美方正推进限制中国人形与四足机器人进口，并把这解读为美国本土 humanoid 计划的直接政策顺风。她点名 Agility Robotics 对应的 `$CCXI / $AGLT` 以及其他美国人形玩家，认为这类政策若落地，会让“美国追赶中国 humanoid 产能”的主线更具现实催化。",
+      "publishedAt": "2026-08-01T03:16:17+08:00",
+      "type": "四大云厂 2026 capex 再上修 / 上游半导体继续吃紧",
+      "headline": "Serenity 汇总 `$AMZN`、`$META`、`$GOOGL` 与 `$MSFT` 后，把四家 2026 年合计 capex 指引上修到约 7200-7450 亿美元，并继续强调各家仍在重复 compute shortage、cloud demand 和 chips/networking spend 上升。她把这视为上游 semis、memory、optics 与部分 neocloud 并未进入“需求塌方”，而是在继续承接更大的资本开支浪潮。",
       "tickers": [
-        "$CCXI",
-        "$AGLT"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2082175588555702410",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-27T09:12:57+08:00",
-      "type": "AI 基建融资再放大 / NVDA 继续吃满 capex",
-      "headline": "Serenity 跟进称，SoftBank 旗下 SB Energy 正在开发一个 10GW 级俄亥俄数据中心园区并与 OpenAI 签长期租约，$NVDA 还据称在讨论为约 2500 亿美元融资提供 backstop，OpenAI 另可能再买高达 3500 亿美元的英伟达芯片。她对这种循环融资结构保持谨慎，但更直接的结论是 AI 基建支出体量仍在继续上修，memory、optics、networking 与上游 semis 的 capex beneficiaries 仍会受益。",
-      "tickers": [
+        "$AMZN",
+        "$META",
+        "$GOOGL",
+        "$MSFT",
         "$NVDA"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2081548360818004299",
+      "url": "https://x.com/aleabitoreddit/status/2083270545320386734",
       "source": "Posts-logged-in-X"
     },
     {
-      "publishedAt": "2026-07-27T04:12:11+08:00",
-      "type": "内存/载板/光学/Helios 再同步吃紧",
-      "headline": "Serenity 用一条 TLDR 汇总把多条 AI 基建链条放到一起：Samsung 大 FC-BGA 载板采购受限、64GB DDR5 服务器模组较 6 月底合约价飙升 146%、Samsung 与 $AVGO 据称签下到 2030 年的 memory+foundry AI framework、四家中国光芯片公司口径仍未见大幅砍单且 1.6T 发货有望加速到 2027，同时 $AMD 称 Helios 已量产、MI500 光互连将在 2027 rollout。Serenity 继续把这解读为 memory、photonics 与 packaging 多环节同步偏紧，而不是单点叙事。",
+      "publishedAt": "2026-07-31T16:25:39+08:00",
+      "type": "XFAB 确认直连 CPO 与 800V / photonics 量产锚到 2028",
+      "headline": "Serenity 跟进 `$XFAB` 财报电话会称，公司已明确表示“正在 co-packaged optics 上取得进展”，并认为 800V 迁移会同时支持 SiC 与 GaN 需求；公司还说 photonics volume production 预计从 2028 年开始，且已有 3 个 silicon photonics 项目与关键伙伴开发中。对 Serenity 来说，这意味着 XFAB 的 CPO/800V 暴露已从外部映射，升级成了公司亲口确认。",
       "tickers": [
-        "$AMD",
-        "$AVGO",
-        "$MU",
-        "$SOI"
+        "$XFAB",
+        "$NVTS",
+        "$POWI"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
+      "url": "https://x.com/aleabitoreddit/status/2083106805949878330",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-07-31T15:14:23+08:00",
+      "type": "AXTI 扩产翻倍仍供不应求 / Amazon 算力预订到 2028",
+      "headline": "Serenity 把 `$AMZN` 与 `$AXTI` 放在同一条 upstream capex 逻辑里：Amazon 2026 capex 提到 2200 亿美元，且 2027 乃至部分 2028 容量已被预订；同时 AXTI 财报显示 InP 收入创纪录、2026 年产能计划翻倍、2027 年再翻倍，管理层还称客户需求仍持续快于新增供给。她据此强化了 InP substrate 仍是 optical chain 核心上游瓶颈的判断。",
+      "tickers": [
+        "$AXTI",
+        "$AMZN",
+        "$MU",
+        "$LITE",
+        "$COHR"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
       "source": "Posts-logged-in-X"
     }
   ],
@@ -352,37 +356,44 @@
       "name": "X-FAB",
       "tier": "focus",
       "theme": "European silicon photonics foundry",
-      "thesis": "Serenity now has a more concrete July 6 rerating hook for XFAB, not just a sovereign-Europe or PhotonixFab framing. She highlighted Kepler upgrading X-FAB to Buy on strengthening Melexis demand, AI-driven SiC/GaN/photonics exposure and a valuation gap at roughly 4.8x 2027 EV/EBITDA versus a specialty-foundry peer median near 14.5x, while still keeping the longer-duration silicon-photonics optionality in view.",
-      "whyItMatters": "This shifts XFAB from a mostly narrative mispricing into a two-engine setup: near-term cyclical / relative-value rerating if auto-specialty fundamentals are bottoming, plus longer-term silicon-photonics upside if photonixFAB and Nvidia-adjacent programs convert into real customer activity. The burden of proof is lower than in a pure policy story, but company-specific order evidence is still required.",
+      "thesis": "Serenity's July 31 follow-up turns XFAB from mostly a sell-side rerating and Europe-photonics optionality story into a company-confirmed exposure case. After the earlier Kepler upgrade, X-FAB's own earnings transcript now explicitly says it is making progress in co-packaged optics, expects the 800V transition to support both SiC and GaN demand, and still sees photonics volume production starting in 2028 with three silicon-photonics projects in development. That keeps the longer-duration photonixFAB angle alive, but on a firmer company-level footing.",
+      "whyItMatters": "One of the main debate points is now cleaner: the question is no longer whether XFAB has any real CPO / 800V exposure, but whether that exposure scales fast enough to matter before 2028. If company commentary, new data-center design wins and SiC ramps continue to build, the rerating case can move from external mapping toward internally confirmed execution evidence.",
       "catalysts": [
+        "July 31 earnings transcript explicitly said X-FAB is making progress in co-packaged optics",
+        "Management said the 800V transition should support demand for both SiC and GaN",
+        "Three silicon-photonics projects are in development with key partners",
+        "Photonics volume production is still expected to start in 2028",
+        "Several new data-center SiC design wins were highlighted on the call",
         "Kepler upgraded X-FAB to Buy on July 6",
         "Melexis demand is described as strengthening week after week and day after day",
         "AI is framed as adding structural SiC, GaN and photonics growth that can offset auto cyclicality",
         "X-FAB is cited as trading around 4.8x 2027 EV/EBITDA versus a specialty-foundry peer median near 14.5x",
-        "Scarce Western specialty foundries such as SILEX are used as valuation context",
-        "photonixFAB and European silicon-photonics positioning remain the longer-duration upside layer",
-        "Serenity still links XFAB to a Europe-backed alternative path for silicon-photonics manufacturing",
-        "Potential NVDA-related silicon-photonics demand remains an unproven but important longer-term read-through"
+        "photonixFAB and European silicon-photonics positioning remain the longer-duration upside layer"
       ],
       "risks": [
-        "The Kepler note is still a read-through rather than new X-FAB customer or order disclosure",
+        "The company confirmed exposure, but photonics revenue is still not expected to scale materially until 2028",
         "Photonics can remain too small to move consolidated numbers near term relative to auto and industrial exposure",
         "The valuation gap can persist if utilization, customer milestones or margins do not improve",
-        "Silicon-photonics commercialization timelines can still slip into 2027-2028 or later",
+        "Silicon-photonics commercialization timelines can still slip beyond the current 2028 target",
         "Auto-cycle weakness and foundry utilization pressure can keep overwhelming the optical optionality",
-        "Nvidia or photonixFAB evaluation language does not guarantee production revenue"
+        "Management commentary about CPO/800V progress still needs to convert into disclosed customer ramps, orders and margin proof"
       ],
       "stance": "重点关注",
       "nextChecks": [
-        "Read the Kepler report and isolate the exact assumptions behind the Buy upgrade",
-        "Quantify how much of the XFAB thesis comes from Melexis/auto recovery versus photonics optionality",
-        "Track photonixFAB milestones and any X-FAB silicon-photonics customer disclosures",
-        "Verify whether NVDA or other hyperscaler-adjacent evaluation language appears in primary sources",
+        "Read the July 31 earnings transcript directly and separate hard management wording from Serenity's synthesis",
+        "Quantify how much of the XFAB thesis comes from Melexis/auto recovery versus photonics and 800V optionality",
+        "Track whether the three silicon-photonics projects gain named milestones, customers or volume timing updates",
+        "Map the new data-center SiC design wins to actual ramp timing in 2027-2028",
         "Compare X-FAB valuation with TSEM, SILEX and other specialty-foundry peers on utilization-adjusted terms",
         "Watch for margin, order and utilization evidence that the rerating story is becoming company-specific"
       ],
-      "lastUpdated": "2026-07-06 17:29",
+      "lastUpdated": "2026-07-31 16:25",
       "evidence": [
+        {
+          "date": "2026-07-31 16:25",
+          "quote": "Serenity said X-FAB's earnings transcript explicitly confirmed progress in co-packaged optics, linked 800V to future SiC/GaN demand, and guided photonics volume production to start in 2028.",
+          "url": "https://x.com/aleabitoreddit/status/2083106805949878330"
+        },
         {
           "date": "2026-07-06 17:29",
           "quote": "Serenity highlighted Kepler upgrading X-FAB to Buy, citing stronger Melexis demand, AI-driven SiC/GaN/photonics exposure and a 4.8x 2027 EV/EBITDA valuation versus a 14.5x peer median.",
@@ -1175,9 +1186,12 @@
       "name": "Lumentum",
       "tier": "watch",
       "theme": "Historical optical-cycle analog / CPO laser supplier",
-      "thesis": "Serenity now uses LITE as both a successful optical-cycle precedent and a real-time capacity signal: Lumentum/Coherent are described as booked out into 2028, while Lumentum is especially constrained by EML contracts. In her broader AI capex note, she says upstream semiconductors from LITE to SK Hynix do not look like a bubble.",
-      "whyItMatters": "LITE anchors the larger-cap side of the optical thesis. Capacity tightness at Lumentum/Coherent supports the smaller SIVE/AAOI laser-bottleneck setup, while the AI-capex framework argues that upstream optical and memory profits could justify capex even if downstream debt-funded names look frothy.",
+      "thesis": "Serenity now uses LITE as both a historical optical-cycle anchor and a sharper current supply-gap datapoint. The older 'booked out into 2028' framing still matters, but the Aug 1 RAISE Summit post adds a more explicit statement: Lumentum's CEO said the InP-laser supply gap for AI data centers is more severe than memory, and that even with five InP fabs, shipments would still run more than 30% below customer demand. Serenity reads that as a company-level validation that laser tightness is spreading from EML into CW as CPO ramps.",
+      "whyItMatters": "This upgrades LITE from a generic large-cap optical benchmark into a more direct scarcity signal. If even one of the incumbent scale players is openly describing a >30% demand shortfall, the smaller AAOI/SIVE-style bottleneck thesis looks less like narrative extrapolation and more like a supply chain that remains genuinely underbuilt.",
       "catalysts": [
+        "Michael Hurlston said the InP-laser supply gap for AI data centers is more severe than memory",
+        "Lumentum's five InP fabs were described as still shipping more than 30% below customer demand",
+        "Management commentary suggests the shortage is visible in EML today and already spreading toward CW as CPO ramps",
         "LITE earnings interpreted by Serenity as a CW laser bottleneck signal",
         "AVGO AI networking transcript read-through supports optical/networking demand",
         "Optical-cycle continuation",
@@ -1199,6 +1213,7 @@
         "May already reflect more of the optical theme",
         "Less asymmetric than smaller names",
         "Need fresh fundamental evidence",
+        "Summit commentary and edited post language still need to be checked against primary transcript or prepared remarks",
         "Executive bullishness is a sector read-through and needs to be checked against Lumentum orders, margins and capacity",
         "Short-term moves can be macro/geopolitical headline-driven rather than optical fundamentals",
         "InP export easing is a supply-chain read-through and must be tied back to company-specific orders, capacity and margins",
@@ -1209,6 +1224,7 @@
       ],
       "stance": "跟踪观察",
       "nextChecks": [
+        "Find the RAISE Summit source or transcript and verify the exact '>30% below demand' laser-supply wording",
         "Check LITE earnings transcript for exact CW laser / EML capacity commentary",
         "Verify GFS presentation supplier reference",
         "Compare LITE valuation with SIVE",
@@ -1220,8 +1236,13 @@
         "Check Lumentum and Coherent backlog/capacity commentary through 2028",
         "Separate LITE-specific order evidence from sector-level CW laser scarcity read-through"
       ],
-      "lastUpdated": "2026-06-20",
+      "lastUpdated": "2026-08-01 14:24",
       "evidence": [
+        {
+          "date": "2026-08-01 14:24",
+          "quote": "Serenity cited Lumentum CEO Michael Hurlston saying the InP-laser supply gap for AI data centers is more severe than memory and that shipments remain more than 30% below demand even with five InP fabs.",
+          "url": "https://x.com/aleabitoreddit/status/2083438823548293140"
+        },
         {
           "date": "2026-06-20",
           "quote": "Serenity reviewed multiple ideas that faced intense early backlash before later validation, including AXTI, RPI, SIVE, AAOI, LITE, IQE and SOI.",
@@ -2313,57 +2334,41 @@
       "name": "AXTI / InP substrate bottleneck",
       "tier": "watch",
       "theme": "InP substrates / AI optical bottleneck",
-      "thesis": "AXTI remains Serenity's proof case for the upstream InP substrate bottleneck method, but the July 3 update finally added a cleaner company-level datapoint: AXTI signed a three-year wafer-supply deal with Coherent, including a $22.2885M prepayment to AXT-Tongmei for committed capacity. That moves the card from a mostly methodological and narrative validation story toward an actual contract-and-capacity signal.",
-      "whyItMatters": "This no longer matters only as a research-process proof case. A prepay-backed wafer agreement suggests at least one downstream optical customer is willing to secure supply in advance, which is closer to the chokepoint economics Serenity had been arguing for than social-post validation alone.",
+      "thesis": "AXTI remains Serenity's upstream InP bottleneck proof case, but the July 31 update finally pushes the story beyond one prepay-backed contract and into an earnings-and-capacity conversion frame. Serenity now highlights AXTI doubling InP capacity in 2026 and then doubling again in 2027, record quarterly InP revenue, backlog still above $100M, and management saying customer demand continues to outpace supply no matter how fast capacity is added. In her framing, the earlier Coherent deal is no longer the whole point; the broader thesis is that AXTI is trying to become the scale bottleneck supplier while demand from optical customers and hyperscaler capex keeps rising.",
+      "whyItMatters": "This is much closer to operating-leverage evidence than to a pure methodology win. If AXTI can really grow into the world's largest InP substrate supplier while still reporting demand above supply, then the bottleneck thesis starts to show up in revenue, capacity plans and margin targets rather than only in thematic chain mapping.",
       "catalysts": [
+        "AXTI said it plans to double InP capacity in 2026 and then double it again in 2027",
+        "Q2 revenue hit a company record and InP revenue reached a record $30.7M driven by data-center applications",
+        "Management targets roughly $60M of quarterly InP revenue exiting 2026 and about $130M exiting 2027",
+        "Reported backlog remains above $100M and management says it no longer reflects all available demand",
+        "Management said customer demand continues to outpace supply no matter how fast capacity is added",
+        "Management pointed to 50%-plus gross-margin ambition as scale and scarcity improve",
         "Three-year wafer-supply agreement with Coherent plus a $22.2885M prepayment for committed capacity",
-        "Reuters report on China control over InP threatening AI DC buildout",
-        "Serenity previously framed AXTI and SMTOY as controlling 60-70%+ of global InP substrates",
-        "AI optical networking and hyperscaler cluster growth could increase InP substrate demand",
-        "Serenity links WF6/tungsten research to other upstream bottleneck work around InP substrates and AXTI",
-        "She says by the time news publishes, it may be late, but useful for finding ripple effects",
-        "Serenity framed AI supremacy wars as a series of upstream export-control bottlenecks and used AXTI as an example",
-        "Country-by-country export controls may keep surfacing overlooked upstream materials and substrate chokepoints",
-        "Digitimes report cited by Serenity says China eased InP substrate exports",
-        "Serenity says photonics and laser companies are more constrained by how much they can make than by demand",
-        "AXTI was named as the substrate exposure within the AXTI-IQE-AAOI-LITE-SIVE chain",
-        "Serenity says she is still holding AXTI shares",
-        "Reuters later confirming InP substrates can halt or constrain the AI buildout is framed as validation of the thesis",
-        "Research inputs included InP supply-chain mapping, market-share sources, high-purity indium pricing, export controls and optical-company seizures",
-        "AAOI/LITE/AXTI 2025 optical rerating recap reinforces AXTI as an earlier successful upstream bottleneck example",
-        "Serenity used this idea as part of her backlash-to-validation framework, arguing original supply-chain ideas often face early skepticism before later earnings, institutions, partnerships or rerating validate them"
+        "Amazon said 2027 capacity is largely reserved and meaningful 2028 capacity is also already spoken for, reinforcing upstream optical demand duration",
+        "Management said agreements with Casela, Coherent and Lumentum did not materially drive Q2 yet, leaving room for further conversion if those programs ramp"
       ],
       "risks": [
-        "The Coherent prepayment and committed-capacity arrangement still need follow-through into recurring revenue, margins and duration",
-        "Reuters report and market-share numbers need primary verification",
-        "AXTI revenue sensitivity to AI optical demand must be quantified",
-        "Export controls, China exposure and substrate cyclicality can complicate the thesis",
-        "WF6/tungsten is a separate upstream pathway and should not be conflated with InP without specific process overlap",
-        "The AI supremacy wars framing is thematic and needs company-level evidence before being applied to any single ticker",
-        "Export easing can reduce bottleneck scarcity premium even if it helps volume growth",
-        "Need to verify whether the Digitimes report changes actual AXTI shipment licenses, timing or customer allocations",
-        "AXTI dilution and China exposure remain separate company-level risks",
-        "This is retrospective process validation and not necessarily a fresh company-level catalyst",
-        "Still-holding language signals conviction but does not remove valuation, dilution, China exposure or cycle risk",
-        "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks",
-        "Serenity noted AXTI and other photonics names were hit hard in the late-June drawdown, partly exposing concentration, dilution and high-beta risk even where the upstream bottleneck thesis remains intact"
+        "Aggressive 2026-2027 capacity targets still need to translate into real wafers, yields, customer shipments and 50%-plus margin",
+        "Backlog above $100M does not automatically mean revenue timing or ASP realization will match the most bullish scenario",
+        "China exposure, substrate cyclicality and export-policy changes can still complicate the thesis",
+        "If new capacity arrives faster across the chain, scarcity pricing could normalize before AXTI captures the full upside",
+        "Management's long-range revenue and margin ambitions may outrun what near-term customer conversions actually prove"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
-        "Read Reuters report and identify exact InP supply-chain claims",
-        "Verify AXTI and SMTOY InP substrate market-share estimates",
-        "Map InP substrate demand to AI optical networking and hyperscaler timelines",
-        "Separate InP substrate bottlenecks from tungsten/WF6 bottlenecks and map which processes connect to each AI optical or memory chain",
-        "Track whether new export-control actions directly affect InP substrates, AXTI or SMTOY rather than adjacent materials only",
-        "Find and read the Digitimes InP export-easing report and identify which regions, companies and product categories are affected",
-        "Track whether AXTI reports shipment recovery, pricing change or substrate allocation improvement",
-        "Map whether export easing benefits AXTI directly or mainly downstream epiwafer/laser companies",
-        "Re-read Reuters InP substrate article and compare with AXTI filings, shipments and pricing",
-        "Track high-purity indium pricing and whether it changes AXTI substrate margins or demand",
-        "Read the AXTI-Coherent agreement or company disclosure and separate prepayment optics from actual shipment cadence"
+        "Read the AXTI earnings release and call directly and separate hard guidance from Serenity's extrapolation",
+        "Track whether the planned 2026 and 2027 InP capacity doublings stay on schedule",
+        "Compare backlog, quarterly shipments and ASPs to see whether demand is truly outrunning supply or only front-loading",
+        "Verify how much future revenue may come from Casela, Coherent and Lumentum once those agreements start contributing materially",
+        "Pressure-test the 50%-plus gross-margin target against substrate pricing, yield and customer mix"
       ],
-      "lastUpdated": "2026-07-06 13:48",
+      "lastUpdated": "2026-07-31 15:14",
       "evidence": [
+        {
+          "date": "2026-07-31 15:14",
+          "quote": "Serenity said AXTI plans to double InP capacity in 2026 and again in 2027, while backlog remains above $100M and customer demand still outpaces supply.",
+          "url": "https://x.com/aleabitoreddit/status/2083088870942642391"
+        },
         {
           "date": "2026-07-06 13:48",
           "quote": "Serenity cited Nomura naming AXTI and IQE as leading InP players, alongside 42-78% substrate price hikes and 40-75% epiwafer price increases as upstream bottleneck validation.",
