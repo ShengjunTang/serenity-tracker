@@ -1,63 +1,34 @@
 {
-  "generatedAt": "2026-08-02T20:05:00+08:00",
-  "sourceWindow": "Latest refresh 2026-08-02 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-07-29T20:05:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced nine new main posts after the boundary, but only four were high-signal enough to survive into the rolling July 31 through August 1 `latestUpdates` window: the Aug 1 Lumentum laser-scarcity post, the Aug 1 four-hyperscaler capex reset, the Jul 31 XFAB earnings-transcript confirmation, and the Jul 31 AXTI capacity-and-backlog update. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. Additional Jul 30-31 posts on FORM/CPO, POET/SIVE timing, weekly AI-capex recap and Meta/Microsoft takeaways reinforced existing themes but did not independently change tracker structure. The retained posts were material enough to refresh the `lite`, `xfab`, and `axti-inp` idea cards plus matching bilingual mapping.",
-  "summary": "8 月 2 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-07-29T20:05:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 9 条新的主帖，其中 4 条被保留进 `latestUpdates`，窗口滚动到 7 月 31 日至 8 月 1 日：分别是 `$LITE` 所代表的 InP 激光器供给缺口、四大云厂 2026 capex 再上修、`$XFAB` 财报确认直连 CPO/800V、以及 `$AXTI` 扩产翻倍但仍供不应求。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。其余 Jul 30-31 的 FORM、POET/SIVE、Meta/Microsoft 与周度 recap 帖子主要在强化已有 optical 与 AI infra 主线，没有单独改变消息流排序；但 `$LITE`、`$XFAB` 和 `AXTI / InP` 的公司级信号已经足够具体，因此本轮同步更新了这三张标的卡和中文映射。",
+  "generatedAt": "2026-08-04T20:05:00+08:00",
+  "sourceWindow": "Latest refresh 2026-08-04 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-02T20:05:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced four new main posts after the boundary, but only two were high-signal enough to survive into the rolling August 4 `latestUpdates` window: the Aug 4 policy-driven western-optics bifurcation post tied to a draft US ban on new Chinese transceivers and data-center devices, and the Aug 4 memory-allocation post arguing 2027 DRAM/HBM and NAND capacity is already largely sold out. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. Two other Aug 4 posts about Citadel/rate-hike optics and bears returning to hibernation were excluded as macro or sentiment noise rather than tracker evidence. The retained posts were material enough to refresh `aaoi` and `ai-memory` evidence plus timestamps, while existing thesis text and bilingual mapping remained valid without an `app.js` update.",
+  "summary": "8 月 4 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-02T20:05:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 4 条新的主帖，其中只有 2 条被保留进 `latestUpdates`，窗口滚动到 8 月 4 日：一条是特朗普政府正起草限制中国新增光模块与数据中心设备、利多西方光学供应链的政策催化；另一条是 Serenity 援引产业链消息称 2027 年 DRAM/HBM 与 NAND allocation 已明显提前卖满、客户只能拿到 60%-70% 需求量。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。其余两条 8 月 4 日帖子分别是 Citadel/加息段子与空头情绪吐槽，不构成可追踪的产业或标的证据，所以没有进入消息流。本轮只更新了 `aaoi` 与 `ai-memory` 的 evidence 和 `lastUpdated`，现有 thesis 与中文映射仍然适用，因此没有改 `app.js`。",
   "latestUpdates": [
     {
-      "publishedAt": "2026-08-01T14:24:58+08:00",
-      "type": "InP 激光供给缺口重于存储 / CPO 激光瓶颈再被验证",
-      "headline": "Serenity 引用 `$LITE` CEO Michael Hurlston 在 RAISE Summit 的表述称，AI 数据中心所需 InP 激光器正面临比存储更严重的供给危机；即便 Lumentum 已有 5 座 InP fab，当前出货仍会低于客户需求 30% 以上，而且缺口已从 EML 向 CW 扩散。她把这视为 `$AAOI`、`$SIVE`、`$LITE` 与 `$COHR` 所代表 laser chokepoint thesis 的又一次公司级验证。",
+      "publishedAt": "2026-08-04T19:09:35+08:00",
+      "type": "中国产品限制酝酿升级 / 西方光学供应链再获政策催化",
+      "headline": "Serenity 称特朗普政府正起草针对中国新增 optical transceiver 与数据中心设备的限制，可能打击 Innolight、Eoptolink 等中国链条，并利多 `$AAOI`、`$SIVE` / Jabil、`$LITE` 与 `$COHR` 所代表的西方光学供应链。她据此判断，optical supply chain bifurcation 还会继续加深，西方厂商的重要性将进一步上升。",
       "tickers": [
-        "$LITE",
-        "$SIVE",
         "$AAOI",
-        "$COHR"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-01T03:16:17+08:00",
-      "type": "四大云厂 2026 capex 再上修 / 上游半导体继续吃紧",
-      "headline": "Serenity 汇总 `$AMZN`、`$META`、`$GOOGL` 与 `$MSFT` 后，把四家 2026 年合计 capex 指引上修到约 7200-7450 亿美元，并继续强调各家仍在重复 compute shortage、cloud demand 和 chips/networking spend 上升。她把这视为上游 semis、memory、optics 与部分 neocloud 并未进入“需求塌方”，而是在继续承接更大的资本开支浪潮。",
-      "tickers": [
-        "$AMZN",
-        "$META",
-        "$GOOGL",
-        "$MSFT",
-        "$NVDA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2083270545320386734",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-31T16:25:39+08:00",
-      "type": "XFAB 确认直连 CPO 与 800V / photonics 量产锚到 2028",
-      "headline": "Serenity 跟进 `$XFAB` 财报电话会称，公司已明确表示“正在 co-packaged optics 上取得进展”，并认为 800V 迁移会同时支持 SiC 与 GaN 需求；公司还说 photonics volume production 预计从 2028 年开始，且已有 3 个 silicon photonics 项目与关键伙伴开发中。对 Serenity 来说，这意味着 XFAB 的 CPO/800V 暴露已从外部映射，升级成了公司亲口确认。",
-      "tickers": [
-        "$XFAB",
-        "$NVTS",
-        "$POWI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2083106805949878330",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-07-31T15:14:23+08:00",
-      "type": "AXTI 扩产翻倍仍供不应求 / Amazon 算力预订到 2028",
-      "headline": "Serenity 把 `$AMZN` 与 `$AXTI` 放在同一条 upstream capex 逻辑里：Amazon 2026 capex 提到 2200 亿美元，且 2027 乃至部分 2028 容量已被预订；同时 AXTI 财报显示 InP 收入创纪录、2026 年产能计划翻倍、2027 年再翻倍，管理层还称客户需求仍持续快于新增供给。她据此强化了 InP substrate 仍是 optical chain 核心上游瓶颈的判断。",
-      "tickers": [
-        "$AXTI",
-        "$AMZN",
-        "$MU",
+        "$SIVE",
+        "$JBL",
         "$LITE",
         "$COHR"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
+      "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-04T10:34:48+08:00",
+      "type": "2027 memory allocation 更紧 / DRAM-HBM 与 NAND 同步售罄",
+      "headline": "Serenity 援引 Digitimes 产业链消息称，SK Hynix、`$MU` 与 Samsung 的 2027 DRAM/HBM 产能已售罄，`$SNDK`、Samsung 与 Micron 的当前年度 NAND 产能也已卖完，客户仅能拿到原需求约 60%-70% 的量。她据此反驳 2027 年 memory oversupply 叙事，认为 shortage 反而可能进入最严重阶段。",
+      "tickers": [
+        "$MU",
+        "$SNDK",
+        "$EWY"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
       "source": "Posts-logged-in-X"
     }
   ],
@@ -981,8 +952,13 @@
         "Track whether management guidance supports the 2027 H1/H2 ramp framing",
         "Verify what portion of the new buildout is already funded, customer-backed or tied to specific 800G / 1.6T programs"
       ],
-      "lastUpdated": "2026-07-14 22:35",
+      "lastUpdated": "2026-08-04 19:09",
       "evidence": [
+        {
+          "date": "2026-08-04 19:09",
+          "quote": "Serenity said a draft US ban on new Chinese transceivers and data-center devices could deepen supply-chain bifurcation and raise the strategic importance of western optical names such as AAOI, SIVE/Jabil, LITE and Coherent.",
+          "url": "https://x.com/aleabitoreddit/status/2084597612175618342"
+        },
         {
           "date": "2026-07-14 22:35",
           "quote": "Serenity said AAOI had now commenced its roughly 400,000-square-foot buildout for 800G and 1.6T production, while noting Tower's expansion looked more materially new.",
@@ -2042,8 +2018,13 @@
         "Track whether the market continues treating post-LTA memory weakness as deleveraging rather than thesis break",
         "Quantify SNDK and other smaller memory expressions versus the core Samsung / SK Hynix / Micron line"
       ],
-      "lastUpdated": "2026-07-23 12:35",
+      "lastUpdated": "2026-08-04 10:34",
       "evidence": [
+        {
+          "date": "2026-08-04 10:34",
+          "quote": "Serenity cited Digitimes industry sourcing saying 2027 DRAM/HBM capacity at SK Hynix, Micron and Samsung was effectively sold out, NAND annual capacity was also largely allocated, and customers were only receiving about 60%-70% of requested volumes.",
+          "url": "https://x.com/aleabitoreddit/status/2084468063228060092"
+        },
         {
           "date": "2026-07-23 12:35",
           "quote": "Serenity said Tesla was investing in new memory supply chains from scratch and highlighted Elon thanking Micron for making a very significant future allocation available on reasonable terms.",
