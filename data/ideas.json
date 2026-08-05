@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-08-04T20:05:00+08:00",
-  "sourceWindow": "Latest refresh 2026-08-04 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-02T20:05:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced four new main posts after the boundary, but only two were high-signal enough to survive into the rolling August 4 `latestUpdates` window: the Aug 4 policy-driven western-optics bifurcation post tied to a draft US ban on new Chinese transceivers and data-center devices, and the Aug 4 memory-allocation post arguing 2027 DRAM/HBM and NAND capacity is already largely sold out. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. Two other Aug 4 posts about Citadel/rate-hike optics and bears returning to hibernation were excluded as macro or sentiment noise rather than tracker evidence. The retained posts were material enough to refresh `aaoi` and `ai-memory` evidence plus timestamps, while existing thesis text and bilingual mapping remained valid without an `app.js` update.",
-  "summary": "8 月 4 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-02T20:05:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 4 条新的主帖，其中只有 2 条被保留进 `latestUpdates`，窗口滚动到 8 月 4 日：一条是特朗普政府正起草限制中国新增光模块与数据中心设备、利多西方光学供应链的政策催化；另一条是 Serenity 援引产业链消息称 2027 年 DRAM/HBM 与 NAND allocation 已明显提前卖满、客户只能拿到 60%-70% 需求量。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。其余两条 8 月 4 日帖子分别是 Citadel/加息段子与空头情绪吐槽，不构成可追踪的产业或标的证据，所以没有进入消息流。本轮只更新了 `aaoi` 与 `ai-memory` 的 evidence 和 `lastUpdated`，现有 thesis 与中文映射仍然适用，因此没有改 `app.js`。",
+  "generatedAt": "2026-08-05T20:03:21+08:00",
+  "sourceWindow": "Latest refresh 2026-08-05 20:03 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-04T20:05:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced two new main posts after the boundary, but only one was high-signal enough to survive into the rolling August 3-5 `latestUpdates` window: the Aug 5 Rocket Lab post about a $397M US Space Force award tied to Flatellite satellites and Neutron launches. The other new post about a possible Strait of Hormuz reopening was excluded as macro/commentary noise rather than tracker evidence. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The retained post was distinct enough to add a new `rklb-neutron` idea card and matching bilingual mapping in `app.js`, while the existing Aug 4 optical-policy and memory-allocation items remained inside the rolling two-day window.",
+  "summary": "8 月 5 日 20:03（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-04T20:05:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 2 条新的主帖，其中只有 1 条被保留进 `latestUpdates`：Serenity 提到 `$RKLB` 获得美国太空军 3.97 亿美元合同，用于 Flatellite 卫星与 Neutron 中型运载火箭，属于新的可追踪 space/defense 验证；另一条关于霍尔木兹海峡可能恢复通行的评论更偏宏观情绪，没有进入追踪器。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。滚动消息窗现在保留 8 月 4 日至 8 月 5 日的 3 条更新；同时新增了 `rklb-neutron` 标的卡，并补上 `app.js` 里的中文映射。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-08-05T08:16:18+08:00",
+      "type": "US Space Force 合同 / Rocket Lab 一体化平台验证",
+      "headline": "Serenity 提到 `$RKLB` 获得美国太空军 3.97 亿美元合同，用于 Flatellite 卫星与 Neutron 中型运载火箭。她把这条消息视为 Rocket Lab 从单纯太空叙事走向真实政府项目验证的进展信号。",
+      "tickers": [
+        "$RKLB"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2084795597417263442",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-08-04T19:09:35+08:00",
       "type": "中国产品限制酝酿升级 / 西方光学供应链再获政策催化",
@@ -2962,6 +2973,42 @@
           "date": "2026-06-29 18:43",
           "quote": "Serenity cited reports that Rakuten and AST SpaceMobile plan a Japanese LEO network joint venture in response to Starlink's growing influence.",
           "url": "https://x.com/aleabitoreddit/status/2071545016007467486"
+        }
+      ]
+    },
+    {
+      "id": "rklb-neutron",
+      "ticker": "$RKLB",
+      "name": "Rocket Lab / Flatellite + Neutron USSF contract",
+      "tier": "watch",
+      "theme": "National-security satellite + launch validation",
+      "thesis": "Serenity flagged Rocket Lab's $397M US Space Force award as a concrete validation event for the company's integrated space stack. In her framing, RKLB is not only a generic space-optimism trade here; the contract explicitly ties both Flatellite satellite buildout and Neutron medium-lift launches to a real government customer program.",
+      "whyItMatters": "A named US Space Force contract gives Rocket Lab a cleaner execution datapoint than broad space hype alone. If the award turns into visible milestones, launches and backlog conversion, it could validate both the satellite-platform side and the move up the launch stack. The limitation is that Serenity's post only gives the headline, so investors still need to verify scope, timing, margins and how much of the value truly converts into future earnings power.",
+      "catalysts": [
+        "$397M US Space Force contract covering Flatellite satellites and Neutron launches",
+        "Government-customer validation for Rocket Lab's integrated satellite-plus-launch offering",
+        "Potential follow-through from contract milestones, launch scheduling and backlog conversion",
+        "Broader defense and space budget attention can shift the story from narrative toward execution"
+      ],
+      "risks": [
+        "The post is still only a headline datapoint and does not disclose contract timing, margins or profitability",
+        "Neutron execution, launch readiness and schedule risk remain central to whether the award really de-risks the thesis",
+        "Government space awards can be milestone-based, delayed or operationally complex even when headline value looks large",
+        "A single contract does not prove durable demand or a full rerating on its own"
+      ],
+      "stance": "跟踪观察",
+      "nextChecks": [
+        "Find Rocket Lab or US Space Force primary announcements describing scope, timeline and program structure",
+        "Verify how much of the $397M is tied to satellite manufacturing versus launches and over what period",
+        "Track Neutron readiness, launch cadence and whether this award changes the commercialization timeline",
+        "Check whether the contract materially changes backlog visibility or margin expectations"
+      ],
+      "lastUpdated": "2026-08-05 08:16",
+      "evidence": [
+        {
+          "date": "2026-08-05 08:16",
+          "quote": "Serenity said Rocket Lab won a $397M US Space Force contract to build Flatellite satellites and launch them on Neutron.",
+          "url": "https://x.com/aleabitoreddit/status/2084795597417263442"
         }
       ]
     },

@@ -599,6 +599,14 @@ const zhCopy = {
     risks: ["报道仍需公司和监管机构确认", "合资股权、资本承诺与经济性尚不清楚", "卫星部署、覆盖和服务时间可能延迟", "Starlink 与地面运营商竞争可能压缩回报"],
     nextChecks: ["查找 Rakuten 与 ASTS 一手公告或 filing", "核实股权、资金、频谱权利和部署计划", "估算用户、容量、定价与收入贡献"],
   },
+  "rklb-neutron": {
+    theme: "国防航天卫星 + 发射一体化验证",
+    thesis: "Serenity 把 Rocket Lab 拿到的 3.97 亿美元美国太空军合同，当作 Rocket Lab 一体化 space stack 的新验证点。她这里不是单纯转发“space 情绪”，而是强调这笔合同同时点到 Flatellite 卫星平台和 Neutron 中型运载火箭，说明政府客户开始把 Rocket Lab 的卫星制造和发射能力放进同一项目框架里看。",
+    whyItMatters: "相比泛泛的航天热度，一笔点名美国太空军的真实合同更像 execution datapoint。若这条线后续能转成明确里程碑、发射排期和 backlog 兑现，它就有机会同时验证 Rocket Lab 的卫星平台能力和向中型火箭升级的商业路径；但目前仍只有 headline，需要继续拆合同范围、时间和利润质量。",
+    catalysts: ["美国太空军 3.97 亿美元合同同时覆盖 Flatellite 卫星与 Neutron 发射", "政府客户对 Rocket Lab 卫星+发射一体化方案的初步验证", "后续若出现里程碑、发射排期或 backlog 转化，会把故事从叙事推向执行", "防务与航天预算关注度上升，可能提高市场对实际项目兑现的敏感度"],
+    risks: ["当前仍只有 headline，合同节奏、利润率和回款结构未披露", "Neutron 的准备进度、首飞和执行节奏仍是核心不确定项", "政府航天合同即使 headline value 大，也可能分期、延后或执行复杂", "单一合同不足以独立证明持续需求和长期重估"],
+    nextChecks: ["查找 Rocket Lab 或美国太空军对合同范围、时间表和项目结构的一手公告", "拆分 3.97 亿美元里卫星制造与发射部分分别占多少", "跟踪 Neutron 的准备进度与这笔合同是否改变商业化时间线", "观察该合同是否实质改善 backlog 可见度或利润预期"],
+  },
   "schaeffler-robotics": {
     theme: "汽车零部件向人形机器人迁移",
     thesis: "Serenity 把 Schaeffler 作为汽车供应链拥有广泛 humanoid 可选性的代表，覆盖轴承、齿轮箱、传感器/ECU、执行器和功率电子，并称公司与约 45 家 humanoid 玩家合作；同时承认机器人目前只占很小收入比例。",
