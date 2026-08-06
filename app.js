@@ -8,9 +8,10 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 现在把 SIVE 看成已经扛过 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint；而 7 月 16 日这条新帖，终于把故事从“scarcity 叙事”往更可量化的产能与估值框架推进。7 月 10 日的 insider buy 与 roadmap defense 先打底，7 月 11 日到 14 日又依次叠加 Rosenblatt、订阅读到的 China-laser channel check、Morgan Stanley、Innolight 和 Jensen 的外部验证；最新一层则是用 Win Semi 低比例分配、65% yield 和 50-75 美元 array ASP 做情景建模，说明哪怕只拿到一小块合格 InP 产能，也可能把 SIVE 的年化 array revenue 和 gross profit 抬到相对当前市值很显著的水平。她还补充 Sivers 正在对接更多 fabs，而 open-market CW 采购与 AMD LTAs 也在强化“新增合格产能一上线就会被吸收”的判断。",
-    whyItMatters: "这让 SIVE 不再只是“西方 CW 激光器稀缺 + sell-side 终于开始承认”这种偏 narrative 的 thesis，而是开始出现一条更可被证伪也更可被验证的 capacity-conversion 路径。若西方 CW scarcity 确实成立，且 SIVE 真能拿到哪怕 modest 的合格 Win Semi 式产能份额，它并不需要很激进的市占率假设就可能支撑出有意义的 gross-profit 上行空间；反过来，这套更具体的模型也意味着，一旦产能、ASP、良率或 HVM 节奏不成立，失望会更快暴露出来。",
+    thesis: "Serenity 现在把 SIVE 看成已经扛过 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint。7 月 10 日的 insider buy 与 roadmap defense 先打底，7 月 11 日到 14 日又依次叠加 Rosenblatt、订阅读到的 China-laser channel check、Morgan Stanley、Innolight 和 Jensen 的外部验证；7 月 16 日这层把故事从“scarcity 叙事”推进到更可量化的产能与估值框架；而 8 月 6 日这条新帖，则又补上一层更具体的下游客户/架构 read-through。Serenity 现在不仅用 Win Semi 低比例分配、65% yield 和 50-75 美元 array ASP 做情景建模，说明哪怕只拿到一小块合格 InP 产能，也可能把 SIVE 的年化 array revenue 和 gross profit 抬到相对当前市值很显著的水平；她还进一步推演，Aeva 新开的 optical connectivity 业务和 hyperscaler optical-engine JDA，可能为 SIVE 的 DFB 激光器与放大器堆栈再打开一条新的光源需求路径。与此同时，她仍强调 Sivers 在对接更多 fabs，而 open-market CW 采购与 AMD LTAs 也在强化“新增合格产能一上线就会被吸收”的判断。",
+    whyItMatters: "这让 SIVE 不再只是“西方 CW 激光器稀缺 + sell-side 终于开始承认”这种偏 narrative 的 thesis，而是开始出现一条更可被证伪也更可被验证的 capacity-conversion + downstream-program 路径。若西方 CW scarcity 确实成立，且 SIVE 真能拿到哪怕 modest 的合格 Win Semi 式产能份额，它并不需要很激进的市占率假设就可能支撑出有意义的 gross-profit 上行空间；而 Aeva 这条新 read-through，又把故事往“可能接到新的 hyperscaler-facing optical source 路径”推进了一步。反过来，这也意味着，一旦产能、供应关系、ASP、良率或 H2 2027/2028 节奏不成立，失望会更快暴露出来。",
     catalysts: [
+      "Serenity 认为 Aeva 新的 optical connectivity 业务与 hyperscaler optical-engine JDA，可能为 SIVE 的 DFB 激光器和放大器堆栈再打开一条新需求路径",
       "Serenity 用 Win Semi 低比例分配建模，认为即便只拿到 modest 份额，也足以支撑相对当前市值可观的 annual gross profit",
       "管理层称 Sivers 还在与更多 fabs 合作，说明合格 InP 产能基础盘仍可能外扩",
       "7 月 10 日出现三笔 insider buys，其中 CEO 场内买入约 100 万 SEK",
@@ -29,6 +30,7 @@ const zhCopy = {
       "photonics 主题仍被视作极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始"
     ],
     risks: [
+      "8 月 6 日这条 Aeva / SIVE 供应关系推演仍高度依赖 Serenity 的映射，除非 Aeva、Sivers 或客户直接点名，否则不能当成已确认供货",
       "7 月 16 日这套 Win Semi / yield / ASP 建模仍是 scenario analysis，实际拿到的合格产能份额可能远低于假设",
       "即便纸面 gross-profit 空间很大，真实 HVM 节奏、客户结构和实际 ASP 仍可能明显低于理想情景",
       "融资虽然超额认购，但仍有稀释，且必须转成真实激光器/放大器产能与收入",
@@ -44,6 +46,7 @@ const zhCopy = {
       "7 月 14 日这些验证更多仍是 read-through，而不是 SIVE 自己披露的新订单"
     ],
     nextChecks: [
+      "优先核实 Aeva 的 optical-engine / on-chip light source 项目是否真的点到 SIVE 激光器或放大器，以及 H2 2027 / 2028 时间线能否转成命名收入证据",
       "先把 Win Semi wafer capacity、yield 与 ASP 假设对照供应商披露和同业 economics 做压力测试",
       "跟踪 Sivers 接下来几个季度是否真的披露更多 qualified fabs、capacity additions 或 pipeline 上修",
       "阅读 7 月 10 日 insider filing，确认 CEO 与另外两笔增持的金额、价格和持股变化",

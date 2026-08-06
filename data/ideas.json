@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-08-05T20:03:21+08:00",
-  "sourceWindow": "Latest refresh 2026-08-05 20:03 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-04T20:05:00+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced two new main posts after the boundary, but only one was high-signal enough to survive into the rolling August 3-5 `latestUpdates` window: the Aug 5 Rocket Lab post about a $397M US Space Force award tied to Flatellite satellites and Neutron launches. The other new post about a possible Strait of Hormuz reopening was excluded as macro/commentary noise rather than tracker evidence. Subs were successfully checked in the logged-in tab and the newest visible subscriber post still dated 2026-07-12, so no new Subs advanced the boundary. The retained post was distinct enough to add a new `rklb-neutron` idea card and matching bilingual mapping in `app.js`, while the existing Aug 4 optical-policy and memory-allocation items remained inside the rolling two-day window.",
-  "summary": "8 月 5 日 20:03（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-04T20:05:00+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 2 条新的主帖，其中只有 1 条被保留进 `latestUpdates`：Serenity 提到 `$RKLB` 获得美国太空军 3.97 亿美元合同，用于 Flatellite 卫星与 Neutron 中型运载火箭，属于新的可追踪 space/defense 验证；另一条关于霍尔木兹海峡可能恢复通行的评论更偏宏观情绪，没有进入追踪器。`Subs` 也已直接核对，最新可见订阅帖仍停留在 7 月 12 日，因此本轮没有新的订阅帖越过边界。滚动消息窗现在保留 8 月 4 日至 8 月 5 日的 3 条更新；同时新增了 `rklb-neutron` 标的卡，并补上 `app.js` 里的中文映射。",
+  "generatedAt": "2026-08-06T20:03:53+08:00",
+  "sourceWindow": "Latest refresh 2026-08-06 20:03 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-05T20:03:21+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced four new main posts after the boundary, but only two were high-signal enough to survive into the rolling August 4-6 `latestUpdates` window: the Aug 6 Viavi callout that CPO test revenue is already starting and the Aug 6 Aeva optical-connectivity post that Serenity reads as a new optical-source / hyperscaler path with positive SIVE read-through. The other two fresh public posts, an AAOI wordplay joke and a broader recovery/Unitree-valuation note, were excluded as low-signal commentary rather than tracker evidence. Subs were successfully checked in the logged-in tab; the newest visible post there was the same Aug 6 public recovery note, but no distinct new subscriber-only investment post advanced the boundary. This run kept the August 4-6 rolling window at five high-signal updates and refreshed the existing `sive` idea plus its matching bilingual mapping in `app.js`, without adding a new idea card.",
+  "summary": "8 月 6 日 20:03（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-05T20:03:21+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 4 条新的主帖，其中只有 2 条被保留进 `latestUpdates`：一条是 `$VIAV` 电话会口径显示 CPO 测试收入已经开始落地、12 月可能加速；另一条是 Serenity 将 `$AEVA` 新的 optical connectivity / hyperscaler JDA 解读为对 `$SIVE` 的新增 optical-source read-through。其余 2 条分别是 `AAOI` 的轻松玩笑帖，以及带有个人恢复近况和 Unitree 估值观察的 broad note，都没有进入追踪器。`Subs` 也已直接核对，最新可见的新帖是同一条 8 月 6 日公开 broad note，但没有新的订阅独占投资帖越过边界。滚动消息窗现在保留 8 月 4 日到 8 月 6 日的 5 条高信号更新；同时只刷新了 `SIVE` 标的卡和 `app.js` 里的中文映射，没有新增 idea。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-08-06T12:12:45+08:00",
+      "type": "Aeva 新增 optical connectivity / SIVE 供应链 read-through",
+      "headline": "Serenity 把 `$AEVA` 与 hyperscaler optical engine player 签下的 JDA，解读为 Aeva 正在切入 CPO / NPO optical source 业务；她据此推演 `$SIVE` 的 DFB 激光器与放大器堆栈，可能获得一条新的 hyperscaler-facing 需求路径和 TAM 扩张机会。",
+      "tickers": [
+        "$AEVA",
+        "$SIVE"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2085217487864643658",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-06T09:23:49+08:00",
+      "type": "CPO 测试收入开始兑现 / 行业时间线未被推迟",
+      "headline": "Serenity 援引 `$VIAV` 电话会称，CPO 测试相关收入本季度已经开始体现、12 月可能进一步加速，且 1.6T 正在快速爬坡。她据此判断，CPO 量产时间线大体仍和此前一致，先兑现的会是 `$VIAV`、`$FORM` 这类测试环节收入。",
+      "tickers": [
+        "$VIAV",
+        "$FORM"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2085174977272360987",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-08-05T08:16:18+08:00",
       "type": "US Space Force 合同 / Rocket Lab 一体化平台验证",
@@ -50,10 +74,11 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity now frames SIVE as a stress-tested photonics chokepoint with both management and external-channel reinforcement behind it, and the July 16 follow-up finally adds a concrete capacity-and-valuation bridge to the story. The July 10 insider-buy / roadmap-defense sequence established the base, the July 11-14 run hardened the ecosystem case through Rosenblatt, a subscriber channel check, Morgan Stanley, Innolight and Jensen, and the newest post takes the next step: using a low-end Win Semi allocation plus 65% yield and $50-$75 array ASPs to show how even partial qualified InP capacity could translate into very large annual array revenue and gross profit relative to SIVE's current market cap. Serenity also says Sivers is working with more fabs, that future pipeline projections could rise as more suppliers qualify into HVM, and that open-market CW purchases plus AMD LTAs reinforce the idea that fresh qualified capacity would be absorbed quickly.",
-      "whyItMatters": "This broadens SIVE from a scarcity-and-architecture narrative into a more falsifiable capacity-conversion case. If western CW laser scarcity is real and SIVE can secure even a modest slice of qualified Win Semi-style InP capacity, the company no longer needs heroic market-share assumptions to support material gross-profit upside versus its present valuation. The new modeling also gives the thesis a bridge from ecosystem validation toward financial imagination; if the capacity math, ASP assumptions or downstream HVM timing are wrong, that same specificity will make disappointment easier to expose.",
+      "thesis": "Serenity now frames SIVE as a stress-tested photonics chokepoint with both management and external-channel reinforcement behind it. The July 10 insider-buy / roadmap-defense sequence established the base, the July 11-14 run hardened the ecosystem case through Rosenblatt, a subscriber channel check, Morgan Stanley, Innolight and Jensen, the July 16 follow-up added a concrete capacity-and-valuation bridge through low-end Win Semi allocation math, and the Aug 6 Aeva post adds a more specific downstream customer-architecture read-through. Serenity now argues that even partial qualified InP capacity could drive meaningful annual array revenue and gross profit relative to SIVE's current market cap, while Aeva's new optical-connectivity push and hyperscaler optical-engine JDA may open another optical-source path where SIVE's DFB laser and amplifier stack could fit. She also says Sivers is working with more fabs, that future pipeline projections could rise as more suppliers qualify into HVM, and that open-market CW purchases plus AMD LTAs reinforce the idea that fresh qualified capacity would be absorbed quickly.",
+      "whyItMatters": "This broadens SIVE from a scarcity-and-architecture narrative into a more falsifiable capacity-conversion and downstream-program case. If western CW laser scarcity is real and SIVE can secure even a modest slice of qualified Win Semi-style InP capacity, the company no longer needs heroic market-share assumptions to support material gross-profit upside versus its present valuation. The new Aeva read-through also pushes the thesis one step closer to customer-path imagination: instead of only saying lasers are scarce, Serenity is now pointing to a possible new hyperscaler-facing optical-engine / on-chip-light-source route where SIVE might participate. If the capacity math, supplier mapping, ASP assumptions or H2 2027/2028 timing are wrong, that same specificity will make disappointment easier to expose.",
       "catalysts": [
         "Management says Sivers is working with more fabs, which could expand qualified InP capacity beyond the current base case",
+        "Serenity reads Aeva's new optical-connectivity business and hyperscaler optical-engine JDA as a possible new optical-source demand path for SIVE's DFB laser and amplifier stack",
         "Serenity modeled a low-end Win Semi allocation as potentially enough to support substantial annual gross profit relative to SIVE's current market cap",
         "Three new insider purchases on July 10, including CEO Vikram's 1,000,000 SEK open-market buy",
         "Upsized SEK 700M institutional financing completed at 57 SEK and described as multiple times oversubscribed",
@@ -77,6 +102,7 @@
       ],
       "risks": [
         "Even if gross-profit math looks attractive on paper, HVM timing, customer mix and real realized ASPs could still disappoint",
+        "The Aug 6 Aeva / SIVE supplier mapping is still inference-heavy until Aeva, Sivers or the end customer explicitly identifies the optical-source stack",
         "The July 16 Win Semi / ASP / yield framework is still a scenario model and may overstate how much qualified capacity SIVE can actually secure",
         "The 57 SEK financing still creates dilution and must translate into real laser/amplifier output and customer revenue",
         "CEO and insider buying improve optics but do not by themselves prove 2027 revenue conversion or customer ramp timing",
@@ -96,6 +122,7 @@
       "stance": "重点关注",
       "nextChecks": [
         "Track whether Sivers actually discloses more qualified fabs, capacity additions or pipeline revisions over the next few quarters",
+        "Verify whether Aeva's optical-engine / on-chip-light-source program explicitly uses SIVE lasers or amplifiers, and whether the H2 2027 / 2028 timing turns into named revenue evidence",
         "Pressure-test the Win Semi wafer-capacity, yield and ASP assumptions against supplier disclosures and peer economics",
         "Read the Swedish insider filings for the July 10 CEO purchase and the two other insider buys, including price, role and post-trade ownership",
         "Track formal NASDAQ-listing milestones, advisors and company disclosures over the next few quarters",
@@ -110,8 +137,13 @@
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings",
         "Read the Morgan Stanley CPO note plus Innolight IR transcript and separate ecosystem validation from direct SIVE revenue evidence"
       ],
-      "lastUpdated": "2026-07-16 22:54",
+      "lastUpdated": "2026-08-06 12:12",
       "evidence": [
+        {
+          "date": "2026-08-06 12:12",
+          "quote": "Serenity argued that Aeva's new optical-connectivity business and hyperscaler optical-engine JDA could create another optical-source path where SIVE's DFB lasers and amplifiers may fit.",
+          "url": "https://x.com/aleabitoreddit/status/2085217487864643658"
+        },
         {
           "date": "2026-07-16 22:54",
           "quote": "Serenity modeled SIVE on a low-end Win Semi allocation and argued that even 10%-15% of that capacity could imply substantial annual gross profit relative to today's market cap, while saying new qualified capacity would likely be absorbed quickly.",
