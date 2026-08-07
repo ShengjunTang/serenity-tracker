@@ -8,9 +8,12 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 现在把 SIVE 看成已经扛过 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint。7 月 10 日的 insider buy 与 roadmap defense 先打底，7 月 11 日到 14 日又依次叠加 Rosenblatt、订阅读到的 China-laser channel check、Morgan Stanley、Innolight 和 Jensen 的外部验证；7 月 16 日这层把故事从“scarcity 叙事”推进到更可量化的产能与估值框架；而 8 月 6 日这条新帖，则又补上一层更具体的下游客户/架构 read-through。Serenity 现在不仅用 Win Semi 低比例分配、65% yield 和 50-75 美元 array ASP 做情景建模，说明哪怕只拿到一小块合格 InP 产能，也可能把 SIVE 的年化 array revenue 和 gross profit 抬到相对当前市值很显著的水平；她还进一步推演，Aeva 新开的 optical connectivity 业务和 hyperscaler optical-engine JDA，可能为 SIVE 的 DFB 激光器与放大器堆栈再打开一条新的光源需求路径。与此同时，她仍强调 Sivers 在对接更多 fabs，而 open-market CW 采购与 AMD LTAs 也在强化“新增合格产能一上线就会被吸收”的判断。",
-    whyItMatters: "这让 SIVE 不再只是“西方 CW 激光器稀缺 + sell-side 终于开始承认”这种偏 narrative 的 thesis，而是开始出现一条更可被证伪也更可被验证的 capacity-conversion + downstream-program 路径。若西方 CW scarcity 确实成立，且 SIVE 真能拿到哪怕 modest 的合格 Win Semi 式产能份额，它并不需要很激进的市占率假设就可能支撑出有意义的 gross-profit 上行空间；而 Aeva 这条新 read-through，又把故事往“可能接到新的 hyperscaler-facing optical source 路径”推进了一步。反过来，这也意味着，一旦产能、供应关系、ASP、良率或 H2 2027/2028 节奏不成立，失望会更快暴露出来。",
+    thesis: "Serenity 现在把 SIVE 看成已经扛过 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint。7 月 10 日的 insider buy 与 roadmap defense 先打底，7 月 11 日到 14 日又依次叠加 Rosenblatt、订阅读到的 China-laser channel check、Morgan Stanley、Innolight 和 Jensen 的外部验证；7 月 16 日把故事推进到更可量化的产能与估值框架；8 月 6 日 Aeva 补上下游架构 read-through；而 8 月 7 日的 AAOI、MTSI 与 Lumilens 三组新帖子，又把“西方 CW / DFB 激光器仍严重紧缺、下游高价值 optical-engine 客户仍在浮出水面”的论点压得更实。Serenity 现在不仅继续用 Win Semi 低比例分配、65% yield 和 50-75 美元 array ASP 做情景建模，还引用 AAOI 自己承认首代 CPO 没有足够激光器产能、MTSI 提到客户带着 urgency 来找 InP DFB lasers，以及 Lumilens 55 亿美元估值与 multi-billion-dollar customer agreement，来强化 SIVE 这类独立西方激光器产能的稀缺性和上游 optionality。",
+    whyItMatters: "这让 SIVE 不再只是“西方 CW 激光器稀缺 + sell-side 开始承认”的 narrative，而更像一条可被持续交叉验证的 capacity-conversion + downstream-program 路径。8 月 7 日这批 read-through 的价值在于：AAOI 和 MTSI 都还在公开描述激光器短缺，Lumilens 也以更高估值和更强客户背书浮出水面，说明 scarcity 不是 Serenity 单线乐观；但同样因为细节更具体，一旦产能、客户映射、ASP 或 H2 2027/2028 节奏不成立，失望也会更快暴露。",
     catalysts: [
+      "AAOI 说自己当前并未实质参与首代 CPO 部署，因为 CPO 激光器产能仍太稀缺；Serenity 把这看成 SIVE 这类独立西方激光器供应方的利好",
+      "MTSI 财报称客户正因 InP DFB 激光器短缺而带着 urgency 找上门，进一步独立验证 CW / DFB scarcity",
+      "Lumilens 以 55 亿美元估值浮出水面，并披露 multi-billion-dollar customer agreement；Serenity 把它当成 POET / SIVE 上游映射的外部确认",
       "Serenity 认为 Aeva 新的 optical connectivity 业务与 hyperscaler optical-engine JDA，可能为 SIVE 的 DFB 激光器和放大器堆栈再打开一条新需求路径",
       "Serenity 用 Win Semi 低比例分配建模，认为即便只拿到 modest 份额，也足以支撑相对当前市值可观的 annual gross profit",
       "管理层称 Sivers 还在与更多 fabs 合作，说明合格 InP 产能基础盘仍可能外扩",
@@ -30,6 +33,8 @@ const zhCopy = {
       "photonics 主题仍被视作极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始"
     ],
     risks: [
+      "8 月 7 日这批 AAOI / MTSI / Lumilens 主要仍是 sector read-through，而不是 SIVE 自己的新订单披露",
+      "Lumilens 估值、客户协议以及 POET / SIVE 供应关系含义，仍需要一手资料逐项核实",
       "8 月 6 日这条 Aeva / SIVE 供应关系推演仍高度依赖 Serenity 的映射，除非 Aeva、Sivers 或客户直接点名，否则不能当成已确认供货",
       "7 月 16 日这套 Win Semi / yield / ASP 建模仍是 scenario analysis，实际拿到的合格产能份额可能远低于假设",
       "即便纸面 gross-profit 空间很大，真实 HVM 节奏、客户结构和实际 ASP 仍可能明显低于理想情景",
@@ -46,6 +51,8 @@ const zhCopy = {
       "7 月 14 日这些验证更多仍是 read-through，而不是 SIVE 自己披露的新订单"
     ],
     nextChecks: [
+      "优先核实 AAOI 首代 CPO 缺位与 MTSI 的 urgency 表述，是否真的会转化成 SIVE 的供应机会，而不只是证明行业稀缺",
+      "核实 Lumilens 的客户身份、POET 合同范围，以及 SIVE 是否真的落在被点到的产品线里",
       "优先核实 Aeva 的 optical-engine / on-chip light source 项目是否真的点到 SIVE 激光器或放大器，以及 H2 2027 / 2028 时间线能否转成命名收入证据",
       "先把 Win Semi wafer capacity、yield 与 ASP 假设对照供应商披露和同业 economics 做压力测试",
       "跟踪 Sivers 接下来几个季度是否真的披露更多 qualified fabs、capacity additions 或 pipeline 上修",
@@ -217,9 +224,14 @@ const zhCopy = {
   },
   aaoi: {
     theme: "800G / 1.6T 光模块 / 美国光学产能",
-    thesis: "Serenity 继续把 AAOI 放在高信心 AI optical 主线中。6 月 18 日她再次用中文强调 AAOI 与 SIVE 是她最喜欢的激光公司，因为它们不只能卖激光器，还可能扩展到完整光模块、光引擎和 ELS 组件。7 月 14 日这条线多了两个更落地的检查点：AAOI 已正式启动大约 40 万平方英尺扩建，而 Innolight IR 也确认 800G 需求更强、silicon photonics 渗透继续上升。",
-    whyItMatters: "AAOI 仍是 AI 数据中心带宽需求里更流动的美国光学表达。新增重点不再只是 subsystem expansion 和 2027 ramp 的远期想象，而是“AAOI 开始动工扩产”与“下游 800G / SiPH 需求继续强化”这两个较近的现实信号。如果公司能从激光器走向更完整的 optical stack，TAM 与 margin 想象会高于普通 transceiver / laser 供应商。",
+    thesis: "Serenity 继续把 AAOI 放在高信心 AI optical 主线中，但 8 月 7 日这轮财报拆解，让故事从“美国光学扩产 + 2027 想象”变得更具体。她现在把 AAOI 直接和几组更近的 operating markers 绑在一起：1.6T 产品预计几周内完成 hyperscaler qualification、公司仍想做成美国最大的 AI 数据中心 transceiver 产能、更多 InP 相关设施预计 2027 年初上线，而 ELS / CPO 制造则会从今年稍后一路爬坡到 2027。与此同时，AAOI 自己也承认客户需求仍比已建产能高 20%-40%，激光器是当前最大瓶颈，而且因为做不出足够多 CPO lasers，公司当前并不会实质参与首代 CPO 部署。Serenity 因此既把 AAOI 当成美国光学扩产主线，也把它当成“西方激光器稀缺仍未缓解”的公司级验证点。",
+    whyItMatters: "这让 AAOI 不再只是 generic optical beta，而更像一个供给受限、但扩产路径开始变清晰的公司案例。乐观点在于 qualification、ELS ramp 和产能时间线都比以前更可跟踪；但限制同样很直接：如果 AAOI 自己都还缺 CPO 激光器、首代 CPO 参与度有限，那么近端上行更可能先来自 transceiver 规模、后代 ELS/CPO 爬坡和 scarcity pricing，而不是立刻吃到首代 CPO 份额。",
     catalysts: [
+      "AAOI 预计 1.6T 产品将在未来几周内完成 hyperscaler qualification",
+      "AAOI 称当前客户需求仍比已建成产能高 20%-40%，且激光器是 transceiver 业务的最大瓶颈",
+      "AAOI 预计更多 InP 相关设施会在 2027 年初上线，ELS / CPO 制造会从今年稍后一路爬坡到 2027",
+      "AAOI 给出更高的 800G / 1.6T 与 ELS 月产能路径，Serenity 把它视为 optical ramp 时间表更清晰",
+      "AAOI 称中国距离有意义的 CPO 激光竞争仍至少落后 2-3 年",
       "Serenity 再次说 AAOI 与 SIVE 是她最喜欢的激光公司",
       "可从激光器扩展到完整光模块、光引擎和 ELS 组件",
       "AAOI 已启动约 40 万平方英尺扩建，准备推 800G / 1.6T 产能",
@@ -230,12 +242,19 @@ const zhCopy = {
       "此前 AAOI 仍在稀缺西方 CW laser 产能框架里"
     ],
     risks: [
+      "AAOI 自己已明确表示，当前并未实质参与首代 CPO 部署，因为还做不出足够多的 CPO lasers",
+      "ELS / CPO 制造虽然开始更清晰，但更重的量产兑现仍可能被推到 2027-2028",
+      "Demand > supply 能验证行业景气，却也同时放大 AAOI 在产能、良率和客户分配上的执行压力",
       "6 月 18 日更新是主题强化，不是 AAOI 新客户披露",
       "如果 2027 ramp 延后，当前 optical 预期可能太早",
       "高 beta 光学股仍容易受报告、宏观和 timing 情绪拖累",
       "扩产开工本身不等于产能、良率和客户锁单已经落地"
     ],
     nextChecks: [
+      "直接阅读 8 月 7 日财报电话会 / transcript，拆开 AAOI 管理层原话和 Serenity 的再演绎",
+      "核实 1.6T qualification 与 ELS ramp 是否会转成命名客户收入，而不只是 capacity plan",
+      "跟踪 InP / laser 瓶颈到 2027 年初前是否缓解，还是继续作为主约束",
+      "确认 ATM 是否已经结束，以及这轮扩产有多少已经被现金和客户承诺覆盖",
       "看 AAOI 是否披露 module、engine 或 ELS component 收入",
       "核实公司指引是否支持 2027 H1/H2 ramp",
       "继续跟踪 CW laser 产能、客户 allocation 与 margin",

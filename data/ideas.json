@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-08-06T20:03:53+08:00",
-  "sourceWindow": "Latest refresh 2026-08-06 20:03 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-05T20:03:21+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced four new main posts after the boundary, but only two were high-signal enough to survive into the rolling August 4-6 `latestUpdates` window: the Aug 6 Viavi callout that CPO test revenue is already starting and the Aug 6 Aeva optical-connectivity post that Serenity reads as a new optical-source / hyperscaler path with positive SIVE read-through. The other two fresh public posts, an AAOI wordplay joke and a broader recovery/Unitree-valuation note, were excluded as low-signal commentary rather than tracker evidence. Subs were successfully checked in the logged-in tab; the newest visible post there was the same Aug 6 public recovery note, but no distinct new subscriber-only investment post advanced the boundary. This run kept the August 4-6 rolling window at five high-signal updates and refreshed the existing `sive` idea plus its matching bilingual mapping in `app.js`, without adding a new idea card.",
-  "summary": "8 月 6 日 20:03（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-05T20:03:21+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 4 条新的主帖，其中只有 2 条被保留进 `latestUpdates`：一条是 `$VIAV` 电话会口径显示 CPO 测试收入已经开始落地、12 月可能加速；另一条是 Serenity 将 `$AEVA` 新的 optical connectivity / hyperscaler JDA 解读为对 `$SIVE` 的新增 optical-source read-through。其余 2 条分别是 `AAOI` 的轻松玩笑帖，以及带有个人恢复近况和 Unitree 估值观察的 broad note，都没有进入追踪器。`Subs` 也已直接核对，最新可见的新帖是同一条 8 月 6 日公开 broad note，但没有新的订阅独占投资帖越过边界。滚动消息窗现在保留 8 月 4 日到 8 月 6 日的 5 条高信号更新；同时只刷新了 `SIVE` 标的卡和 `app.js` 里的中文映射，没有新增 idea。",
+  "generatedAt": "2026-08-07T20:05:21+08:00",
+  "sourceWindow": "Latest refresh 2026-08-07 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-06T20:03:53+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced seven new main posts after the boundary, and direct Subs verification confirmed the same Aug 7 subscriber-visible polysilicon note as the newest visible Subs item. Four public posts were high-signal enough to survive into the rolling August 5-7 `latestUpdates` window: two AAOI earnings read-throughs on 1.6T / ELS timing and first-gen CPO laser scarcity, the Lumilens $5.5B funding plus POET/SIVE upstream read-through, and the MTSI transcript note on urgent InP DFB-laser shortages. The other three new public posts, a Rosenblatt recap, a Unitree/Agility valuation comparison, and a broad recovery / market-color frame, were treated as reinforcement rather than distinct tracker evidence; the subscriber-only polysilicon post was also excluded because Serenity explicitly said she is still researching the chain. Subs were successfully checked in the logged-in tab, but no new subscriber-only investment post survived the same quality bar. This run kept the rolling window to August 5-7, refreshed the existing `aaoi` and `sive` idea cards plus their matching bilingual mappings in `app.js`, and did not add a new idea card.",
+  "summary": "8 月 7 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-06T20:03:53+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 7 条新主帖，`Subs` 也已直接核对成功；其中保留进 `latestUpdates` 的高信号新增有 4 条：两条 `$AAOI` 财报拆解，一条 `$MTSI` 对 InP DFB 激光短缺的独立验证，以及一条 Lumilens 55 亿美元估值对 `$POET` / `$SIVE` 上游映射的外部确认。被排除的包括一条 Serenity 自己仍在继续研究的订阅多晶硅帖，以及偏 reinforcement / market-color 的 Rosenblatt 与 Unitree 估值比较帖。滚动消息窗现在保留 8 月 5 日到 8 月 7 日的 7 条高信号更新；同时刷新了 `AAOI` 与 `SIVE` 标的卡及 `app.js` 里的对应中文映射，没有新增 idea。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-08-07T15:26:37+08:00",
+      "type": "Lumilens 55 亿美元估值浮现 / `$POET`-`$SIVE` 上游映射获外部验证",
+      "headline": "Serenity 把 Lumilens 以 55 亿美元估值浮出水面、且拿到 multi-billion-dollar customer agreement 的消息，当作她此前 `$POET` / `$SIVE` LinkedIn OSINT 映射的一次外部验证。她强调 `$POET` 已与 Lumilens 有 5000 万美元订单、上限 5 亿美元合同，并把这条消息视为对 `$POET` / `$SIVE` 上游光学链的正面 read-through。",
+      "tickers": [
+        "$POET",
+        "$SIVE"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2085628664528662818",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-07T13:46:59+08:00",
+      "type": "AAOI 证实首代 CPO 激光供给稀缺 / 中国 CPO 激光仍落后 2-3 年",
+      "headline": "Serenity 结合 `$AAOI` 财报称，公司因为 CPO 激光器产能不足，当前不会实质参与首代 CPO 部署；她据此认为，真正具备产能的西方独立 CW 激光玩家价值更高。同时她强调，AAOI 也验证了中国 CPO 激光至少落后 2-3 年，进一步强化西方 laser chokepoint 逻辑。",
+      "tickers": [
+        "$AAOI",
+        "$SIVE",
+        "$LITE",
+        "$COHR",
+        "$AVGO"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-07T07:41:38+08:00",
+      "type": "MTSI 财报验证 InP DFB 激光短缺",
+      "headline": "Serenity 援引 `$MTSI` 财报称，客户正因 indium phosphide DFB 激光器普遍短缺而带着 urgency 找上门。她把这看作 `$SIVE`、`$LITE` 等 CW / DFB 激光链条瓶颈的又一条独立验证。",
+      "tickers": [
+        "$MTSI",
+        "$SIVE",
+        "$LITE"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2085511646257332581",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-07T06:54:46+08:00",
+      "type": "AAOI 1.6T / ELS 扩产路径更清晰，需求仍高于供给",
+      "headline": "Serenity 拆解 `$AAOI` 财报称，1.6T 产品预计几周内完成 hyperscaler 资格认证，AI 数据中心 transceiver 与 ELS / CPO 产能都在继续扩张，但当前客户需求仍比已建成产能高 20%-40%。她据此把 AAOI 视为“需求远大于供给”的美国光学扩产核心验证点。",
+      "tickers": [
+        "$AAOI",
+        "$LITE",
+        "$SIVE",
+        "$JBL"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2085499853099208716",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-08-06T12:12:45+08:00",
       "type": "Aeva 新增 optical connectivity / SIVE 供应链 read-through",
@@ -37,34 +91,6 @@
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2084795597417263442",
       "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-04T19:09:35+08:00",
-      "type": "中国产品限制酝酿升级 / 西方光学供应链再获政策催化",
-      "headline": "Serenity 称特朗普政府正起草针对中国新增 optical transceiver 与数据中心设备的限制，可能打击 Innolight、Eoptolink 等中国链条，并利多 `$AAOI`、`$SIVE` / Jabil、`$LITE` 与 `$COHR` 所代表的西方光学供应链。她据此判断，optical supply chain bifurcation 还会继续加深，西方厂商的重要性将进一步上升。",
-      "tickers": [
-        "$AAOI",
-        "$SIVE",
-        "$JBL",
-        "$LITE",
-        "$COHR"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-04T10:34:48+08:00",
-      "type": "2027 memory allocation 更紧 / DRAM-HBM 与 NAND 同步售罄",
-      "headline": "Serenity 援引 Digitimes 产业链消息称，SK Hynix、`$MU` 与 Samsung 的 2027 DRAM/HBM 产能已售罄，`$SNDK`、Samsung 与 Micron 的当前年度 NAND 产能也已卖完，客户仅能拿到原需求约 60%-70% 的量。她据此反驳 2027 年 memory oversupply 叙事，认为 shortage 反而可能进入最严重阶段。",
-      "tickers": [
-        "$MU",
-        "$SNDK",
-        "$EWY"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-      "source": "Posts-logged-in-X"
     }
   ],
   "ideas": [
@@ -74,9 +100,12 @@
       "name": "Sivers Semiconductors",
       "tier": "focus",
       "theme": "CPO / silicon photonics laser chokepoint",
-      "thesis": "Serenity now frames SIVE as a stress-tested photonics chokepoint with both management and external-channel reinforcement behind it. The July 10 insider-buy / roadmap-defense sequence established the base, the July 11-14 run hardened the ecosystem case through Rosenblatt, a subscriber channel check, Morgan Stanley, Innolight and Jensen, the July 16 follow-up added a concrete capacity-and-valuation bridge through low-end Win Semi allocation math, and the Aug 6 Aeva post adds a more specific downstream customer-architecture read-through. Serenity now argues that even partial qualified InP capacity could drive meaningful annual array revenue and gross profit relative to SIVE's current market cap, while Aeva's new optical-connectivity push and hyperscaler optical-engine JDA may open another optical-source path where SIVE's DFB laser and amplifier stack could fit. She also says Sivers is working with more fabs, that future pipeline projections could rise as more suppliers qualify into HVM, and that open-market CW purchases plus AMD LTAs reinforce the idea that fresh qualified capacity would be absorbed quickly.",
-      "whyItMatters": "This broadens SIVE from a scarcity-and-architecture narrative into a more falsifiable capacity-conversion and downstream-program case. If western CW laser scarcity is real and SIVE can secure even a modest slice of qualified Win Semi-style InP capacity, the company no longer needs heroic market-share assumptions to support material gross-profit upside versus its present valuation. The new Aeva read-through also pushes the thesis one step closer to customer-path imagination: instead of only saying lasers are scarce, Serenity is now pointing to a possible new hyperscaler-facing optical-engine / on-chip-light-source route where SIVE might participate. If the capacity math, supplier mapping, ASP assumptions or H2 2027/2028 timing are wrong, that same specificity will make disappointment easier to expose.",
+      "thesis": "Serenity now frames SIVE as a stress-tested photonics chokepoint with both management and external-channel reinforcement behind it. The July 10 insider-buy / roadmap-defense sequence established the base, the July 11-14 run hardened the ecosystem case through Rosenblatt, a subscriber channel check, Morgan Stanley, Innolight and Jensen, the July 16 follow-up added a concrete capacity-and-valuation bridge through low-end Win Semi allocation math, the Aug 6 Aeva post added a more specific downstream customer-architecture read-through, and the Aug 7 AAOI/MTSI/Lumilens batch tightened the scarcity case again. Serenity now argues that even partial qualified InP capacity could drive meaningful annual array revenue and gross profit relative to SIVE's current market cap, while Aeva's optical-connectivity push, AAOI's admission that first-generation CPO laser capacity is still too tight, MTSI's urgency quote on DFB shortages, and Lumilens' new hyperscaler validation all point to a western laser bottleneck that remains unsatisfied. She also says Sivers is working with more fabs, that future pipeline projections could rise as more suppliers qualify into HVM, and that open-market CW purchases plus AMD LTAs reinforce the idea that fresh qualified capacity would be absorbed quickly.",
+      "whyItMatters": "This broadens SIVE from a scarcity-and-architecture narrative into a more falsifiable capacity-conversion and downstream-program case. If western CW / DFB laser scarcity is real and SIVE can secure even a modest slice of qualified Win Semi-style InP capacity, the company no longer needs heroic market-share assumptions to support material gross-profit upside versus its present valuation. The newer Aug 7 read-throughs matter because they suggest scarcity is not only Serenity's own optimism: AAOI and MTSI are both still describing laser shortages, while Lumilens is emerging as a better-funded downstream optical-engine datapoint tied back to Serenity's supplier map. If the capacity math, supplier mapping, ASP assumptions or H2 2027/2028 timing are wrong, that same specificity will make disappointment easier to expose.",
       "catalysts": [
+        "AAOI said it is not meaningfully participating in first-generation CPO deployments because CPO-laser capacity is still too scarce, which Serenity reads as bullish for the few western independent laser suppliers such as SIVE",
+        "MTSI said customers are coming with urgency because of indium-phosphide DFB-laser shortages, adding another independent read-through on CW / DFB scarcity",
+        "Lumilens emerged from stealth at a $5.5B valuation with a multi-billion-dollar customer agreement, which Serenity reads as external validation for the POET / SIVE upstream optical map",
         "Management says Sivers is working with more fabs, which could expand qualified InP capacity beyond the current base case",
         "Serenity reads Aeva's new optical-connectivity business and hyperscaler optical-engine JDA as a possible new optical-source demand path for SIVE's DFB laser and amplifier stack",
         "Serenity modeled a low-end Win Semi allocation as potentially enough to support substantial annual gross profit relative to SIVE's current market cap",
@@ -101,6 +130,8 @@
         "The photonics theme is still framed as early, with the heavier revenue ramp likely in 2027 H1/H2"
       ],
       "risks": [
+        "The Aug 7 AAOI/MTSI/Lumilens batch is still sector read-through rather than direct SIVE order disclosure",
+        "Lumilens' valuation, customer-agreement and POET/SIVE supplier-map implications still need primary-source confirmation",
         "Even if gross-profit math looks attractive on paper, HVM timing, customer mix and real realized ASPs could still disappoint",
         "The Aug 6 Aeva / SIVE supplier mapping is still inference-heavy until Aeva, Sivers or the end customer explicitly identifies the optical-source stack",
         "The July 16 Win Semi / ASP / yield framework is still a scenario model and may overstate how much qualified capacity SIVE can actually secure",
@@ -121,6 +152,8 @@
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Verify whether AAOI's first-generation CPO exclusion and MTSI's urgency language translate into real supplier openings for SIVE rather than only proving sector scarcity",
+        "Verify Lumilens' customer identity, POET contract scope and whether SIVE is actually tied to the named product lines or only adjacent in Serenity's map",
         "Track whether Sivers actually discloses more qualified fabs, capacity additions or pipeline revisions over the next few quarters",
         "Verify whether Aeva's optical-engine / on-chip-light-source program explicitly uses SIVE lasers or amplifiers, and whether the H2 2027 / 2028 timing turns into named revenue evidence",
         "Pressure-test the Win Semi wafer-capacity, yield and ASP assumptions against supplier disclosures and peer economics",
@@ -137,8 +170,23 @@
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings",
         "Read the Morgan Stanley CPO note plus Innolight IR transcript and separate ecosystem validation from direct SIVE revenue evidence"
       ],
-      "lastUpdated": "2026-08-06 12:12",
+      "lastUpdated": "2026-08-07 15:26",
       "evidence": [
+        {
+          "date": "2026-08-07 15:26",
+          "quote": "Serenity said Lumilens surfaced at a $5.5B valuation with a multi-billion-dollar customer agreement and treated it as positive upstream read-through for POET and SIVE.",
+          "url": "https://x.com/aleabitoreddit/status/2085628664528662818"
+        },
+        {
+          "date": "2026-08-07 13:46",
+          "quote": "Serenity said AAOI's earnings showed first-generation CPO demand is still gated by laser capacity, which she viewed as bullish for SIVE and other independent western laser suppliers.",
+          "url": "https://x.com/aleabitoreddit/status/2085603590903902621"
+        },
+        {
+          "date": "2026-08-07 07:41",
+          "quote": "Serenity highlighted MTSI saying customers are coming with urgency due to general shortages of indium-phosphide DFB lasers, and treated it as validation for SIVE and LITE.",
+          "url": "https://x.com/aleabitoreddit/status/2085511646257332581"
+        },
         {
           "date": "2026-08-06 12:12",
           "quote": "Serenity argued that Aeva's new optical-connectivity business and hyperscaler optical-engine JDA could create another optical-source path where SIVE's DFB lasers and amplifiers may fit.",
@@ -913,9 +961,14 @@
       "name": "Applied Optoelectronics",
       "tier": "focus",
       "theme": "800G / 1.6T optical transceivers / US optical capacity",
-      "thesis": "Serenity keeps AAOI as a high-conviction AI optical line and on June 18 reiterated in Chinese that AAOI and SIVE are her favorite laser companies because their revenue opportunity can expand from lasers into full optical modules, optical engines and ELS components. She also says the sector is still very early, with most revenue ramp likely in 2027 H1/H2. The July 14 batch added two more practical checkpoints: AAOI has now formally started the roughly 400,000-square-foot buildout it had discussed earlier, and Innolight IR said 800G demand is even stronger than expected while silicon-photonics mix keeps rising.",
-      "whyItMatters": "The update reinforces AAOI as more than a transceiver or laser-capacity trade: Serenity is pointing to subsystem expansion, vertical integration and delayed-but-large 2027 revenue scaling. The newest posts also make the thesis a bit less abstract by pairing a real AAOI capacity-commencement milestone with fresh downstream demand confirmation from Innolight. This supports patience around timing, but also raises the need to verify ramp, customer allocation and margins.",
+      "thesis": "Serenity keeps AAOI as a high-conviction AI optical line, but the Aug 7 earnings batch made the thesis much more concrete. The older module / laser / ELS expansion story is still there, yet now Serenity is tying it to nearer operating markers: AAOI expects its 1.6T products to finish hyperscaler qualification within weeks, still believes it can build the largest AI-datacenter transceiver capacity in the US, sees further InP-related facilities coming online in early 2027, and says ELS / CPO manufacturing should ramp later this year and into 2027. At the same time, AAOI admitted demand still exceeds built capacity by 20%-40%, lasers remain the biggest bottleneck, and the company is not meaningfully participating in first-generation CPO deployments because it cannot make enough CPO lasers. Serenity therefore keeps AAOI as both a direct US optical-capacity expansion story and a sector-level proof point that western laser scarcity is still very real.",
+      "whyItMatters": "This makes AAOI look less like generic optical beta and more like a concrete supply-constrained expansion case. The bullish part is that qualification, ELS ramp and capacity targets are becoming more legible while management still describes demand running ahead of supply. The limiting factor, though, is equally important: if AAOI itself is still short of CPO-laser capacity and largely absent from first-generation CPO, then near-term upside may come more from transceiver scale, later-gen ELS/CPO ramps and broader scarcity pricing than from immediate first-gen CPO share. That tension is what now makes AAOI easier to track and easier to falsify.",
       "catalysts": [
+        "AAOI expects full qualification of 1.6T products by its hyperscaler customer within the next couple of weeks",
+        "AAOI said demand is still 20%-40% above built capacity and called lasers the biggest bottleneck in the transceiver business",
+        "AAOI expects further InP-related facilities in early 2027 and said ELS / CPO manufacturing should ramp later this year and into 2027",
+        "AAOI guided toward much higher 800G / 1.6T and ELS monthly capacity over 2027-2028, which Serenity reads as a clearer timeline for the optical ramp",
+        "AAOI said China remains at least two to three years away from meaningful CPO-laser competition",
         "Serenity says she remains long company projections through market corrections instead of trading Fed probabilities",
         "She cites AAOI H1 2027 projection around $471M as an example of company-specific projection to stay focused on",
         "Serenity says she has kept averaging up AAOI since $28",
@@ -948,6 +1001,9 @@
         "Serenity reiterated AAOI as an end-to-end US laser/design/assembly player and cited potential 2027 monthly revenue projection upside if management executes"
       ],
       "risks": [
+        "AAOI said it is not meaningfully participating in first-generation CPO deployments because it cannot make enough CPO lasers yet",
+        "ELS / CPO manufacturing may ramp later than headline enthusiasm implies, with heavier volume still pushed into 2027-2028",
+        "Demand > supply can validate the sector while still exposing AAOI to execution, customer allocation and yield risk",
         "Higher rate-hike probabilities can still pressure high-beta optical names even if the AI buildout thesis is intact",
         "AMD / NVDA conversation claims are analyst rumors and need verification",
         "Execution risk around scaling the largest US optical capacity",
@@ -973,6 +1029,10 @@
       ],
       "stance": "重点关注",
       "nextChecks": [
+        "Read the full Aug 7 earnings call / transcript and separate AAOI management language from Serenity's extrapolation",
+        "Verify whether the 1.6T qualification and ELS ramp turn into named customer revenue, not just capacity plans",
+        "Track whether InP / laser bottlenecks ease by early 2027 or remain the main gating factor",
+        "Confirm whether the ATM is complete and how much of the ramp is already funded by cash and customer commitments",
         "Verify the $471M H1 2027 AAOI projection source and whether it is revenue, capacity or another operating metric",
         "Track whether optical names hold up during broader AI semiconductor corrections",
         "Verify AAOI capacity target and vertical integration claims from company filings",
@@ -995,8 +1055,18 @@
         "Track whether management guidance supports the 2027 H1/H2 ramp framing",
         "Verify what portion of the new buildout is already funded, customer-backed or tied to specific 800G / 1.6T programs"
       ],
-      "lastUpdated": "2026-08-04 19:09",
+      "lastUpdated": "2026-08-07 13:46",
       "evidence": [
+        {
+          "date": "2026-08-07 13:46",
+          "quote": "Serenity said AAOI is not meaningfully participating in first-generation CPO deployments because CPO-laser capacity is still too scarce, and also stressed that China remains years behind in CPO lasers.",
+          "url": "https://x.com/aleabitoreddit/status/2085603590903902621"
+        },
+        {
+          "date": "2026-08-07 06:54",
+          "quote": "Serenity highlighted AAOI's 1.6T qualification timing, ELS / CPO ramp path and management's description of demand running 20%-40% above built capacity.",
+          "url": "https://x.com/aleabitoreddit/status/2085499853099208716"
+        },
         {
           "date": "2026-08-04 19:09",
           "quote": "Serenity said a draft US ban on new Chinese transceivers and data-center devices could deepen supply-chain bifurcation and raise the strategic importance of western optical names such as AAOI, SIVE/Jabil, LITE and Coherent.",
