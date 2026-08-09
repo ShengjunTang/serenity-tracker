@@ -1,8 +1,50 @@
 {
-  "generatedAt": "2026-08-07T20:05:21+08:00",
-  "sourceWindow": "Latest refresh 2026-08-07 20:05 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-06T20:03:53+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced seven new main posts after the boundary, and direct Subs verification confirmed the same Aug 7 subscriber-visible polysilicon note as the newest visible Subs item. Four public posts were high-signal enough to survive into the rolling August 5-7 `latestUpdates` window: two AAOI earnings read-throughs on 1.6T / ELS timing and first-gen CPO laser scarcity, the Lumilens $5.5B funding plus POET/SIVE upstream read-through, and the MTSI transcript note on urgent InP DFB-laser shortages. The other three new public posts, a Rosenblatt recap, a Unitree/Agility valuation comparison, and a broad recovery / market-color frame, were treated as reinforcement rather than distinct tracker evidence; the subscriber-only polysilicon post was also excluded because Serenity explicitly said she is still researching the chain. Subs were successfully checked in the logged-in tab, but no new subscriber-only investment post survived the same quality bar. This run kept the rolling window to August 5-7, refreshed the existing `aaoi` and `sive` idea cards plus their matching bilingual mappings in `app.js`, and did not add a new idea card.",
-  "summary": "8 月 7 日 20:05（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-06T20:03:53+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 7 条新主帖，`Subs` 也已直接核对成功；其中保留进 `latestUpdates` 的高信号新增有 4 条：两条 `$AAOI` 财报拆解，一条 `$MTSI` 对 InP DFB 激光短缺的独立验证，以及一条 Lumilens 55 亿美元估值对 `$POET` / `$SIVE` 上游映射的外部确认。被排除的包括一条 Serenity 自己仍在继续研究的订阅多晶硅帖，以及偏 reinforcement / market-color 的 Rosenblatt 与 Unitree 估值比较帖。滚动消息窗现在保留 8 月 5 日到 8 月 7 日的 7 条高信号更新；同时刷新了 `AAOI` 与 `SIVE` 标的卡及 `app.js` 里的对应中文映射，没有新增 idea。",
+  "generatedAt": "2026-08-09T20:06:31+08:00",
+  "sourceWindow": "Latest refresh 2026-08-09 20:06 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-07T20:05:21+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced six new main posts after the boundary, while direct Subs verification showed that the newest visible subscriber-only item was still the same Aug 7 polysilicon note, so no new Subs post crossed the boundary. Three public posts were high-signal enough to survive into the rolling August 7-9 `latestUpdates` window: a fresh SIVE capacity-demand absorption revisit using the latest AAOI/MTSI scarcity evidence, a memory-versus-photonics rotation post that reaffirmed MU/Samsung while arguing the optical bottlenecks have worsened rather than broken, and a White House critical-minerals funding summary that Serenity treated as a positive derisking signal for upstream materials chains. The other three new public posts, a crowd-sourced conviction-stock prompt, a satirical NBIS/LULU joke post, and a generic Wall Street bear-playbook frame, were treated as low-signal or non-distinct. This run trimmed the rolling window to August 7-9, removed the older Aug 5-6 items, and did not update idea cards or bilingual mappings because the new evidence mainly reinforced existing theses rather than changing them materially.",
+  "summary": "8 月 9 日 20:06（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-07T20:05:21+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 6 条新主帖；`Subs` 也已直接核对成功，且最新可见订阅帖仍是 8 月 7 日那条多晶硅研究帖，因此没有新的订阅增量越过边界。保留进 `latestUpdates` 的高信号新增有 3 条：一条用 `$AAOI` / `$MTSI` 最新缺货证据重提 `$SIVE` 产能吸收模型的帖子，一条继续看多 `$MU` / Samsung 且强调 photonics 瓶颈逻辑没有破坏的轮动帖，以及一条白宫关键矿物拨款对上游材料链的政策 read-through。被排除的包括一条征集高 conviction 股票的互动帖、一条明显 satirical 的 `$NBIS` / `$LULU` 段子帖，以及一条泛化的 Wall Street bear playbook 帖。滚动消息窗现在保留 8 月 7 日到 8 月 9 日的 7 条高信号更新；这轮没有改标的卡或 `app.js` 中文映射，也没有新增 idea。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-08-09T08:23:56+08:00",
+      "type": "SIVE 产能吸收模型再升温 / AAOI-MTSI 缺货验证回流到独立激光产能",
+      "headline": "Serenity 重新拿 `$SIVE` 的产能模型与最新 `$AAOI`、`$MTSI` 缺货信号拼在一起，认为既然 transceiver 与 InP DFB / CW laser 的供需缺口仍在扩大，且美国还在推进限制新增中国光模块，那么独立西方激光产能的需求吸收逻辑需要继续重估。",
+      "tickers": [
+        "$SIVE",
+        "$AAOI",
+        "$MTSI"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2086247069900300393",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-09T01:29:02+08:00",
+      "type": "Memory 继续偏多 / Photonics 瓶颈交易重新回到台前",
+      "headline": "Serenity 表示自己仍继续看多 `$MU` / Samsung，并把本周 photonics 重新走强理解为市场重新交易旧瓶颈而非基本面修复。她强调 `$COHR`、`$LITE` 卖空两年的供给紧张、`$AAOI` 的需求失衡和中国光模块限制等逻辑并未恶化，只是价格先在 7 月被错杀后又反身修复。",
+      "tickers": [
+        "$MU",
+        "$AAOI",
+        "$LITE",
+        "$COHR",
+        "$AXTI"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-08T04:21:30+08:00",
+      "type": "白宫关键矿物拨款落地 / 上游材料链获政策去风险支持",
+      "headline": "Serenity 汇总了白宫对 graphite、scandium、boron 和 magnet rare earths 的公开拨款，点名 `$WWR`、`$SRL`、`$FEAM`、`$HREE` 等受益方，并把这看作美国继续给 AI 与工业上游材料链做 supply-chain derisking 的正面政策动作。",
+      "tickers": [
+        "$WWR",
+        "$SRL",
+        "$FEAM",
+        "$HREE"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2085823672569467005",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-08-07T15:26:37+08:00",
       "type": "Lumilens 55 亿美元估值浮现 / `$POET`-`$SIVE` 上游映射获外部验证",
@@ -55,41 +97,6 @@
       ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2085499853099208716",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-06T12:12:45+08:00",
-      "type": "Aeva 新增 optical connectivity / SIVE 供应链 read-through",
-      "headline": "Serenity 把 `$AEVA` 与 hyperscaler optical engine player 签下的 JDA，解读为 Aeva 正在切入 CPO / NPO optical source 业务；她据此推演 `$SIVE` 的 DFB 激光器与放大器堆栈，可能获得一条新的 hyperscaler-facing 需求路径和 TAM 扩张机会。",
-      "tickers": [
-        "$AEVA",
-        "$SIVE"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2085217487864643658",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-06T09:23:49+08:00",
-      "type": "CPO 测试收入开始兑现 / 行业时间线未被推迟",
-      "headline": "Serenity 援引 `$VIAV` 电话会称，CPO 测试相关收入本季度已经开始体现、12 月可能进一步加速，且 1.6T 正在快速爬坡。她据此判断，CPO 量产时间线大体仍和此前一致，先兑现的会是 `$VIAV`、`$FORM` 这类测试环节收入。",
-      "tickers": [
-        "$VIAV",
-        "$FORM"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2085174977272360987",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-05T08:16:18+08:00",
-      "type": "US Space Force 合同 / Rocket Lab 一体化平台验证",
-      "headline": "Serenity 提到 `$RKLB` 获得美国太空军 3.97 亿美元合同，用于 Flatellite 卫星与 Neutron 中型运载火箭。她把这条消息视为 Rocket Lab 从单纯太空叙事走向真实政府项目验证的进展信号。",
-      "tickers": [
-        "$RKLB"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2084795597417263442",
       "source": "Posts-logged-in-X"
     }
   ],
