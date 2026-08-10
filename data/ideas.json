@@ -1,8 +1,25 @@
 {
-  "generatedAt": "2026-08-09T20:06:31+08:00",
-  "sourceWindow": "Latest refresh 2026-08-09 20:06 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-07T20:05:21+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced six new main posts after the boundary, while direct Subs verification showed that the newest visible subscriber-only item was still the same Aug 7 polysilicon note, so no new Subs post crossed the boundary. Three public posts were high-signal enough to survive into the rolling August 7-9 `latestUpdates` window: a fresh SIVE capacity-demand absorption revisit using the latest AAOI/MTSI scarcity evidence, a memory-versus-photonics rotation post that reaffirmed MU/Samsung while arguing the optical bottlenecks have worsened rather than broken, and a White House critical-minerals funding summary that Serenity treated as a positive derisking signal for upstream materials chains. The other three new public posts, a crowd-sourced conviction-stock prompt, a satirical NBIS/LULU joke post, and a generic Wall Street bear-playbook frame, were treated as low-signal or non-distinct. This run trimmed the rolling window to August 7-9, removed the older Aug 5-6 items, and did not update idea cards or bilingual mappings because the new evidence mainly reinforced existing theses rather than changing them materially.",
-  "summary": "8 月 9 日 20:06（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-07T20:05:21+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 6 条新主帖；`Subs` 也已直接核对成功，且最新可见订阅帖仍是 8 月 7 日那条多晶硅研究帖，因此没有新的订阅增量越过边界。保留进 `latestUpdates` 的高信号新增有 3 条：一条用 `$AAOI` / `$MTSI` 最新缺货证据重提 `$SIVE` 产能吸收模型的帖子，一条继续看多 `$MU` / Samsung 且强调 photonics 瓶颈逻辑没有破坏的轮动帖，以及一条白宫关键矿物拨款对上游材料链的政策 read-through。被排除的包括一条征集高 conviction 股票的互动帖、一条明显 satirical 的 `$NBIS` / `$LULU` 段子帖，以及一条泛化的 Wall Street bear playbook 帖。滚动消息窗现在保留 8 月 7 日到 8 月 9 日的 7 条高信号更新；这轮没有改标的卡或 `app.js` 中文映射，也没有新增 idea。",
+  "generatedAt": "2026-08-10T20:04:15+08:00",
+  "sourceWindow": "Latest refresh 2026-08-10 20:04 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-09T20:06:31+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced two new main posts after the boundary, while direct Subs verification showed that the newest visible subscriber-only item was still the same Aug 7 polysilicon note, so no new Subs post crossed the boundary. One public post was high-signal enough to survive into the rolling August 8-10 `latestUpdates` window: a near-term catalyst calendar spanning OCP APAC optics announcements, space / photonics / neocloud earnings, and Unitree IPO subscription timing as a possible humanoid-sector sentiment spark. The other new public post, a generic laser-rally / overtrading reflection built around Fidelity and UC Berkeley anecdotes, was treated as low-signal and non-distinct. This run trimmed the rolling window to August 8-10, removed the older Aug 7 items, and did not update idea cards or bilingual mappings because the new evidence mostly added timing and sentiment context rather than materially changing thesis, risk, or supply-chain mapping.",
+  "summary": "8 月 10 日 20:04（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-09T20:06:31+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 2 条新主帖；`Subs` 也已直接核对成功，且最新可见订阅帖仍是 8 月 7 日那条多晶硅研究帖，因此没有新的订阅增量越过边界。保留进 `latestUpdates` 的高信号新增只有 1 条：一条把 OCP APAC、`$LITE` / `$NBIS` 等财报周，以及 Unitree IPO 认购与本月上市预期放在一起的近端催化排期帖。另一条围绕 laser rally 与“不要过度交易”的通用感想帖，因为缺少新的 thesis 或供应链信息，被排除在滚动窗口外。滚动消息窗现在保留 8 月 8 日到 8 月 10 日的 4 条高信号更新；这轮没有改标的卡或 `app.js` 中文映射，也没有新增 idea。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-08-10T10:03:29+08:00",
+      "type": "OCP APAC + 财报周 + Unitree IPO 排期 / CPO、航天、机器人本周催化密集",
+      "headline": "Serenity 把本周近端催化集中列了一遍：OCP APAC 上 Ayar、Lightmatter、`$AMD`、`$NVDA` 相关更新可能继续带动 CPO / optical 玩家，`$ASTS`、`$RKLB`、`$LITE`、`$NBIS` 等财报也会给 space、photonics、neocloud 提供验证，而 Unitree IPO 认购启动且预计本月上市，则可能成为 humanoid / robotics 板块的情绪催化。",
+      "tickers": [
+        "$AMD",
+        "$NVDA",
+        "$ASTS",
+        "$RKLB",
+        "$LITE",
+        "$NBIS",
+        "$CCXI"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2086634510935118161",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-08-09T08:23:56+08:00",
       "type": "SIVE 产能吸收模型再升温 / AAOI-MTSI 缺货验证回流到独立激光产能",
@@ -43,60 +60,6 @@
       ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2085823672569467005",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-07T15:26:37+08:00",
-      "type": "Lumilens 55 亿美元估值浮现 / `$POET`-`$SIVE` 上游映射获外部验证",
-      "headline": "Serenity 把 Lumilens 以 55 亿美元估值浮出水面、且拿到 multi-billion-dollar customer agreement 的消息，当作她此前 `$POET` / `$SIVE` LinkedIn OSINT 映射的一次外部验证。她强调 `$POET` 已与 Lumilens 有 5000 万美元订单、上限 5 亿美元合同，并把这条消息视为对 `$POET` / `$SIVE` 上游光学链的正面 read-through。",
-      "tickers": [
-        "$POET",
-        "$SIVE"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2085628664528662818",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-07T13:46:59+08:00",
-      "type": "AAOI 证实首代 CPO 激光供给稀缺 / 中国 CPO 激光仍落后 2-3 年",
-      "headline": "Serenity 结合 `$AAOI` 财报称，公司因为 CPO 激光器产能不足，当前不会实质参与首代 CPO 部署；她据此认为，真正具备产能的西方独立 CW 激光玩家价值更高。同时她强调，AAOI 也验证了中国 CPO 激光至少落后 2-3 年，进一步强化西方 laser chokepoint 逻辑。",
-      "tickers": [
-        "$AAOI",
-        "$SIVE",
-        "$LITE",
-        "$COHR",
-        "$AVGO"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-07T07:41:38+08:00",
-      "type": "MTSI 财报验证 InP DFB 激光短缺",
-      "headline": "Serenity 援引 `$MTSI` 财报称，客户正因 indium phosphide DFB 激光器普遍短缺而带着 urgency 找上门。她把这看作 `$SIVE`、`$LITE` 等 CW / DFB 激光链条瓶颈的又一条独立验证。",
-      "tickers": [
-        "$MTSI",
-        "$SIVE",
-        "$LITE"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2085511646257332581",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-07T06:54:46+08:00",
-      "type": "AAOI 1.6T / ELS 扩产路径更清晰，需求仍高于供给",
-      "headline": "Serenity 拆解 `$AAOI` 财报称，1.6T 产品预计几周内完成 hyperscaler 资格认证，AI 数据中心 transceiver 与 ELS / CPO 产能都在继续扩张，但当前客户需求仍比已建成产能高 20%-40%。她据此把 AAOI 视为“需求远大于供给”的美国光学扩产核心验证点。",
-      "tickers": [
-        "$AAOI",
-        "$LITE",
-        "$SIVE",
-        "$JBL"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2085499853099208716",
       "source": "Posts-logged-in-X"
     }
   ],
