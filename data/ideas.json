@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-08-10T20:04:15+08:00",
-  "sourceWindow": "Latest refresh 2026-08-10 20:04 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-09T20:06:31+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced two new main posts after the boundary, while direct Subs verification showed that the newest visible subscriber-only item was still the same Aug 7 polysilicon note, so no new Subs post crossed the boundary. One public post was high-signal enough to survive into the rolling August 8-10 `latestUpdates` window: a near-term catalyst calendar spanning OCP APAC optics announcements, space / photonics / neocloud earnings, and Unitree IPO subscription timing as a possible humanoid-sector sentiment spark. The other new public post, a generic laser-rally / overtrading reflection built around Fidelity and UC Berkeley anecdotes, was treated as low-signal and non-distinct. This run trimmed the rolling window to August 8-10, removed the older Aug 7 items, and did not update idea cards or bilingual mappings because the new evidence mostly added timing and sentiment context rather than materially changing thesis, risk, or supply-chain mapping.",
-  "summary": "8 月 10 日 20:04（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-09T20:06:31+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 2 条新主帖；`Subs` 也已直接核对成功，且最新可见订阅帖仍是 8 月 7 日那条多晶硅研究帖，因此没有新的订阅增量越过边界。保留进 `latestUpdates` 的高信号新增只有 1 条：一条把 OCP APAC、`$LITE` / `$NBIS` 等财报周，以及 Unitree IPO 认购与本月上市预期放在一起的近端催化排期帖。另一条围绕 laser rally 与“不要过度交易”的通用感想帖，因为缺少新的 thesis 或供应链信息，被排除在滚动窗口外。滚动消息窗现在保留 8 月 8 日到 8 月 10 日的 4 条高信号更新；这轮没有改标的卡或 `app.js` 中文映射，也没有新增 idea。",
+  "generatedAt": "2026-08-11T20:06:04+08:00",
+  "sourceWindow": "Latest refresh 2026-08-11 20:06 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-10T20:04:15+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced five new main posts after the boundary. Direct Subs verification succeeded again and still showed the Aug 7 polysilicon note as the newest visible subscriber-only item, so no new Subs post crossed the boundary. Two public posts were high-signal enough to survive into the rolling August 9-11 `latestUpdates` window: a Unitree-IPO oversubscription post that Serenity tied back to Agility / `$CCXI` as a US-humanoid sentiment read-through, and a RIOT / Anthropic / AMD post that tightened the Anthropic neocloud / colo timeline toward H2 2027 revenue-inflection windows. Three other public posts were excluded: the 1,000,000-follower thank-you post, the \"We're almost there\" milestone post, and the Barrons / `$AAOI` rant, because they added little durable thesis value. This run trimmed the rolling window to August 9-11, removed the Aug 8 policy-minerals item, and updated the `ccxi-aglt` and `anthropic-neocloud-colo` idea cards plus matching bilingual mappings because the new evidence added a concrete valuation-reference catalyst for Agility and a named contract/timeline datapoint for the Anthropic colo basket.",
+  "summary": "8 月 11 日 20:06（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-10T20:04:15+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 5 条新主帖；`Subs` 也已再次直接核对成功，且最新可见订阅帖仍是 8 月 7 日那条多晶硅研究帖，因此没有新的订阅增量越过边界。保留进 `latestUpdates` 的高信号新增有 2 条：一条是 Unitree IPO 零售认购超 8000 倍、并被 Serenity 映射到 Agility / `$CCXI` 的美国 humanoid 情绪催化；另一条是 `$RIOT` 拿到 Anthropic 20 年长约且 `$AMD` 扩大现有合作，被她视为 Anthropic neocloud / colo 篮子朝 H2 2027 收入拐点推进的更硬 datapoint。100 万粉丝感谢帖、\"We're almost there\" 里程碑帖和 Barrons / `$AAOI` 吐槽帖都被排除。滚动消息窗现在保留 8 月 9 日到 8 月 11 日的 5 条高信号更新；这轮同步更新了 `ccxi-aglt` 与 `anthropic-neocloud-colo` 的卡片及 `app.js` 中文映射，没有新增 idea。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-08-11T10:19:36+08:00",
+      "type": "Unitree 认购热度爆表 / Agility-CCXI 获美国 humanoid 情绪映射",
+      "headline": "Serenity 说 Unitree IPO 的零售认购已超过 8000 倍，并推断其上市初期估值可能冲到 `$30B+`；她把这视为纯玩 humanoid 资产需求极强的信号，同时再次点名自己更偏好通过 `$CCXI` 持有的 Agility Robotics，认为这类美国 humanoid 名字未来一两周也可能因此获得更多关注。",
+      "tickers": [
+        "$CCXI",
+        "$NVDA",
+        "$AMZN"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2087000954742927390",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-11T09:29:11+08:00",
+      "type": "RIOT 获 Anthropic 20 年长约 / AMD 扩容验证 colo 篮子 H2 2027 时点",
+      "headline": "Serenity 引述 `$RIOT` 宣布与 Anthropic 签下约 `$9.1B`、可延展到 `$16.1B` 的 20 年合作，并补充 `$AMD` 也扩大了与 Riot 的既有安排；她据此把 neocloud / colo 篮子的关注点进一步收束到更具名的对手方、MW 兑现和 H2 2027 收入拐点，认为这对 `$IREN`、`$NBIS`、`$HUT` 等同主题名字仍是正向验证。",
+      "tickers": [
+        "$RIOT",
+        "$AMD",
+        "$IREN",
+        "$NBIS",
+        "$HUT"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2086988264448409739",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-08-10T10:03:29+08:00",
       "type": "OCP APAC + 财报周 + Unitree IPO 排期 / CPO、航天、机器人本周催化密集",
@@ -46,20 +74,6 @@
       ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-08T04:21:30+08:00",
-      "type": "白宫关键矿物拨款落地 / 上游材料链获政策去风险支持",
-      "headline": "Serenity 汇总了白宫对 graphite、scandium、boron 和 magnet rare earths 的公开拨款，点名 `$WWR`、`$SRL`、`$FEAM`、`$HREE` 等受益方，并把这看作美国继续给 AI 与工业上游材料链做 supply-chain derisking 的正面政策动作。",
-      "tickers": [
-        "$WWR",
-        "$SRL",
-        "$FEAM",
-        "$HREE"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2085823672569467005",
       "source": "Posts-logged-in-X"
     }
   ],
@@ -2646,8 +2660,8 @@
       "name": "Anthropic neocloud / sovereign-DC basket",
       "tier": "speculative",
       "theme": "AI data-center leases / neocloud contract conversion",
-      "thesis": "Serenity's neocloud / Anthropic read-through has moved past leaked sovereign-buildout documents and into public contract-and-capital-market validation. The July 5 Australia angle still anchors the geography story, but the newest posts add two more concrete pieces: IREN just lifted its ARR target to more than $4B on new AI cloud contracts while naming Microsoft, Nvidia, Perplexity and Figure as customers, and HUT rallied on a 15-year $9.8B AI data-center lease. On top of that, Serenity flagged AMD's planned $5B Anthropic investment plus a reported 2GW chip-purchase agreement as another sign that frontier-lab demand is being formalized at very large scale. In her framing, the neocloud basket is no longer only an indirect lease-rumor trade.",
-      "whyItMatters": "This turns the basket from a vague Anthropic-LOI sympathy idea into a live question about which listed operators can actually convert AI-compute scarcity into booked contracts, visible ARR and financing leverage. If frontier labs and model customers keep signing multi-year deals while upstream chip vendors underwrite dedicated capacity, neoclouds with power, counterparties and execution may deserve more than a crypto-beta discount. The remaining challenge is proving which names are true counterparties versus simply riding sector sentiment.",
+      "thesis": "Serenity's neocloud / Anthropic read-through has moved past leaked sovereign-buildout documents and into public contract-and-capital-market validation. The July 5 Australia angle still anchors the geography story, but the newer posts add three more concrete pieces: IREN lifted its ARR target to more than $4B on new AI cloud contracts while naming Microsoft, Nvidia, Perplexity and Figure as customers; HUT rallied on a 15-year $9.8B AI data-center lease; and now RIOT announced a $9.1B Anthropic deal with a possible extension to $16.1B over 20 years while AMD exercised an option to expand its existing RIOT arrangement. Serenity read that latest bundle as another sign that frontier-lab demand is moving from leaked demand maps toward named counterparties, staged power ramps and H2 2027 revenue-inflection windows.",
+      "whyItMatters": "This turns the basket from a vague Anthropic-LOI sympathy idea into a live question about which listed operators can actually convert AI-compute scarcity into booked contracts, visible ARR, contracted megawatts and financing leverage. If frontier labs and model customers keep signing multi-year deals while upstream chip vendors underwrite dedicated capacity, neoclouds with power, counterparties and execution may deserve more than a crypto-beta discount. The new RIOT datapoint matters because it adds a named tenant, a first-phase timing schedule and an AMD-linked capacity expansion, but it also raises the bar for proving whether the rest of the basket shares similar economics or is only benefiting from read-through sentiment.",
       "catalysts": [
         "Anthropic pursuing its first data-center leases",
         "More than a dozen LOIs with US developers reported by The Information according to Serenity",
@@ -2656,7 +2670,9 @@
         "Serenity connects that demand map to $IREN, $SHAZ and other neoclouds building sovereign DC capacity in Australia",
         "IREN raised its ARR target to more than $4B on new AI cloud contracts and named Microsoft, Nvidia, Perplexity and Figure among customers",
         "HUT surged on a 15-year, roughly $9.8B AI data-center lease",
-        "AMD's planned $5B Anthropic investment plus a reported 2GW chip deal implies frontier-lab demand is being locked in at larger scale"
+        "AMD's planned $5B Anthropic investment plus a reported 2GW chip deal implies frontier-lab demand is being locked in at larger scale",
+        "RIOT announced a $9.1B Anthropic deal with a possible extension to $16.1B over 20 years, adding a named long-duration contract to the basket",
+        "AMD exercised its option to expand the existing RIOT arrangement, which Serenity reads as another concrete sign that Anthropic-linked capacity is being staged toward H2 2027 ramps"
       ],
       "risks": [
         "Serenity says specific winners are not named yet",
@@ -2666,7 +2682,8 @@
         "The Australian-capacity claim comes from leaked documents and still needs primary confirmation",
         "Sovereign-DC buildout does not prove Anthropic or other frontier-lab contracts accrue to listed operators",
         "Headline ARR targets or long-dated lease values do not automatically translate into margin quality, financing flexibility or durable utilization",
-        "AMD's Anthropic announcement can validate demand without guaranteeing that listed neocloud names are the actual capacity winners"
+        "AMD's Anthropic announcement can validate demand without guaranteeing that listed neocloud names are the actual capacity winners",
+        "RIOT's headline contract value, first-phase timing and tenant concentration may not translate cleanly to the rest of the neocloud basket"
       ],
       "stance": "观望",
       "nextChecks": [
@@ -2676,10 +2693,16 @@
         "Verify which Australian operators actually have sovereign-capable sites, power access and construction timelines that fit Anthropic-scale demand",
         "Check whether IREN, SHAZ or peers explicitly mention sovereign AI, government-aligned compute or Australian frontier-lab counterparties",
         "Verify IREN's new AI cloud contracts, customer concentration, contract duration and the economics behind the $4B+ ARR target",
+        "Verify the RIOT / Anthropic contract scope, MW schedule, first-phase timing and tenant economics, and how AMD's expansion interacts with that ramp",
         "Separate AMD's Anthropic chip-commitment signal from the listed operators that will actually host or intermediate the capacity"
       ],
-      "lastUpdated": "2026-07-22 23:10",
+      "lastUpdated": "2026-08-11 09:29",
       "evidence": [
+        {
+          "date": "2026-08-11 09:29",
+          "quote": "Serenity said RIOT announced a $9.1B Anthropic deal that could extend to $16.1B over 20 years, noted AMD expanded its existing RIOT deal, and treated the package as a clearer H2 2027 neocloud inflection signal.",
+          "url": "https://x.com/aleabitoreddit/status/2086988264448409739"
+        },
         {
           "date": "2026-07-22 23:10",
           "quote": "Serenity said AMD would invest $5B in Anthropic while Anthropic signed a 2GW deal for AMD's latest chips, reading it as a repeat of the earlier Nvidia-Anthropic capacity playbook.",
@@ -2887,8 +2910,8 @@
       "name": "Agility Robotics",
       "tier": "speculative",
       "theme": "Humanoid robotics IPO / warehouse automation",
-      "thesis": "Serenity still treats Agility Robotics as her favorite humanoid position, but the US catch-up thesis now has both cleaner industrial mapping and a fresher policy layer behind it. The earlier made-in-USA, 75%-domestic-parts, 10,000-unit RoboFab and sub-$30K BOM angles remain, and the July 10 morning post already added the 1X / Elon / China-urgency layer; after that, a July 10 evening post added another auto-OEM pairing via Highlanders x Mitsubishi, and the July 12 IBK Boston Dynamics summary pointed to actuator capacity as a cleaner KPI for whether volume ramps are real. Now the July 29 Reuters-linked post adds a possible US policy tailwind as well: the reported move to restrict Chinese humanoid and quadruped robot imports is framed as directly supportive for Agility and other domestic humanoid programs. Within that broader basket of OEM-linked manufacturing, actuator bottlenecks and policy support, Serenity still prefers Agility through $CCXI / $AGLT as her US enterprise-commercialization expression.",
-      "whyItMatters": "This gives Agility more than SPAC and national-champion rhetoric. If the sector is indeed converging toward auto-linked manufacturing partnerships, actuator output as the cleanest bottleneck KPI, and real policy support for domestic robots, investors get a more concrete way to track whether US humanoid programs are progressing or just storytelling. If those supplier maps stay OSINT-heavy, if the policy headline never translates into enforceable support, or if Agility fails to convert the broader industry push into its own orders, throughput and economics, the stock remains a volatile proxy rather than a proven winner.",
+      "thesis": "Serenity still treats Agility Robotics as her favorite humanoid position, but the US catch-up thesis now has a fresher public-market sentiment catalyst on top of the earlier industrial mapping and policy layer. The earlier made-in-USA, 75%-domestic-parts, 10,000-unit RoboFab and sub-$30K BOM angles remain, and the July 10 morning post already added the 1X / Elon / China-urgency layer; after that, a July 10 evening post added another auto-OEM pairing via Highlanders x Mitsubishi, and the July 12 IBK Boston Dynamics summary pointed to actuator capacity as a cleaner KPI for whether volume ramps are real. The July 29 Reuters-linked post then added a possible US policy tailwind via reported restrictions on Chinese humanoid and quadruped robot imports. Now the Aug 11 Unitree post adds a new valuation-reference datapoint as well: Serenity said Unitree's IPO was more than 8,000 times oversubscribed by retail and argued that a possible $30B-plus opening could pull more attention toward US names such as Agility, which she still prefers through $CCXI / $AGLT.",
+      "whyItMatters": "This gives Agility more than SPAC and national-champion rhetoric. If the sector is indeed converging toward auto-linked manufacturing partnerships, actuator output as the cleanest bottleneck KPI, real policy support for domestic robots and now very aggressive public-market appetite for pure-play humanoid assets, investors get a more concrete way to track whether US humanoid programs are progressing or simply borrowing sentiment from China. The new Unitree datapoint matters because it sharpens the valuation gap between a Chinese retail-frenzy benchmark and Agility's US private-market entry point, but it still does not prove Agility's own deployment economics, customer conversion or manufacturing scale.",
       "catalysts": [
         "Expected CCXI to AGLT ticker transition after the proposed transaction",
         "BlueCrest Capital Management disclosed a 5.6% stake in CCXI",
@@ -2901,6 +2924,7 @@
         "Serenity cites a reported 100,000-plus China humanoid output expectation for 2026 as evidence the US may need to accelerate domestic robotics champions such as Agility",
         "US robotics policy, rare-earth sourcing and domestic-component subsidies could make Agility's supply-chain positioning more valuable",
         "Reuters reported a planned restriction on Chinese humanoid and quadruped robot imports, which Serenity frames as a direct policy tailwind for Agility and other US humanoid players",
+        "Unitree's reported 8,000x retail oversubscription and possible $30B-plus opening valuation could refocus public-market attention on Agility and other US humanoid names",
         "Mitsubishi x Highlanders adds another auto-and-humanoid pairing alongside Agility / Foxconn / Toyota, Apptronik / Mercedes and Figure / BMW",
         "IBK maps Hwashin, LG Energy, Hyundai Autoever and Hyundai Mobis into Boston Dynamics Atlas and treats actuator capacity as the cleanest signpost for 2028-2030 volume ramps",
         "Institutional valuation work on Hyundai Mobis / Autoever / Glovis suggests humanoid segments are getting more explicit sum-of-the-parts attention"
@@ -2915,6 +2939,7 @@
         "Narrative analogies to Anthropic, Figure or xAI do not substitute for disclosed orders, unit economics or deployment data",
         "A US-vs-China production-race framing does not by itself prove Agility will win subsidies, customers or manufacturing scale",
         "The Reuters/FCC import-restriction headline may not become final policy or may have narrower practical effect than investors assume",
+        "Unitree IPO enthusiasm may prove to be a short-lived valuation comp rather than evidence of Agility adoption, margin structure or real US demand",
         "Auto / OEM partnership patterns across the sector do not automatically mean Agility captures the best customers, supplier terms or capacity",
         "IBK supplier maps and linear Boston Dynamics volume assumptions may be incomplete or wrong",
         "Actuator bottlenecks can help the sector narrative while still exposing how early actual scale economics remain"
@@ -2930,12 +2955,18 @@
         "Track whether US robotics policy or sourcing incentives explicitly benefit domestic-supply-chain players like Agility",
         "Verify whether the reported import restriction is real, what legal or agency path it uses, and whether it directly benefits Agility's customer demand or subsidy odds",
         "Check whether 1X, Tesla and Agility capability milestones actually change customer procurement, partner interest or policy support",
+        "Track whether Unitree's IPO pricing and aftermarket actually spill over to CCXI / AGLT and other US humanoid names rather than fading as a short sentiment burst",
         "Track whether Agility discloses comparable actuator counts, supplier stacks or manufacturing bottlenecks",
         "Compare Agility's ramp assumptions with Boston Dynamics, Figure, Apptronik and 1X rather than only with narrative peers",
         "Verify whether auto-manufacturer tie-ups lead to capital, procurement or production advantages for Agility specifically"
       ],
-      "lastUpdated": "2026-07-29 20:05",
+      "lastUpdated": "2026-08-11 10:19",
       "evidence": [
+        {
+          "date": "2026-08-11 10:19",
+          "quote": "Serenity said Unitree's IPO was more than 8,000 times oversubscribed by retail, inferred a possible $30B-plus opening valuation, and treated it as a near-term attention catalyst for Agility through CCXI.",
+          "url": "https://x.com/aleabitoreddit/status/2087000954742927390"
+        },
         {
           "date": "2026-07-29 02:45",
           "quote": "Serenity cited Reuters saying the US is moving to restrict Chinese humanoid and quadruped robot imports, and framed it as supportive for Agility and other US humanoid players.",
