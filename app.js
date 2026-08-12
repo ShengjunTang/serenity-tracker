@@ -669,6 +669,14 @@ const zhCopy = {
       "对比 Riber 与 Veeco 的 MBE 市占率、订单和估值"
     ]
   },
+  "taiyo-yuden-mlcc": {
+    theme: "MLCC / AI 基建二阶供应链",
+    thesis: "Serenity 将 Taiyo Yuden（6976）列为一条早期 MLCC 线索：她称 Situational Awareness 的披露持仓已上升，并表示自己也买入；她的核心推演是高可靠被动元件可能是全球 AI 基建中被低估的二阶环节。当前证据仍是持仓披露与主题判断，不是公司已确认的 AI 收入披露。",
+    whyItMatters: "MLCC 厂商可能提供比热门 AI 芯片更低拥挤度的硬件需求观察窗口，但只有持仓变化被核实、且公司能披露 AI server / networking 需求、价格或利用率改善时，才有资格从早期线索升级。",
+    catalysts: ["日本大额持股申报核实 11.62% 持仓", "公司披露 AI server、networking 或 data center 为实质需求驱动", "MLCC 利用率或定价随 AI 硬件需求改善", "出现更多一手材料连接其产品与 hyperscale AI 基建"],
+    risks: ["5.99% 升至 11.62% 的持仓与时点尚未独立核实", "MLCC 终端需求广而周期性强，AI 对总利润未必重要", "Serenity 的个人买入与主题判断不能替代公司证据", "日本市场、汇率和估值风险可能压过 AI read-through"],
+    nextChecks: ["找到日本大额持股申报并确认披露主体", "阅读 Taiyo Yuden 最新业绩，拆出 AI server、networking 与 MLCC 终端结构", "梳理产品、竞争对手、产能利用率与价格敏感度", "区分公司硬披露与 Serenity 的供应链推演"]
+  },
 };
 
 const state = {

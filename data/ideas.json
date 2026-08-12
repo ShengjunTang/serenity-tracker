@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-08-11T20:06:04+08:00",
-  "sourceWindow": "Latest refresh 2026-08-11 20:06 Beijing. Logged-in Chrome/X access succeeded again, so the tracker used the prior `data/ideas.json` boundary at `2026-08-10T20:04:15+08:00` and incrementally reviewed direct Posts plus direct Subs from @aleabitoreddit with Replies excluded. Posts surfaced five new main posts after the boundary. Direct Subs verification succeeded again and still showed the Aug 7 polysilicon note as the newest visible subscriber-only item, so no new Subs post crossed the boundary. Two public posts were high-signal enough to survive into the rolling August 9-11 `latestUpdates` window: a Unitree-IPO oversubscription post that Serenity tied back to Agility / `$CCXI` as a US-humanoid sentiment read-through, and a RIOT / Anthropic / AMD post that tightened the Anthropic neocloud / colo timeline toward H2 2027 revenue-inflection windows. Three other public posts were excluded: the 1,000,000-follower thank-you post, the \"We're almost there\" milestone post, and the Barrons / `$AAOI` rant, because they added little durable thesis value. This run trimmed the rolling window to August 9-11, removed the Aug 8 policy-minerals item, and updated the `ccxi-aglt` and `anthropic-neocloud-colo` idea cards plus matching bilingual mappings because the new evidence added a concrete valuation-reference catalyst for Agility and a named contract/timeline datapoint for the Anthropic colo basket.",
-  "summary": "8 月 11 日 20:06（北京时间）这轮刷新继续用登录态 X，按 `data/ideas.json` 里上次 `2026-08-10T20:04:15+08:00` 的边界增量检查了 @aleabitoreddit 的 `Posts` 和 `Subs`，明确未读取 Replies。相较该边界，共复核到 5 条新主帖；`Subs` 也已再次直接核对成功，且最新可见订阅帖仍是 8 月 7 日那条多晶硅研究帖，因此没有新的订阅增量越过边界。保留进 `latestUpdates` 的高信号新增有 2 条：一条是 Unitree IPO 零售认购超 8000 倍、并被 Serenity 映射到 Agility / `$CCXI` 的美国 humanoid 情绪催化；另一条是 `$RIOT` 拿到 Anthropic 20 年长约且 `$AMD` 扩大现有合作，被她视为 Anthropic neocloud / colo 篮子朝 H2 2027 收入拐点推进的更硬 datapoint。100 万粉丝感谢帖、\"We're almost there\" 里程碑帖和 Barrons / `$AAOI` 吐槽帖都被排除。滚动消息窗现在保留 8 月 9 日到 8 月 11 日的 5 条高信号更新；这轮同步更新了 `ccxi-aglt` 与 `anthropic-neocloud-colo` 的卡片及 `app.js` 中文映射，没有新增 idea。",
+  "generatedAt": "2026-08-12T20:03:00+08:00",
+  "sourceWindow": "Latest refresh 2026-08-12 20:03 Beijing. Logged-in Chrome/X access incrementally reviewed @aleabitoreddit Posts and direct Subs from the prior `data/ideas.json` boundary at `2026-08-11T20:06:04+08:00`; Replies were excluded. Posts produced five new main posts. Three high-signal items were retained: AEHR's reported $22M follow-on AI-processor wafer-level burn-in order, a detailed SIVE / CW-DFB laser scarcity synthesis built from LITE, AAOI and MTSI earnings commentary, and Serenity's disclosed Taiyo Yuden (6976) purchase plus the Situational Awareness ownership update. Subs was directly verified: its newest visible post remained the Aug 7 polysilicon note, so no new subscriber-only item crossed the boundary. The rolling feed keeps Aug 10-12 only. The SIVE and AEHR cards were strengthened, and Taiyo Yuden was added as a speculative MLCC / AI-supply-chain line pending filing and company-fundamental verification.",
+  "summary": "8 月 12 日 20:03（北京时间）本轮按上次 `2026-08-11T20:06:04+08:00` 边界，用登录态 X 增量读取了 @aleabitoreddit 的 Posts 与 Subs，未读取 Replies。Posts 新增 5 条主帖；保留 3 条高信号内容：AEHR 据称获得 2200 万美元 AI 处理器晶圆级 burn-in 跟单、SIVE 的 CW/DFB 激光供给瓶颈获得 LITE/AAOI/MTSI 财报口径再验证、以及 Taiyo Yuden（6976）的持仓披露与 Serenity 自身买入。Subs 已直接核对，最新仍是 8 月 7 日多晶硅帖，没有越过边界的新订阅内容。滚动流仅保留 8 月 10-12 日；本轮强化 SIVE、AEHR，并新增 Taiyo Yuden 的早期观察卡，所有持仓与供应链推断均保留一手核验风险。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-08-12T16:11:00+08:00",
+      "type": "AEHR 获 AI 处理器 burn-in 跟单 / 多垂直验证继续落地",
+      "headline": "Serenity 称 `$AEHR` 获其 lead AI-processor 客户约 `$22M` wafer-level burn-in follow-on order，并把它与 memory、silicon photonics 等既有验证线并列看作多垂直扩张的又一落点；消息推动盘前约 +5.39%。订单对手方、系统数与收入确认仍需以公司公告核验。",
+      "tickers": ["$AEHR"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2087505570941239683",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-12T15:54:00+08:00",
+      "type": "SIVE 的 CW / DFB 激光瓶颈获财报口径再验证",
+      "headline": "Serenity 把 `$LITE` 的 UHP CW 激光需求与 ASP 上调、`$AAOI` 的产能紧张及 `$MTSI` 对 InP DFB 供给紧急性的表述并置，认为西方合格 CW / DFB 激光产能仍是 CPO 与 1.6T 光互连的关键瓶颈，并继续将 `$SIVE` 放在少数潜在独立受益者中；这是行业 read-through，并非 SIVE 直接订单。",
+      "tickers": ["$SIVE", "$LITE", "$AAOI", "$MTSI", "$COHR"],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-12T12:00:00+08:00",
+      "type": "Taiyo Yuden（6976）MLCC / AI 供应链持仓披露",
+      "headline": "Serenity 称 Situational Awareness 对 Taiyo Yuden（6976）的持股已由 7 月 16 日的 5.99% 升至 11.62%，并表示自己也买入，以其 MLCC 在全球 AI 供应链中的价值为由跟踪；持股比例、披露主体、公司 AI 收入暴露与估值均须回到日本监管文件和公司材料核验。",
+      "tickers": ["6976"],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2087397768314999183",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-08-11T10:19:36+08:00",
       "type": "Unitree 认购热度爆表 / Agility-CCXI 获美国 humanoid 情绪映射",
@@ -46,34 +73,6 @@
       ],
       "severity": "high",
       "url": "https://x.com/aleabitoreddit/status/2086634510935118161",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-09T08:23:56+08:00",
-      "type": "SIVE 产能吸收模型再升温 / AAOI-MTSI 缺货验证回流到独立激光产能",
-      "headline": "Serenity 重新拿 `$SIVE` 的产能模型与最新 `$AAOI`、`$MTSI` 缺货信号拼在一起，认为既然 transceiver 与 InP DFB / CW laser 的供需缺口仍在扩大，且美国还在推进限制新增中国光模块，那么独立西方激光产能的需求吸收逻辑需要继续重估。",
-      "tickers": [
-        "$SIVE",
-        "$AAOI",
-        "$MTSI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2086247069900300393",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-09T01:29:02+08:00",
-      "type": "Memory 继续偏多 / Photonics 瓶颈交易重新回到台前",
-      "headline": "Serenity 表示自己仍继续看多 `$MU` / Samsung，并把本周 photonics 重新走强理解为市场重新交易旧瓶颈而非基本面修复。她强调 `$COHR`、`$LITE` 卖空两年的供给紧张、`$AAOI` 的需求失衡和中国光模块限制等逻辑并未恶化，只是价格先在 7 月被错杀后又反身修复。",
-      "tickers": [
-        "$MU",
-        "$AAOI",
-        "$LITE",
-        "$COHR",
-        "$AXTI"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
       "source": "Posts-logged-in-X"
     }
   ],
@@ -154,8 +153,13 @@
         "Check whether 2027 H1/H2 ramp language is reflected in customer programs, capacity guidance or filings",
         "Read the Morgan Stanley CPO note plus Innolight IR transcript and separate ecosystem validation from direct SIVE revenue evidence"
       ],
-      "lastUpdated": "2026-08-07 15:26",
+      "lastUpdated": "2026-08-12 15:54",
       "evidence": [
+        {
+          "date": "2026-08-12 15:54",
+          "quote": "Serenity synthesized LITE, AAOI and MTSI earnings commentary into a renewed CW / DFB laser-scarcity case and treated it as a sector read-through for SIVE, not a direct SIVE order disclosure.",
+          "url": "https://x.com/aleabitoreddit/status/2087447527595692180"
+        },
         {
           "date": "2026-08-07 15:26",
           "quote": "Serenity said Lumilens surfaced at a $5.5B valuation with a multi-billion-dollar customer agreement and treated it as positive upstream read-through for POET and SIVE.",
@@ -1410,8 +1414,13 @@
         "Track whether silicon-photonics and networking follow-through turns into named orders or backlog",
         "Compare AEHR valuation with other qualification-to-HVM test-equipment rerating cases"
       ],
-      "lastUpdated": "2026-07-15 09:48",
+      "lastUpdated": "2026-08-12 16:11",
       "evidence": [
+        {
+          "date": "2026-08-12 16:11",
+          "quote": "Serenity said AEHR received another $22M follow-on order from its lead AI-processor customer for wafer-level burn-in systems; customer identity, system count and revenue recognition require company-source confirmation.",
+          "url": "https://x.com/aleabitoreddit/status/2087505570941239683"
+        },
         {
           "date": "2026-07-15 09:48",
           "quote": "Serenity said AEHR's latest earnings setup spans a significantly ramping AI-processor wafer-level burn-in customer, additional evaluation customers, a completed NAND benchmark and continuing silicon-photonics/networking demand.",
@@ -3147,6 +3156,42 @@
           "date": "2026-06-28 17:32",
           "quote": "Serenity described Schaeffler as an automotive supplier with broad humanoid component exposure and many development relationships, but low current robotics revenue and meaningful debt.",
           "url": "https://x.com/aleabitoreddit/status/2071164721299112316"
+        }
+      ]
+    },
+    {
+      "id": "taiyo-yuden-mlcc",
+      "ticker": "6976",
+      "name": "Taiyo Yuden",
+      "tier": "speculative",
+      "theme": "MLCC / AI infrastructure supply-chain exposure",
+      "thesis": "Serenity introduced Taiyo Yuden as an early MLCC bottleneck line after saying Situational Awareness increased its disclosed stake and that she also bought shares. Her framing is that high-reliability passive components can be an underappreciated input to global AI infrastructure, but the current evidence is a position disclosure and thematic inference rather than a company-specific AI revenue disclosure.",
+      "whyItMatters": "MLCC suppliers may offer a less crowded way to monitor second-order AI hardware demand. The setup is only actionable if the reported ownership change is confirmed and Taiyo Yuden can show material AI-linked mix, pricing or utilization improvement; without that, it remains a speculative Japan-listed passive-component watch item.",
+      "catalysts": [
+        "Japanese large-shareholding filing confirms the reported 11.62% Situational Awareness stake",
+        "Taiyo Yuden discloses AI-server, networking or data-center demand as a material driver",
+        "MLCC supply, utilization or pricing improves alongside AI hardware demand",
+        "Additional primary-source evidence links the company to hyperscale AI infrastructure"
+      ],
+      "risks": [
+        "The 5.99% to 11.62% ownership claim and disclosure timing have not yet been independently verified",
+        "MLCC exposure can be broad and cyclical; AI demand may be immaterial to total earnings",
+        "Serenity's personal purchase and thematic framing are not investment-grade proof",
+        "Japanese-market access, FX and valuation can dominate any AI supply-chain read-through"
+      ],
+      "stance": "早期观望",
+      "nextChecks": [
+        "Retrieve the relevant Japanese large-shareholding filing and identify the exact reporting entity",
+        "Read Taiyo Yuden's latest results for AI-server, networking and MLCC end-market mix",
+        "Map MLCC products, competitors, utilization and pricing sensitivity",
+        "Separate disclosed company fundamentals from Serenity's supply-chain inference"
+      ],
+      "lastUpdated": "2026-08-12 12:00",
+      "evidence": [
+        {
+          "date": "2026-08-12 12:00",
+          "quote": "Serenity said Situational Awareness had increased its Taiyo Yuden (6976) ownership to 11.62% from 5.99% and that she also bought shares, citing the MLCC maker's potential AI supply-chain value.",
+          "url": "https://x.com/aleabitoreddit/status/2087397768314999183"
         }
       ]
     },
