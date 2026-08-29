@@ -8,63 +8,27 @@ const tierLabels = {
 const zhCopy = {
   sive: {
     theme: "CPO / 硅光激光器瓶颈",
-    thesis: "Serenity 现在把 SIVE 看成已经扛过 panic test、且同时得到管理层和外部渠道强化的 photonics chokepoint。7 月 10 日的 insider buy 与 roadmap defense 先打底，7 月 11 日到 14 日又依次叠加 Rosenblatt、订阅读到的 China-laser channel check、Morgan Stanley、Innolight 和 Jensen 的外部验证；7 月 16 日把故事推进到更可量化的产能与估值框架；8 月 6 日 Aeva 补上下游架构 read-through；而 8 月 7 日的 AAOI、MTSI 与 Lumilens 三组新帖子，又把“西方 CW / DFB 激光器仍严重紧缺、下游高价值 optical-engine 客户仍在浮出水面”的论点压得更实。Serenity 现在不仅继续用 Win Semi 低比例分配、65% yield 和 50-75 美元 array ASP 做情景建模，还引用 AAOI 自己承认首代 CPO 没有足够激光器产能、MTSI 提到客户带着 urgency 来找 InP DFB lasers，以及 Lumilens 55 亿美元估值与 multi-billion-dollar customer agreement，来强化 SIVE 这类独立西方激光器产能的稀缺性和上游 optionality。",
-    whyItMatters: "这让 SIVE 不再只是“西方 CW 激光器稀缺 + sell-side 开始承认”的 narrative，而更像一条可被持续交叉验证的 capacity-conversion + downstream-program 路径。8 月 7 日这批 read-through 的价值在于：AAOI 和 MTSI 都还在公开描述激光器短缺，Lumilens 也以更高估值和更强客户背书浮出水面，说明 scarcity 不是 Serenity 单线乐观；但同样因为细节更具体，一旦产能、客户映射、ASP 或 H2 2027/2028 节奏不成立，失望也会更快暴露。",
+    thesis: "Serenity 现在把 SIVE 从泛化的“西方激光器稀缺”推进成财报后更可验证的 capacity-conversion case。8 月 28-29 日新增的硬锚点包括：revenue opportunity pipeline 从去年 12 月以来增长 268% 到约 12 亿美元；6 个新增 pluggable/module 玩家，其中 3 个 alpha sample evaluation、3 个 technical engagement / supply assessment；Jabil 初始生产订单预计 2027H1，H2 进入 ramp；新 foundry partner 已带来现在可用的 tremendous capacity。她认为这在 LITE、COHR、AAOI 纷纷把合格激光器产能内部消化的背景下很关键，因为独立 merchant CW / DFB laser 选择正在变少。",
+    whyItMatters: "这次更新让 SIVE 的核验清单更清楚：不再只看行业是否缺激光器，而要看新 foundry capacity 是否真的合格、6 个 pluggable/module engagements 是否能转成 design wins / production orders、Jabil 时间线是否兑现，以及管理层能否更快完成 Nasdaq readiness 并把资本用于向 optical engines / ELS / pluggables 下探。",
     catalysts: [
-      "AAOI 说自己当前并未实质参与首代 CPO 部署，因为 CPO 激光器产能仍太稀缺；Serenity 把这看成 SIVE 这类独立西方激光器供应方的利好",
-      "MTSI 财报称客户正因 InP DFB 激光器短缺而带着 urgency 找上门，进一步独立验证 CW / DFB scarcity",
-      "Lumilens 以 55 亿美元估值浮出水面，并披露 multi-billion-dollar customer agreement；Serenity 把它当成 POET / SIVE 上游映射的外部确认",
-      "Serenity 认为 Aeva 新的 optical connectivity 业务与 hyperscaler optical-engine JDA，可能为 SIVE 的 DFB 激光器和放大器堆栈再打开一条新需求路径",
-      "Serenity 用 Win Semi 低比例分配建模，认为即便只拿到 modest 份额，也足以支撑相对当前市值可观的 annual gross profit",
-      "管理层称 Sivers 还在与更多 fabs 合作，说明合格 InP 产能基础盘仍可能外扩",
-      "7 月 10 日出现三笔 insider buys，其中 CEO 场内买入约 100 万 SEK",
-      "完成 7 亿 SEK、57 SEK 定价且超额多倍认购的机构融资",
-      "未来数个季度内完成 Nasdaq 上市流程的正式时间线",
-      "Serenity 强调 photonics 主线未坏，LITE 仍接近未来两年售罄，SIVE 仍沿 GFS / JBL / POET / Ayar 路径推进",
-      "Rosenblatt 认为即便单颗 XPU 所需 transceiver 数下降，只要 XPU 数量增长更快，总光学需求仍会上升",
-      "Rosenblatt 把 VCSEL 视作 NPO / 短距阶段的 bridge，但仍把 ultra-high-power CW 视作长期 CPO 理想架构",
-      "订阅 channel check 称中国仍缺少可工作的 200G EML，并离 NPO / CPO 所需 high-power CW 仍有距离",
-      "Serenity 认为近期围绕 NVDA / TSM 供应链的延迟噪音，更多是在打 sentiment，而不是在证伪 photonics 主线",
-      "Morgan Stanley 明确把 SIVE 与 Coherent、Lumentum 并列为西方关键 CPO 激光器供应方",
-      "Innolight IR 说 800G 需求更强、尾部更长，且 silicon photonics 占比继续上升",
-      "Jensen 表示 Nvidia 的 800V 与 rack-to-rack optical interconnect 时序没有实质延迟",
-      "GFS reference laser、JBL 量产 read-through 与 Ayar / Nvidia 生态映射仍是放大器",
-      "她继续把 AAOI 与 SIVE 列为最喜欢的激光公司，认为收入空间可从激光器扩展到模块、引擎和 ELS",
-      "photonics 主题仍被视作极早期，大部分 revenue ramp 可能在 2027 H1/H2 才开始"
+      "SIVE 披露 6 个新增 pluggable/module engagements，Serenity 认为这是财报电话会最重要的信息",
+      "Jabil 初始生产订单预计 2027H1，H2 进入 production ramp，让 SIVE/JBL pluggable 路径有了更清晰时间锚",
+      "新 foundry partner 带来现在可用的 tremendous capacity；在 CW / DFB laser shortage 背景下，Serenity 认为这是非常实质的供给侧变化",
+      "pipeline 约 12 亿美元，较去年 12 月增长 268%，同时公司正从 NRE 转向 product ramp preparation",
+      "Serenity 仍认为 LITE / COHR / AAOI 的内部消化，使 SIVE 这类独立合格激光产能具备更高 strategic value"
     ],
     risks: [
-      "8 月 7 日这批 AAOI / MTSI / Lumilens 主要仍是 sector read-through，而不是 SIVE 自己的新订单披露",
-      "Lumilens 估值、客户协议以及 POET / SIVE 供应关系含义，仍需要一手资料逐项核实",
-      "8 月 6 日这条 Aeva / SIVE 供应关系推演仍高度依赖 Serenity 的映射，除非 Aeva、Sivers 或客户直接点名，否则不能当成已确认供货",
-      "7 月 16 日这套 Win Semi / yield / ASP 建模仍是 scenario analysis，实际拿到的合格产能份额可能远低于假设",
-      "即便纸面 gross-profit 空间很大，真实 HVM 节奏、客户结构和实际 ASP 仍可能明显低于理想情景",
-      "融资虽然超额认购，但仍有稀释，且必须转成真实激光器/放大器产能与收入",
-      "CEO/管理层买入能改善信号，但并不自动等于客户放量和 2027 收入兑现",
-      "Nasdaq 时间线仍需正式 milestones、filings 和交易所步骤确认",
-      "围绕供应链的 bear-post / rumor 交易能在很长时间内压过 fundamentals，因为公司往往无法公开反驳保密细节",
-      "若 VCSEL 过渡路径或中国激光器追赶速度快于预期，西方 CW scarcity premium 可能被压缩",
-      "更现实的风险可能不是 process 被推翻，而是 volume ramp 一再后移、导致收入确认继续延后",
-      "GFS / JBL / Ayar / Lightmatter 等客户映射大多仍需一手资料确认",
-      "2027 ramp 时间线意味着市场预期可能领先收入几个季度",
-      "光学主线即便方向没坏，SIVE 仍很容易受宏观、流动性和短线情绪冲击",
-      "仍需要看到 SIVE 具体订单、模块 / 光引擎收入或 margin 证据",
-      "7 月 14 日这些验证更多仍是 read-through，而不是 SIVE 自己披露的新订单"
+      "新 foundry capacity 仍需证明已合格、可经济使用，并且能绑定真实客户 ramp",
+      "6 个 pluggable/module engagements 还不是命名订单或 LTA，需要设计赢单和收入确认",
+      "Serenity 明确批评管理层沟通、Nasdaq/dual listing 模糊度和资本配置节奏，执行与 IR 风险上升",
+      "若 H1/H2 2027 ramp 后移，当前 pipeline 与 scarcity 叙事可能先被市场折价",
+      "向 optical engines / pluggables 下探有 TAM 好处，也可能带来客户冲突和资本开支压力"
     ],
     nextChecks: [
-      "优先核实 AAOI 首代 CPO 缺位与 MTSI 的 urgency 表述，是否真的会转化成 SIVE 的供应机会，而不只是证明行业稀缺",
-      "核实 Lumilens 的客户身份、POET 合同范围，以及 SIVE 是否真的落在被点到的产品线里",
-      "优先核实 Aeva 的 optical-engine / on-chip light source 项目是否真的点到 SIVE 激光器或放大器，以及 H2 2027 / 2028 时间线能否转成命名收入证据",
-      "先把 Win Semi wafer capacity、yield 与 ASP 假设对照供应商披露和同业 economics 做压力测试",
-      "跟踪 Sivers 接下来几个季度是否真的披露更多 qualified fabs、capacity additions 或 pipeline 上修",
-      "阅读 7 月 10 日 insider filing，确认 CEO 与另外两笔增持的金额、价格和持股变化",
-      "跟踪 Nasdaq 上市的正式时间点、顾问和公司披露",
-      "阅读 Rosenblatt 关于 AAOI / AMZN RNG / MRC / VCSEL 的原始材料，拆开 sell-side 模型和 Serenity 的再演绎",
-      "核实中国激光器在 200G EML 与 high-power CW 上的 channel-check 说法，尽量找产业或供应商一手旁证",
-      "跟踪所谓 CPO timing stretch 是否真的体现在客户 capex、产能或 production guidance 中，而不是变成 process delay",
-      "核实 GFS reference design、JBL read-through 与 Ayar 供应关系是否在一手资料中被直接点名",
-      "跟踪 SIVE 是否披露光模块、光引擎或 ELS 组件收入",
-      "核实 2027 H1/H2 ramp 是否被客户项目、产能指引或 filings 支持",
-      "把 Morgan Stanley CPO note 和 Innolight IR 原文拆开，区分生态验证与直接收入证据"
+      "读完整 Sivers ER transcript，核对 6 个 engagements、new foundry capacity、Jabil timing、Nasdaq process 和 capacity model 的原话",
+      "跟踪 2026Q4-2027 是否出现命名 design wins、production orders、LTAs 或收入指引",
+      "核实 Jabil、GFS、POET、Ayar、Lightmatter/Celestial 等映射哪些是一手披露，哪些仍是 Serenity 推断",
+      "检查 7000 万美元资本使用方向，是内建产能、M&A、dual listing 还是更下游 optical engine / pluggable 扩张"
     ]
   },
   foci: {
@@ -118,11 +82,28 @@ const zhCopy = {
   },
   mrvl: {
     theme: "AI ASIC / CPO 大盘股验证",
-    thesis: "Serenity 仍把 MRVL 作为流动性较好的 AI interconnect / ASIC 验证标的，但 7 月 3 日订阅者帖把逻辑从 Jensen 的口号推进到“份额迁移”框架：她认为 MRVL、Mediatek、Alchip、GUC 这类更贴近 Nvidia 生态的 challengers，未来两年可能逐步蚕食 Broadcom 在部分 hyperscaler-adjacent ASIC 项目里的份额。与此同时，MRVL 仍和 SIVE 的 Celestial 激光器推演相连。",
-    whyItMatters: "这让 MRVL 不再只是情绪代理，而更像一个可能受益于 Nvidia 生态重新分配 ASIC 经济性的标的。但这条新逻辑本身带有明显推断色彩，仍需要 design win 和收入证据。",
-    catalysts: ["7 月 3 日订阅者帖提出 MRVL 等 Nvidia 盟友型 ASIC 挑战者可能逐步蚕食 AVGO 份额", "AVGO 电话会显示 AI networking demand 强、订单可见度延伸到 2028", "OpenAI custom silicon late-2026 production 与 Meta H2 2027 项目时间线支持 ASIC 周期", "Jensen Huang 公开背书", "AI ASIC / Celestial 叙事", "潜在 SIVE 激光器供应商关系"],
-    risks: ["7 月 3 日这条 AVGO 份额受压逻辑被 Serenity 自己称为 conspiracy theory，仍需一手验证", "AVGO 需求强不等于 MRVL 自动拿到份额", "35% 快速上涨后短期可能透支", "大盘股上行依赖执行与估值", "SIVE 供应关系仍需验证"],
-    nextChecks: ["比较 MRVL、AVGO、Alchip、GUC 的 custom-ASIC design wins", "比较 AVGO 客户时间线与 MRVL AI ASIC pipeline 披露", "确认 Jensen 引述与活动语境", "验证 MRVL / Celestial 供应链", "区分 AI ASIC 增长与光学 / CPO 逻辑"],
+    thesis: "Serenity 仍把 MRVL 作为流动性较好的 AI interconnect / ASIC 验证标的，但 8 月 30 日 Subs 又加了一层 filing 约束链：advanced wafer fabrication、advanced packaging、large body substrates 都被她从 MRVL 文件中点出来，可能对应 lead time、无法完全满足需求和成本上升。这没有替代 7 月 3 日“NVDA 盟友型 ASIC challengers 蚕食 AVGO 份额”的推断，而是把 MRVL 拉回更硬的物理供应链：TSM、先进封装、大尺寸基板和光互连产能。",
+    whyItMatters: "MRVL 的问题不只是 AI ASIC/networking 需求强不强，还包括先进晶圆、封装和基板能不能支撑需求、成本能不能转嫁。如果约束持续，它可能带来更好的 pricing visibility，也可能反过来压 margin 和交付。订阅帖只是 filing 线索，必须回到 10-K/10-Q 原文核验。",
+    catalysts: [
+      "MRVL filing 约束链：advanced wafer fabrication、advanced packaging、large body substrates",
+      "7 月 3 日订阅者帖提出 MRVL 等 Nvidia 盟友型 ASIC 挑战者可能逐步蚕食 AVGO 份额",
+      "AVGO 电话会显示 AI networking demand 强、订单可见度延伸到 2028",
+      "OpenAI custom silicon late-2026 production 与 Meta H2 2027 项目时间线支持 ASIC 周期",
+      "Jensen Huang 公开背书和 Celestial / SIVE 光学供应链推演仍是情绪与供应链双重线索"
+    ],
+    risks: [
+      "filing 约束可能只是行业风险披露，不等于 MRVL 独有催化",
+      "先进封装和基板成本若不能转嫁，可能压制 margin",
+      "7 月 3 日 AVGO 份额受压逻辑被 Serenity 自己称为 conspiracy theory，仍需 design win 证据",
+      "AVGO 需求强不等于 MRVL 自动拿份额",
+      "SIVE / Celestial 供应关系仍需一手确认"
+    ],
+    nextChecks: [
+      "直接读 MRVL SEC filing 中 advanced wafer fabrication、advanced packaging、large body substrates 的段落",
+      "把 MRVL、AVGO、Alchip、GUC 的 custom-ASIC design wins 和客户时间线放在同一张表比较",
+      "核实 TSM / advanced packaging / substrate 约束是否在供应商和客户口径中互相印证",
+      "区分 AI ASIC 增长、CPO 光学映射和单纯估值情绪"
+    ]
   },
   jbl: {
     theme: "1.6T LRO 可插拔光模块 / 美国光学制造",
@@ -437,45 +418,28 @@ const zhCopy = {
     nextChecks: ["找到 Serenity 引用的 HBF 报告和术语定义", "比较 Hanmi、Hanwha、ASMPT、K&S 的 TC bonder 产品暴露", "检查存储客户认证和订单披露", "把 HBF 与 HBM / 先进存储封装路线图对应起来"],
   },
   "ai-memory": {
-    theme: "AI 存储短缺 / HBM 周期",
-    thesis: "7 月 23 日这轮更新让 memory 主线继续停留在 duration-and-contracting 框架里，但不再只靠 hyperscaler capex 或韩国市场结构来支撑。7 月 7 日 Samsung 提价与盈利强势、7 月 17-18 日的 Meritz / Micron / SK Hynix 逻辑都还成立；而最新的 Tesla 电话会笔记又补上一层新的需求来源。Serenity 强调 Elon 明确感谢 $MU 在未来几年给 Tesla 留出“非常显著”的 allocation，而且 Tesla 供应链团队也说 memory 等环节正在被重新加大投入、很多供应链要从零搭起。她的意思是，LTAs 与 allocation battle 正在从传统 cloud capex 扩散到 humanoid / physical AI。",
-    whyItMatters: "这让 memory thesis 更像一张更广的 demand-duration 地图：如果 hyperscalers、EV / humanoid leader 和其他 AI buildout 玩家都开始争抢多年期 memory allocation，那么这个周期可能会比普通 DRAM / NAND 反弹更久、更紧。反过来，Tesla 与 physical-AI 的叙事也很容易跑在真实收入兑现前面，所以还是要把“结构性短缺证据”与“远期 TAM 想象”拆开看。",
+    theme: "AI 存储短缺 / HBM + legacy memory 周期",
+    thesis: "Serenity 把 memory 主线从 HBM / hyperscaler LTA 继续拆到 legacy memory squeeze。8 月 30 日她用 NVDA-MU 类比解释：高端 AI memory 需求把 Micron、Samsung、SK Hynix 等产能推向最高价值段，反而让 DDR2/DDR3、SLC/SPI NAND、NOR、MCP/eMCP 等传统段落更紧。ESMT（3006）成为她的新例子：有 PSMC wafer allocation、覆盖多类 legacy memory，且如果下游涨价幅度大于 PSMC wafer 成本上升，operating leverage 可能非常高。",
+    whyItMatters: "这让 memory thesis 变成双层结构：大盘的 MU / Samsung / SK Hynix 受 AI 高端需求驱动，小盘或区域型 legacy memory 玩家则受成熟节点供给迁移和 allocation 稀缺驱动。机会在 duration，风险在可验证性：ESMT、Etron、Jeju 等需要看本地 filings、产品 mix、foundry allocation 和 ASP pass-through。",
     catalysts: [
-      "Meritz 认为市场仍在过度悲观看待 Samsung / SK Hynix 的 memory fundamentals",
-      "Meritz 预计 2026H2 DRAM fulfillment 约为 75%-80%，2027 甚至可能落到 60% 区间",
-      "$MU 与 $QCOM 新签的 memory LTA 强化了长期需求合同正在继续叠加的判断",
-      "Tesla 供应链团队说 memory 等环节正在重新加大投入，且不少 Optimus 相关供应链要从零搭起",
-      "Elon 明确感谢 $MU 给 Tesla 在未来几年提供了很大 allocation，且 terms 仍算合理",
-      "Serenity 认为 Micron 利好后急跌更像 deleveraging，而不是 memory 主线被证伪",
-      "Serenity 认为韩国市场的大规模强平与去杠杆，有助于解释近期 memory/semis 回撤更像资金面踩踏",
-      "$SKHY ADR 与韩国本股 7 月 29 日起可转换，可能打开套利并压缩美国 ADR 溢价",
-      "Samsung / SK Hynix 的低 headline valuation 被她拿来当作 memory earnings 仍被低估的证据",
-      "NVDA CEO 先前关于 memory shortage 可能持续多年的警告仍是上层框架",
-      "7 月 7 日 Samsung 的 DRAM 提价约 20% 与 operating profits 同比约 1803% 增长仍是此前最硬的公司级验证",
-      "SNDK 仍是 broad memory 主题之外更集中的旁支表达"
+      "ESMT 被 Serenity 用作 DDR2/DDR3、SLC/SPI NAND、NOR、MCP/eMCP 的 legacy memory case study",
+      "她认为 PSMC wafer hike 可能被下游 legacy memory price hikes 抵消甚至放大为利润弹性",
+      "SLC NAND H2 2026 约 120%-170%、DDR2 Q3 约 35%-40%、DDR4 约 30%-40%、高密度 NOR 约 60%-65%+ 的价格口径被重新汇总",
+      "NVDA 高端 memory 需求继续拉走主流供应商产能，形成 cascading bottleneck",
+      "Subs 中提到她正在 mapping 谁有 PSMC wafer allocations 且服务 DDR2/DDR3 市场"
     ],
     risks: [
-      "如果供给追上得比预期快，memory 依然会回到强周期属性",
-      "Meritz 的 fulfillment 预测仍是卖方 read-through，不是公司管理层正式指引",
-      "Micron 签下 LTAs 并不自动等于 multi-year margin 和 pricing 都能维持在高位",
-      "Tesla / Optimus 的 memory 需求仍偏早期，叙事未必会按市场想象的速度兑现为收入",
-      "即使当前回撤更像去杠杆，市场也可能是在更早地交易 peak-cycle 风险",
-      "$SKHY ADR 溢价压缩可能让美国交易载体先承压，即使韩国 memory 基本面本身没坏",
-      "韩国市场的强平、ETF 与跨市场资金流仍可能在短期压过基本面",
-      "EWY 不是纯 memory 暴露，韩国敞口里掺杂了不少非存储因素",
-      "HBM 紧张与 broader DRAM / NAND 周期仍需拆开，否则容易把不同逻辑混成一条线",
-      "physical-AI 与更长周期 memory 需求推演，仍可能被市场提前过度定价或延后兑现"
+      "ESMT 等区域型标的比 MU/Samsung/SK Hynix 更依赖本地市场流动性、翻译和 filings 核验",
+      "价格涨幅口径需要区分 spot、contract 与 blended ASP",
+      "PSMC wafer 成本上涨可能侵蚀一部分利润弹性",
+      "legacy memory TAM 较窄，单一 segment 未必足以推动所有公司整体盈利",
+      "如果主流供应商恢复 mature-node 供给或客户替代，duration 可能被高估"
     ],
     nextChecks: [
-      "直接读 Meritz 原文，把硬供需假设和 Serenity 的再演绎拆开",
-      "比较 Samsung、SK Hynix 与 Micron 当前盈利预期，是否已经计入她这套 2026-2027 shortage 场景",
-      "核实 $MU-$QCOM memory LTA 的范围、期限与是否意味着更广泛的合同收紧",
-      "核实 Tesla 向 Micron 锁定的 allocation 更偏 EV、Optimus 还是更广的 AI/edge 需求",
-      "跟踪 7 月 29 日 ADR/本股可转换事件，看溢价是通过 ADR 下跌、本股上行还是两者并行来收敛",
-      "核实韩国强平/保证金数据，把 forced-selling 效应与真实基本面恶化拆开",
-      "继续把 HBM 紧张与 commodity DRAM / NAND 周期拆开看",
-      "比较 Samsung / SK Hynix 的估值、capex 与 hyperscaler 需求增长是否还能支撑进一步重估",
-      "量化 SNDK、EWY 等 memory 表达的纯度，区分核心主线和旁支篮子"
+      "为 ESMT/legacy memory 单独建表：收入拆分、PSMC allocation、wafer 成本、July run-rate earnings、价格敏感性",
+      "直接核对 TrendForce、Nanya、Winbond、ESMT 管理层关于供给、价格和 allocation 的原文",
+      "把 Etron、ESMT、Jeju、Winbond、Macronix 放在同一框架里比较产品纯度和估值",
+      "继续拆分 HBM / commodity DRAM-NAND / legacy memory 三条逻辑，不混成一个 trade"
     ]
   },
   "slc-nand-beneficiaries": {
