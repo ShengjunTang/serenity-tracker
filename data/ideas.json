@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-08-30T07:25:00+08:00",
-  "sourceWindow": "Latest refresh 2026-08-30 07:25 Beijing. Logged-in Chrome/X directly reviewed @aleabitoreddit Posts and Subs for the Aug 28-30 Beijing two-day window; Replies were excluded. Posts surfaced SIVE earnings/capacity follow-through, ESMT/legacy memory price-hike work, a traditional OSAT capacity warning, and broader NVDA/MU memory framing. Subs was directly verified and produced three newer subscriber-only items in the window: MRVL filing constraints, legacy SLC NAND/ESMT exposure, and PSMC wafer-allocation mapping for DDR2/DDR3. The rolling feed keeps only Aug 28-30. SIVE was materially refreshed around foundry capacity, six new pluggable engagements and Jabil ramp timing; memory cards were strengthened around ESMT/legacy DRAM/SLC NAND; MRVL was lightly updated for advanced wafer/packaging/substrate constraints. Subscriber-only content is summarized at thesis level without reproducing full paid text.",
-  "summary": "8 月 30 日 07:25（北京时间）本轮用登录态 X 读取了 @aleabitoreddit 最近两天的 Posts 与 Subs，未读取 Replies。Posts 保留 5 条高信号：SIVE 财报后 12 亿美元 pipeline、6 个新增 pluggable/module 玩家、新 foundry capacity 与 Jabil 2027 ramp；ESMT/传统存储涨价与 NVDA-MU 供需类比；OSAT 传统封装 2027 缺口；SIVE 管理层沟通/资本使用批评。Subs 已直接核对，窗口内有 3 条新订阅线索：MRVL filings 中 advanced wafer fabrication / advanced packaging / large body substrates 约束、SLC NAND 与 ESMT/Etron/Jeju 的细分映射、PSMC wafer allocation 与 DDR2/DDR3 run-rate 研究。滚动流仅保留 8 月 28-30 日；本轮强化 SIVE、AI memory、SLC NAND 与 MRVL，新增信息仍需用公司 filings、TrendForce/产业报告和财报原文核验。",
+  "generatedAt": "2026-08-30T20:22:00+08:00",
+  "sourceWindow": "Latest refresh 2026-08-30 20:22 Beijing. Logged-in Chrome/X rechecked @aleabitoreddit Posts and Subs for the Aug 28-30 Beijing two-day window; Replies were excluded. The morning Aug 30 snapshot was extended with three newer public Posts: a SIVE final ER recap around six pluggable players and Jabil 2027 ramp timing, a broader NVDA $1.3T 2027 hyperscaler-spend framing for the AI supply chain, and an Elon bottleneck-derived watchlist across transformers, wiring, liquid cooling, chillers and networking. Subs was directly rechecked and the newest visible subscriber-only item still remained the 2026-08-30 07:13 Beijing MRVL filing-constraints post, so no newer Subs increment was added. The rolling feed keeps only Aug 28-30. Existing idea cards and zh mappings were left unchanged because the new public posts mainly reinforced the current theses and watchlists rather than changing tier, thesis structure, or Chinese card copy.",
+  "summary": "8 月 30 日 20:22（北京时间）本轮用登录态 X 补查了 @aleabitoreddit 最近两天的 Posts 与 Subs，未读取 Replies。相较早上 07:25 的本地快照，Posts 新增了 3 条更晚公开帖：`$SIVE` 财报后最终 recap（6 家 pluggable 玩家、`$JBL` 2027H1 首单/H2 ramp、可能对应多个 hyperscaler）、`$NVDA` 把 2027 hyperscaler spend 框架抬到约 1.3T 美元并把 memory/networking/power/cooling/optics 串成一条链、以及基于 Elon 瓶颈表述扩展出的 transformers/wiring/liquid cooling/chillers/networking watchlist。Subs 已直接复核，顶层最新订阅帖仍是北京时间 07:13 的 `$MRVL` filing 约束链，没有比早间快照更晚的订阅增量。滚动流继续只保留 8 月 28-30 日；这 3 条公开帖主要强化既有主线和观察名单，因此本轮只更新 `latestUpdates` 与刷新时间，不改现有标的卡和 `zhCopy`。",
   "latestUpdates": [
+    {
+      "publishedAt": "2026-08-30T19:40:04+08:00",
+      "type": "AI 基建瓶颈扩散：transformers / wiring / cooling / networking watchlist",
+      "headline": "Serenity 借 Elon 关于 2027 年 AI compute 上线受限于 transformers、wiring、liquid cooling、massive chillers 与 complex networking 的表述，补出一串基础设施观察名单：`$AAON`、`$NVT`、`$MOD`、`$IESC`、`$MTRS`、`$JCI`、`HPS.A`、`PRY.MI`，并把 `CRDO/AAOI/LITE/COHR` 继续放在 networking / optics 受益链上。该帖更像 breadth watchlist，而非对单一标的 thesis 升级。",
+      "tickers": [
+        "$AAON",
+        "$NVT",
+        "$MOD",
+        "$IESC",
+        "$MTRS",
+        "$JCI",
+        "HPS.A",
+        "PRY.MI",
+        "$CRDO",
+        "$AAOI",
+        "$LITE",
+        "$COHR"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2094027369648681284",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-30T19:07:29+08:00",
+      "type": "NVDA 2027 hyperscaler spend 约 1.3T / AI 链条广谱强化",
+      "headline": "Serenity 转述 `$NVDA` 对 2027 年 hyperscaler spend 约 1.3T 美元、相较 2026 年约 8000 亿美元继续上修的框架，并强调在仍然 capacity constrained 的情况下，这轮 capex 会沿着 memory、networking、power、cooling 与 optics 全链条扩散。该帖更像板块级 demand-duration 强化，而不是单独新增个股。",
+      "tickers": [
+        "$NVDA"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2094019167527776711",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-30T17:04:08+08:00",
+      "type": "SIVE 最终 recap：6 家 pluggable 玩家与 JBL 2027 ramp",
+      "headline": "Serenity 在 `$SIVE` 财报后的最终 recap 里再次强调 2027 年 1.6T pluggable 路线：`$JBL` 已被她视为确认的 1.6T LRO 路径，预计 2027H1 首批订单、H2 ramp，并补充 3 家 pluggable makers 在 evaluation、3 家处于 supply assessment；这条帖子主要是对既有 SIVE thesis 的再强化，而非新的结构性改写。",
+      "tickers": [
+        "$SIVE",
+        "$JBL"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2093988125144207710",
+      "source": "Posts-logged-in-X"
+    },
     {
       "publishedAt": "2026-08-30T07:13:18+08:00",
       "type": "MRVL filings 约束链：advanced wafer / packaging / large body substrates",
