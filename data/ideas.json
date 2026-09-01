@@ -1,159 +1,113 @@
 {
-  "generatedAt": "2026-08-30T20:22:00+08:00",
-  "sourceWindow": "Latest refresh 2026-08-30 20:22 Beijing. Logged-in Chrome/X rechecked @aleabitoreddit Posts and Subs for the Aug 28-30 Beijing two-day window; Replies were excluded. The morning Aug 30 snapshot was extended with three newer public Posts: a SIVE final ER recap around six pluggable players and Jabil 2027 ramp timing, a broader NVDA $1.3T 2027 hyperscaler-spend framing for the AI supply chain, and an Elon bottleneck-derived watchlist across transformers, wiring, liquid cooling, chillers and networking. Subs was directly rechecked and the newest visible subscriber-only item still remained the 2026-08-30 07:13 Beijing MRVL filing-constraints post, so no newer Subs increment was added. The rolling feed keeps only Aug 28-30. Existing idea cards and zh mappings were left unchanged because the new public posts mainly reinforced the current theses and watchlists rather than changing tier, thesis structure, or Chinese card copy.",
-  "summary": "8 月 30 日 20:22（北京时间）本轮用登录态 X 补查了 @aleabitoreddit 最近两天的 Posts 与 Subs，未读取 Replies。相较早上 07:25 的本地快照，Posts 新增了 3 条更晚公开帖：`$SIVE` 财报后最终 recap（6 家 pluggable 玩家、`$JBL` 2027H1 首单/H2 ramp、可能对应多个 hyperscaler）、`$NVDA` 把 2027 hyperscaler spend 框架抬到约 1.3T 美元并把 memory/networking/power/cooling/optics 串成一条链、以及基于 Elon 瓶颈表述扩展出的 transformers/wiring/liquid cooling/chillers/networking watchlist。Subs 已直接复核，顶层最新订阅帖仍是北京时间 07:13 的 `$MRVL` filing 约束链，没有比早间快照更晚的订阅增量。滚动流继续只保留 8 月 28-30 日；这 3 条公开帖主要强化既有主线和观察名单，因此本轮只更新 `latestUpdates` 与刷新时间，不改现有标的卡和 `zhCopy`。",
+  "generatedAt": "2026-09-01T20:20:01+08:00",
+  "sourceWindow": "Latest refresh 2026-09-01 20:20 Beijing. The available browser session could read @aleabitoreddit public Posts but was not logged in for subscriber content; Replies were excluded. From the prior local boundary 2026-08-31 20:05 Beijing, Posts yielded four newer public items on Sep 1 plus one visible locked subscriber-only teaser at 2026-08-31 23:55 Beijing. Two higher-signal public posts were retained in the rolling feed: a reported Anthropic / Nvidia-backed Lambda $35B AI compute deal, and a Sep 1 TLDR roundup that refreshed MLCC, AI memory, CPO, packaging, ABF, FOPLP and InP chokepoint notes. Two lower-signal public posts, the Trump / QQQ rate-reaction clip and a macro-valuation thread about staying long despite volatility, were collected but left out of latestUpdates because they did not materially change the tracker theses. Subs was not directly readable in this browser session; only the teaser line \"Mediatek + solana:...\" was visible, so subscriber-only content is uncollected for this run. The rolling feed now keeps the Aug 30 evening through Sep 1 rolling two-day window. Existing idea cards and zh mappings were updated only where the new public post materially extended thesis structure: anthropic-neocloud-colo.",
+  "summary": "9 月 1 日 20:20（北京时间）本轮在可访问的 X 公开页上继续增量复核了 @aleabitoreddit 自 8 月 31 日 20:05 以来的动态，未读取 Replies。公开 Posts 共看到 4 条更晚帖子，其中 2 条高信号内容写入滚动消息流：一条是 Anthropic 与 NVDA-backed Lambda 的约 350 亿美元 AI compute deal，把前沿模型需求继续往 neocloud / 数据中心容量锁定上推；另一条是 9 月 1 日 TLDR 汇总，把 MLCC、memory、CPO、ABF、FOPLP、InP 等多个瓶颈再集中复核了一遍。另有 2 条较低信号公开帖已收集但未写入 `latestUpdates`：Trump/QQQ 的利率反应短视频，以及一条偏宏观仓位态度的长帖。Subs 本轮无法直接读取，当前浏览器会话未登录订阅内容；只能看到北京时间 8 月 31 日 23:55 的一条锁帖 teaser `Mediatek + solana:...`，因此本轮 Subs 明确记为未收集。滚动消息流按 48 小时规则收缩到 8 月 30 日晚间至 9 月 1 日；本轮只对 `anthropic-neocloud-colo` 英文卡片及其中文映射做了必要更新，其余变化通过最新消息流反映。",
   "latestUpdates": [
     {
-      "publishedAt": "2026-08-30T19:40:04+08:00",
-      "type": "AI 基建瓶颈扩散：transformers / wiring / cooling / networking watchlist",
-      "headline": "Serenity 借 Elon 关于 2027 年 AI compute 上线受限于 transformers、wiring、liquid cooling、massive chillers 与 complex networking 的表述，补出一串基础设施观察名单：`$AAON`、`$NVT`、`$MOD`、`$IESC`、`$MTRS`、`$JCI`、`HPS.A`、`PRY.MI`，并把 `CRDO/AAOI/LITE/COHR` 继续放在 networking / optics 受益链上。该帖更像 breadth watchlist，而非对单一标的 thesis 升级。",
+      "publishedAt": "2026-09-01T16:30:00+08:00",
+      "type": "Sep 1 TLDR：MLCC / memory / CPO / ABF / InP 瓶颈再扩散",
+      "headline": "Serenity 把 9 月 1 日的高频产业链线索打成一条长 TLDR：`$GOOGL` 与 `$NVDA` 共同参与 Mediatek 融资、Samsung Electro-Mechanics 披露约 7.789 亿美元 MLCC 合同、三星与 SK Hynix 的 memory 紧张口径继续延伸到 2030-2031、Cisco 称 CPO 已 ready for mass deployment 但 pluggables 仍是主流、`$MRVL` 说客户最早 2027 年开始规划 optics scale-up、`$SOI` 再次出现 10+ LTAs 与 2 亿美元 floor 的表述，同时 ABF、FOPLP、CCL、InP substrate 等上游瓶颈也被重新点名。该帖更像全链条 chokepoint dashboard，而不是单一新卡片。",
       "tickers": [
-        "$AAON",
-        "$NVT",
-        "$MOD",
-        "$IESC",
-        "$MTRS",
-        "$JCI",
-        "HPS.A",
-        "PRY.MI",
-        "$CRDO",
-        "$AAOI",
-        "$LITE",
-        "$COHR"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2094027369648681284",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-30T19:07:29+08:00",
-      "type": "NVDA 2027 hyperscaler spend 约 1.3T / AI 链条广谱强化",
-      "headline": "Serenity 转述 `$NVDA` 对 2027 年 hyperscaler spend 约 1.3T 美元、相较 2026 年约 8000 亿美元继续上修的框架，并强调在仍然 capacity constrained 的情况下，这轮 capex 会沿着 memory、networking、power、cooling 与 optics 全链条扩散。该帖更像板块级 demand-duration 强化，而不是单独新增个股。",
-      "tickers": [
-        "$NVDA"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2094019167527776711",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-30T17:04:08+08:00",
-      "type": "SIVE 最终 recap：6 家 pluggable 玩家与 JBL 2027 ramp",
-      "headline": "Serenity 在 `$SIVE` 财报后的最终 recap 里再次强调 2027 年 1.6T pluggable 路线：`$JBL` 已被她视为确认的 1.6T LRO 路径，预计 2027H1 首批订单、H2 ramp，并补充 3 家 pluggable makers 在 evaluation、3 家处于 supply assessment；这条帖子主要是对既有 SIVE thesis 的再强化，而非新的结构性改写。",
-      "tickers": [
-        "$SIVE",
-        "$JBL"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2093988125144207710",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-30T07:13:18+08:00",
-      "type": "MRVL filings 约束链：advanced wafer / packaging / large body substrates",
-      "headline": "Serenity 在 Subs 中翻阅 `$MRVL` SEC filings，提到 advanced wafer fabrication、advanced packaging 与 large body substrates 被列为约束项，可能带来 lead time、成本与供给限制；她把这与 `$TSM`、先进封装和大尺寸基板瓶颈联系起来。订阅内容只保留高层摘要，需回到 MRVL filing 原文核验。",
-      "tickers": [
+        "$GOOGL",
+        "$NVDA",
+        "$SOI",
         "$MRVL",
-        "$TSM"
+        "$AMD",
+        "$AVGO",
+        "$AXTI"
       ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2093839436782190731",
-      "source": "Subs-logged-in-X"
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2094704372831920324",
+      "source": "Posts-public-X"
     },
     {
-      "publishedAt": "2026-08-30T05:20:22+08:00",
-      "type": "NVDA-MU 需求迁移类比 / ESMT 传统内存稀缺再强化",
-      "headline": "Serenity 用 `$NVDA` 吃掉高端 memory 供给、`$MU` 与三星/SK Hynix 转向高端需求的类比，解释为何 legacy memory 供给被挤压；她把 ESMT 视为 DDR2/DDR3、SLC/SPI NAND、NOR 与 MCP/eMCP 等传统段落的稀缺受益者，并继续强调 PSMC wafer 成本上涨小于下游价格弹性。",
+      "publishedAt": "2026-09-01T08:37:00+08:00",
+      "type": "Anthropic x Lambda：$35B AI compute deal / neocloud-DC read-through",
+      "headline": "Serenity 称 Anthropic 与 NVDA-backed Lambda 签下约 350 亿美元 AI compute deal，并把 `$HUT` / 数据中心、Lambda / GPU 容量与前沿模型需求持续外溢联系起来。相较此前的 RIOT、HUT、IREN 线索，这更像又出现了一家具名 compute intermediary 在锁定大规模 AI 基建，但仍需一手来源核实合同范围、交付时程和对上市 neocloud 篮子的真实映射。",
       "tickers": [
         "$NVDA",
-        "$MU",
-        "3006"
+        "$HUT"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2093811019823132903",
+      "url": "https://x.com/aleabitoreddit/status/2094585395224981709",
+      "source": "Posts-public-X"
+    },
+    {
+      "publishedAt": "2026-08-31T18:56:00+08:00",
+      "type": "SOI / Soitec：capacity reservation + $200M photonics floor",
+      "headline": "Serenity 引述 Soitec 访谈称，1-2 周内预计锁定约 80% 的 capacity reservation agreements、总数超过 10 个，并把 photonics-SOI revenue 的 2 亿美元表述为 “absolutely a floor”；再叠加 `$TSM` 对 2027 年 SiPh mainstream、光模块份额 50%+ 的判断，这让 Soitec 更像 silicon photonics substrate chokepoint 的直接收入映射。",
+      "tickers": [
+        "$SOI",
+        "$TSM"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2094378666927239596",
       "source": "Posts-logged-in-X"
     },
     {
-      "publishedAt": "2026-08-30T04:57:07+08:00",
-      "type": "ESMT 价格与产品暴露拆解 / legacy memory duration",
-      "headline": "Serenity 拆解 ESMT（3006）在 SLC/SPI NAND、NOR Flash、DDR2/DDR3、MCP/eMCP 的暴露，并汇总 H2 2026 SLC NAND 约 120%-170%、Q3 DDR2 约 35%-40%、DDR4 约 30%-40%、高密度 NOR 约 60%-65%+ 的价格口径；核心判断是市场可能低估 legacy memory 紧张持续到 2027 的 duration。",
+      "publishedAt": "2026-08-31T18:02:55+08:00",
+      "type": "Samsung memory LTAs：2031 前约 70% 产能预留",
+      "headline": "Serenity 转述三星据称已通过与 `$NVDA`、`$MSFT`、`$GOOGL` 的 LTAs 预留约 70% memory production capacity 至 2031 年，作为 “memory is a bubble” 的反例。若口径属实，这会把 AI memory 的 demand visibility 从 2027 进一步拉长到 2031，但仍需一手来源验证。",
+      "tickers": [
+        "$NVDA",
+        "$MSFT",
+        "$GOOGL"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2094365307876040857",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-31T17:17:47+08:00",
+      "type": "MRVL / Celestial：CPO 资格期资产的远期估值框架",
+      "headline": "Serenity 设想若被 `$MRVL` 收购的 Celestial 独立上市，市场可能不会按当前接近零收入、单季约亏损 1250 万美元来定价，而会围绕 2028 年约 5 亿美元、2029 年约 10 亿美元 revenue projection 与 hyperscaler CPO 核心地位给出更高估值。该帖更像 qualification-cycle valuation framework，而非新增公司披露。",
+      "tickers": [
+        "$MRVL"
+      ],
+      "severity": "medium",
+      "url": "https://x.com/aleabitoreddit/status/2094353950040592854",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-31T13:35:30+08:00",
+      "type": "TSM VP：CPO 大规模部署瓶颈在激光 / 光纤 / 连接器 / 测试",
+      "headline": "Serenity 引述 `$TSM` 先进封装高管称，optical engine 可以扩产，但大规模部署真正瓶颈在 lasers、optical fiber、fiber-optic connectors 与 test；她据此再次梳理 `$LITE`、`$SIVE`、`$COHR`、`$GLW`、`$FORM`、`$KEYS` 等分环节观察名单。该帖主要是对既有 CPO chokepoint map 的再确认。",
+      "tickers": [
+        "$TSM",
+        "$LITE",
+        "$SIVE",
+        "$COHR",
+        "$GLW",
+        "$FORM",
+        "$KEYS"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2094298008955535500",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-31T12:28:22+08:00",
+      "type": "ESMT：1.9x run-rate P/E 与 legacy memory duration 再强化",
+      "headline": "Serenity 继续把 ESMT（3006）作为 legacy memory 稀缺案例：按 7 月净利润年化约 13 亿美元、扣除净现金和库存后的估值，仅约 1.9x run-rate P/E；她认为如果 DDR2/DDR3、NOR、SLC NAND 等涨价持续到 2027，duration 才是核心分歧，且 PSMC wafer 涨价可能 largely pass-through。",
+      "tickers": [
+        "3006",
+        "$MU"
+      ],
+      "severity": "high",
+      "url": "https://x.com/aleabitoreddit/status/2094281116421370213",
+      "source": "Posts-logged-in-X"
+    },
+    {
+      "publishedAt": "2026-08-30T20:32:03+08:00",
+      "type": "ESMT 卖方模型上修：Q2 blended ASP +105%-113% QoQ",
+      "headline": "Serenity 汇总 H1 sellside models 后强调，Huanan 到 8 月已把 ESMT Q2 blended ASP 增速上修到约 +105%-113% QoQ，并称客户接受 PSMC wafer 成本传导的意愿强于预期；她因此把 legacy DRAM / NAND 视为更可能延续到 2027 的 inelastic shortage，而不只是短期 price spike。",
       "tickers": [
         "3006",
         "$MU",
         "$SNDK"
       ],
       "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2093805166655143988",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-29T22:48:53+08:00",
-      "type": "OSAT 传统封装 2027 缺口 / wire bonding 设备瓶颈",
-      "headline": "Serenity 引述 IC design 业内说法称 OSAT 已警告客户，2027 年 traditional packaging capacity 可能出现超过 20% 缺口，wire bonding equipment 是主要瓶颈；她点名 `$AMKR`、ASE/Powertech 为潜在受益，ASMPT 与 `$KLIC` 对应设备环节。该线索是行业 read-through，需要原始渠道与公司订单验证。",
-      "tickers": [
-        "$AMKR",
-        "$KLIC",
-        "ASE"
-      ],
-      "severity": "medium",
-      "url": "https://x.com/aleabitoreddit/status/2093712497949950242",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-29T18:51:36+08:00",
-      "type": "SIVE ER 后批评：资本使用、Nasdaq 与客户沟通节奏",
-      "headline": "Serenity 对 `$SIVE` 财报电话会的批评集中在三点：管理层没有充分强调 6 个 pluggable engagements 和 foundry capacity，CFO 对 Nasdaq/dual listing 回答过于保守，以及 7000 万美元资本更应加速 M&A、dual listing 或向 optical engines / pluggables 下探；她仍认为 SIVE 应利用 CW/DFB laser shortage 快速扩张，而非只做组件商。",
-      "tickers": [
-        "$SIVE",
-        "$LITE",
-        "$COHR",
-        "$AAOI",
-        "$AVGO"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2093652781928448279",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-28T14:53:51+08:00",
-      "type": "SIVE 供给侧角度：新 foundry capacity + 6 个 pluggable 玩家",
-      "headline": "Serenity 把 `$SIVE` 的核心角度收束为合格 CW DFB laser capacity：LITE、COHR、AAOI 等旧 merchant capacity 更多被内部 transceiver 需求吸收，而 Sivers 同时拥有 Win Semi 与新的 foundry capacity，并披露 6 个 pluggable/module engagements；她认为行业条件已提高这些 engagements 的转化率。",
-      "tickers": [
-        "$SIVE",
-        "$COHR",
-        "$AAOI",
-        "$LITE",
-        "$MRVL",
-        "$POET",
-        "$JBL"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2093230562261823905",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-28T03:15:45+08:00",
-      "type": "SIVE ER transcript：Jabil ramp、新 foundry 与 12 亿美元 pipeline",
-      "headline": "Serenity 阅读 `$SIVE` ER transcript 后保留三条最重要信息：6 个新增 pluggable/module 玩家，其中 3 个处于 alpha sample evaluation、3 个处于 technical engagement / supply assessment；`$JBL` 初始生产订单预计 2027H1、H2 ramp；新 foundry partner 已带来可用的 tremendous capacity。她认为这是 CW laser shortage 背景下非常实质的披露。",
-      "tickers": [
-        "$SIVE",
-        "$JBL",
-        "$AAOI",
-        "$LITE"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2093054882282651723",
-      "source": "Posts-logged-in-X"
-    },
-    {
-      "publishedAt": "2026-08-28T00:35:34+08:00",
-      "type": "SIVE 财报初读：pipeline 自 12 月以来 +268%",
-      "headline": "Serenity 在 `$SIVE` 财报发布后指出 revenue opportunity pipeline 从去年 12 月以来增长 268% 到约 12 亿美元，且公司正从 NRE 项目转向 product ramp preparation，预计 Q4 2026 开始体现、2027 年随多个项目推进加速；当前财务仍是 qualification-stage，需要等 volume ramp 验证。",
-      "tickers": [
-        "$SIVE"
-      ],
-      "severity": "high",
-      "url": "https://x.com/aleabitoreddit/status/2093014569279189295",
+      "url": "https://x.com/aleabitoreddit/status/2094083798204047577",
       "source": "Posts-logged-in-X"
     }
   ],
@@ -1802,48 +1756,41 @@
       "name": "SOI",
       "tier": "watch",
       "theme": "Silicon photonics substrate / EU policy beneficiary",
-      "thesis": "SOI remains in Serenity’s European core-long list as the silicon-photonics SOI substrate pure-monopoly leg, although she says it may already have rerated the most and is still holding anyway.",
-      "whyItMatters": "This is a portfolio-positioning update rather than a new company catalyst. It keeps SOI in the European photonics infrastructure basket but also hints that its risk/reward may be less asymmetric than SIVE, LPK or ALRIB after rerating.",
+      "thesis": "SOI has moved from a portfolio-positioning placeholder toward a more concrete silicon-photonics substrate chokepoint thesis. On Aug 31 Serenity cited Soitec interview commentary saying about 80% of capacity reservation agreements should be secured within one to two weeks, with more than ten agreements in total, and that about $200M of photonics-SOI revenue is now \"absolutely a floor.\" She paired that with TSM commentary that silicon photonics should go mainstream in 2027 and exceed 50% of the optical-transceiver market, plus a UBS estimate that Soitec controls roughly 95% of the substrates underpinning silicon-photonics chips. The idea can still be less asymmetric than earlier-stage photonics names, but it now carries more company-level demand and reservation markers rather than only basket positioning.",
+      "whyItMatters": "If the reservation and revenue-floor language holds up, SOI becomes a more direct silicon-photonics volume expression instead of only a European policy basket. A near-monopoly substrate supplier does not need to win every downstream module slot; it needs silicon-photonics wafers to move from R&D into scaled transceiver adoption. The main remaining work is to verify the exact Soitec and UBS source language and judge how much of that floor is already in expectations.",
       "catalysts": [
-        "Goldman hyperscaler capex upgrade used by Serenity to support upstream chokepoint assets",
-        "EU CHIPS Act 2.0 impact analysis says the EU has a strong SOI wafer position with Soitec and Siltronic",
-        "Prior market miss",
-        "European semiconductor momentum",
-        "NVDA CEO silicon photonics / optical networking comments, which Serenity frames as bullish read-through for SOI",
-        "Serenity again paired SIVE and SOI as European AI / silicon-photonics assets that markets may underappreciate versus the AI buildout",
+        "Aug 31 Soitec interview commentary says about 80% of capacity reservation agreements should be secured within one to two weeks, with more than ten total",
+        "The same Aug 31 commentary describes about $200M of photonics-SOI revenue as \"absolutely a floor\"",
+        "TSM says silicon photonics should go mainstream in 2027 and exceed 50% of the optical-transceiver market, which Serenity treats as a direct volume read-through for substrate suppliers",
+        "UBS estimate cited by Serenity says Soitec has roughly 95% share of substrates underpinning silicon-photonics chips",
+        "Serenity again paired SIVE and SOI as European AI / silicon-photonics assets markets may still underappreciate versus the AI buildout",
         "Serenity lists SOI as one of her core European longs",
-        "She frames SOI as a silicon-photonics SOI substrate pure-monopoly exposure",
-        "She says she is still holding despite SOI already being rerated the most",
-        "Serenity used this idea as part of her backlash-to-validation framework, arguing original supply-chain ideas often face early skepticism before later earnings, institutions, partnerships or rerating validate them"
+        "She frames SOI as a silicon-photonics SOI substrate pure-monopoly exposure"
       ],
       "risks": [
-        "SOI linkage is less direct than SIVE because Serenity gave less company-specific operating detail",
-        "Need to confirm whether SOI ticker maps to the intended Soitec/SOI exposure in the user's market universe",
-        "Insufficient fresh thesis",
-        "Already large move",
-        "May be stale relative to current CPO focus",
-        "NVDA silicon photonics comments are a sector read-through, not a direct SOI customer award",
-        "Serenity explicitly noted this week's drawdown across Foci/Shunsin/SOI, AAOI and other CPO names, highlighting high-beta volatility",
-        "The June 14 mention is a market-style observation, not fresh company evidence or customer disclosure",
-        "SOI may already have rerated more than other European photonics names",
-        "Current update does not add a new order or customer disclosure",
-        "Backlash-to-validation framing is retrospective and should not replace current valuation, order, customer and timing checks"
+        "The new reservation and revenue-floor commentary still needs primary-source verification from Soitec materials or a direct interview transcript",
+        "TSM silicon-photonics adoption comments are a strong sector read-through, not a direct named customer award to Soitec",
+        "SOI may already have rerated more than other European photonics names, which can cap upside even if the thesis improves",
+        "Need to confirm whether the tracker ticker maps cleanly to the intended Soitec / SOI listed vehicle in the user's market universe",
+        "Backlog and reservation language can improve confidence without guaranteeing realized revenue timing or margins",
+        "Backlash-to-validation framing is still retrospective and should not replace current valuation, order, customer and timing checks"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
-        "Confirm the exact listed vehicle / ticker Serenity means by SOI",
-        "Read EU CHIPS Act 2.0 impact analysis for Soitec and Siltronic language",
-        "Check whether silicon photonics substrate demand is already visible in company guidance",
-        "Only revisit if Serenity posts a fresh SOI thesis",
-        "Check whether SOI links to photonics or AI supply chain",
-        "Verify whether SOI / Soitec has explicit exposure to Nvidia-related silicon photonics supply volumes",
-        "Watch whether CPO drawdowns are macro/liquidity driven or reflect company-level thesis damage",
-        "Look for future SOI-specific posts or primary evidence before upgrading the idea beyond watch",
-        "Compare SOI valuation and rerating versus SIVE, LPK, IQE, ALRIB and XFAB",
-        "Look for SOI-specific silicon photonics demand or customer evidence"
+        "Find the original Soitec interview or transcript for the 80% reservation and $200M photonics-floor language",
+        "Confirm the exact listed vehicle / ticker Serenity means by SOI in the user's market universe",
+        "Check whether silicon-photonics substrate demand is becoming visible in Soitec guidance, bookings or customer commentary",
+        "Verify the UBS 95% share estimate and what substrate scope it actually covers",
+        "Compare SOI valuation and rerating versus SIVE, LPK, IQE, ALRIB and XFAB after the new reservation datapoints",
+        "Look for direct customer or volume evidence that turns the substrate story from monopoly framing into modeled revenue"
       ],
-      "lastUpdated": "2026-06-20",
+      "lastUpdated": "2026-08-31 18:56",
       "evidence": [
+        {
+          "date": "2026-08-31 18:56",
+          "quote": "Serenity cited Soitec interview commentary saying about 80% of capacity reservation agreements should be secured within one to two weeks, with more than ten total, and that about $200M of photonics-SOI revenue is now \"absolutely a floor.\"",
+          "url": "https://x.com/aleabitoreddit/status/2094378666927239596"
+        },
         {
           "date": "2026-06-20",
           "quote": "Serenity reviewed multiple ideas that faced intense early backlash before later validation, including AXTI, RPI, SIVE, AAOI, LITE, IQE and SOI.",
@@ -2196,57 +2143,53 @@
       "name": "AI memory shortage / Samsung / SK Hynix",
       "tier": "watch",
       "theme": "AI memory shortage / HBM cycle",
-      "thesis": "Serenity has extended the AI memory shortage thesis from HBM and hyperscaler LTAs into a more granular legacy-memory squeeze. The Aug 30 posts argue that high-end AI demand from Nvidia has pulled Micron, SK Hynix and Samsung capacity toward the highest-value memory segments, leaving DDR2/DDR3, SLC/SPI NAND, NOR and MCP/eMCP tighter for longer. ESMT becomes her cleanest new example: a fabless legacy-memory company with PSMC wafer allocation, July annualized earnings implying a very low run-rate P/E, and product exposure to segments where she is tracking steep price hikes and constrained customer allocation.",
-      "whyItMatters": "The memory theme now has two layers: the large-cap AI memory shortage in MU / Samsung / SK Hynix, and a smaller legacy-memory bottleneck where capacity migration away from older nodes can create surprisingly large operating leverage. The opportunity is duration: if customers cannot get DDR2/DDR3 or SLC NAND allocation through 2027, niche suppliers can keep pricing power. The danger is purity and verification: ESMT, Etron, Jeju and peers require local-market filings, product-mix checks and foundry-cost math before they can be treated like company-level conviction.",
+      "thesis": "Serenity has now extended the memory-shortage thesis in two directions. First, the Aug 31 post claims Samsung has reportedly reserved about 70% of its memory production capacity through 2031 via LTAs with Nvidia, Microsoft and Google, which, if true, pushes demand visibility far beyond the usual cycle debate. Second, she keeps sharpening the legacy-memory branch through ESMT: Huanan's August update lifted blended Q2 ASP growth to about +105%-113% QoQ, July annualized earnings imply around 1.9x run-rate P/E, and pass-through for PSMC wafer hikes may be better than expected. Together, that makes the story less about a generic HBM shortage and more about a two-layer shortage across high-end AI memory and legacy nodes.",
+      "whyItMatters": "The memory theme now looks stronger both at the top and at the edge. At the top, long-duration LTAs would imply hyperscalers and frontier labs are trying to lock supply years ahead. At the edge, ESMT suggests even small legacy-memory pockets can translate modest BOM pressure into very large earnings leverage when customers are unwilling to redesign. The remaining challenge is separating reported contract duration, company-specific economics and sell-side extrapolation from genuinely verified supply tightness.",
       "catalysts": [
+        "Serenity says Samsung has reportedly reserved about 70% of its memory production capacity through 2031 via LTAs with Nvidia, Microsoft and Google, which would materially extend demand visibility if confirmed",
+        "Huanan's August update lifted ESMT blended Q2 ASP growth to about +105%-113% QoQ and said customer willingness to absorb PSMC wafer-cost pass-through was stronger than expected",
+        "Serenity now frames ESMT at roughly 1.9x run-rate P/E off July earnings after adjusting for net cash and inventory, making duration the key debate rather than near-term profitability",
         "She framed Nvidia-driven high-end memory demand as pulling major suppliers away from legacy products, creating a cascading shortage in DDR2/DDR3 and older NAND/NOR segments",
-        "Serenity used ESMT as a new legacy-memory case study, citing DDR2/DDR3, SLC/SPI NAND, NOR Flash and MCP/eMCP exposure while arguing that PSMC wafer hikes may be more than offset by downstream price increases",
+        "Serenity used ESMT as a legacy-memory case study, citing DDR2/DDR3, SLC/SPI NAND, NOR Flash and MCP/eMCP exposure while arguing that PSMC wafer hikes may be more than offset by downstream price increases",
         "Meritz argued the market is still excessively misreading Samsung / SK Hynix memory fundamentals",
         "Meritz projected H2 2026 DRAM fulfillment around 75%-80% and a possible drop into the 60% range in 2027",
         "Micron announced a new memory LTA with Qualcomm, reinforcing the long-duration demand-contract thesis",
-        "Tesla's supply-chain team said new investment is already going into memory and other nonlinear components as Optimus-related supply chains are built from scratch",
-        "Elon thanked Micron for making a very significant future allocation available to Tesla on reasonable terms despite tight memory pricing",
-        "Serenity says Micron's sharp same-day selloff looked more like deleveraging than company-specific deterioration",
-        "Serenity says Korean liquidation cascades help explain why recent semis weakness looked more flow-driven than fundamental",
-        "SK Hynix ADR/local-share convertibility on July 29 may unlock arbitrage and compress the US ADR premium even if the underlying memory thesis is unchanged",
-        "Low headline valuation on Samsung and SK Hynix is being used as evidence that memory earnings power may still be under-modeled",
-        "NVDA CEO warning that memory shortage may persist for many years",
-        "AI infrastructure scaling demand continues to pressure memory supply",
-        "Operating-profit projections for MU and Korean memory leaders may be revised upward",
-        "Samsung reportedly hiked DRAM pricing by about 20% while operating profit grew roughly 1803% year over year",
-        "SNDK remains a more concentrated side branch of the broader memory-theme basket"
+        "Tesla's supply-chain team said new investment is already going into memory and other nonlinear components as Optimus-related supply chains are built from scratch"
       ],
       "risks": [
+        "The Samsung 70%-through-2031 LTA claim is still reported secondhand and needs primary-source confirmation on counterparties, scope and duration",
         "ESMT and related legacy-memory names are more local-market and product-mix specific than MU/Samsung/SK Hynix, so ticker access, liquidity, filings and translation risk are higher",
-        "Memory remains cyclical if supply catches up faster than expected",
-        "The Meritz supply-fulfillment projections are still sell-side read-throughs rather than company guidance",
-        "Micron signing LTAs does not by itself prove that margins or pricing remain near peak for multiple years",
-        "Tesla / Optimus memory-demand commentary is still early and may not translate into near-term revenue at the same pace as the narrative",
-        "Post-selloff stabilization can still fail if the market is correctly pricing peak-cycle risk",
-        "SK Hynix ADR premium compression can hurt the US vehicle even if Korean memory fundamentals stay strong",
-        "Korean-market deleveraging and ETF/ADR flow distortions can swamp fundamentals over shorter windows",
-        "EWY is a broad Korea ETF and not pure Samsung / SK Hynix exposure",
-        "Large prior moves increase valuation and crowding risk even if the structural memory thesis remains intact",
-        "Separating HBM tightness from broader DRAM / NAND cycle dynamics remains necessary",
-        "Physical-AI and long-horizon demand projections can be over-discounted or delayed before they show up in revenue"
+        "Prices and ASP references need to be separated between spot, contract and blended company-level realizations",
+        "PSMC wafer-cost increases can still eat into profitability if pass-through weakens or customers start redesigning away from legacy nodes",
+        "Memory remains cyclical if supply catches up faster than expected or if long-duration contract claims prove overstated",
+        "Korean-market deleveraging and ETF/ADR flow distortions can still swamp fundamentals over shorter windows"
       ],
       "stance": "跟踪观察",
       "nextChecks": [
-        "Build a separate ESMT/legacy-memory worksheet from company filings: revenue split, PSMC allocation, wafer-cost exposure, July run-rate earnings and sensitivity to DDR2/DDR3/SLC NAND price hikes",
-        "Read the Meritz note directly and separate hard supply assumptions from Serenity's synthesis",
-        "Compare current Samsung, SK Hynix and Micron earnings expectations with the implied 2026-2027 shortage scenario",
-        "Verify Micron / Qualcomm LTA scope, duration and whether it implies broader contract tightening",
-        "Verify what type of memory allocation Tesla is locking in with Micron and whether it is tied more to EV, Optimus or broader AI infrastructure",
-        "Track the July 29 ADR/local-share convertibility event and measure whether the premium compresses through arbitrage, local-share strength or both",
-        "Verify the Korean liquidation statistics and separate forced-selling effects from real earnings or demand deterioration",
-        "Separate HBM shortage from commodity DRAM/NAND cycle dynamics",
-        "Check whether EWY is still an efficient expression of Samsung / SK Hynix profit revisions",
-        "Compare Samsung / SK Hynix valuation, pricing power and capex plans versus hyperscaler demand growth into 2028",
-        "Track whether the market continues treating post-LTA memory weakness as deleveraging rather than thesis break",
-        "Quantify SNDK and other smaller memory expressions versus the core Samsung / SK Hynix / Micron line"
+        "Verify the Samsung LTA claim with a primary source and determine whether the 70% figure refers to total memory capacity or a narrower product set",
+        "Build a separate ESMT / legacy-memory worksheet from company filings: revenue split, PSMC allocation, wafer-cost exposure, July run-rate earnings and sensitivity to DDR2/DDR3/SLC NAND price hikes",
+        "Read the Huanan and other sell-side notes directly and separate hard supply assumptions from Serenity's synthesis",
+        "Compare current Samsung, SK Hynix and Micron earnings expectations with the implied 2026-2031 shortage scenario",
+        "Track whether contract-price increases continue to offset PSMC wafer hikes through H2 2026 and into 2027",
+        "Separate HBM shortage from commodity DRAM/NAND cycle dynamics and from the smaller legacy-memory bottleneck"
       ],
-      "lastUpdated": "2026-08-30 05:20",
+      "lastUpdated": "2026-08-31 18:02",
       "evidence": [
+        {
+          "date": "2026-08-31 18:02",
+          "quote": "Serenity said Samsung has reportedly reserved about 70% of its memory production capacity through 2031 via LTAs with Nvidia, Microsoft and Google.",
+          "url": "https://x.com/aleabitoreddit/status/2094365307876040857"
+        },
+        {
+          "date": "2026-08-31 12:28",
+          "quote": "Serenity framed ESMT at about 1.9x run-rate P/E off July earnings after adjusting for net cash and inventory, and argued legacy-memory shortages could tighten through 2027.",
+          "url": "https://x.com/aleabitoreddit/status/2094281116421370213"
+        },
+        {
+          "date": "2026-08-30 20:32",
+          "quote": "Serenity said Huanan had lifted ESMT blended Q2 ASP growth to about +105%-113% QoQ and that customer willingness to accept PSMC wafer-cost pass-through was stronger than expected.",
+          "url": "https://x.com/aleabitoreddit/status/2094083798204047577"
+        },
         {
           "date": "2026-08-30 05:20",
           "quote": "Serenity used a Nvidia/Micron analogy to explain how high-end AI memory demand can pull capacity away from legacy memory, leaving ESMT-style suppliers with pricing power despite higher PSMC wafer costs.",
@@ -2814,8 +2757,8 @@
       "name": "Anthropic neocloud / sovereign-DC basket",
       "tier": "speculative",
       "theme": "AI data-center leases / neocloud contract conversion",
-      "thesis": "Serenity's neocloud / Anthropic read-through has moved past leaked sovereign-buildout documents and into public contract-and-capital-market validation. The July 5 Australia angle still anchors the geography story, but the newer posts add three more concrete pieces: IREN lifted its ARR target to more than $4B on new AI cloud contracts while naming Microsoft, Nvidia, Perplexity and Figure as customers; HUT rallied on a 15-year $9.8B AI data-center lease; and now RIOT announced a $9.1B Anthropic deal with a possible extension to $16.1B over 20 years while AMD exercised an option to expand its existing RIOT arrangement. Serenity read that latest bundle as another sign that frontier-lab demand is moving from leaked demand maps toward named counterparties, staged power ramps and H2 2027 revenue-inflection windows.",
-      "whyItMatters": "This turns the basket from a vague Anthropic-LOI sympathy idea into a live question about which listed operators can actually convert AI-compute scarcity into booked contracts, visible ARR, contracted megawatts and financing leverage. If frontier labs and model customers keep signing multi-year deals while upstream chip vendors underwrite dedicated capacity, neoclouds with power, counterparties and execution may deserve more than a crypto-beta discount. The new RIOT datapoint matters because it adds a named tenant, a first-phase timing schedule and an AMD-linked capacity expansion, but it also raises the bar for proving whether the rest of the basket shares similar economics or is only benefiting from read-through sentiment.",
+      "thesis": "Serenity's neocloud / Anthropic read-through has moved past leaked sovereign-buildout documents and into public contract-and-capital-market validation. The July 5 Australia angle still anchors the geography story, but the newer posts now add four more concrete pieces: IREN lifted its ARR target to more than $4B on new AI cloud contracts while naming Microsoft, Nvidia, Perplexity and Figure as customers; HUT rallied on a 15-year $9.8B AI data-center lease; RIOT announced a $9.1B Anthropic deal with a possible extension to $16.1B over 20 years while AMD exercised an option to expand its existing RIOT arrangement; and on Sep 1 Serenity said Anthropic had also signed a reported $35B AI compute deal with Nvidia-backed Lambda. She reads that bundle as another sign that frontier-lab demand is moving from leaked demand maps toward named counterparties, staged power ramps and H2 2027 revenue-inflection windows, while also broadening the set of capacity intermediaries beyond one public landlord.",
+      "whyItMatters": "This turns the basket from a vague Anthropic-LOI sympathy idea into a live question about which listed operators can actually convert AI-compute scarcity into booked contracts, visible ARR, contracted megawatts and financing leverage. If frontier labs and model customers keep signing multi-year deals while upstream chip vendors underwrite dedicated capacity, neoclouds with power, counterparties and execution may deserve more than a crypto-beta discount. The RIOT datapoint mattered because it added a named tenant, a first-phase timing schedule and an AMD-linked capacity expansion; the newer Lambda datapoint matters differently, because it validates that private compute intermediaries are also locking very large dedicated GPU capacity. That is supportive for the shortage thesis, but it raises the bar for listed neocloud names to show they are the next actual beneficiaries rather than just read-through trades.",
       "catalysts": [
         "Anthropic pursuing its first data-center leases",
         "More than a dozen LOIs with US developers reported by The Information according to Serenity",
@@ -2826,7 +2769,8 @@
         "HUT surged on a 15-year, roughly $9.8B AI data-center lease",
         "AMD's planned $5B Anthropic investment plus a reported 2GW chip deal implies frontier-lab demand is being locked in at larger scale",
         "RIOT announced a $9.1B Anthropic deal with a possible extension to $16.1B over 20 years, adding a named long-duration contract to the basket",
-        "AMD exercised its option to expand the existing RIOT arrangement, which Serenity reads as another concrete sign that Anthropic-linked capacity is being staged toward H2 2027 ramps"
+        "AMD exercised its option to expand the existing RIOT arrangement, which Serenity reads as another concrete sign that Anthropic-linked capacity is being staged toward H2 2027 ramps",
+        "Serenity said Anthropic also signed a reported $35B AI compute deal with Nvidia-backed Lambda, broadening the capacity-intermediary map beyond the public names already in the basket"
       ],
       "risks": [
         "Serenity says specific winners are not named yet",
@@ -2837,7 +2781,8 @@
         "Sovereign-DC buildout does not prove Anthropic or other frontier-lab contracts accrue to listed operators",
         "Headline ARR targets or long-dated lease values do not automatically translate into margin quality, financing flexibility or durable utilization",
         "AMD's Anthropic announcement can validate demand without guaranteeing that listed neocloud names are the actual capacity winners",
-        "RIOT's headline contract value, first-phase timing and tenant concentration may not translate cleanly to the rest of the neocloud basket"
+        "RIOT's headline contract value, first-phase timing and tenant concentration may not translate cleanly to the rest of the neocloud basket",
+        "The Lambda contract could validate private-capacity scarcity more than it benefits listed neocloud operators, so public read-throughs may remain indirect"
       ],
       "stance": "观望",
       "nextChecks": [
@@ -2848,10 +2793,16 @@
         "Check whether IREN, SHAZ or peers explicitly mention sovereign AI, government-aligned compute or Australian frontier-lab counterparties",
         "Verify IREN's new AI cloud contracts, customer concentration, contract duration and the economics behind the $4B+ ARR target",
         "Verify the RIOT / Anthropic contract scope, MW schedule, first-phase timing and tenant economics, and how AMD's expansion interacts with that ramp",
+        "Verify the Lambda / Anthropic compute-deal scope, delivery cadence and whether any listed DC, neocloud or power names are directly exposed to that capacity buildout",
         "Separate AMD's Anthropic chip-commitment signal from the listed operators that will actually host or intermediate the capacity"
       ],
-      "lastUpdated": "2026-08-11 09:29",
+      "lastUpdated": "2026-09-01 08:37",
       "evidence": [
+        {
+          "date": "2026-09-01 08:37",
+          "quote": "Serenity said Anthropic signed a reported $35B AI compute deal with Nvidia-backed Lambda and asked which neocloud or colo player might be next.",
+          "url": "https://x.com/aleabitoreddit/status/2094585395224981709"
+        },
         {
           "date": "2026-08-11 09:29",
           "quote": "Serenity said RIOT announced a $9.1B Anthropic deal that could extend to $16.1B over 20 years, noted AMD expanded its existing RIOT deal, and treated the package as a clearer H2 2027 neocloud inflection signal.",

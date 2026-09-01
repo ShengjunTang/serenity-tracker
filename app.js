@@ -353,20 +353,26 @@ const zhCopy = {
   },
   soi: {
     theme: "硅光衬底 / 欧洲政策受益",
-    thesis: "SOI 留在 Serenity 欧洲核心多头里，是 silicon photonics SOI substrate pure-monopoly 方向；但她也说 SOI 可能已经重估最多，自己仍然继续持有。",
-    whyItMatters: "这是组合定位更新，不是新公司催化。SOI 仍在欧洲 photonics 基建篮子中，但相对 SIVE、LPK、ALRIB，弹性可能没那么明显。",
+    thesis: "SOI 不再只是 Serenity 欧洲核心多头里的组合占位，而是开始出现更具体的 silicon photonics substrate chokepoint 证据。8 月 31 日她引述 Soitec 访谈称，1-2 周内预计锁定约 80% 的 capacity reservation agreements、总数超过 10 个，并把 photonics-SOI revenue 的 2 亿美元表述为“absolutely a floor”；再叠加 TSM 对 2027 年 SiPh mainstream、光模块份额 50%+ 的判断，以及 UBS 约 95% substrate share 的口径，这让 SOI 更像会随硅光放量而直接传导收入的上游环节。",
+    whyItMatters: "如果 reservation 和 revenue-floor 口径成立，SOI 就不只是欧洲政策篮子，而是更直接的硅光放量表达。近似垄断的衬底供应商不需要拿下每一个下游模块客户，只需要 silicon photonics 从研发走向规模化出货；剩下的问题是核实原始口径，并判断市场是否已提前计入这部分预期。",
     catalysts: [
-      "Serenity 将 SOI 列为欧洲核心多头",
-      "她把 SOI 描述为 silicon photonics SOI substrate pure-monopoly",
-      "她表示虽然 SOI 可能已重估最多，自己仍持有"
+      "8 月 31 日 Soitec 访谈口径称，1-2 周内预计锁定约 80% 的 capacity reservation agreements、总数超过 10 个",
+      "同一口径把 photonics-SOI revenue 的 2 亿美元描述为“absolutely a floor”",
+      "TSM 认为 silicon photonics 会在 2027 年走向 mainstream，且在光模块市场份额超过 50%，Serenity 把它当作上游衬底的直接 volume read-through",
+      "Serenity 引用 UBS 估算称 Soitec 在 silicon photonics chips 所依赖的 substrate 上约有 95% 份额",
+      "Serenity 仍将 SOI 列为欧洲核心多头，并继续与 SIVE 并列成欧洲硅光资产"
     ],
     risks: [
-      "SOI 可能已经比其他欧洲 photonics 标的重估更多",
-      "本次没有新增订单或客户披露"
+      "新的 reservation 与 revenue-floor 口径仍需回到 Soitec 原始材料或访谈全文核验",
+      "TSM 的 silicon photonics 评论是强 read-through，但不是 Soitec 的直接客户点名或订单披露",
+      "SOI 可能已经比其他欧洲 photonics 标的重估更多，改善后的 thesis 也不一定对应同等弹性",
+      "reservation/backlog 语言能提升把握度，但不保证实际收入节奏与利润率兑现"
     ],
     nextChecks: [
-      "比较 SOI 与 SIVE、LPK、IQE、ALRIB、XFAB 的估值和重估幅度",
-      "等待 SOI-specific 的客户或 demand 证据"
+      "找到 Soitec 原始访谈或文字稿，核对 80% reservation 与 2 亿美元 floor 的准确表述",
+      "验证 UBS 约 95% substrate share 的口径到底覆盖哪一类 silicon photonics substrate",
+      "比较 SOI 与 SIVE、LPK、IQE、ALRIB、XFAB 在新 reservation datapoint 出现后的估值与重估幅度",
+      "继续等 SOI-specific 的客户、出货或 guidance 证据，把 monopoly framing 变成可建模收入"
     ]
   },
   "tsm-visera": {
@@ -419,25 +425,27 @@ const zhCopy = {
   },
   "ai-memory": {
     theme: "AI 存储短缺 / HBM + legacy memory 周期",
-    thesis: "Serenity 把 memory 主线从 HBM / hyperscaler LTA 继续拆到 legacy memory squeeze。8 月 30 日她用 NVDA-MU 类比解释：高端 AI memory 需求把 Micron、Samsung、SK Hynix 等产能推向最高价值段，反而让 DDR2/DDR3、SLC/SPI NAND、NOR、MCP/eMCP 等传统段落更紧。ESMT（3006）成为她的新例子：有 PSMC wafer allocation、覆盖多类 legacy memory，且如果下游涨价幅度大于 PSMC wafer 成本上升，operating leverage 可能非常高。",
-    whyItMatters: "这让 memory thesis 变成双层结构：大盘的 MU / Samsung / SK Hynix 受 AI 高端需求驱动，小盘或区域型 legacy memory 玩家则受成熟节点供给迁移和 allocation 稀缺驱动。机会在 duration，风险在可验证性：ESMT、Etron、Jeju 等需要看本地 filings、产品 mix、foundry allocation 和 ASP pass-through。",
+    thesis: "Serenity 现在把 memory shortage 再向前推进了两步。第一步是 8 月 31 日的新口径：三星据称已通过与 `$NVDA`、`$MSFT`、`$GOOGL` 的 LTAs 预留约 70% memory production capacity 到 2031 年，若属实，说明 demand visibility 比常规周期讨论更长。第二步是继续把 legacy memory 分支做实：Huanan 到 8 月把 ESMT Q2 blended ASP 增速上修到约 +105%-113% QoQ，7 月盈利年化后对应约 1.9x run-rate P/E，而 PSMC wafer 涨价的 pass-through 似乎强于早期担心。这样一来，这条线就不只是泛化的 HBM shortage，而是高端 AI memory 与 legacy nodes 同时吃紧的双层结构。",
+    whyItMatters: "memory 主线现在同时强化了顶层 duration 和底层 operating leverage。顶层看，若长约口径成立，说明 hyperscaler / frontier-lab 正在提前多年锁 supply；底层看，ESMT 说明在 DDR2/DDR3、NOR、SLC NAND 这类 BOM 占比不高却难以替代的 segment，上游涨价可以被更顺畅地传导。真正的门槛在于把二手长约口径、卖方外推和公司级 economics 分开验证。",
     catalysts: [
+      "三星据称通过与 `$NVDA`、`$MSFT`、`$GOOGL` 的 LTAs 预留约 70% memory 产能到 2031 年，若核实成立会显著拉长 demand visibility",
+      "Huanan 8 月更新把 ESMT Q2 blended ASP 增速上修到约 +105%-113% QoQ，并称客户接受 PSMC wafer 成本传导的意愿强于预期",
+      "Serenity 现在把 ESMT 视作约 1.9x run-rate P/E 的 legacy memory 稀缺案例，核心分歧从短期盈利转向 duration",
       "ESMT 被 Serenity 用作 DDR2/DDR3、SLC/SPI NAND、NOR、MCP/eMCP 的 legacy memory case study",
       "她认为 PSMC wafer hike 可能被下游 legacy memory price hikes 抵消甚至放大为利润弹性",
-      "SLC NAND H2 2026 约 120%-170%、DDR2 Q3 约 35%-40%、DDR4 约 30%-40%、高密度 NOR 约 60%-65%+ 的价格口径被重新汇总",
-      "NVDA 高端 memory 需求继续拉走主流供应商产能，形成 cascading bottleneck",
-      "Subs 中提到她正在 mapping 谁有 PSMC wafer allocations 且服务 DDR2/DDR3 市场"
+      "NVDA 高端 memory 需求继续拉走主流供应商产能，形成 cascading bottleneck"
     ],
     risks: [
+      "三星 70% / 2031 LTA 口径目前仍是二手转述，必须核实对手方、覆盖范围与期限",
       "ESMT 等区域型标的比 MU/Samsung/SK Hynix 更依赖本地市场流动性、翻译和 filings 核验",
-      "价格涨幅口径需要区分 spot、contract 与 blended ASP",
-      "PSMC wafer 成本上涨可能侵蚀一部分利润弹性",
-      "legacy memory TAM 较窄，单一 segment 未必足以推动所有公司整体盈利",
-      "如果主流供应商恢复 mature-node 供给或客户替代，duration 可能被高估"
+      "价格与 ASP 口径需要区分 spot、contract 与 blended realization，避免把卖方外推当作已兑现数据",
+      "PSMC wafer 成本上涨若后续不能继续 pass-through，利润弹性会明显回落",
+      "如果主流供应商恢复 mature-node 供给或客户开始 redesign，legacy memory duration 可能被高估"
     ],
     nextChecks: [
-      "为 ESMT/legacy memory 单独建表：收入拆分、PSMC allocation、wafer 成本、July run-rate earnings、价格敏感性",
-      "直接核对 TrendForce、Nanya、Winbond、ESMT 管理层关于供给、价格和 allocation 的原文",
+      "核实三星长约口径，确认 70% 指的是总 memory capacity 还是更窄的产品集合",
+      "为 ESMT / legacy memory 单独建表：收入拆分、PSMC allocation、wafer 成本、July run-rate earnings、价格敏感性",
+      "直接阅读 Huanan 等卖方更新，区分硬数据、假设与 Serenity 的 synthesis",
       "把 Etron、ESMT、Jeju、Winbond、Macronix 放在同一框架里比较产品纯度和估值",
       "继续拆分 HBM / commodity DRAM-NAND / legacy memory 三条逻辑，不混成一个 trade"
     ]
@@ -534,11 +542,11 @@ const zhCopy = {
   },
   "anthropic-neocloud-colo": {
     theme: "Anthropic 数据中心租赁 / Neocloud 合同兑现",
-    thesis: "Serenity 这条 neocloud / Anthropic 线现在已经不只是 sovereign-compute 泄露文件的 read-through，而开始出现公开合同和资本承诺的验证。7 月 5 日的澳洲 1.4GW、约 216 亿美元算力计划仍是地理主线的起点；但较新的几条又补上了三块更硬的砖：$IREN 把 ARR 目标上修到 $4B+，并点名 Microsoft、Nvidia、Perplexity、Figure 为客户；$HUT 因一笔 15 年、约 $9.8B 的 AI 数据中心 lease 获得强反馈；现在又多了 `$RIOT` 宣布与 Anthropic 签下约 `$9.1B`、可延展到 `$16.1B` 的 20 年合作，同时 `$AMD` 扩大了与 Riot 的既有安排。Serenity 把这组新信号理解为：frontier-lab 需求正在从泄露需求地图，进一步走向具名对手方、分阶段 MW 兑现和 H2 2027 收入拐点。",
-    whyItMatters: "这会把原来偏模糊的 Anthropic-LOI 同情交易，推进成一个更现实的问题：哪些上市 neocloud / colo 玩家，真的能把 AI compute shortage 变成可见合同、ARR、签约 MW 和融资杠杆？如果前沿模型公司和 AI 客户开始持续签多年协议，而上游芯片公司也愿意为专属产能下注，那么具备电力、站点和执行力的运营商可能不该只按 crypto beta 来定价。最新的 RIOT datapoint 重要之处在于，它不仅给了具名租户和阶段性时点，也把 AMD 的扩容动作绑了进来；但这同样提高了判断门槛，市场必须区分“RIOT 这笔合同成立”与“整个篮子都会拿到同样 economics”并不是一回事。",
-    catalysts: ["Anthropic 正在寻求首批数据中心 leases", "据她引用，Anthropic 已与美国开发商签署十多份 LOI", "泄露文件显示 Anthropic 计划在澳洲锁定约 1.4GW、约合 216 亿美元算力", "Serenity 把这条需求与 $IREN、$SHAZ 等在澳洲建设 sovereign DC 的 neocloud 线索连接起来", "$IREN 把 ARR 目标上修到 $4B+，并点名 Microsoft、Nvidia、Perplexity、Figure 等 AI 客户", "$HUT 因 15 年、约 $9.8B 的 AI 数据中心 lease 走强", "$AMD 向 Anthropic 投资 50 亿美元、并配套 2GW 芯片协议，说明 frontier-lab 需求开始被更大规模锁定", "`$RIOT` 宣布与 Anthropic 签下约 `$9.1B`、可延展到 `$16.1B` 的 20 年合作，为这个篮子新增具名长约验证", "`$AMD` 扩大与 Riot 的既有合作，被 Serenity 视为 Anthropic 相关容量正朝 H2 2027 分阶段兑现的又一硬信号"],
-    risks: ["她也说明具体受益公司尚未被点名", "LOI 不等于最终 lease 或收入确认", "colo 标的受融资、电力接入和 crypto beta 影响很大", "需要区分真正的 Anthropic 交易对手和板块情绪上涨", "澳洲 1.4GW 说法来自泄露文件，仍需一手确认", "主权数据中心建设不等于上市公司一定拿到 Anthropic 或其他 frontier lab 合同", "headline ARR 或长约总额不自动等于高质量利润、现金流或高利用率", "$AMD 与 Anthropic 的交易可以验证需求，但不保证上市 neocloud 一定是主要承接方", "RIOT 这笔 headline 合同的总金额、首期时点和租户集中度，也不一定能线性外推到整个 neocloud 篮子"],
-    nextChecks: ["阅读 The Information 原文，看是否点名开发商或地点", "核实 IREN、NBIS、CIFR、WYFI、HUT 的电力、机房、融资和租赁 pipeline", "核实 IREN、SHAZ 或其他澳洲运营商是否具备匹配 Anthropic 级别需求的站点、电力和时间表", "检查这些公司是否公开提到 sovereign AI、政府相关 compute 或 frontier lab 对手方", "核实 IREN 新 AI cloud contracts 的期限、毛利、客户集中度与 ARR 口径", "核实 RIOT / Anthropic 合同范围、MW 时程、首期落地时间和租户 economics，并看 `$AMD` 的扩容如何嵌入这条 ramp", "把 $AMD-Anthropic 的供给绑定，和真正承接机房/托管/中介价值的上市公司拆开看"],
+    thesis: "Serenity 这条 neocloud / Anthropic 线现在已经不只是 sovereign-compute 泄露文件的 read-through，而开始出现公开合同和资本承诺的验证。7 月 5 日的澳洲 1.4GW、约 216 亿美元算力计划仍是地理主线的起点；但较新的几条现在已经补上四块更硬的砖：$IREN 把 ARR 目标上修到 $4B+，并点名 Microsoft、Nvidia、Perplexity、Figure 为客户；$HUT 因一笔 15 年、约 $9.8B 的 AI 数据中心 lease 获得强反馈；`$RIOT` 宣布与 Anthropic 签下约 `$9.1B`、可延展到 `$16.1B` 的 20 年合作，同时 `$AMD` 扩大了与 Riot 的既有安排；到 9 月 1 日，Serenity 又称 Anthropic 与 NVDA-backed Lambda 签下约 350 亿美元 AI compute deal。她把这组信号理解为：frontier-lab 需求正在从泄露需求地图，进一步走向具名对手方、分阶段 MW 兑现和 H2 2027 收入拐点，而且 capacity intermediary 不再只剩一家公开市场房东。",
+    whyItMatters: "这会把原来偏模糊的 Anthropic-LOI 同情交易，推进成一个更现实的问题：哪些上市 neocloud / colo 玩家，真的能把 AI compute shortage 变成可见合同、ARR、签约 MW 和融资杠杆？如果前沿模型公司和 AI 客户开始持续签多年协议，而上游芯片公司也愿意为专属产能下注，那么具备电力、站点和执行力的运营商可能不该只按 crypto beta 来定价。RIOT 的意义在于给了具名租户、阶段性时点和 AMD 扩容；最新的 Lambda datapoint 则从另一个角度强化了 scarcity thesis，因为它说明 private compute intermediary 也在锁很大的 GPU 容量。但这也提高了门槛，市场必须分清“需求真的在锁单”和“上市篮子一定是下一批受益者”不是同一件事。",
+    catalysts: ["Anthropic 正在寻求首批数据中心 leases", "据她引用，Anthropic 已与美国开发商签署十多份 LOI", "泄露文件显示 Anthropic 计划在澳洲锁定约 1.4GW、约合 216 亿美元算力", "Serenity 把这条需求与 $IREN、$SHAZ 等在澳洲建设 sovereign DC 的 neocloud 线索连接起来", "$IREN 把 ARR 目标上修到 $4B+，并点名 Microsoft、Nvidia、Perplexity、Figure 等 AI 客户", "$HUT 因 15 年、约 $9.8B 的 AI 数据中心 lease 走强", "$AMD 向 Anthropic 投资 50 亿美元、并配套 2GW 芯片协议，说明 frontier-lab 需求开始被更大规模锁定", "`$RIOT` 宣布与 Anthropic 签下约 `$9.1B`、可延展到 `$16.1B` 的 20 年合作，为这个篮子新增具名长约验证", "`$AMD` 扩大与 Riot 的既有合作，被 Serenity 视为 Anthropic 相关容量正朝 H2 2027 分阶段兑现的又一硬信号", "Serenity 称 Anthropic 又与 NVDA-backed Lambda 签下约 350 亿美元 AI compute deal，说明大规模专属算力锁定不只发生在公开市场玩家身上"],
+    risks: ["她也说明具体受益公司尚未被点名", "LOI 不等于最终 lease 或收入确认", "colo 标的受融资、电力接入和 crypto beta 影响很大", "需要区分真正的 Anthropic 交易对手和板块情绪上涨", "澳洲 1.4GW 说法来自泄露文件，仍需一手确认", "主权数据中心建设不等于上市公司一定拿到 Anthropic 或其他 frontier lab 合同", "headline ARR 或长约总额不自动等于高质量利润、现金流或高利用率", "$AMD 与 Anthropic 的交易可以验证需求，但不保证上市 neocloud 一定是主要承接方", "RIOT 这笔 headline 合同的总金额、首期时点和租户集中度，也不一定能线性外推到整个 neocloud 篮子", "Lambda 这笔单更可能先验证 private-capacity scarcity，而不是立刻给上市 neocloud 带来同等 economics"],
+    nextChecks: ["阅读 The Information 原文，看是否点名开发商或地点", "核实 IREN、NBIS、CIFR、WYFI、HUT 的电力、机房、融资和租赁 pipeline", "核实 IREN、SHAZ 或其他澳洲运营商是否具备匹配 Anthropic 级别需求的站点、电力和时间表", "检查这些公司是否公开提到 sovereign AI、政府相关 compute 或 frontier lab 对手方", "核实 IREN 新 AI cloud contracts 的期限、毛利、客户集中度与 ARR 口径", "核实 RIOT / Anthropic 合同范围、MW 时程、首期落地时间和租户 economics，并看 `$AMD` 的扩容如何嵌入这条 ramp", "核实 Lambda / Anthropic 这笔 compute deal 的范围、交付节奏，以及是否有上市机房、电力或 GPU 承接方能直接映射", "把 $AMD-Anthropic 的供给绑定，和真正承接机房/托管/中介价值的上市公司拆开看"],
   },
   "spcx-liquidity": {
     theme: "SpaceX / SPCX mega-IPO 流动性与 AI 软件可选项",
